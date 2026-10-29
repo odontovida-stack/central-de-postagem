@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel das Páginas</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f4f3ef;
+  --surface: #fcfcfb;
+  --line: #e2e0d8;
+  --grid: #ecebe5;
+  --text: #0b0b0b;
+  --text-2: #52514e;
+  --muted: #7a7974;
+  --series: #2a78d6;
+  --series-soft: rgba(42, 120, 214, .12);
+  --good: #008300;
+  --bad: #c2362f;
+  --warn: #a86a00;
+  --chip: #efeee9;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --bg: #121211;
+    --surface: #1a1a19;
+    --line: #2e2d2a;
+    --grid: #262624;
+    --text: #f0efec;
+    --text-2: #c3c2b7;
+    --muted: #8f8e86;
+    --series: #3987e5;
+    --series-soft: rgba(57, 135, 229, .18);
+    --good: #3fae3f;
+    --bad: #e66767;
+    --warn: #d9a43a;
+    --chip: #262624;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121211; --surface: #1a1a19; --line: #2e2d2a; --grid: #262624;
+  --text: #f0efec; --text-2: #c3c2b7; --muted: #8f8e86;
+  --series: #3987e5; --series-soft: rgba(57, 135, 229, .18);
+  --good: #3fae3f; --bad: #e66767; --warn: #d9a43a; --chip: #262624;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 1080px; margin: 0 auto; padding: 24px 16px 64px; display: flex; flex-direction: column; gap: 28px; }
+h1 { font-size: 28px; margin: 0; letter-spacing: -.01em; }
+h2 { font-size: 18px; margin: 0 0 12px; }
+.lede { margin: 4px 0 0; color: var(--text-2); }
+.seg { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 14px; }
+.seg button { font: inherit; font-size: 14px; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--text); cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 12px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.card .top { display: flex; justify-content: space-between; align-items: baseline; gap: 4px 8px; flex-wrap: wrap; }
+.card .nome { font-weight: 650; }
+.card .handle { color: var(--muted); font-size: 14px; }
+.big { font-size: 32px; font-weight: 650; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.delta { font-size: 14px; font-variant-numeric: tabular-nums; color: var(--text-2); }
+.delta b.up { color: var(--good); } .delta b.down { color: var(--bad); }
+.kpis { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; font-size: 13px; color: var(--text-2); }
+.kpis span b { display: block; color: var(--text); font-size: 16px; font-variant-numeric: tabular-nums; }
+.spark { position: relative; }
+.spark svg { display: block; width: 100%; height: 72px; overflow: visible; }
+.tip { position: absolute; top: -6px; transform: translate(-50%, -100%); background: var(--text); color: var(--bg); font-size: 12px; padding: 4px 8px; border-radius: 6px; white-space: nowrap; pointer-events: none; opacity: 0; transition: opacity .1s; }
+.empty { color: var(--muted); font-size: 14px; }
+table { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; font-size: 14px; }
+th, td { padding: 10px 12px; text-align: right; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; }
+th:first-child, td:first-child { text-align: left; }
+th { color: var(--text-2); font-weight: 600; }
+tr:last-child td { border-bottom: 0; }
+.tablewrap { overflow-x: auto; }
+.fila { display: flex; flex-direction: column; gap: 8px; }
+.post { display: flex; gap: 12px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 10px; }
+.post img { width: 56px; height: 70px; object-fit: cover; border-radius: 6px; flex-shrink: 0; background: var(--chip); }
+.post .info { min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.post .quando { font-variant-numeric: tabular-nums; font-weight: 600; }
+.post .leg { color: var(--text-2); font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.st { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600; padding: 2px 10px; border-radius: 999px; background: var(--chip); width: fit-content; }
+.st.publicado { color: var(--good); } .st.erro { color: var(--bad); } .st.aprovado { color: var(--series); }
+.st::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+.foot { color: var(--muted); font-size: 13px; }
+a { color: var(--series); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Painel das Páginas</h1>
+    <p class="lede" id="lede">Carregando os números…</p>
+    <div class="seg" role="group" aria-label="Período">
+      <button data-dias="7" aria-pressed="true">7 dias</button>
+      <button data-dias="30" aria-pressed="false">30 dias</button>
+      <button data-dias="0" aria-pressed="false">Tudo</button>
+    </div>
+  </header>
+
+  <section>
+    <h2>Seguidores no Instagram</h2>
+    <div class="grid" id="cards"></div>
+  </section>
+
+  <section>
+    <h2>No período</h2>
+    <div class="tablewrap"><table id="tabela"></table></div>
+  </section>
+
+  <section>
+    <h2>Fila de posts</h2>
+    <div class="seg" role="group" aria-label="Filtro da fila" id="filtroFila" style="margin: 0 0 12px">
+      <button data-f="proximos" aria-pressed="true">Próximos</button>
+      <button data-f="publicado" aria-pressed="false">Publicados</button>
+      <button data-f="erro" aria-pressed="false">Com erro</button>
+    </div>
+    <div class="fila" id="fila"><p class="empty">Carregando a fila…</p></div>
+  </section>
+
+  <p class="foot">Os números são do Instagram e são coletados todo dia às 6h23 pela Central de Postagem. A fila é atualizada a cada publicação. <a href="https://github.com/odontovida-stack/central-de-postagem">Ver no GitHub</a></p>
+</main>
+<script>
+const REPO = 'odontovida-stack/central-de-postagem';
+const fmt = n => n.toLocaleString('pt-BR');
+const dataBR = s => { const [y, m, d] = s.slice(0, 10).split('-'); return `${d}/${m}`; };
+let METRICAS = [], CONTAS = {}, POSTS = [], DIAS = 7, FILTRO = 'proximos';
+
+function pref(key, val) { try { if (val === undefined) return localStorage.getItem(key); localStorage.setItem(key, val); } catch (e) { return null; } }
+
+async function carregar() {
+  const [m, c] = await Promise.all([
+    fetch('../dados/metricas.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : []).catch(() => []),
+    fetch('../config/contas.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).catch(() => ({})),
+  ]);
+  METRICAS = m; CONTAS = c;
+  const salvo = pref('painel-dias'); if (salvo !== null) DIAS = +salvo;
+  document.querySelectorAll('[data-dias]').forEach(b => b.setAttribute('aria-pressed', +b.dataset.dias === DIAS));
+  desenhar();
+  carregarFila();
+}
+
+function serie(nome) {
+  return METRICAS.filter(l => l.pagina === nome).sort((a, b) => a.data.localeCompare(b.data));
+}
+
+function recorte(linhas) {
+  if (!DIAS || !linhas.length) return linhas;
+  const ult = new Date(linhas[linhas.length - 1].data);
+  const ini = new Date(ult); ini.setDate(ini.getDate() - DIAS + 1);
+  return linhas.filter(l => new Date(l.data) >= ini);
+}
+
+function sparkline(pts) {
+  if (pts.length < 2) return '<p class="empty">O gráfico aparece a partir do 2º dia de coleta.</p>';
+  const W = 300, H = 72, vals = pts.map(p => p.seguidores);
+  let lo = Math.min(...vals), hi = Math.max(...vals); if (hi === lo) { hi += 1; lo = Math.max(0, lo - 1); }
+  const x = i => (i / (pts.length - 1)) * W, y = v => H - 4 - ((v - lo) / (hi - lo)) * (H - 8);
+  const d = pts.map((p, i) => `${i ? 'L' : 'M'}${x(i).toFixed(1)} ${y(p.seguidores).toFixed(1)}`).join(' ');
+  const area = `${d} L${W} ${H} L0 ${H} Z`;
+  const json = encodeURIComponent(JSON.stringify(pts.map(p => [p.data, p.seguidores])));
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Seguidores de ${dataBR(pts[0].data)} a ${dataBR(pts[pts.length - 1].data)}" data-pts="${json}">
+    <line x1="0" x2="${W}" y1="${H}" y2="${H}" stroke="var(--grid)" stroke-width="1"/>
+    <path d="${area}" fill="var(--series-soft)"/>
+    <path d="${d}" fill="none" stroke="var(--series)" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linejoin="round" stroke-linecap="round"/>
+    <line class="cross" x1="0" x2="0" y1="0" y2="${H}" stroke="var(--muted)" stroke-width="1" vector-effect="non-scaling-stroke" opacity="0"/>
+    <circle class="dot" r="4" fill="var(--series)" stroke="var(--surface)" stroke-width="2" vector-effect="non-scaling-stroke" opacity="0"/>
+  </svg><div class="tip"></div>`;
+}
+
+function ligarHover(box) {
+  const svg = box.querySelector('svg'); if (!svg) return;
+  const pts = JSON.parse(decodeURIComponent(svg.dataset.pts));
+  const tip = box.querySelector('.tip'), cross = svg.querySelector('.cross'), dot = svg.querySelector('.dot');
+  const vals = pts.map(p => p[1]); let lo = Math.min(...vals), hi = Math.max(...vals); if (hi === lo) { hi += 1; lo = Math.max(0, lo - 1); }
+  const mover = ev => {
+    const r = svg.getBoundingClientRect();
+    const i = Math.round(Math.max(0, Math.min(1, (ev.clientX - r.left) / r.width)) * (pts.length - 1));
+    const px = (i / (pts.length - 1)) * 300, py = 72 - 4 - ((pts[i][1] - lo) / (hi - lo)) * 64;
+    cross.setAttribute('x1', px); cross.setAttribute('x2', px); cross.setAttribute('opacity', 1);
+    dot.setAttribute('cx', px); dot.setAttribute('cy', py); dot.setAttribute('opacity', 1);
+    tip.textContent = `${dataBR(pts[i][0])}: ${fmt(pts[i][1])} seguidores`;
+    tip.style.left = `${(px / 300) * r.width}px`; tip.style.opacity = 1;
+  };
+  const sair = () => { cross.setAttribute('opacity', 0); dot.setAttribute('opacity', 0); tip.style.opacity = 0; };
+  svg.addEventListener('pointermove', mover); svg.addEventListener('pointerdown', mover); svg.addEventListener('pointerleave', sair);
+}
+
+function soma(linhas, k) { return linhas.reduce((s, l) => s + (l[k] || 0), 0); }
+
+function desenhar() {
+  const cards = document.getElementById('cards'), tab = document.getElementById('tabela');
+  const contas = Object.entries(CONTAS);
+  const ultima = METRICAS.map(l => l.data).sort().pop();
+  document.getElementById('lede').textContent = ultima
+    ? `${contas.length} páginas · números até ${dataBR(ultima)}`
+    : `${contas.length} páginas · a primeira coleta de números sai no dia seguinte à estreia das páginas.`;
+  cards.innerHTML = ''; let linhasTab = '';
+  for (const [chave, cfg] of contas) {
+    const todas = serie(cfg.nome), pts = recorte(todas);
+    const atual = pts.length ? pts[pts.length - 1].seguidores : null;
+    const ini = pts.length ? pts[0].seguidores : null;
+    const dif = atual !== null ? atual - ini : null;
+    const alc = soma(pts, 'alcance'), inter = soma(pts, 'curtidas') + soma(pts, 'comentarios') + soma(pts, 'compartilhamentos') + soma(pts, 'salvamentos');
+    const posts = soma(pts, 'posts'), cliques = soma(pts, 'cliques_link');
+    const el = document.createElement('article'); el.className = 'card';
+    el.innerHTML = `<div class="top"><span class="nome">${cfg.nome.replace(/^@/, '')}</span><span class="handle">@${cfg.instagram_username}</span></div>
+      <div class="big">${atual === null ? '—' : fmt(atual)}</div>
+      <div class="delta">${dif === null ? 'sem dados ainda' : `<b class="${dif > 0 ? 'up' : dif < 0 ? 'down' : ''}">${dif > 0 ? '+' : ''}${fmt(dif)}</b> no período`}</div>
+      <div class="spark">${sparkline(pts)}</div>
+      <div class="kpis"><span>Alcance<b>${fmt(alc)}</b></span><span>Interações<b>${fmt(inter)}</b></span><span>Posts<b>${fmt(posts)}</b></span></div>`;
+    cards.appendChild(el); ligarHover(el.querySelector('.spark'));
+    linhasTab += `<tr><td>${cfg.nome.replace(/^@/, '')}</td><td>${atual === null ? '—' : fmt(atual)}</td><td>${dif === null ? '—' : (dif > 0 ? '+' : '') + fmt(dif)}</td><td>${fmt(alc)}</td><td>${fmt(inter)}</td><td>${fmt(cliques)}</td><td>${fmt(posts)}</td></tr>`;
+  }
+  tab.innerHTML = `<thead><tr><th>Página</th><th>Seguidores</th><th>Novos</th><th>Alcance</th><th>Interações</th><th>Cliques no link</th><th>Posts</th></tr></thead><tbody>${linhasTab}</tbody>`;
+}
+
+async function carregarFila() {
+  const box = document.getElementById('fila');
+  try {
+    const lista = await fetch(`https://api.github.com/repos/${REPO}/contents/fila`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+    const pastas = lista.filter(i => i.type === 'dir').map(i => i.name);
+    POSTS = (await Promise.all(pastas.map(async p => {
+      try { const j = await fetch(`../fila/${p}/post.json`, { cache: 'no-store' }).then(r => r.json()); return { pasta: p, ...j }; } catch (e) { return null; }
+    }))).filter(Boolean);
+    desenharFila();
+  } catch (e) {
+    box.innerHTML = '<p class="empty">Não deu para carregar a fila agora. Tente de novo em alguns minutos.</p>';
+  }
+}
+
+function desenharFila() {
+  const box = document.getElementById('fila');
+  const nome = c => (CONTAS[c] && CONTAS[c].nome || c).replace(/^@/, '');
+  let ps = POSTS;
+  if (FILTRO === 'proximos') ps = ps.filter(p => p.status !== 'publicado' && p.status !== 'erro').sort((a, b) => a.quando.localeCompare(b.quando));
+  else ps = ps.filter(p => p.status === FILTRO).sort((a, b) => b.quando.localeCompare(a.quando));
+  if (!ps.length) { box.innerHTML = `<p class="empty">${FILTRO === 'erro' ? 'Nenhum post com erro.' : FILTRO === 'publicado' ? 'Nenhum post publicado ainda.' : 'A fila está vazia: aprove um pull request para encher.'}</p>`; return; }
+  box.innerHTML = ps.slice(0, 40).map(p => {
+    const q = new Date(p.quando);
+    const quando = q.toLocaleString('pt-BR', { weekday: 'short', day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit', timeZone: 'America/Sao_Paulo' });
+    const leg = (p.legenda || '').split('\n')[0];
+    const st = p.status === 'erro' ? `erro: ${(p.erro || '').slice(0, 80)}` : p.status;
+    return `<div class="post"><img loading="lazy" alt="" src="../fila/${p.pasta}/${(p.midias || [])[0] || '01.jpg'}"><div class="info"><span class="quando">${quando} · ${nome(p.conta)}</span><span class="leg">${leg.replace(/</g, '&lt;')}</span><span class="st ${p.status}">${st}</span></div></div>`;
+  }).join('');
+}
+
+document.querySelectorAll('[data-dias]').forEach(b => b.addEventListener('click', () => {
+  DIAS = +b.dataset.dias; pref('painel-dias', DIAS);
+  document.querySelectorAll('[data-dias]').forEach(x => x.setAttribute('aria-pressed', x === b)); desenhar();
+}));
+document.querySelectorAll('[data-f]').forEach(b => b.addEventListener('click', () => {
+  FILTRO = b.dataset.f; document.querySelectorAll('[data-f]').forEach(x => x.setAttribute('aria-pressed', x === b)); desenharFila();
+}));
+carregar();
+</script>
+</body>
+</html>

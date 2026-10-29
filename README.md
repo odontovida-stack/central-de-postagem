@@ -9,7 +9,7 @@ Roda de graça no **GitHub Actions**. Você aprova cada post pelo app do GitHub 
 1. **O post chega na fila.** Cada post é uma pasta em `fila/` com as imagens (JPEG) e um `post.json` com conta, legenda, redes e horário. O Claude cria essas pastas e abre um *pull request*.
 2. **Você aprova pelo celular.** No app do GitHub, abra o pull request, veja as imagens e a legenda e toque em **Merge**. O post fica com `"status": "aprovado"`.
 3. **Ele sai na hora marcada.** A cada 30 minutos o GitHub roda `scripts/publicar.py`. Ele publica os posts aprovados cujo horário já chegou e grava o resultado no próprio `post.json`.
-4. **Os números entram no painel.** Todo dia às 6:23, `scripts/coletar_metricas.py` grava os números de ontem em `dados/metricas.json`, que alimenta o Painel de Crescimento das Páginas.
+4. **Os números entram no painel.** Todo dia às 6:23, `scripts/coletar_metricas.py` grava os números de ontem em `dados/metricas.json`. O **Painel das Páginas** (`painel/index.html`, publicado em https://odontovida-stack.github.io/central-de-postagem/painel/) mostra seguidores, alcance e interações de cada conta e a fila de posts. Ele se atualiza sozinho.
 
 Se algo der errado, o post fica com `"status": "erro"` e a mensagem do problema, e o GitHub manda um e-mail avisando. Nada é publicado duas vezes.
 
