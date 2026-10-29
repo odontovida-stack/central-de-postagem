@@ -1,10 +1,19 @@
 {
-  "quando": "2026-10-29T20:15:14+00:00",
+  "quando": "2026-10-29T20:33:01+00:00",
   "contas": {
     "brasil2359": {
-      "instagram_perfil": "ERRO GET : Unsupported get request. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (código 100)",
-      "facebook_token_da_pagina": "usando o token do usuário do sistema",
-      "facebook_pagina": "ERRO GET : Unsupported get request. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (código 100)",
+      "instagram_perfil": {
+        "id": "17841414533433152",
+        "followers_count": 0,
+        "media_count": 0,
+        "username": "brasil.2359"
+      },
+      "facebook_token_da_pagina": "OK",
+      "facebook_pagina": {
+        "name": "Brasil 23:59",
+        "followers_count": 0,
+        "id": "1340041825868177"
+      },
       "permissoes": [
         "business_management",
         "instagram_basic",
