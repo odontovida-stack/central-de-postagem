@@ -1,0 +1,32 @@
+name: Coletar números do dia
+
+on:
+  schedule:
+    - cron: "23 9 * * *"   # todo dia às 6:23 de Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Coletar
+        env:
+          GRAPH_VERSION: ${{ vars.GRAPH_VERSION || 'v23.0' }}
+          DATA_INICIO: ${{ vars.DATA_INICIO || '2026-11-02' }}
+          TOKEN_BRASIL2359: ${{ secrets.TOKEN_BRASIL2359 }}
+          TOKEN_BRAZILONABUDGET: ${{ secrets.TOKEN_BRAZILONABUDGET }}
+          TOKEN_LLSHOP: ${{ secrets.TOKEN_LLSHOP }}
+        run: python scripts/coletar_metricas.py
+      - name: Gravar
+        run: |
+          git config user.name "central-de-postagem"
+          git config user.email "actions@users.noreply.github.com"
+          git add dados
+          git diff --cached --quiet || (git commit -m "Números de $(date -u +%F)" && git push)

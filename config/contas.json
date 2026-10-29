@@ -1,0 +1,51 @@
+{
+  "brasil2359": {
+    "nome": "Brasil 23:59",
+    "instagram_username": "brasil2359",
+    "instagram_user_id": "",
+    "facebook_page_id": "",
+    "token_secret": "TOKEN_BRASIL2359"
+  },
+  "brazilonabudget": {
+    "nome": "Brazil on a Budget",
+    "instagram_username": "brazil.onabudget",
+    "instagram_user_id": "",
+    "facebook_page_id": "",
+    "token_secret": "TOKEN_BRAZILONABUDGET"
+  },
+  "jogosnatela": {
+    "nome": "@jogosnatela",
+    "instagram_username": "jogosnatela",
+    "instagram_user_id": "",
+    "facebook_page_id": "",
+    "token_secret": "TOKEN_LLSHOP"
+  },
+  "tudooqueestreia": {
+    "nome": "@tudooqueestreia",
+    "instagram_username": "tudooqueestreia",
+    "instagram_user_id": "",
+    "facebook_page_id": "",
+    "token_secret": "TOKEN_LLSHOP"
+  },
+  "esportesnatela": {
+    "nome": "@esportesnatela",
+    "instagram_username": "esportesnatela",
+    "instagram_user_id": "",
+    "facebook_page_id": "",
+    "token_secret": "TOKEN_LLSHOP"
+  },
+  "lancamentosdegames": {
+    "nome": "@lancamentosdegames",
+    "instagram_username": "lancamentosdegames",
+    "instagram_user_id": "",
+    "facebook_page_id": "",
+    "token_secret": "TOKEN_LLSHOP"
+  },
+  "showsconfirmados": {
+    "nome": "@showsconfirmados",
+    "instagram_username": "showsconfirmados",
+    "instagram_user_id": "",
+    "facebook_page_id": "",
+    "token_secret": "TOKEN_LLSHOP"
+  }
+}
