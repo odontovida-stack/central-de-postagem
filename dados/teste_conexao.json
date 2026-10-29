@@ -1,0 +1,30 @@
+{
+  "quando": "2026-10-29T19:27:35+00:00",
+  "contas": {
+    "brazilonabudget": {
+      "instagram_perfil": {
+        "id": "17841446955704566",
+        "followers_count": 0,
+        "media_count": 0,
+        "username": "brazil.onabudget"
+      },
+      "instagram_preparar_imagem": "OK (preparada e descartada, nada foi publicado)",
+      "facebook_token_da_pagina": "OK",
+      "facebook_pagina": {
+        "name": "Brazil on a Budget",
+        "followers_count": 0,
+        "id": "1539525865901774"
+      },
+      "permissoes": [
+        "business_management",
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_insights",
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list",
+        "public_profile"
+      ]
+    }
+  }
+}
