@@ -52,7 +52,7 @@ Antes de aprovar, o GitHub confere sozinho cada post (`scripts/validar.py`): for
 1. Crie o repositório **central-de-postagem** e suba esta pasta.
    O repositório precisa ser **público** para o Instagram conseguir baixar as imagens. Ali só ficam posts que vão ser públicos de qualquer jeito, e os tokens ficam guardados como *Secrets*, que ninguém vê.
 2. Em **Settings → Secrets and variables → Actions → Secrets**, crie:
-   `TOKEN_BRASIL2359`, `TOKEN_BRAZILONABUDGET`, `TOKEN_LLSHOP` (pode ser o mesmo token do usuário do sistema nos três).
+   `TOKEN_BRAZILONABUDGET`: o token do usuário do sistema **central-postagem** (portfólio Brazil on a Budget). Ele publica em todas as contas: os outros portfólios compartilham a Página e o Instagram com o portfólio Brazil on a Budget (Configurações › Parceiros) e os ativos compartilhados são atribuídos ao usuário do sistema. Não precisa de token novo.
 3. Em **Variables** (opcional): `GRAPH_VERSION` (versão da API, padrão `v23.0`) e `DATA_INICIO` (primeiro dia das páginas, padrão `2026-11-02`).
 4. Instale o app **GitHub** no celular e ative as notificações de pull request.
 
