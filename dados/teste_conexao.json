@@ -1,6 +1,21 @@
 {
-  "quando": "2026-10-29T19:27:35+00:00",
+  "quando": "2026-10-29T20:15:14+00:00",
   "contas": {
+    "brasil2359": {
+      "instagram_perfil": "ERRO GET : Unsupported get request. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (código 100)",
+      "facebook_token_da_pagina": "usando o token do usuário do sistema",
+      "facebook_pagina": "ERRO GET : Unsupported get request. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (código 100)",
+      "permissoes": [
+        "business_management",
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_insights",
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list",
+        "public_profile"
+      ]
+    },
     "brazilonabudget": {
       "instagram_perfil": {
         "id": "17841446955704566",
@@ -14,6 +29,126 @@
         "name": "Brazil on a Budget",
         "followers_count": 0,
         "id": "1539525865901774"
+      },
+      "permissoes": [
+        "business_management",
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_insights",
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list",
+        "public_profile"
+      ]
+    },
+    "jogosnatela": {
+      "instagram_perfil": {
+        "id": "17841436210817201",
+        "followers_count": 0,
+        "media_count": 8,
+        "username": "jogosnatela"
+      },
+      "facebook_token_da_pagina": "OK",
+      "facebook_pagina": {
+        "name": "Jogos na Tela",
+        "followers_count": 0,
+        "id": "1142393848963140"
+      },
+      "permissoes": [
+        "business_management",
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_insights",
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list",
+        "public_profile"
+      ]
+    },
+    "tudooqueestreia": {
+      "instagram_perfil": {
+        "id": "17841449271064646",
+        "followers_count": 1,
+        "media_count": 1,
+        "username": "tudooqueestreia"
+      },
+      "facebook_token_da_pagina": "OK",
+      "facebook_pagina": {
+        "name": "Tudo o Que Estreia",
+        "followers_count": 0,
+        "id": "1126954220509063"
+      },
+      "permissoes": [
+        "business_management",
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_insights",
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list",
+        "public_profile"
+      ]
+    },
+    "esportesnatela": {
+      "instagram_perfil": {
+        "id": "17841434766378429",
+        "followers_count": 0,
+        "media_count": 0,
+        "username": "esportesnatela"
+      },
+      "facebook_token_da_pagina": "OK",
+      "facebook_pagina": {
+        "name": "Esportes na Tela",
+        "followers_count": 0,
+        "id": "1208306652358113"
+      },
+      "permissoes": [
+        "business_management",
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_insights",
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list",
+        "public_profile"
+      ]
+    },
+    "lancamentosdegames": {
+      "instagram_perfil": {
+        "id": "17841436201733983",
+        "followers_count": 0,
+        "media_count": 0,
+        "username": "lancamentosdegames"
+      },
+      "facebook_token_da_pagina": "OK",
+      "facebook_pagina": {
+        "name": "Lançamentos de Games",
+        "followers_count": 0,
+        "id": "1155011061031746"
+      },
+      "permissoes": [
+        "business_management",
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_insights",
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list",
+        "public_profile"
+      ]
+    },
+    "showsconfirmados": {
+      "instagram_perfil": {
+        "id": "17841433990816363",
+        "followers_count": 0,
+        "media_count": 0,
+        "username": "showsconfirmados"
+      },
+      "facebook_token_da_pagina": "OK",
+      "facebook_pagina": {
+        "name": "Shows Confirmados",
+        "followers_count": 0,
+        "id": "1198133490049538"
       },
       "permissoes": [
         "business_management",
