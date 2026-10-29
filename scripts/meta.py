@@ -101,8 +101,18 @@ def ig_publish(ig_user_id, token, kind, media_urls, caption, alt_texts=None):
 
 # ---------- Facebook (Página) ----------
 
+def page_token(page_id, token):
+    """Troca o token do usuário do sistema pelo token da própria Página (necessário para postar como a Página)."""
+    try:
+        t = get(page_id, token, fields="access_token").get("access_token")
+    except MetaError:
+        t = None
+    return t or token
+
+
 def fb_publish(page_id, token, kind, media_urls, caption):
     """Publica na Página do Facebook. Fotos: uma ou várias no mesmo post."""
+    token = page_token(page_id, token)
     if kind == "reels":
         return post(f"{page_id}/videos", token, file_url=media_urls[0], description=caption)["id"]
     if len(media_urls) == 1:
