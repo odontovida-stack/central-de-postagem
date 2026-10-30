@@ -318,7 +318,7 @@ Washington saw the cycle coming 230 years ago. Now you know how it works.
 
 [VISUAL: FILE #003 teaser — black screen, red stamp "FILE #003", archival photo of Baghdad, 2003. Text: "May 2003 — CPA Orders 1 & 2" → "June 2014 — ISIS declares a caliphate"]
 
-🔁 RETENTION: Next time: in May 2003, the U.S.-led occupation authority in Iraq signed two orders. One purged members of Saddam Hussein's party from public jobs. The other dissolved the Iraqi army — putting hundreds of thousands of trained, armed men out of work. President George W. Bush later wrote in his memoir that many of them joined the insurgency instead of the new army. Eleven years after those orders, a group called ISIS declared a caliphate. How did we get from one to the other?
+🔁 RETENTION: Next time: in May 2003, the U.S.-led occupation authority in Iraq signed two orders. One purged members of Saddam Hussein's party from public jobs. The other dissolved the Iraqi army — putting hundreds of thousands of trained, armed men out of work. President George W. Bush later said the policy had been to keep the army intact. Eleven years after those orders, a group called ISIS declared a caliphate. How did we get from one to the other?
 
 [VISUAL: End card: "FILE #002 — CLOSED" | Subscribe button | "Next: FILE #003"]
 
