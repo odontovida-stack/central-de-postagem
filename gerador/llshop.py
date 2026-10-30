@@ -56,11 +56,31 @@ def rodape(fonte, cta):
 </div>'''
 
 
-def moldura(miolo):
+BANCO = RAIZ / "fotos" / "banco"
+
+
+def foto_info(nome):
+    """Dados da foto do banco (fotos/banco/<nome>.jpg + .json). Erro claro se ainda não foi baixada."""
+    jpg, meta = BANCO / f"{nome}.jpg", BANCO / f"{nome}.json"
+    if not jpg.exists() or not meta.exists():
+        raise SystemExit(f"Foto '{nome}' não está no banco. Peça em fotos/pedidos.json e espere o robô de fotos.")
+    return jpg, json.loads(meta.read_text(encoding="utf-8"))
+
+
+def moldura(miolo, card=None):
+    fundo, credito = BG, ""
+    if card and card.get("foto"):
+        jpg, info = foto_info(card["foto"])
+        # camada escura forte: o texto fica legível em qualquer foto
+        fundo = (f"linear-gradient(180deg, rgba(15,17,21,0.80) 0%, rgba(15,17,21,0.55) 28%, rgba(15,17,21,0.70) 55%, "
+                 f"rgba(15,17,21,0.94) 100%), url('{jpg.as_uri()}') center / cover no-repeat {BG}")
+        credito = (f'<span style="position: absolute; right: 80px; bottom: 30px; font-size: 20px; color: {MUTED}">'
+                   f'{e(info["credito"])} · Wikimedia Commons</span>')
     return f'''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>{fontes_css()}
 body{{margin:0}}</style></head><body>
-<div id="card" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 72px 80px; background: {BG}; color: {FG}; font-family: 'Barlow', sans-serif; display: flex; flex-direction: column; gap: 36px">
+<div id="card" style="position: relative; width: 1080px; height: 1350px; box-sizing: border-box; padding: 72px 80px; background: {fundo}; color: {FG}; font-family: 'Barlow', sans-serif; display: flex; flex-direction: column; gap: 36px">
 {miolo}
+{credito}
 </div></body></html>'''
 
 
@@ -81,7 +101,7 @@ def agenda(conta, card):
 {"".join(linhas)}
 </div>
 {rodape(card["fonte"], card["cta"])}'''
-    return moldura(miolo)
+    return moldura(miolo, card)
 
 
 def destaque(conta, card):
@@ -104,7 +124,7 @@ def destaque(conta, card):
 {chr(10).join(partes)}
 </div>
 {rodape(card["fonte"], card["cta"])}'''
-    return moldura(miolo)
+    return moldura(miolo, card)
 
 
 def pergunta(conta, card):
@@ -125,7 +145,7 @@ def pergunta(conta, card):
 {chr(10).join(partes)}
 </div>
 {rodape(card.get("fonte", ""), card.get("cta", "Responda nos comentários"))}'''
-    return moldura(miolo)
+    return moldura(miolo, card)
 
 
 def texto(conta, card):
@@ -146,7 +166,7 @@ def texto(conta, card):
 {chr(10).join(partes)}
 </div>
 {rodape(card.get("fonte", ""), card.get("cta", "Arraste →"))}'''
-    return moldura(miolo)
+    return moldura(miolo, card)
 
 
 def renderizar(trabalhos):
@@ -184,7 +204,7 @@ def main():
             if card.get("sufixo"):
                 nome += "-" + card["sufixo"]
             pasta = (RAIZ / "previa" / pauta_arq.stem) if previa else (RAIZ / "fila" / nome)
-            midias, alts = [], []
+            midias, alts, creditos = [], [], []
             for i, sub in enumerate(subcards, 1):
                 htm = {"agenda": agenda, "destaque": destaque, "pergunta": pergunta, "texto": texto}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
@@ -192,12 +212,19 @@ def main():
                 trabalhos.append((htm, img))
                 midias.append(arq)
                 alts.append(sub.get("alt") or f'{sub["chamada"]}: {sub["titulo"]}')
+                if sub.get("foto"):
+                    c = foto_info(sub["foto"])[1]["credito"] + ", Wikimedia Commons"
+                    if c not in creditos:
+                        creditos.append(c)
             if card.get("alt") and len(subcards) == 1:
                 alts = [card["alt"]]
             if not previa:
-                posts.append((pasta, conta, card, midias, alts))
+                posts.append((pasta, conta, card, midias, alts, creditos))
     renderizar(trabalhos)
-    for pasta, conta, card, midias, alts in posts:
+    for pasta, conta, card, midias, alts, creditos in posts:
+        legenda = card["legenda"]
+        if creditos:
+            legenda += "\n\n📷 " + " | ".join(creditos)
         post = {
             "conta": conta,
             "tipo": "carrossel" if len(midias) > 1 else "imagem",
@@ -206,7 +233,7 @@ def main():
             "status": "aprovado",
             "midias": midias,
             "textos_alternativos": alts,
-            "legenda": card["legenda"],
+            "legenda": legenda,
         }
         (pasta / "post.json").write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     for _, img in trabalhos:

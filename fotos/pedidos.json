@@ -65,5 +65,45 @@
     "nome": "paraty-ruas",
     "busca": "Paraty historic center colonial street",
     "opcao": 1
+  },
+  {
+    "nome": "estadio-maracana",
+    "busca": "Maracanã stadium interior",
+    "opcao": 1
+  },
+  {
+    "nome": "futebol-gramado",
+    "busca": "football ball grass stadium",
+    "opcao": 1
+  },
+  {
+    "nome": "show-plateia",
+    "busca": "concert crowd stage lights",
+    "opcao": 1
+  },
+  {
+    "nome": "cinema-sala",
+    "busca": "cinema auditorium seats screen",
+    "opcao": 1
+  },
+  {
+    "nome": "game-controle",
+    "busca": "video game controller",
+    "opcao": 1
+  },
+  {
+    "nome": "basquete-quadra",
+    "busca": "basketball court arena",
+    "opcao": 1
+  },
+  {
+    "nome": "formula1-pista",
+    "busca": "Interlagos circuit",
+    "opcao": 1
+  },
+  {
+    "nome": "streaming-sofa",
+    "busca": "television living room watching",
+    "opcao": 1
   }
 ]
