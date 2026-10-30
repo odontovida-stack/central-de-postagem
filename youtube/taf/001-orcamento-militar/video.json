@@ -80,5 +80,6 @@
     48,
     49
   ],
-  "_como_aprovar": "Preencha 'voz' com o Voice ID do ElevenLabs (ou ponha os MP3 em audio/) e troque status para 'aprovado'. O merge do PR dispara o robô."
+  "_como_aprovar": "Preencha 'voz' com o Voice ID do ElevenLabs (ou ponha os MP3 em audio/) e troque status para 'aprovado'. O merge do PR dispara o robô.",
+  "status_montagem": "montado, aguardando chaves do YouTube"
 }
