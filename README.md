@@ -123,3 +123,21 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 | @showsconfirmados | Shows da semana ou do mês | Segunda, 19h |
 | @tudooqueestreia | Estreias da semana (sexta a quinta) | Sexta, 9h |
 | Todas | Destaques | 18h, de terça a sábado |
+
+## Fotos e engajamento (combinado em 29/10/2026)
+
+### Fotos de fundo
+- O robô de fotos (`.github/workflows/fotos.yml`) baixa fotos de licença livre (Wikimedia Commons, CC0/CC BY/CC BY-SA) pedidas em `fotos/pedidos.json` e grava `fotos/banco/<nome>.jpg` + `.json` (autor, licença, crédito). O log da última busca fica em `fotos/ultimo-log.txt`.
+- Nos cards LLShop, qualquer card aceita `"foto": "<nome>"`. O gerador põe a foto com camada escura, escreve o crédito no canto do card e acrescenta "📷 Foto: autor · licença, Wikimedia Commons" no fim da legenda.
+- Fotos disponíveis para as páginas LLShop: `estadio-maracana`, `futebol-gramado`, `basquete-quadra`, `formula1-pista`, `show-plateia`, `cinema-sala`, `streaming-sofa`, `game-controle` (veja a lista atual em `fotos/banco/`).
+- Use foto só em capa de carrossel, destaque e pergunta. Agenda fica sem foto (é muito texto).
+- Só cenas genéricas: estádio, quadra, pista, plateia, sala de cinema, controle. NUNCA foto de pessoa famosa (atleta, artista, ator), escudo, logo, pôster, capa de jogo ou print de filme.
+- Precisa de foto nova? Acrescente o pedido em `fotos/pedidos.json` (o robô roda sozinho quando o arquivo muda) e, nesse dia, faça o card sem foto.
+
+### Táticas de engajamento
+1. Todo carrossel termina sozinho com o slide "Esse post pode não aparecer de novo" (siga · ative as notificações · salve e mande). Para desligar num carrossel: `"sem_seguir": true`.
+2. Capa com promessa e número: "5 jogos grátis para resgatar até quinta", "Os 4 shows esgotados de novembro".
+3. O slide 2 já entrega a informação principal. Nada de enrolação antes do conteúdo.
+4. Legenda em 4 partes: 1ª linha com o gancho, depois a informação, depois "📌 Salve para não esquecer" e "📤 Mande para quem <torce/joga/vai ao show> com você", e por fim a pergunta para os comentários e as hashtags.
+5. Responder os comentários na primeira hora ajuda o alcance. Na legenda, faça uma pergunta fácil de responder com uma palavra ou letra (A, B, C).
+6. Séries com nome fixo ("O JOGO DA SEMANA", "O GRÁTIS DA SEMANA") criam hábito: mantenha sempre o mesmo nome e dia.
