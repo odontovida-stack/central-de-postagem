@@ -1,6 +1,6 @@
 {
   "canal": "taf",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "The US Military Budget: $1 Trillion a Year — More Than the Next 6 Countries Combined",
   "quando": "2026-11-03T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -81,5 +81,8 @@
     49
   ],
   "_como_aprovar": "Preencha 'voz' com o Voice ID do ElevenLabs (ou ponha os MP3 em audio/) e troque status para 'aprovado'. O merge do PR dispara o robô.",
-  "status_montagem": "montado, aguardando chaves do YouTube"
+  "status_montagem": "enviado 2026-10-30 (privado, agendado); thumbnail recusada (403)",
+  "video_id": "usZZr1AAi4A",
+  "short_id": "K1_gVvvPcZw",
+  "thumbnail": false
 }

@@ -73,14 +73,18 @@ def rodar(*args):
     subprocess.run([str(a) for a in args], check=True)
 
 
+def fazer_thumb(pasta, out):
+    rodar(sys.executable, GER / "slides.py", pasta / "thumb.json", out / "thumb")
+    from PIL import Image
+    Image.open(out / "thumb" / "001.png").convert("RGB").resize((1280, 720), Image.LANCZOS).save(out / "thumbnail.jpg", quality=92)
+
+
 def montar(pasta, cfg):
     out = SAIDA / pasta.parent.name / pasta.name
     out.mkdir(parents=True, exist_ok=True)
     os.environ["TEMA_SLIDES"] = cfg.get("tema", cfg["canal"])
     rodar(sys.executable, GER / "slides.py", pasta / "slides.json", out / "slides")
-    rodar(sys.executable, GER / "slides.py", pasta / "thumb.json", out / "thumb")
-    from PIL import Image
-    Image.open(out / "thumb" / "001.png").convert("RGB").resize((1280, 720), Image.LANCZOS).save(out / "thumbnail.jpg", quality=92)
+    fazer_thumb(pasta, out)
     blocos = json.loads((pasta / "narracao.json").read_text(encoding="utf-8"))
     aud = out / "audio-longo"
     aud.mkdir(exist_ok=True)
@@ -178,6 +182,18 @@ def main():
     for arq in sorted(RAIZ.glob("youtube/*/*/video.json")):
         pasta = arq.parent
         cfg = json.loads(arq.read_text(encoding="utf-8"))
+        if cfg.get("video_id") and cfg.get("thumbnail") is False and not sem_envio:
+            # já enviado, mas a thumbnail foi recusada (canal sem verificação por telefone): tenta de novo
+            token = token_youtube(cfg["canal"])
+            if token:
+                out = SAIDA / pasta.parent.name / pasta.name
+                out.mkdir(parents=True, exist_ok=True)
+                os.environ["TEMA_SLIDES"] = cfg.get("tema", cfg["canal"])
+                fazer_thumb(pasta, out)
+                if por_thumbnail(token, cfg["video_id"], out / "thumbnail.jpg"):
+                    cfg["thumbnail"] = True
+                    arq.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            continue
         if cfg.get("status") != "aprovado" or cfg.get("video_id"):
             continue
         print(f"== {pasta.relative_to(RAIZ)}")
