@@ -1,0 +1,758 @@
+[
+ {
+  "tipo": "capitulo",
+  "numero": "SUNDAY, MAY 26, 1940",
+  "titulo": "London.",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE ENGLISH CHANNEL · THE FRENCH COAST · MAY 26, 1940",
+  "valor": "Dunkirk, France",
+  "px": 200,
+  "texto": "The British Army falls back toward the beaches and the harbor.",
+  "file": "003"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "FOREIGN SECRETARY",
+    "Viscount Halifax",
+    "wants to ask Mussolini what Hitler's terms might be"
+   ],
+   [
+    "PRIME MINISTER SINCE MAY 10, 1940",
+    "Winston Churchill",
+    "the man across the table"
+   ]
+  ],
+  "px": 74,
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CHURCHILL AS PRIME MINISTER, MAY 26, 1940",
+  "valor": "16 days",
+  "px": 300,
+  "texto": "In the job.",
+  "file": "003"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "THE ARGUMENT",
+    "3 days",
+    "May 26–28, 1940"
+   ],
+   [
+    "THE WAR CABINET",
+    "9 meetings",
+    "behind closed doors"
+   ],
+   [
+    "THE OFFICIAL RECORD",
+    "~30 years",
+    "closed"
+   ]
+  ],
+  "px": 76,
+  "file": "003"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "Before History Changed",
+  "sub": "#003 — Three Days in May. Every story has a before.",
+  "px": 150,
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "VISCOUNT HALIFAX · 1881–1959",
+  "valor": "Edward Wood",
+  "px": 200,
+  "texto": "Foreign Secretary, Feb. 1938 – Dec. 1940. Former Viceroy of India.",
+  "parte": "PART 2",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CHURCHILL'S NICKNAME FOR HALIFAX",
+  "valor": "THE HOLY FOX",
+  "px": 190,
+  "texto": "Per biographer Andrew Roberts.",
+  "parte": "PART 2",
+  "file": "003"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Spring 1940",
+  "marcos": [
+   [
+    "Apr.–May",
+    "Norway campaign fails"
+   ],
+   [
+    "May 9",
+    "The meeting"
+   ],
+   [
+    "May 10",
+    "Germany attacks in the West · Churchill becomes PM"
+   ]
+  ],
+  "parte": "PART 2",
+  "file": "003"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "May 9, 1940",
+  "itens": [
+   "Neville Chamberlain",
+   "Lord Halifax",
+   "Winston Churchill",
+   "David Margesson, Chief Whip"
+  ],
+  "fonte": "Accounts vary (The National Archives)",
+  "parte": "PART 2",
+  "file": "003"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Accounts vary",
+  "itens": [
+   [
+    "IN CHURCHILL'S TELLING",
+    "A peer",
+    "Halifax ruled himself out: he sat in the House of Lords"
+   ],
+   [
+    "THE U.K. GOVERNMENT'S HISTORY PAGE",
+    "A judgment",
+    "Halifax judged Churchill would make the better war leader"
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 2",
+  "file": "003"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "May 10, 1940",
+  "itens": [
+   [
+    "DAWN",
+    "Invasion",
+    "Germany invades the Low Countries and France"
+   ],
+   [
+    "EVENING",
+    "Churchill, 65",
+    "becomes Prime Minister"
+   ]
+  ],
+  "px": 110,
+  "parte": "PART 2",
+  "file": "003"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The War Cabinet of five",
+  "itens": [
+   "Churchill — Prime Minister",
+   "Chamberlain — Lord President",
+   "Halifax — Foreign Secretary",
+   "Attlee — Lord Privy Seal",
+   "Greenwood — Minister without Portfolio"
+  ],
+  "parte": "PART 2",
+  "file": "003"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Sunday, May 26, 1940",
+  "itens": [
+   [
+    "WAR CABINET",
+    "9:00 A.M.",
+    "unusually early"
+   ],
+   [
+    "WESTMINSTER ABBEY",
+    "Day of Prayer",
+    "National Day of Prayer · the King and Queen attend"
+   ]
+  ],
+  "px": 100,
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "PRIME MINISTER OF FRANCE",
+  "valor": "Paul Reynaud",
+  "px": 200,
+  "texto": "Lunch with Churchill in London, May 26.",
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ITALIAN AMBASSADOR IN LONDON",
+  "valor": "Giuseppe Bastianini",
+  "px": 160,
+  "texto": "Met Halifax on May 25, 1940.",
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "SECRET · CONFIDENTIAL ANNEX · W.M. (40)",
+  "titulo": "War Cabinet, May 26, 1940.",
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…not so much now a question of imposing a complete defeat upon Germany but of safeguarding the independence of our own Empire and if possible that of France.",
+  "autor": "Halifax, War Cabinet minutes, May 26, 1940 (CAB 65/13)",
+  "px": 64,
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Peace and security might be achieved under a German domination of Europe. That we could never accept.",
+  "autor": "Churchill, War Cabinet minutes, May 26, 1940 (CAB 65/13)",
+  "px": 76,
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…would be thankful to get out of our present difficulties on such terms, provided we retained the essentials and the elements of our vital strength…",
+  "autor": "Churchill, as recorded in the War Cabinet minutes, May 26, 1940",
+  "px": 66,
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The only thing to do was to show him that he could not conquer this country.",
+  "autor": "Churchill, War Cabinet minutes, May 26, 1940",
+  "px": 84,
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Operation Dynamo",
+  "itens": [
+   [
+    "ADMIRALTY SIGNAL · MAY 26",
+    "6:57 P.M.",
+    "begin the evacuation from Dunkirk"
+   ],
+   [
+    "THE PLAN",
+    "~45,000 men",
+    "in 2 days"
+   ]
+  ],
+  "px": 110,
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "the blackest day of all",
+  "autor": "Neville Chamberlain, diary, May 26, 1940",
+  "px": 120,
+  "parte": "PART 3",
+  "file": "003"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE QUESTION FOR THE CHIEFS OF STAFF",
+  "titulo": "If France falls — can Britain fight on alone?",
+  "parte": "PART 4",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "W.P. (40) 169 · CHIEFS OF STAFF · MAY 26, 1940",
+  "valor": "“British Strategy in the Near Future”",
+  "px": 110,
+  "texto": "Taken by the War Cabinet at 11:30 A.M., Monday, May 27.",
+  "fonte": "The National Archives, CAB 66/7/49",
+  "parte": "PART 4",
+  "file": "003"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Six signatures",
+  "itens": [
+   "Newall · Pound · Ironside",
+   "Dill · Phillips · Peirse"
+  ],
+  "fonte": "The National Archives, CAB 66/7/49",
+  "parte": "PART 4",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…prima facie Germany has most of the cards…",
+  "autor": "Chiefs of Staff, ‘British Strategy in the Near Future’, May 1940",
+  "px": 100,
+  "parte": "PART 4",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We believe it will.",
+  "autor": "Chiefs of Staff, May 1940",
+  "px": 170,
+  "parte": "PART 4",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MAY 27, 1940 · CHIEF OF THE IMPERIAL GENERAL STAFF",
+  "valor": "Ironside → Dill",
+  "px": 190,
+  "texto": "Britain changes its top soldier in the middle of the crisis.",
+  "parte": "PART 4",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "DUNKIRK · EVACUATED MAY 27 (HARBOR ONLY)",
+  "valor": "7,669",
+  "px": 300,
+  "texto": "The plan: 45,000.",
+  "parte": "PART 4",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "LIBERAL LEADER · SECRETARY OF STATE FOR AIR",
+  "valor": "Sir Archibald Sinclair",
+  "px": 150,
+  "texto": "Invited to the Italy discussions from May 27.",
+  "parte": "PART 4",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MONDAY, MAY 27, 1940 · WAR CABINET",
+  "valor": "4:30 P.M.",
+  "px": 300,
+  "texto": "The polite part of the argument ends.",
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…would not join France in asking for terms; but if he were told what the terms offered were, he would be prepared to consider them.",
+  "autor": "Churchill, War Cabinet minutes, May 27, 1940 (CAB 65/13)",
+  "px": 66,
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "If Herr Hitler was prepared to make peace on the terms of the restoration of the German colonies and the overlordship of Central Europe, that was one thing.",
+  "autor": "Churchill, War Cabinet minutes, May 27, 1940",
+  "px": 64,
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "But it was quite unlikely that he would make any such offer.",
+  "autor": "Churchill, War Cabinet minutes, May 27, 1940",
+  "px": 90,
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…doubted if he would be able to accept the view now put forward by the Prime Minister.",
+  "autor": "Halifax, War Cabinet minutes, May 27, 1940",
+  "px": 80,
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…talked the most frightful rot…",
+  "autor": "Lord Halifax, diary, May 27, 1940 (as quoted by historians David Owen and Roy Jenkins)",
+  "px": 120,
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "10 DOWNING STREET · MAY 27, 1940",
+  "valor": "The garden",
+  "px": 260,
+  "texto": "No transcript exists. Halifax calms down, and stays.",
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…perhaps encapsulated the most critical moment of the war, when Nazi Germany might have won.",
+  "autor": "Antony Beevor, The Second World War (2012)",
+  "px": 76,
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "NIGHT OF MAY 27, 1940",
+  "titulo": "Belgium asks for an armistice, effective midnight.",
+  "parte": "PART 5",
+  "file": "003"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "TUESDAY, MAY 28, 1940",
+  "titulo": "The Belgian army surrenders.",
+  "parte": "PART 6",
+  "file": "003"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Telegram · Rome, May 27, 1940",
+  "itens": [
+   "U.S. State Dept. · Ambassador Phillips to the Secretary of State",
+   "“it would be a no”",
+   "“freedom of action”",
+   "“it will happen soon”"
+  ],
+  "fonte": "Foreign Relations of the United States, 1940, Vol. II",
+  "parte": "PART 6",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ITALY DECLARES WAR ON BRITAIN AND FRANCE",
+  "valor": "June 10, 1940",
+  "px": 230,
+  "texto": "Mussolini had already given his answer.",
+  "parte": "PART 6",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "TUESDAY, MAY 28, 1940 · WAR CABINET",
+  "valor": "4:00 P.M.",
+  "px": 300,
+  "texto": "Halifax still defends his idea.",
+  "parte": "PART 6",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…nothing in his suggestion could even remotely be described as ultimate capitulation.",
+  "autor": "Halifax, War Cabinet minutes, May 28, 1940 (CAB 65/13)",
+  "px": 80,
+  "parte": "PART 6",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…on a dispassionate survey, it was right to remember that the alternative to fighting on nevertheless involved a considerable gamble.",
+  "autor": "Chamberlain, War Cabinet minutes, May 28, 1940",
+  "px": 68,
+  "parte": "PART 6",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…nations which went down fighting rose again, but those which surrendered tamely were finished.",
+  "autor": "Churchill, War Cabinet minutes, May 28, 1940",
+  "px": 86,
+  "parte": "PART 6",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CHURCHILL'S ESTIMATE OF ‘DECENT TERMS’",
+  "valor": "1,000 to 1",
+  "px": 300,
+  "texto": "“…were a thousand to one against.” — War Cabinet minutes, May 28, 1940",
+  "parte": "PART 6",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CHURCHILL'S ROOMS · HOUSE OF COMMONS · ~6:00 P.M., MAY 28, 1940",
+  "valor": "~25 ministers",
+  "px": 230,
+  "texto": "The full government, beyond the War Cabinet of five.",
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MINISTER OF ECONOMIC WARFARE · DIARIST",
+  "valor": "Hugh Dalton",
+  "px": 220,
+  "texto": "Our main source for this meeting. There is no official transcript.",
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…we should become a slave state…",
+  "autor": "Churchill, as recorded by Hugh Dalton, May 28, 1940",
+  "px": 110,
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…under Mosley or some such person.",
+  "autor": "Churchill, as recorded by Hugh Dalton, May 28, 1940",
+  "px": 110,
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We shall go on and we shall fight it out, here or elsewhere…",
+  "autor": "Churchill, as recorded by Hugh Dalton, May 28, 1940",
+  "px": 96,
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "If this long island story of ours is to end at last, let it end only when each one of us lies choking in his own blood upon the ground.",
+  "autor": "Winston Churchill, as recorded by Hugh Dalton in his diary, May 28, 1940",
+  "px": 72,
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "One line, written two ways",
+  "itens": [
+   [
+    "DIARY TEXT",
+    "“…only when we are rolling senselessly upon the ground.”",
+    ""
+   ],
+   [
+    "ALTERNATIVE VERSION",
+    "“If this long island story of ours is to end at last…”",
+    ""
+   ]
+  ],
+  "px": 58,
+  "fonte": "Hugh Dalton's diary, May 28, 1940 (per The National Archives)",
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "He is quite magnificent. The man, the only man we have, for this hour.",
+  "autor": "Hugh Dalton, diary, May 28, 1940",
+  "px": 84,
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…every man of you would rise up and tear me down from my place if I were for one moment to contemplate parley or surrender.",
+  "autor": "Winston S. Churchill, Their Finest Hour (1949) — his own later account",
+  "px": 68,
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "TUESDAY, MAY 28, 1940 · WAR CABINET",
+  "valor": "7:00 P.M.",
+  "px": 300,
+  "texto": "Churchill reports back.",
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "He did not remember having ever before heard a gathering of persons occupying high places in political life express themselves so emphatically.",
+  "autor": "War Cabinet minutes, May 28, 1940",
+  "px": 64,
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…the present is not the time at which advances should be made to Signor Mussolini…",
+  "autor": "War Cabinet minutes · reply to M. Reynaud, approved 7:00 P.M., May 28, 1940",
+  "px": 78,
+  "parte": "PART 7",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WINSTON S. CHURCHILL · THE SECOND WORLD WAR, VOL. II · 1949",
+  "valor": "Their Finest Hour",
+  "px": 190,
+  "texto": "The memoir.",
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…never found a place upon the War Cabinet agenda.",
+  "autor": "Churchill, Their Finest Hour (1949)",
+  "px": 100,
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…unreal, academic issues.",
+  "autor": "Churchill, Their Finest Hour (1949)",
+  "px": 120,
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…the most breathtakingly bland piece of misinformation…",
+  "autor": "Roy Jenkins, Churchill's biographer, on the memoir's claim",
+  "px": 96,
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "From the room to the record",
+  "marcos": [
+   [
+    "1940",
+    "Minuted in confidential annexes (CAB 65/13)"
+   ],
+   [
+    "1949",
+    "Memoir: “never found a place upon the War Cabinet agenda”"
+   ],
+   [
+    "Early 1970s",
+    "Wartime Cabinet records opened"
+   ],
+   [
+    "1999",
+    "John Lukacs, Five Days in London"
+   ],
+   [
+    "2017",
+    "Darkest Hour"
+   ]
+  ],
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MYTH NO. 1",
+  "valor": "“Britain almost surrendered”",
+  "px": 110,
+  "stamp": "MYTH",
+  "stamp_top": 150,
+  "texto": "RECORD: Halifax proposed exploring mediation through Italy. No one proposed surrender.",
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Myth no. 2: the movie version",
+  "itens": [
+   "Underground ride — invented ✗",
+   "King's night visit — invented ✗",
+   "Halifax–Chamberlain plot — no evidence ✗",
+   "‘Beaches’ speech on May 28 — actually June 4 ✗"
+  ],
+  "fonte": "PolitiFact (2018), with Churchill historians Andrew Roberts, Allen Packwood, Michael Bishop",
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…fact that you would not have guessed from Darkest Hour.",
+  "autor": "Andrew Roberts, historian, on Chamberlain's support for Churchill",
+  "px": 96,
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Myth no. 3: the appeaser to the end",
+  "itens": [
+   [
+    "JULY 1940 · ON THE RADIO",
+    "No to Hitler",
+    "Halifax rejects Hitler's peace offer: “…based not on justice but on threats.”"
+   ],
+   [
+    "JAN. 1941 – MAY 1946",
+    "Ambassador",
+    "Halifax in Washington · met by FDR aboard HMS King George V"
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "DUNKIRK · OPERATION DYNAMO · MAY 26 – JUNE 4, 1940",
+  "valor": "338,226",
+  "px": 300,
+  "texto": "Brought out. The plan had been 45,000 men in 2 days.",
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Wars are not won by evacuations.",
+  "autor": "Churchill, House of Commons, June 4, 1940",
+  "px": 110,
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "10 Downing Street, May 1940",
+  "itens": [
+   "A Foreign Secretary who stepped aside",
+   "A Sunday of prayer",
+   "A paper: Germany held most of the cards",
+   "A walk in a garden",
+   "A thousand to one",
+   "A line in a diary, written two ways"
+  ],
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "BEFORE HISTORY CHANGED",
+  "titulo": "None of those moments looked like history while they were happening.",
+  "parte": "PART 8",
+  "file": "003"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "Before History Changed",
+  "sub": "Every story has a before. Subscribe. Next: one Saturday in October 1962.",
+  "px": 150,
+  "file": "003"
+ }
+]
