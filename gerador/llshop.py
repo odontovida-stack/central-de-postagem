@@ -107,6 +107,27 @@ def destaque(conta, card):
     return moldura(miolo)
 
 
+def pergunta(conta, card):
+    """Card de engajamento: uma pergunta grande e até 4 opções para responder nos comentários."""
+    cor = PAGINAS[conta]["cor"]
+    tam = card.get("titulo_px") or (112 if len(card["titulo"]) <= 40 else 92)
+    partes = [f'<span style="font-weight: 700; font-size: 32px; letter-spacing: 0.12em; color: {cor}">{e(card["chamada"])}</span>',
+              f'<h1 style="margin: 0; font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: {tam}px; line-height: 0.95; text-transform: uppercase">{e(card["titulo"])}</h1>']
+    if card.get("contexto"):
+        partes.append(f'<span style="font-size: 32px; color: {MUTED}; line-height: 1.3">{e(card["contexto"])}</span>')
+    opcoes = card.get("opcoes") or []
+    if opcoes:
+        letras = "ABCD"
+        caixas = "".join(f'<div style="display: flex; align-items: center; gap: 22px; background: {CARD}; border-radius: 18px; padding: 22px 26px"><span style="flex-shrink: 0; width: 64px; height: 64px; border-radius: 14px; background: {cor}; color: {BG}; display: flex; align-items: center; justify-content: center; font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: 44px">{letras[i]}</span><span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 700; font-size: 46px; line-height: 1.05">{e(o)}</span></div>' for i, o in enumerate(opcoes[:4]))
+        partes.append(f'<div style="display: flex; flex-direction: column; gap: 14px">{caixas}</div>')
+    miolo = f'''{topo(conta, cor, card["pilula"], True)}
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; gap: 30px">
+{chr(10).join(partes)}
+</div>
+{rodape(card.get("fonte", ""), card.get("cta", "Responda nos comentários"))}'''
+    return moldura(miolo)
+
+
 def renderizar(trabalhos):
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
@@ -144,7 +165,7 @@ def main():
             pasta = (RAIZ / "previa" / pauta_arq.stem) if previa else (RAIZ / "fila" / nome)
             midias, alts = [], []
             for i, sub in enumerate(subcards, 1):
-                htm = agenda(conta, sub) if sub["tipo"] == "agenda" else destaque(conta, sub)
+                htm = {"agenda": agenda, "destaque": destaque, "pergunta": pergunta}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
                 img = pasta / (f"{nome}-{arq}" if previa else arq)
                 trabalhos.append((htm, img))
