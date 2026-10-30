@@ -1,12 +1,14 @@
 [
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc002-potomac",
   "numero": "DECEMBER 8, 1903",
   "titulo": "The Potomac River, Washington, D.C.",
   "file": "002"
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc002-potomac",
   "rotulo": "POTOMAC RIVER · WASHINGTON, D.C. · DEC. 8, 1903",
   "valor": "$50,000",
   "px": 300,
@@ -55,6 +57,7 @@
  },
  {
   "tipo": "capa",
+  "foto": "yt-bhc002-wright-flyer",
   "titulo": "Before History Changed",
   "sub": "#002 — Nine Days in December. Every story has a before.",
   "px": 150,
@@ -62,6 +65,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc002-smithsonian-castle",
   "rotulo": "ASTRONOMER, PHYSICIST · 1834–1906",
   "valor": "Samuel P. Langley",
   "px": 170,
@@ -92,6 +96,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc002-aerodrome-5",
   "rotulo": "POTOMAC RIVER NEAR QUANTICO, VA. · MAY 6, 1896",
   "valor": "~3,300 ft",
   "px": 260,
@@ -261,6 +266,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc002-houseboat",
   "rotulo": "WIDEWATER, VIRGINIA · POTOMAC RIVER",
   "valor": "Oct. 7, 1903",
   "px": 220,
@@ -303,6 +309,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc002-aerodrome-wreck",
   "numero": "POTOMAC RIVER · DEC. 8, 1903",
   "titulo": "The second attempt.",
   "parte": "PART 4",
@@ -357,6 +364,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc002-kill-devil-hills",
   "rotulo": "KILL DEVIL HILLS, NEAR KITTY HAWK, N.C. · DEC. 17, 1903",
   "valor": "21+ mph",
   "px": 260,
@@ -366,6 +374,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc002-launch-rail",
   "rotulo": "THE LAUNCH RAIL",
   "valor": "60 ft",
   "px": 300,
@@ -552,6 +561,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc002-keuka-lake",
   "rotulo": "HAMMONDSPORT, N.Y. · LAKE KEUKA · CURTISS AEROPLANE AND MOTOR CO.",
   "valor": "$2,000",
   "px": 300,
@@ -616,6 +626,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc002-science-museum",
   "rotulo": "SCIENCE MUSEUM · SOUTH KENSINGTON, LONDON",
   "valor": "1928",
   "px": 300,
@@ -701,6 +712,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc002-science-museum",
   "numero": "LONDON · 1948",
   "titulo": "The Science Museum builds a replica. The original leaves.",
   "parte": "PART 8",
@@ -774,6 +786,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc002-wright-flyer",
   "numero": "THE 1903 WRIGHT FLYER",
   "titulo": "Twelve seconds. Forty-five years to come home.",
   "parte": "PART 8",

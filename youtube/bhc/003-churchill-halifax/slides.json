@@ -1,12 +1,14 @@
 [
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc003-whitehall",
   "numero": "SUNDAY, MAY 26, 1940",
   "titulo": "London.",
   "file": "003"
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc003-channel-coast",
   "rotulo": "THE ENGLISH CHANNEL · THE FRENCH COAST · MAY 26, 1940",
   "valor": "Dunkirk, France",
   "px": 200,
@@ -62,6 +64,7 @@
  },
  {
   "tipo": "capa",
+  "foto": "yt-bhc003-westminster",
   "titulo": "Before History Changed",
   "sub": "#003 — Three Days in May. Every story has a before.",
   "px": 150,
@@ -208,6 +211,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc003-war-rooms",
   "numero": "SECRET · CONFIDENTIAL ANNEX · W.M. (40)",
   "titulo": "War Cabinet, May 26, 1940.",
   "parte": "PART 3",
@@ -274,6 +278,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc003-dover-cliffs",
   "numero": "THE QUESTION FOR THE CHIEFS OF STAFF",
   "titulo": "If France falls — can Britain fight on alone?",
   "parte": "PART 4",
@@ -327,6 +332,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc003-dunkirk-harbour",
   "rotulo": "DUNKIRK · EVACUATED MAY 27 (HARBOR ONLY)",
   "valor": "7,669",
   "px": 300,
@@ -394,6 +400,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc003-downing-street",
   "rotulo": "10 DOWNING STREET · MAY 27, 1940",
   "valor": "The garden",
   "px": 260,
@@ -438,6 +445,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc003-palazzo-venezia",
   "rotulo": "ITALY DECLARES WAR ON BRITAIN AND FRANCE",
   "valor": "June 10, 1940",
   "px": 230,
@@ -489,6 +497,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc003-commons-chamber",
   "rotulo": "CHURCHILL'S ROOMS · HOUSE OF COMMONS · ~6:00 P.M., MAY 28, 1940",
   "valor": "~25 ministers",
   "px": 230,
@@ -712,6 +721,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc003-dunkirk-beach",
   "rotulo": "DUNKIRK · OPERATION DYNAMO · MAY 26 – JUNE 4, 1940",
   "valor": "338,226",
   "px": 300,
@@ -743,6 +753,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc003-st-pauls",
   "numero": "BEFORE HISTORY CHANGED",
   "titulo": "None of those moments looked like history while they were happening.",
   "parte": "PART 8",

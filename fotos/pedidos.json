@@ -139,5 +139,305 @@
   {
     "nome": "quadra-tenis",
     "busca": "tennis court hard"
+  },
+  {
+    "nome": "yt-taf001-pentagon",
+    "busca": "The Pentagon aerial view Arlington Virginia",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-capitol",
+    "busca": "United States Capitol building exterior",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-carrier",
+    "busca": "aircraft carrier underway at sea US Navy",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-ww2-fleet",
+    "busca": "US Navy fleet at sea World War II 1944 warships",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-white-house",
+    "busca": "White House north facade exterior",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-minuteman",
+    "busca": "Minuteman III missile test launch Vandenberg",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-f35",
+    "busca": "F-35A Lightning II in flight",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-ramstein",
+    "busca": "Ramstein Air Base aerial view",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-voting-booths",
+    "busca": "empty voting booths polling place United States",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-capitol",
+    "busca": "United States Capitol dome dusk",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-farewell-address",
+    "busca": "Washington's Farewell Address American Daily Advertiser 1796",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-butterfly-ballot",
+    "busca": "Palm Beach County butterfly ballot 2000",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-state-legislature",
+    "busca": "state capitol house chamber empty United States",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-ballots",
+    "busca": "paper ballots election United States",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-debate-stage",
+    "busca": "presidential debate stage empty hall",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-house-chamber",
+    "busca": "United States House of Representatives chamber",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-gerrymander",
+    "busca": "Gerry-Mander cartoon 1812 Boston Gazette",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-district-map",
+    "busca": "United States congressional districts map",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-peconic-bay",
+    "busca": "Peconic Bay Long Island shoreline",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-nassau-point",
+    "busca": "Nassau Point Cutchogue Long Island",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-letter",
+    "busca": "Einstein–Szilárd letter 1939 Roosevelt",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-russell-square",
+    "busca": "Southampton Row Russell Square London",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-uranium-ore",
+    "busca": "uraninite pitchblende uranium ore specimen",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-ias-princeton",
+    "busca": "Fuld Hall Institute for Advanced Study Princeton",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-battleship-1939",
+    "busca": "SMS Schleswig-Holstein shelling Westerplatte 1939",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-white-house",
+    "busca": "White House south facade Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-birmingham",
+    "busca": "University of Birmingham Chamberlain clock tower",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-hiroshima-cloud",
+    "busca": "atomic cloud over Hiroshima 1945",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-farm-hall",
+    "busca": "Farm Hall Godmanchester",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-potomac",
+    "busca": "Potomac River Washington D.C. view",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-wright-flyer",
+    "busca": "1903 Wright Flyer National Air and Space Museum",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-smithsonian-castle",
+    "busca": "Smithsonian Institution Building castle National Mall",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-aerodrome-5",
+    "busca": "Langley Aerodrome No. 5 Smithsonian",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-houseboat",
+    "busca": "Langley Aerodrome houseboat Potomac 1903",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-aerodrome-wreck",
+    "busca": "Langley Aerodrome A wreck Potomac December 1903",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-kill-devil-hills",
+    "busca": "Kill Devil Hills dunes Wright Brothers National Memorial",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-launch-rail",
+    "busca": "Wright Brothers National Memorial first flight boulder rail",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-keuka-lake",
+    "busca": "Keuka Lake Hammondsport New York",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-science-museum",
+    "busca": "Science Museum London Exhibition Road exterior",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-whitehall",
+    "busca": "Whitehall London street",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-channel-coast",
+    "busca": "Cap Gris-Nez English Channel French coast",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-westminster",
+    "busca": "Palace of Westminster Thames",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-war-rooms",
+    "busca": "Cabinet War Rooms Cabinet Room London",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-dover-cliffs",
+    "busca": "White Cliffs of Dover English Channel",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-dunkirk-harbour",
+    "busca": "Dunkirk harbour evacuation 1940 ships",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-downing-street",
+    "busca": "10 Downing Street door exterior",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-palazzo-venezia",
+    "busca": "Palazzo Venezia Rome facade",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-commons-chamber",
+    "busca": "House of Commons chamber Palace of Westminster",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-dunkirk-beach",
+    "busca": "Dunkirk beach 1940 evacuation",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-st-pauls",
+    "busca": "St Paul's Cathedral London Blitz 1940",
+    "formato": "paisagem",
+    "opcao": 1
   }
 ]

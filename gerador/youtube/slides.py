@@ -1,19 +1,25 @@
 """Slides 1920x1080 dos canais de YouTube (visual do The American File).
 Uso: python gerador/youtube/slides.py slides.json pasta_saida
-Tipos: capa, capitulo, numero, citacao, lista, barras, duplo, linha, donut, xs. Campo opcional "stamp" (carimbo)."""
+Tipos: capa, capitulo, numero, citacao, lista, barras, duplo, linha, donut, xs. Campo opcional "stamp" (carimbo).
+Campo opcional "foto": "<nome>" põe fotos/banco/<nome>.jpg de fundo, sob um véu escuro na cor do tema, com o crédito
+no canto (opcional "foto_pos": "center 30%" para escolher o enquadramento). Sem a foto no banco, o slide sai como sempre."""
 import json, sys, html
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 F = Path(__file__).resolve().parent / "fontes"
 import os
+from fotos_fundo import foto as foto_do_banco, credito as credito_foto
 TEMAS = {
-    "taf": {"cores": ("#0D1117", "#1B3A6B", "#C0392B", "#EDE6D6", "#9AA4B2"), "marca": "THE AMERICAN FILE", "rotulo": "FILE #"},
-    "bhc": {"cores": ("#15110C", "#5A4426", "#C9A227", "#F1E6CF", "#A89A84"), "marca": "BEFORE HISTORY CHANGED", "rotulo": "#", "brilho": ("rgba(90,68,38,.45)", "rgba(201,162,39,.10)"), "cartao": "rgba(90,68,38,.38)"},
+    "taf": {"cores": ("#0D1117", "#1B3A6B", "#C0392B", "#EDE6D6", "#9AA4B2"), "marca": "THE AMERICAN FILE", "rotulo": "FILE #",
+            "filtro": "grayscale(.6) contrast(1.05) brightness(.9)"},
+    "bhc": {"cores": ("#15110C", "#5A4426", "#C9A227", "#F1E6CF", "#A89A84"), "marca": "BEFORE HISTORY CHANGED", "rotulo": "#", "brilho": ("rgba(90,68,38,.45)", "rgba(201,162,39,.10)"), "cartao": "rgba(90,68,38,.38)",
+            "filtro": "sepia(.55) saturate(.75) contrast(1.05) brightness(.9)"},
 }
 TEMA = TEMAS[os.environ.get("TEMA_SLIDES", "taf")]
 BG, NAVY, RED, PAPER, MUTED = TEMA["cores"]
 CARTAO = TEMA.get("cartao", "rgba(27,58,107,.35)")
 GLOW1, GLOW2 = TEMA.get("brilho", ("rgba(27,58,107,.35)", "rgba(192,57,43,.12)"))
+def rgba(hx, a): return f"rgba({int(hx[1:3], 16)},{int(hx[3:5], 16)},{int(hx[5:7], 16)},{a})"
 def ff(fam, w, st="normal", fn=None): return f"@font-face{{font-family:'{fam}';font-weight:{w};font-style:{st};src:url('file://{F}/{fn}')}}"
 CSS = (ff("S", 400, fn="source-serif-4-latin-400-normal.woff2") + ff("S", 400, "italic", "source-serif-4-latin-400-italic.woff2") +
        ff("S", 700, fn="source-serif-4-latin-700-normal.woff2") + ff("S", 700, "italic", "source-serif-4-latin-700-italic.woff2") +
@@ -23,6 +29,9 @@ CSS = (ff("S", 400, fn="source-serif-4-latin-400-normal.woff2") + ff("S", 400, "
 .top{{display:flex;justify-content:space-between;font:500 26px M;letter-spacing:.18em;color:{MUTED};position:relative}}
 .stamp{{position:absolute;border:6px solid {RED};color:{RED};font:700 44px M;letter-spacing:.2em;padding:10px 26px;transform:rotate(-8deg);opacity:.85}}
 .src{{position:absolute;left:120px;bottom:60px;font:500 22px M;color:{MUTED};letter-spacing:.04em}}
+.foto{{position:absolute;inset:0;background-position:center;background-size:cover;background-repeat:no-repeat;filter:{TEMA["filtro"]}}}
+.veu{{position:absolute;inset:0;background:linear-gradient(90deg,{rgba(BG,.9)} 0%,{rgba(BG,.74)} 50%,{rgba(BG,.6)} 100%),linear-gradient(180deg,{rgba(BG,.6)} 0%,{rgba(BG,.2)} 40%,{rgba(BG,.35)} 70%,{rgba(BG,.92)} 100%)}}
+.credito{{position:absolute;right:48px;bottom:24px;font:500 19px M;color:{MUTED};letter-spacing:.03em;opacity:.9;max-width:1100px;text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}
 """)
 e = html.escape
 def topo(s): return f'<div class="top"><span>{TEMA["marca"]}</span><span>{TEMA["rotulo"]}{e(s.get("file","001"))}{" · " + e(s["parte"]) if s.get("parte") else ""}</span></div>'
@@ -90,13 +99,26 @@ def corpo(s):
                 f'<div style="display:flex;justify-content:space-between">{xs}</div><p style="margin:0;font-size:40px;line-height:1.3">{e(s.get("texto",""))}</p></div>'
                 + (f'<div class="src">SOURCE: {e(s["fonte"])}</div>' if s.get("fonte") else ""))
     raise SystemExit("tipo desconhecido: " + t)
+def fundo_foto(s, i):
+    """Camadas da foto de fundo + crédito, ou ('', '') se o slide não tem foto ou ela ainda não foi baixada."""
+    if not s.get("foto"):
+        return "", ""
+    achada = foto_do_banco(s["foto"])
+    if not achada:
+        print(f"AVISO slide {i}: foto '{s['foto']}' ainda não está em fotos/banco/ — slide sem foto")
+        return "", ""
+    jpg, info = achada
+    pos = e(s.get("foto_pos", "center"))
+    return (f'<div class=foto style="background-image:url(\'{jpg.as_uri()}\');background-position:{pos}"></div><div class=veu></div>',
+            f'<div class=credito>{e(credito_foto(info))}</div>')
 def main():
     sl = json.load(open(sys.argv[1])); out = Path(sys.argv[2]).resolve(); out.mkdir(parents=True, exist_ok=True)
     with sync_playwright() as p:
         b = p.chromium.launch(); pg = b.new_page(viewport={"width": 1920, "height": 1080})
         for i, s in enumerate(sl, 1):
             tmp = out / "_t.html"; stamp = f'<div class="stamp" style="right:140px;top:{s.get("stamp_top",230)}px">{e(s["stamp"])}</div>' if s.get("stamp") else ''
-            tmp.write_text(f'<!doctype html><meta charset=utf-8><style>{CSS}</style><div id=c><div class=grain></div>{corpo(s)}{stamp}</div>', encoding="utf-8")
+            fundo, cred = fundo_foto(s, i)
+            tmp.write_text(f'<!doctype html><meta charset=utf-8><style>{CSS}</style><div id=c>{fundo}<div class=grain></div>{corpo(s)}{stamp}{cred}</div>', encoding="utf-8")
             pg.goto(tmp.as_uri()); pg.evaluate("document.fonts.ready")
             if pg.evaluate("(()=>{const c=document.getElementById('c');return c.scrollHeight>c.clientHeight+1})()"): print("NÃO COUBE:", i)
             pg.locator("#c").screenshot(path=str(out / f"{i:03d}.png")); tmp.unlink()
