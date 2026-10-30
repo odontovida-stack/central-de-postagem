@@ -142,7 +142,7 @@
   },
   {
     "nome": "yt-taf001-pentagon",
-    "busca": "The Pentagon aerial view Arlington Virginia",
+    "busca": "Pentagon aerial view 2008 Arlington",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -154,7 +154,7 @@
   },
   {
     "nome": "yt-taf001-carrier",
-    "busca": "aircraft carrier underway at sea US Navy",
+    "busca": "USS Nimitz aircraft carrier at sea",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -166,7 +166,7 @@
   },
   {
     "nome": "yt-taf001-white-house",
-    "busca": "White House north facade exterior",
+    "busca": "White House Washington DC north lawn",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -190,7 +190,7 @@
   },
   {
     "nome": "yt-taf002-voting-booths",
-    "busca": "empty voting booths polling place United States",
+    "busca": "voting booths",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -202,19 +202,19 @@
   },
   {
     "nome": "yt-taf002-farewell-address",
-    "busca": "Washington's Farewell Address American Daily Advertiser 1796",
+    "busca": "Washington Farewell Address manuscript",
     "formato": "paisagem",
     "opcao": 1
   },
   {
     "nome": "yt-taf002-butterfly-ballot",
-    "busca": "Palm Beach County butterfly ballot 2000",
+    "busca": "butterfly ballot",
     "formato": "paisagem",
     "opcao": 1
   },
   {
     "nome": "yt-taf002-state-legislature",
-    "busca": "state capitol house chamber empty United States",
+    "busca": "Texas House of Representatives chamber",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -226,7 +226,7 @@
   },
   {
     "nome": "yt-taf002-debate-stage",
-    "busca": "presidential debate stage empty hall",
+    "busca": "debate stage",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -250,31 +250,31 @@
   },
   {
     "nome": "yt-bhc001-peconic-bay",
-    "busca": "Peconic Bay Long Island shoreline",
+    "busca": "Peconic Bay",
     "formato": "paisagem",
     "opcao": 1
   },
   {
     "nome": "yt-bhc001-nassau-point",
-    "busca": "Nassau Point Cutchogue Long Island",
+    "busca": "Cutchogue New York",
     "formato": "paisagem",
     "opcao": 1
   },
   {
     "nome": "yt-bhc001-letter",
-    "busca": "Einstein–Szilárd letter 1939 Roosevelt",
+    "busca": "Einstein letter Roosevelt",
     "formato": "paisagem",
     "opcao": 1
   },
   {
     "nome": "yt-bhc001-russell-square",
-    "busca": "Southampton Row Russell Square London",
+    "busca": "Russell Square London",
     "formato": "paisagem",
     "opcao": 1
   },
   {
     "nome": "yt-bhc001-uranium-ore",
-    "busca": "uraninite pitchblende uranium ore specimen",
+    "busca": "uraninite",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -286,7 +286,7 @@
   },
   {
     "nome": "yt-bhc001-battleship-1939",
-    "busca": "SMS Schleswig-Holstein shelling Westerplatte 1939",
+    "busca": "Schleswig-Holstein battleship",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -310,7 +310,7 @@
   },
   {
     "nome": "yt-bhc001-farm-hall",
-    "busca": "Farm Hall Godmanchester",
+    "busca": "Godmanchester Great Ouse river",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -346,9 +346,9 @@
   },
   {
     "nome": "yt-bhc002-aerodrome-wreck",
-    "busca": "Langley Aerodrome A wreck Potomac December 1903",
+    "busca": "Langley Aerodrome",
     "formato": "paisagem",
-    "opcao": 1
+    "opcao": 2
   },
   {
     "nome": "yt-bhc002-kill-devil-hills",
@@ -370,7 +370,7 @@
   },
   {
     "nome": "yt-bhc002-science-museum",
-    "busca": "Science Museum London Exhibition Road exterior",
+    "busca": "Science Museum London",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -406,13 +406,13 @@
   },
   {
     "nome": "yt-bhc003-dunkirk-harbour",
-    "busca": "Dunkirk harbour evacuation 1940 ships",
+    "busca": "Dunkirk evacuation 1940 ships",
     "formato": "paisagem",
     "opcao": 1
   },
   {
     "nome": "yt-bhc003-downing-street",
-    "busca": "10 Downing Street door exterior",
+    "busca": "Downing Street London",
     "formato": "paisagem",
     "opcao": 1
   },
