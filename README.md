@@ -74,3 +74,32 @@ Não precisa instalar nada: só Python 3.10 ou mais novo.
 ## Limites da Meta
 - Até 100 posts por conta a cada 24 horas no Instagram (nós usamos uns 2).
 - Imagens precisam estar num endereço público. Por isso o repositório é público e as imagens são lidas direto do GitHub.
+
+## Robô de agenda das páginas LLShop
+
+As 5 páginas (@jogosnatela, @esportesnatela, @tudooqueestreia, @lancamentosdegames e @showsconfirmados) recebem toda semana uma **agenda** e um ou mais **destaques**.
+
+1. **A pauta.** Toda quinta, o Claude apura a semana seguinte em fontes oficiais (CBF, UEFA, Conmebol, UFC, F1, Netflix, Nintendo, Eventim etc.). Ele grava tudo em `pauta/AAAA-MM-DD.json`, com a data da segunda-feira da semana.
+2. **Os cards.** `python gerador/llshop.py pauta/AAAA-MM-DD.json` monta os cards no visual das páginas, com as fontes de `gerador/fontes`. Ele cria um post por card em `fila/`. Se um texto não couber no card, o robô para e avisa.
+3. **A aprovação.** Tudo vai num pull request. Você confere as imagens e as legendas e faz o merge. Cada post sai no horário marcado no campo `quando`.
+
+Para só ver as imagens, sem criar posts: `python gerador/llshop.py pauta/AAAA-MM-DD.json --previa` (elas ficam em `previa/`, que não vai para o GitHub).
+
+Cada card da pauta tem:
+- `tipo`: `agenda` (lista de até 6 itens) ou `destaque` (um evento).
+- `quando`, `pilula`, `chamada`, `titulo`, `fonte`, `cta` e `legenda`.
+- Na agenda: `itens`, cada um com `data`, `sub`, `titulo` e `detalhe`.
+- No destaque: `grande` (uma data grande), `caixas` (2 pares título/valor), `linhas` (data, cidade, local) e `nota`.
+- `tipo: carrossel` junta vários cards num post só. Ele leva `quando`, `legenda`, `alt` (opcional) e `cards` (a lista de cards agenda/destaque, na ordem dos slides). É o que o card diário de 7h30 do @jogosnatela usa: resultados de ontem e jogos de hoje.
+
+### Calendário das páginas LLShop (combinado em 29/10/2026)
+
+| Página | Post | Quando |
+|---|---|---|
+| @jogosnatela | Resultados de ontem + jogos de hoje (carrossel) | Todo dia, 7h30 |
+| @jogosnatela | Agenda da semana | Segunda, 12h |
+| @esportesnatela | Agenda da semana | Segunda, 12h30 |
+| @lancamentosdegames | Lançamentos da semana | Segunda, 9h |
+| @showsconfirmados | Shows da semana ou do mês | Segunda, 19h |
+| @tudooqueestreia | Estreias da semana (sexta a quinta) | Sexta, 9h |
+| Todas | Destaques | 18h, de terça a sábado |
