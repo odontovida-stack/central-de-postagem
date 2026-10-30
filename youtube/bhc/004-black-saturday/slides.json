@@ -152,7 +152,6 @@
  },
  {
   "tipo": "numero",
-  "foto": "yt-bhc004-u2",
   "rotulo": "TAKEOFF: McCOY AIR FORCE BASE, FLORIDA",
   "valor": "6th mission",
   "px": 260,
@@ -464,7 +463,6 @@
  },
  {
   "tipo": "numero",
-  "foto": "yt-bhc004-foxtrot-sub",
   "rotulo": "WESTERN ATLANTIC · NEAR THE QUARANTINE LINE",
   "valor": "B-59",
   "px": 300,
@@ -882,7 +880,6 @@
  },
  {
   "tipo": "capitulo",
-  "foto": "yt-bhc004-telephone",
   "numero": "SATURDAY NIGHT · OCTOBER 27, 1962",
   "titulo": "A deal, just in time.",
   "parte": "PART 8",

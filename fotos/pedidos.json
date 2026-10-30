@@ -423,12 +423,6 @@
     "opcao": 1
   },
   {
-    "nome": "yt-bhc004-u2",
-    "busca": "Lockheed U-2 aircraft",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
     "nome": "yt-bhc004-sa2-missile",
     "busca": "S-75 Dvina SA-2 surface-to-air missile museum",
     "formato": "paisagem",
@@ -447,12 +441,6 @@
     "opcao": 1
   },
   {
-    "nome": "yt-bhc004-foxtrot-sub",
-    "busca": "Foxtrot class submarine museum",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
     "nome": "yt-bhc004-destroyer",
     "busca": "Fletcher class destroyer museum ship",
     "formato": "paisagem",
@@ -467,12 +455,6 @@
   {
     "nome": "yt-bhc004-kremlin",
     "busca": "Moscow Kremlin wall towers",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
-    "nome": "yt-bhc004-telephone",
-    "busca": "vintage black rotary desk telephone",
     "formato": "paisagem",
     "opcao": 1
   }
