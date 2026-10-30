@@ -19,11 +19,11 @@ RAIZ = Path(__file__).resolve().parent.parent
 FONTES = Path(__file__).resolve().parent / "fontes"
 
 PAGINAS = {
-    "jogosnatela": {"cor": "#2FD17A"},
-    "esportesnatela": {"cor": "#4C9AFF"},
-    "tudooqueestreia": {"cor": "#FF5A5F"},
-    "lancamentosdegames": {"cor": "#A78BFA"},
-    "showsconfirmados": {"cor": "#FFB020"},
+    "jogosnatela": {"cor": "#2FD17A", "promessa": "Os jogos do dia, todo dia de manhã, com horário e onde passa."},
+    "esportesnatela": {"cor": "#4C9AFF", "promessa": "A agenda de todos os esportes: futebol, F1, NBA, vôlei, UFC e mais."},
+    "tudooqueestreia": {"cor": "#FF5A5F", "promessa": "Tudo o que estreia no cinema e no streaming, toda semana."},
+    "lancamentosdegames": {"cor": "#A78BFA", "promessa": "Os lançamentos do dia e os jogos grátis antes de acabar o prazo."},
+    "showsconfirmados": {"cor": "#FFB020", "promessa": "Os shows confirmados no Brasil, com data, cidade e pré-venda."},
 }
 BG, CARD, FG, MUTED, LINE = "#0F1115", "#181B21", "#F4F4F5", "#B4B8C0", "#2A2E36"
 
@@ -169,6 +169,25 @@ def texto(conta, card):
     return moldura(miolo, card)
 
 
+def seguir(conta, card=None):
+    """Último slide dos carrosséis: lembrete para seguir, ativar avisos, salvar e mandar para alguém."""
+    card = card or {}
+    cor = PAGINAS[conta]["cor"]
+    passos = [("1", "Siga @" + conta, "O Instagram não mostra todo post para todo mundo. Seguindo, você vê os próximos."),
+              ("2", "Ative as notificações", "Toque no sininho do perfil e escolha Posts."),
+              ("3", "Salve e mande para alguém", "Salvar e compartilhar faz o post chegar a mais gente.")]
+    caixas = "".join(f'<div style="display: flex; align-items: center; gap: 26px; background: {CARD}; border-radius: 18px; padding: 24px 28px"><span style="flex-shrink: 0; width: 72px; height: 72px; border-radius: 16px; background: {cor}; color: {BG}; display: flex; align-items: center; justify-content: center; font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: 50px">{n}</span><div style="display: flex; flex-direction: column; gap: 4px"><span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 700; font-size: 50px; line-height: 1">{e(t)}</span><span style="font-size: 28px; color: {MUTED}; line-height: 1.3">{e(d)}</span></div></div>' for n, t, d in passos)
+    miolo = f'''{topo(conta, cor, card.get("pilula", "NÃO PERCA O PRÓXIMO"), True)}
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; gap: 30px">
+<span style="font-weight: 700; font-size: 32px; letter-spacing: 0.12em; color: {cor}">GOSTOU?</span>
+<h1 style="margin: 0; font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 120px; line-height: 0.92; text-transform: uppercase">Esse post pode não aparecer de novo</h1>
+<span style="font-size: 36px; line-height: 1.3">{e(card.get("promessa") or PAGINAS[conta]["promessa"])}</span>
+<div style="display: flex; flex-direction: column; gap: 14px">{caixas}</div>
+</div>
+{rodape("", "@" + conta)}'''
+    return moldura(miolo, card)
+
+
 def renderizar(trabalhos):
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
@@ -199,14 +218,18 @@ def main():
         if conta not in PAGINAS:
             raise SystemExit(f"Conta desconhecida: {conta}")
         for card in cards:
-            subcards = card["cards"] if card["tipo"] == "carrossel" else [card]
+            subcards = list(card["cards"]) if card["tipo"] == "carrossel" else [card]
+            # todo carrossel termina com o lembrete de seguir (desligue com "sem_seguir": true)
+            if card["tipo"] == "carrossel" and not card.get("sem_seguir") and subcards[-1]["tipo"] != "seguir":
+                subcards.append({"tipo": "seguir", "chamada": "SIGA", "titulo": "Esse post pode não aparecer de novo",
+                                 "alt": f"Siga @{conta} e ative as notificações para não perder os próximos posts"})
             nome = f'{card["quando"][:10]}-{conta}-{card["tipo"]}'
             if card.get("sufixo"):
                 nome += "-" + card["sufixo"]
             pasta = (RAIZ / "previa" / pauta_arq.stem) if previa else (RAIZ / "fila" / nome)
             midias, alts, creditos = [], [], []
             for i, sub in enumerate(subcards, 1):
-                htm = {"agenda": agenda, "destaque": destaque, "pergunta": pergunta, "texto": texto}[sub["tipo"]](conta, sub)
+                htm = {"agenda": agenda, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
                 img = pasta / (f"{nome}-{arq}" if previa else arq)
                 trabalhos.append((htm, img))
