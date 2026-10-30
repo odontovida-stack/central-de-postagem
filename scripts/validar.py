@@ -11,7 +11,7 @@ import sys
 from datetime import datetime
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
-TIPOS = {"imagem", "carrossel", "reels"}
+TIPOS = {"imagem", "carrossel", "reels", "story"}
 STATUS = {"rascunho", "aprovado", "publicado", "erro"}
 REDES = {"instagram", "facebook", "tiktok"}
 
@@ -65,7 +65,7 @@ def validar_post(pasta, contas):
     except ValueError:
         err("'quando' deve ser data e hora ISO, ex.: 2026-11-02T18:30:00-03:00")
     leg = p.get("legenda", "")
-    if not leg.strip():
+    if not leg.strip() and p.get("tipo") != "story":
         err("legenda vazia")
     if len(leg) > 2200:
         err(f"legenda com {len(leg)} caracteres (máximo do Instagram: 2.200)")
@@ -76,7 +76,9 @@ def validar_post(pasta, contas):
         err("nenhuma mídia em 'midias'")
     if p.get("tipo") == "carrossel" and not (2 <= len(midias) <= 10):
         err("carrossel precisa de 2 a 10 imagens")
-    if p.get("tipo") in ("imagem", "reels") and len(midias) != 1:
+    if p.get("tipo") == "story" and set(redes) - {"instagram"}:
+        err("story só sai no Instagram: use redes [\"instagram\"]")
+    if p.get("tipo") in ("imagem", "reels", "story") and len(midias) != 1:
         err(f"{p.get('tipo')} precisa de exatamente 1 mídia")
     for m in midias:
         f = pasta / m
@@ -98,7 +100,10 @@ def validar_post(pasta, contas):
             continue
         w, h = dim
         ratio = w / h
-        if not (0.8 - 0.01 <= ratio <= 1.91 + 0.01):
+        if p.get("tipo") == "story":
+            if not (0.5 <= ratio <= 0.6):
+                err(f"{m}: story precisa ser vertical 9:16 (1080x1920), está {w}x{h}")
+        elif not (0.8 - 0.01 <= ratio <= 1.91 + 0.01):
             err(f"{m}: proporção {w}x{h} fora do aceito (4:5 a 1,91:1)")
         if w < 320:
             err(f"{m}: largura {w}px é pequena demais")

@@ -72,7 +72,7 @@ def _wait_container(container_id, token, timeout=300):
 
 
 def ig_publish(ig_user_id, token, kind, media_urls, caption, alt_texts=None):
-    """Publica no Instagram. kind: 'imagem', 'carrossel' ou 'reels'. Devolve o id do post."""
+    """Publica no Instagram. kind: 'imagem', 'carrossel', 'reels' ou 'story'. Devolve o id do post."""
     alt_texts = alt_texts or []
     if kind == "imagem":
         p = {"image_url": media_urls[0], "caption": caption}
@@ -90,6 +90,8 @@ def ig_publish(ig_user_id, token, kind, media_urls, caption, alt_texts=None):
             children.append(cid)
         container = post(f"{ig_user_id}/media", token, media_type="CAROUSEL",
                          children=",".join(children), caption=caption)["id"]
+    elif kind == "story":
+        container = post(f"{ig_user_id}/media", token, media_type="STORIES", image_url=media_urls[0])["id"]
     elif kind == "reels":
         container = post(f"{ig_user_id}/media", token, media_type="REELS",
                          video_url=media_urls[0], caption=caption)["id"]
