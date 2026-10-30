@@ -44,6 +44,13 @@ main{{max-width:520px;margin:0 auto;padding:32px 16px;display:flex;flex-directio
 <p>Atualizado em {datetime.now().strftime("%d/%m/%Y")}</p></main></body></html>"""
         (saida / f"{conta}.html").write_text(doc, encoding="utf-8")
         print(conta, len(itens), "links")
+    contas = sorted(set(por_conta) | set(cfg))
+    lis = "".join(f'<a class="l" href="links/{c}.html">@{c}</a>' for c in contas)
+    (RAIZ / "index.html").write_text(f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Central de Postagem · links</title><style>body{{margin:0;font-family:system-ui,sans-serif;background:#0F1115;color:#F4F4F5}}
+main{{max-width:520px;margin:0 auto;padding:32px 16px;display:flex;flex-direction:column;gap:12px}}h1{{font-size:22px;margin:0 0 8px}}
+.l{{display:block;padding:16px 18px;border-radius:14px;background:#181B21;color:#F4F4F5;text-decoration:none;font-weight:600}}</style></head><body><main>
+<h1>Links das páginas</h1>{lis}</main></body></html>""", encoding="utf-8")
 
 
 if __name__ == "__main__":
