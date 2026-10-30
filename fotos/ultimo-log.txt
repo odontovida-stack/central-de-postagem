@@ -1,1 +1,12 @@
-
+OK estadio-maracana: Foto: Leandro Neumann Ciuffo · CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Maracan%C3%A3_stadium.jpg)
+OK futebol-gramado: Foto: Hayden Schiff from Cincinnati, USA · CC BY 2.0 (https://commons.wikimedia.org/wiki/File:USF_at_UC_2019_-_game_ball_(48957905358).jpg)
+Openverse falhou para show-plateia: The read operation timed out
+OK show-plateia: Foto: PinkBeachPlanet · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Beach-Please-2022-crowd-stage-lights-night-performance.jpg)
+Openverse falhou para cinema-sala: The read operation timed out
+OK cinema-sala: Foto: Wolfmann · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:4DX_seats_in_cinema_(motion_and_environmental_effects_synced_with_the_on-screen_action)_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg,_Norway_2023_IMG_7849.jpg)
+Openverse falhou para game-controle: The read operation timed out
+OK game-controle: Foto: Evan-Amos · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Xbox-360-Wireless-Controller-White.jpg)
+Openverse falhou para basquete-quadra: The read operation timed out
+OK basquete-quadra: Foto: Bob Mical · CC BY 2.0 (https://commons.wikimedia.org/wiki/File:John_Paul_Jones_Arena_HDR.jpg)
+OK formula1-pista: Foto: Boaventuravinicius · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_de_Interlagos_em_Dezembro_de_2023.jpg)
+OK streaming-sofa: Foto: Shixart1985 · CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Woman_sitting_on_a_couch_watching_television_while_covered_with_a_blanket.jpg)
