@@ -94,9 +94,19 @@ Cada card da pauta tem:
 
 ### Calendário das páginas LLShop (combinado em 29/10/2026)
 
+Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull request por dia) e só existem quando há novidade. As agendas semanais saem do robô semanal (quinta às 10h58).
+
+
 | Página | Post | Quando |
 |---|---|---|
 | @jogosnatela | Resultados de ontem + jogos de hoje (carrossel) | Todo dia, 7h30 |
+| @jogosnatela | Jogo do dia (só se houver jogo grande) | 17h |
+| @esportesnatela | Hoje tem (UFC, F1, NBA, NFL grandes) | 11h |
+| @lancamentosdegames | Sai hoje (lançamento grande) | 10h |
+| @lancamentosdegames | Jogos grátis para resgatar (Epic toda quinta, Steam, GOG, PS Plus, Prime, Game Pass) | 14h |
+| @tudooqueestreia | Estreia hoje | 12h |
+| @showsconfirmados | Pré-venda hoje | 8h |
+| @showsconfirmados | Hoje tem show | 16h |
 | @jogosnatela | Agenda da semana | Segunda, 12h |
 | @esportesnatela | Agenda da semana | Segunda, 12h30 |
 | @lancamentosdegames | Lançamentos da semana | Segunda, 9h |
