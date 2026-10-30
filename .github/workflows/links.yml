@@ -1,0 +1,25 @@
+name: Páginas de links da bio
+
+on:
+  push:
+    branches: [main]
+    paths: ["fila/**", "config/links.json", "scripts/links_bio.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/links_bio.py
+      - run: |
+          git config user.name "central-de-postagem"
+          git config user.email "actions@users.noreply.github.com"
+          git add links
+          git diff --cached --quiet || (git commit -m "Links da bio atualizados" && git push)
