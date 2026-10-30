@@ -1,0 +1,327 @@
+{
+  "semana": "02 a 08 de novembro de 2026",
+  "apurado_em": "2026-10-28",
+  "contas": {
+    "jogosnatela": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-02T12:00:00-03:00",
+        "pilula": "02–08 NOV",
+        "chamada": "JOGOS DA SEMANA · HORÁRIO DE BRASÍLIA",
+        "titulo": "Onde assistir",
+        "itens": [
+          {
+            "data": "04/11",
+            "sub": "QUA · 14h45",
+            "titulo": "AEK x Real Madrid",
+            "detalhe": "Champions League · TNT Sports / HBO Max"
+          },
+          {
+            "data": "04/11",
+            "sub": "QUA · 19h30",
+            "titulo": "Flamengo x Grêmio",
+            "detalhe": "Brasileirão · Premiere"
+          },
+          {
+            "data": "04/11",
+            "sub": "QUA · 21h30",
+            "titulo": "São Paulo x Corinthians",
+            "detalhe": "Brasileirão, na Vila Belmiro · Globo, CazéTV, Premiere"
+          },
+          {
+            "data": "05/11",
+            "sub": "QUI · 19h30",
+            "titulo": "Palmeiras x Remo",
+            "detalhe": "Brasileirão · Premiere"
+          },
+          {
+            "data": "07/11",
+            "sub": "SÁB · 18h",
+            "titulo": "Atlético-MG x Grêmio",
+            "detalhe": "Semi da Copa do Brasil (volta) · SporTV, Amazon, Premiere"
+          },
+          {
+            "data": "08/11",
+            "sub": "DOM · 17h",
+            "titulo": "Vasco x Palmeiras",
+            "detalhe": "Semi da Copa do Brasil (volta) · Globo, SporTV, ge, Amazon, Premiere"
+          }
+        ],
+        "fonte": "Fontes: CBF · UEFA · emissoras",
+        "cta": "Salve a agenda",
+        "alt": "Agenda de jogos de 02 a 08 de novembro com horários de Brasília e onde assistir",
+        "legenda": "⚽ Os jogos da semana e onde assistir (horário de Brasília):\n\n🏆 Qua 04/11, 14h45 · AEK x Real Madrid · Champions League · TNT Sports / HBO Max\n🇧🇷 Qua 04/11, 19h30 · Flamengo x Grêmio · Brasileirão · Premiere\n🇧🇷 Qua 04/11, 21h30 · São Paulo x Corinthians, na Vila Belmiro · Globo, CazéTV, Premiere\n🇧🇷 Qui 05/11, 19h30 · Palmeiras x Remo · Brasileirão · Premiere\n🏆 Sáb 07/11, 18h · Atlético-MG x Grêmio · semi da Copa do Brasil (volta) · SporTV, Amazon, Premiere\n🏆 Dom 08/11, 17h · Vasco x Palmeiras · semi da Copa do Brasil (volta) · Globo, SporTV, ge, Amazon, Premiere\n\nQuem vai pra final da Copa do Brasil? Comenta aí 👇\nSalve o post e siga @jogosnatela para a agenda toda semana.\n\n#futebol #brasileirao #copadobrasil #championsleague #palmeiras #flamengo #corinthians #vasco #ondeassistir"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-23T18:00:00-03:00",
+        "pilula": "FINAL",
+        "chamada": "FINAL DA LIBERTADORES 2026",
+        "grande": "28/11",
+        "titulo": "Palmeiras x Estudiantes",
+        "caixas": [
+          [
+            "Onde é",
+            "Centenário, Montevidéu"
+          ],
+          [
+            "Onde assistir",
+            "Globo · ESPN · Disney+ · GETV"
+          ]
+        ],
+        "nota": "Sábado. Horário ainda não divulgado pela Conmebol.",
+        "fonte": "Fontes: Conmebol · emissoras",
+        "cta": "Ative o lembrete",
+        "alt": "Final da Libertadores 2026: Palmeiras x Estudiantes em 28 de novembro, no Centenário, em Montevidéu",
+        "legenda": "🏆 É a semana da final da Libertadores!\n\nPalmeiras x Estudiantes\n📅 Sábado, 28/11\n📍 Estádio Centenário, Montevidéu\n📺 Globo, ESPN, Disney+ e GETV\n\nO horário ainda não foi divulgado pela Conmebol. Ative as notificações de @jogosnatela que a gente avisa.\n\nQuem leva a Glória Eterna? 👇\n\n#libertadores #palmeiras #estudiantes #finaldalibertadores #futebol #conmebol"
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-02T12:30:00-03:00",
+        "pilula": "02–08 NOV",
+        "chamada": "ESPORTES DA SEMANA · HORÁRIO DE BRASÍLIA",
+        "titulo": "F1 em casa e UFC",
+        "itens": [
+          {
+            "data": "06–08",
+            "sub": "NOV",
+            "titulo": "Fim de semana do GP de São Paulo",
+            "detalhe": "Interlagos · sem corrida Sprint"
+          },
+          {
+            "data": "07/11",
+            "sub": "SÁB · 22h",
+            "titulo": "UFC: Gabriel Bonfim x Sean Brady",
+            "detalhe": "Luta principal em Las Vegas · Paramount+"
+          },
+          {
+            "data": "08/11",
+            "sub": "DOM · 14h",
+            "titulo": "Corrida do GP de São Paulo",
+            "detalhe": "TV Globo · SporTV · ge"
+          }
+        ],
+        "fonte": "Fontes: F1 · UFC · emissoras",
+        "cta": "Salve a agenda",
+        "alt": "Agenda de esportes de 02 a 08 de novembro: GP de São Paulo de F1 e UFC",
+        "legenda": "🏁 A semana tem F1 em casa e brasileiro na luta principal do UFC (horário de Brasília):\n\n🏎️ 06 a 08/11 · fim de semana do GP de São Paulo, em Interlagos\n🥊 Sáb 07/11, 22h (card principal) · UFC Las Vegas: Gabriel Bonfim x Sean Brady · Paramount+\n🏁 Dom 08/11, 14h · corrida do GP de São Paulo · TV Globo, SporTV e ge\n\nVai torcer de onde? 👇\nSiga @esportesnatela para a agenda toda semana.\n\n#f1 #gpdesaopaulo #interlagos #ufc #mma #esportes #formula1"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-09T18:00:00-03:00",
+        "pilula": "CINTURÃO DO PESO-GALO",
+        "chamada": "UFC 334 · LUTA CO-PRINCIPAL",
+        "grande": "14/11",
+        "titulo": "Amanda Nunes x Kayla Harrison",
+        "caixas": [
+          [
+            "Luta principal",
+            "Gane x Hokit"
+          ],
+          [
+            "Onde assistir",
+            "Paramount+ · 23h"
+          ]
+        ],
+        "nota": "Sábado, no Madison Square Garden. Caio Borralho e Bia Mesquita também lutam no evento.",
+        "fonte": "Fontes: UFC · Paramount+",
+        "cta": "Quem leva?",
+        "alt": "UFC 334 em 14 de novembro: Amanda Nunes x Kayla Harrison, luta co-principal no Madison Square Garden",
+        "legenda": "🥊 UFC 334 no Madison Square Garden, sábado 14/11!\n\nA Leoa Amanda Nunes encara Kayla Harrison pelo cinturão do peso-galo, na luta co-principal. A principal é Ciryl Gane x Josh Hokit, pelo cinturão dos pesados.\nOutros brasileiros no evento: Caio Borralho e Bia Mesquita.\n📺 Paramount+ · card principal às 23h (horário de Brasília)\n\nQuem leva? Amanda ou Kayla? 👇\n\n#ufc #ufc334 #amandanunes #mma #esportes #paramountplus"
+      }
+    ],
+    "tudooqueestreia": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-02T13:00:00-03:00",
+        "pilula": "02–08 NOV",
+        "chamada": "ESTREIAS DA SEMANA",
+        "titulo": "O que chega às telas",
+        "itens": [
+          {
+            "data": "05/11",
+            "sub": "QUI",
+            "titulo": "O Gatola da Cartola",
+            "detalhe": "Nos cinemas"
+          },
+          {
+            "data": "05/11",
+            "sub": "QUI",
+            "titulo": "Os Farofeiros 3",
+            "detalhe": "Nos cinemas"
+          },
+          {
+            "data": "05/11",
+            "sub": "QUI",
+            "titulo": "Black Doves · 2ª temporada",
+            "detalhe": "Netflix"
+          },
+          {
+            "data": "06/11",
+            "sub": "SEX",
+            "titulo": "Missão: Impossível – Nação Secreta",
+            "detalhe": "Chega à Netflix"
+          }
+        ],
+        "fonte": "Fontes: Ingresso.com · Netflix · Omelete",
+        "cta": "Salve a agenda",
+        "alt": "Estreias de 02 a 08 de novembro no cinema e na Netflix",
+        "legenda": "🍿 O que estreia nesta semana:\n\n🎬 Qui 05/11 · O Gatola da Cartola · nos cinemas\n🎬 Qui 05/11 · Os Farofeiros 3 · nos cinemas\n📺 Qui 05/11 · Black Doves, 2ª temporada · Netflix\n📺 Sex 06/11 · Missão: Impossível – Nação Secreta · chega à Netflix\n\nQual vai ser o seu primeiro? 👇\nSiga @tudooqueestreia para não perder nenhuma estreia.\n\n#estreias #netflix #cinema #filmes #series #lancamentos"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-05T18:00:00-03:00",
+        "pilula": "PRÉ-VENDA ABERTA",
+        "chamada": "ESTREIA DE NOVEMBRO",
+        "grande": "18/11",
+        "titulo": "Jogos Vorazes: Amanhecer na Colheita",
+        "caixas": [
+          [
+            "Onde",
+            "Nos cinemas"
+          ],
+          [
+            "Ingressos",
+            "Já à venda"
+          ]
+        ],
+        "fonte": "Fonte: Ingresso.com",
+        "cta": "Marque quem vai com você",
+        "alt": "Jogos Vorazes: Amanhecer na Colheita estreia em 18 de novembro nos cinemas, pré-venda aberta",
+        "legenda": "🏹 A pré-venda de Jogos Vorazes: Amanhecer na Colheita já está aberta!\n\n📅 Estreia 18/11 nos cinemas\n🎟️ Ingressos já à venda\n\nMarque quem vai com você 👇\n\n#jogosvorazes #thehungergames #cinema #estreias #prevenda"
+      }
+    ],
+    "lancamentosdegames": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-02T09:00:00-03:00",
+        "pilula": "02–08 NOV",
+        "chamada": "LANÇAMENTOS DA SEMANA",
+        "titulo": "O que jogar",
+        "itens": [
+          {
+            "data": "05/11",
+            "sub": "QUI",
+            "titulo": "Zelda: Ocarina of Time (remake)",
+            "detalhe": "Só no Switch 2"
+          },
+          {
+            "data": "05/11",
+            "sub": "QUI",
+            "titulo": "Stellar Blade Complete Edition",
+            "detalhe": "Switch 2 · jogo completo no cartucho"
+          },
+          {
+            "data": "05/11",
+            "sub": "QUI",
+            "titulo": "Crymelight",
+            "detalhe": "PC · PS5 · Switch 2"
+          }
+        ],
+        "fonte": "Fontes: Nintendo · Furyu · publishers",
+        "cta": "Qual você vai jogar?",
+        "alt": "Lançamentos de games de 02 a 08 de novembro",
+        "legenda": "🎮 Os lançamentos da semana:\n\n🗡️ Qui 05/11 · Zelda: Ocarina of Time (remake) · só no Switch 2\n⚔️ Qui 05/11 · Stellar Blade Complete Edition · Switch 2, jogo completo no cartucho\n🕹️ Qui 05/11 · Crymelight · PC, PS5 e Switch 2\n\nAviso: Edge of Memories foi adiado para 03/12.\n\nQual você vai jogar primeiro? 👇\n\n#games #lancamentos #zelda #nintendoswitch2 #ps5 #stellarblade #gamer"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-04T18:00:00-03:00",
+        "pilula": "O LANÇAMENTO DO ANO",
+        "chamada": "QUINTA-FEIRA",
+        "grande": "19/11",
+        "titulo": "GTA VI",
+        "caixas": [
+          [
+            "Preço no Brasil",
+            "R$ 449,90 · Ultimate R$ 549,90"
+          ],
+          [
+            "Plataformas",
+            "PS5 · Xbox Series X|S"
+          ]
+        ],
+        "nota": "A edição física vem com código de download, sem disco. Versão de PC só depois.",
+        "fonte": "Fontes: Rockstar Games · Ovício · Canaltech",
+        "cta": "Conta os dias com a gente",
+        "alt": "GTA VI chega em 19 de novembro para PS5 e Xbox Series, a partir de R$ 449,90",
+        "legenda": "🌴 Faltam 15 dias para GTA VI!\n\n📅 Quinta, 19/11\n🎮 PS5 e Xbox Series X|S\n💰 R$ 449,90 (Standard) · R$ 549,90 (Ultimate)\n💿 A edição física vem com código de download, sem disco\n🖥️ No PC, só depois\n\nVai comprar no lançamento? 👇\n\n#gtavi #gta6 #rockstargames #ps5 #xbox #games #lancamentos"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-02T19:00:00-03:00",
+        "pilula": "NOVEMBRO",
+        "chamada": "SHOWS CONFIRMADOS NO BRASIL",
+        "titulo": "Os grandes do mês",
+        "itens": [
+          {
+            "data": "09–13",
+            "sub": "NOV",
+            "titulo": "Hayley Williams",
+            "detalhe": "Rio (09) · São Paulo (12 e 13, esgotados)"
+          },
+          {
+            "data": "17–21",
+            "sub": "NOV",
+            "titulo": "Mariah Carey",
+            "detalhe": "São Paulo (17 e 18) · Rio (21) · Eventim"
+          },
+          {
+            "data": "20–22",
+            "sub": "NOV",
+            "titulo": "Best of Blues and Rock",
+            "detalhe": "Eddie Vedder e Roger Daltrey · Ibirapuera · Ticketmaster"
+          },
+          {
+            "data": "26–28",
+            "sub": "NOV",
+            "titulo": "Seal",
+            "detalhe": "Abertura de Seu Jorge · Rio (26) e SP (28) · Eventim"
+          },
+          {
+            "data": "28/11",
+            "sub": "SÁB",
+            "titulo": "BABYMETAL",
+            "detalhe": "Espaço Unimed, São Paulo · esgotado"
+          }
+        ],
+        "fonte": "Fonte: agenda Billboard Brasil · vendedoras oficiais",
+        "cta": "Marque quem vai",
+        "alt": "Os grandes shows de novembro no Brasil",
+        "legenda": "🎤 Os grandes shows de novembro no Brasil:\n\n🎸 Hayley Williams · Rio 09/11 (Qualistage) · São Paulo 12 e 13/11 (Espaço Unimed, esgotados)\n🎄 Mariah Carey · São Paulo 17 e 18/11 (Nubank Parque) · Rio 21/11 (Farmasi Arena) · Eventim\n🎸 Best of Blues and Rock · Eddie Vedder (20 e 22/11) e Roger Daltrey (21/11) · Ibirapuera, SP · Ticketmaster\n🎶 Seal, com abertura de Seu Jorge · Rio 26/11 (Qualistage) · São Paulo 28/11 (Nubank Parque) · Eventim\n🤘 BABYMETAL · 28/11 · Espaço Unimed, SP · esgotado\n\nCompre só nas vendedoras oficiais. Marque quem vai com você 👇\n\n#shows #showsnobrasil #mariahcarey #eddievedder #babymetal #seal #hayleywilliams #musica"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-06T18:00:00-03:00",
+        "pilula": "3 SHOWS",
+        "chamada": "SHOW CONFIRMADO",
+        "titulo": "Mariah Carey no Brasil",
+        "linhas": [
+          [
+            "17/11",
+            "São Paulo",
+            "Nubank Parque"
+          ],
+          [
+            "18/11",
+            "São Paulo",
+            "Data extra · Nubank Parque"
+          ],
+          [
+            "21/11",
+            "Rio de Janeiro",
+            "Área externa da Farmasi Arena"
+          ]
+        ],
+        "nota": "Ingressos na Eventim, a vendedora oficial. Desconfie de revenda.",
+        "fonte": "Fontes: Eventim · Billboard Brasil",
+        "cta": "Vai em qual?",
+        "alt": "Mariah Carey no Brasil: 17 e 18 de novembro em São Paulo e 21 de novembro no Rio",
+        "legenda": "🎄 Mariah Carey no Brasil, agora com data extra!\n\n📍 17/11 · São Paulo · Nubank Parque\n📍 18/11 · São Paulo · Nubank Parque (data extra)\n📍 21/11 · Rio de Janeiro · área externa da Farmasi Arena\n🎟️ Ingressos na Eventim, a vendedora oficial. Desconfie de revenda.\n\nVai em qual? 👇\n\n#mariahcarey #shows #saopaulo #riodejaneiro #eventim #showsnobrasil"
+      }
+    ]
+  }
+}

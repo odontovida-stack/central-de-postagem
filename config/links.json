@@ -1,0 +1,52 @@
+{
+  "brazilonabudget": {
+    "titulo": "Brazil on a Budget · travel guides",
+    "fixos": [
+      {
+        "titulo": "NEW · Carnaval de Río 2027 – guía PDF (ES)",
+        "url": "https://quickbudgetguides.gumroad.com/l/bwpwj"
+      },
+      {
+        "titulo": "NEW · Camboriú 2026/27 – guía PDF (ES)",
+        "url": "https://quickbudgetguides.gumroad.com/l/djird"
+      },
+      {
+        "titulo": "Brasil: las 7 guías – pack (ES)",
+        "url": "https://quickbudgetguides.gumroad.com/l/ngueoa"
+      },
+      {
+        "titulo": "All guides · Todas las guías",
+        "url": "https://quickbudgetguides.gumroad.com"
+      }
+    ]
+  },
+  "jogosnatela": {
+    "titulo": "@jogosnatela · links",
+    "fixos": []
+  },
+  "esportesnatela": {
+    "titulo": "@esportesnatela · links",
+    "fixos": []
+  },
+  "tudooqueestreia": {
+    "titulo": "@tudooqueestreia · links",
+    "fixos": []
+  },
+  "lancamentosdegames": {
+    "titulo": "@lancamentosdegames · links",
+    "fixos": []
+  },
+  "showsconfirmados": {
+    "titulo": "@showsconfirmados · links",
+    "fixos": []
+  },
+  "brasil2359": {
+    "titulo": "Brasil 23:59 · links",
+    "fixos": [
+      {
+        "titulo": "Fontes e regulamento do relógio",
+        "url": "https://claude.ai/artifact/YWsaZ9GeGDNo1Ls14UxWGN"
+      }
+    ]
+  }
+}

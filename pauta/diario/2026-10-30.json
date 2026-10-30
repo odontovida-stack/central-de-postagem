@@ -1,0 +1,97 @@
+{
+  "dia": "30/10/2026",
+  "apurado_em": "2026-10-30",
+  "contas": {
+    "jogosnatela": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "hoje",
+        "quando": "2026-10-30T07:30:00-03:00",
+        "alt": "Resultados de quinta, 29/10, e jogos de sexta, 30/10, com horários de Brasília e onde assistir",
+        "cards": [
+          {
+            "tipo": "agenda",
+            "pilula": "QUI 29/10",
+            "chamada": "RESULTADOS DE ONTEM",
+            "titulo": "Placar final",
+            "itens": [
+              {"data": "1x4", "sub": "FINAL", "titulo": "Vasco x Flamengo", "detalhe": "Brasileirão · Pedro 2, Samuel Lino 2"},
+              {"data": "0x1", "sub": "FINAL", "titulo": "Atlético-MG x Cruzeiro", "detalhe": "Brasileirão · gol de Kaio Jorge"},
+              {"data": "2x0", "sub": "FINAL", "titulo": "Grêmio x Athletico-PR", "detalhe": "Brasileirão · Grêmio sai do Z4"},
+              {"data": "3x1", "sub": "FINAL", "titulo": "Everton x Newcastle", "detalhe": "Copa da Liga Inglesa"}
+            ],
+            "fonte": "Conferido em 30/10 às 0h50 · Carta Capital, O Tempo, Metrópoles, Sky Sports",
+            "cta": "Arraste →",
+            "alt": "Resultados de quinta: Vasco 1x4 Flamengo, Atlético-MG 0x1 Cruzeiro, Grêmio 2x0 Athletico-PR e Everton 3x1 Newcastle"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "SEX 30/10",
+            "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+            "titulo": "Onde assistir",
+            "itens": [
+              {"data": "30/10", "sub": "SEX · 15h", "titulo": "Le Havre x PSG", "detalhe": "Ligue 1 · CazéTV, XSports"},
+              {"data": "30/10", "sub": "SEX · 17h", "titulo": "Villarreal x Espanyol", "detalhe": "LaLiga · SportyNet"},
+              {"data": "30/10", "sub": "SEX · 17h15", "titulo": "Casa Pia x Sporting", "detalhe": "Liga Portugal · ESPN 4, Disney+"},
+              {"data": "30/10", "sub": "SEX · 19h30", "titulo": "Criciúma x Ponte Preta", "detalhe": "Série B · Disney+"},
+              {"data": "30/10", "sub": "SEX · 20h", "titulo": "Corinthians x Mirassol", "detalhe": "Brasileirão · SporTV, Premiere"}
+            ],
+            "fonte": "Conferido em 30/10 às 0h50 · Lance, guias de TV",
+            "cta": "Salve e compartilhe",
+            "alt": "Jogos de sexta, 30/10: Le Havre x PSG 15h, Villarreal x Espanyol 17h, Casa Pia x Sporting 17h15, Criciúma x Ponte Preta 19h30 e Corinthians x Mirassol 20h"
+          }
+        ],
+        "legenda": "⚽ Flamengo atropela o Vasco, Cruzeiro vence o clássico e o Grêmio sai do Z4. E hoje tem Corinthians!\n\n📊 Resultados de ontem (quinta, 29/10):\n🇧🇷 Vasco 1x4 Flamengo · Brasileirão\n🇧🇷 Atlético-MG 0x1 Cruzeiro · Brasileirão\n🇧🇷 Grêmio 2x0 Athletico-PR · Brasileirão\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton 3x1 Newcastle · Copa da Liga Inglesa\n\n📺 Jogos de hoje (horário de Brasília):\n🇫🇷 15h · Le Havre x PSG · Ligue 1 · CazéTV, XSports\n🇪🇸 17h · Villarreal x Espanyol · LaLiga · SportyNet\n🇵🇹 17h15 · Casa Pia x Sporting · Liga Portugal · ESPN 4, Disney+\n🇧🇷 19h30 · Criciúma x Ponte Preta · Série B · Disney+\n🇧🇷 20h · Corinthians x Mirassol · Brasileirão · SporTV, Premiere\n\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual desses você vai assistir? Comenta aí 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #brasileirao #flamengo #cruzeiro #corinthians #psg #ondeassistir"
+      },
+      {
+        "tipo": "destaque",
+        "sufixo": "noticia",
+        "quando": "2026-10-30T10:30:00-03:00",
+        "foto": "estadio-maracana",
+        "pilula": "LÍDER",
+        "chamada": "BRASILEIRÃO 2026 · 33ª RODADA",
+        "grande": "73",
+        "titulo": "Flamengo líder isolado",
+        "caixas": [["Vice", "Palmeiras, 70 pts"], ["Faltam", "5 rodadas"]],
+        "nota": "Goleou o Vasco por 4 a 1 e abriu 3 pontos.",
+        "fonte": "Conferido em 30/10 às 0h50 · Carta Capital, Lance, Blog do Redação",
+        "cta": "Salve e compartilhe",
+        "alt": "Flamengo líder isolado do Brasileirão com 73 pontos, 3 à frente do Palmeiras, a 5 rodadas do fim",
+        "legenda": "🔴⚫ O Flamengo está sozinho na ponta do Brasileirão!\n\nCom o 4 a 1 sobre o Vasco na quinta, o Rubro-Negro chegou a 73 pontos e abriu 3 de vantagem sobre o Palmeiras, que empatou com o Santos (0 a 0) na quarta.\n\n🥇 Flamengo · 73 pontos\n🥈 Palmeiras · 70 pontos\n🗓️ Faltam 5 rodadas\n⚽ Pedro e Samuel Lino fizeram 2 gols cada no clássico\n\n📌 Salve para acompanhar a reta final.\n📤 Mande para quem torce com você.\n\nQuem fica com o título: Flamengo ou Palmeiras? 👇\nSiga @jogosnatela para não perder nada da reta final.\n\nFontes: Carta Capital, Lance e Blog do Redação.\n\n#brasileirao #flamengo #palmeiras #futebol #lider #retafinal"
+      },
+      {
+        "tipo": "pergunta",
+        "sufixo": "o-que-achou",
+        "quando": "2026-10-30T12:00:00-03:00",
+        "foto": "futebol-gramado",
+        "pilula": "O QUE ACHOU?",
+        "chamada": "VASCO 1x4 FLAMENGO",
+        "titulo": "O Flamengo já é favorito ao título?",
+        "contexto": "Goleada no clássico e 3 pontos de vantagem a 5 rodadas do fim.",
+        "opcoes": ["Sim, o título é do Fla", "Ainda dá Palmeiras", "Vai até a última rodada"],
+        "fonte": "",
+        "cta": "Responda A, B ou C",
+        "alt": "Pergunta: depois do 4 a 1 no Vasco, o Flamengo já é favorito ao título? A: Sim. B: Ainda dá Palmeiras. C: Vai até a última rodada.",
+        "legenda": "🤔 Depois do 4 a 1 no Vasco, o Flamengo já é favorito ao título?\n\nA) Sim, o título é do Fla\nB) Ainda dá Palmeiras\nC) Vai até a última rodada\n\n📌 Salve e volte no fim do campeonato para ver quem acertou.\n📤 Mande para aquele amigo palmeirense (ou rubro-negro).\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para a reta final do Brasileirão.\n\n#brasileirao #flamengo #palmeiras #vasco #futebol #enquete"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "destaque",
+        "sufixo": "hoje",
+        "quando": "2026-10-30T16:00:00-03:00",
+        "foto": "show-plateia",
+        "pilula": "SEX 30/10",
+        "chamada": "HOJE TEM SHOW · SÃO PAULO",
+        "grande": "20h",
+        "titulo": "BTS no MorumBIS",
+        "caixas": [["Portões", "Abrem às 16h"], ["Turnê", "ARIRANG · 2º show"]],
+        "nota": "Tem show de novo amanhã (31/10). Ingresso só no link oficial: Ticketmaster.",
+        "fonte": "Conferido em 30/10 às 0h50 · Rolling Stone Brasil, Rio Times",
+        "cta": "Mande para quem vai",
+        "alt": "Hoje tem show: BTS no Estádio MorumBIS, em São Paulo, portões às 16h e show às 20h",
+        "legenda": "💜 Hoje é dia de BTS em São Paulo!\n\n🎤 BTS · turnê ARIRANG\n📍 Estádio MorumBIS, Morumbi, São Paulo\n🚪 Portões: 16h\n🎶 Show: 20h (horário de Brasília)\n🔞 Classificação: 16 anos\n🚇 Metrô mais perto: São Paulo-Morumbi (Linha 4-Amarela)\n🎬 O show de hoje passa ao vivo nos cinemas das Américas\n🗓️ Último show em SP: amanhã, 31/10\n\nA imprensa noticiou os três shows como esgotados. Ingresso, só no link oficial: Ticketmaster. Fuja de cambista.\n\n📌 Salve para ter os horários à mão.\n📤 Mande para quem vai ao show com você.\n\nVai hoje, amanhã ou vai ver no cinema? 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\nFontes: Rolling Stone Brasil e Rio Times.\n\n#bts #arirang #btsnobrasil #morumbis #saopaulo #showsconfirmados #army"
+      }
+    ]
+  }
+}

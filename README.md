@@ -168,3 +168,12 @@ Secrets necessários (Settings → Secrets and variables → Actions):
 Para publicar a tela de consentimento, ponha o app do Google Cloud "Em produção", e não "Em teste". Em teste, o token vence em 7 dias.
 
 Thumbnail personalizada só funciona em canal verificado por telefone (youtube.com/verify).
+
+## Páginas de links da bio (afiliados)
+
+- Cada perfil tem uma página `links/<conta>.html` (ex.: `https://odontovida-stack.github.io/central-de-postagem/links/brazilonabudget.html`). Ela entra no lugar do link da bio. O GitHub Pages precisa estar ligado: Settings → Pages → main / root.
+- **Links fixos** (loja Payhip, guias, pacote): em `config/links.json`.
+- **Links de cada post** (afiliado do jogo grátis, do passeio, do produto): no card da pauta, campo `"links": [{"titulo": "Resgatar na Epic", "url": "https://..."}]`. O gerador copia para o `post.json`.
+- O workflow `links.yml` refaz as páginas sozinho a cada mudança na fila e mostra os 12 links mais recentes de cada perfil.
+- Toda página leva o aviso de link de afiliado, exigido pela lei americana (FTC) e pelas plataformas.
+- Os links de afiliado usam `rel="sponsored"`.

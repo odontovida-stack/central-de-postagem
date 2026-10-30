@@ -1,0 +1,360 @@
+{
+  "semana": "2026-10-31 a 2026-11-05 · carrosséis comentados",
+  "apurado_em": "2026-10-29",
+  "contas": {
+    "lancamentosdegames": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-10-31T11:00:00-03:00",
+        "sufixo": "gratis-da-semana",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "pc-teclado",
+            "pilula": "O GRÁTIS DA SEMANA",
+            "chamada": "EPIC GAMES · GRÁTIS ATÉ 05/11",
+            "titulo": "Sorry We're Closed: vale resgatar?",
+            "caixas": [
+              [
+                "Nota no OpenCritic",
+                "82"
+              ],
+              [
+                "Resgate até",
+                "05/11, antes das 12h"
+              ]
+            ],
+            "fonte": "Fontes: OpenCritic · Epic Games Store",
+            "cta": "Arraste →",
+            "alt": "Sorry We're Closed está grátis na Epic Games até 5 de novembro; nota 82 no OpenCritic"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "O QUE É",
+            "titulo": "Terror retrô no estilo Resident Evil",
+            "pilula": "O GRÁTIS DA SEMANA",
+            "texto": "Terror de sobrevivência com visual dos anos 90 e câmera fixa, como os primeiros Resident Evil. Os tiroteios são em primeira pessoa e há vários finais.",
+            "fonte": "Fonte: Akupara Games · OpenCritic"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "AS NOTAS",
+            "titulo": "A crítica gostou",
+            "pilula": "O GRÁTIS DA SEMANA",
+            "topicos": [
+              "82 no OpenCritic, com 86% de recomendação",
+              "83 no Metacritic",
+              "Melhor jogo de estreia no Indie Game Awards 2025",
+              "A chave na Steam custa R$ 74,99 (Nuuvem, 29/10)"
+            ],
+            "fonte": "Fontes: OpenCritic · Metacritic · Nuuvem"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "PASSO A PASSO",
+            "titulo": "Como resgatar",
+            "pilula": "O GRÁTIS DA SEMANA",
+            "topicos": [
+              "Abra store.epicgames.com/free-games",
+              "Entre na sua conta Epic (criar é grátis)",
+              "Clique no jogo e depois em Obter",
+              "Finalize o pedido de R$ 0,00: o jogo é seu para sempre"
+            ],
+            "fonte": "Epic Games Store"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "TEM MAIS",
+            "titulo": "Outros grátis desta semana",
+            "pilula": "O GRÁTIS DA SEMANA",
+            "topicos": [
+              "Steam: Asleep: Ato 1, de 30/10 a 02/11",
+              "Prime Gaming: DOOM (2016) e FNAF: Into the Pit, até 04/11",
+              "Prime Gaming: Conarium, até 11/11"
+            ],
+            "fonte": "Fontes: Steam · Prime Gaming · GameHall"
+          },
+          {
+            "tipo": "pergunta",
+            "pilula": "O GRÁTIS DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Vai resgatar o Sorry We're Closed?",
+            "opcoes": [
+              "Já resgatei",
+              "Vou resgatar agora",
+              "Não curto terror"
+            ],
+            "cta": "Responda A, B ou C"
+          }
+        ],
+        "legenda": "🎁 Um terror premiado de graça até 05/11. Vale o resgate?\n\n👻 Sorry We're Closed: terror retrô de câmera fixa, no estilo dos primeiros Resident Evil\n⭐ 82 no OpenCritic · 83 no Metacritic\n🏆 Melhor jogo de estreia no Indie Game Awards 2025\n⏰ Grátis na Epic Games até quinta, 05/11. Resgate antes das 12h\n➕ Na Steam, Asleep: Ato 1 está grátis até 02/11\n\n📌 Salve para não esquecer o prazo\n📤 Mande para aquele amigo que joga terror\n\nVai resgatar? Responda A, B ou C 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\n#jogosgratis #epicgames #epicgamesstore #pcgamer #jogosdeterror #games #gamer"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-03T19:00:00-03:00",
+        "sufixo": "game-da-semana",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "QUINTA · 05/11 · SÓ NO SWITCH 2",
+            "titulo": "Zelda: Ocarina of Time refeito do zero",
+            "caixas": [
+              [
+                "Digital na eShop",
+                "R$ 329,90"
+              ],
+              [
+                "Download",
+                "cerca de 27 GB"
+              ]
+            ],
+            "fonte": "Preço em 29/10 · Fontes: Nintendo · Money Times",
+            "cta": "Arraste →",
+            "alt": "The Legend of Zelda: Ocarina of Time remake sai em 5 de novembro só no Switch 2, por R$ 329,90 na eShop"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "O QUE É",
+            "titulo": "O clássico de 1998, refeito",
+            "pilula": "O GAME DA SEMANA",
+            "texto": "Ocarina of Time saiu no Nintendo 64 e até hoje aparece nas listas de melhores jogos da história. O remake refaz o visual num estilo realista e moderniza os controles.",
+            "fonte": "Fonte: Nintendo · Game Informer"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "O QUE MUDA",
+            "titulo": "Não é uma cópia 1:1",
+            "pilula": "O GAME DA SEMANA",
+            "topicos": [
+              "Cenas dubladas e trilha sinfônica",
+              "Botão de pulo e mira por movimento",
+              "Sem câmera fixa e sem tela de loading nos prédios",
+              "Dá para tocar a ocarina pelo microfone"
+            ],
+            "fonte": "Fontes: Nintendo · IGN (prévia)"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "NO BRASIL",
+            "titulo": "Quanto custa",
+            "pilula": "O GAME DA SEMANA",
+            "topicos": [
+              "Digital: R$ 329,90 na eShop",
+              "Físico: a partir de R$ 439,90 no Pix (KaBuM)",
+              "A edição especial de capa metalizada esgotou na pré-venda",
+              "Notas de review: ainda não saíram"
+            ],
+            "fonte": "Preços em 29/10 · Money Times · Canaltech · O Povo"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "NOSSA OPINIÃO",
+            "titulo": "Vale a pré-venda?",
+            "pilula": "O GAME DA SEMANA",
+            "texto": "Para quem nunca jogou, é o melhor jeito de conhecer o clássico. Para quem já jogou, as mudanças parecem grandes o bastante. Mas, sem nenhuma nota de review ainda, esperar uns dias não custa nada.",
+            "fonte": "Opinião da página"
+          },
+          {
+            "tipo": "pergunta",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Vai comprar o novo Zelda?",
+            "opcoes": [
+              "Sim, no lançamento",
+              "Vou esperar as notas",
+              "Só se baixar de preço",
+              "Não tenho Switch 2"
+            ],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🗡️ Um dos jogos mais amados da história volta refeito do zero nesta quinta.\n\n📅 The Legend of Zelda: Ocarina of Time · quinta, 05/11\n🎮 Só no Nintendo Switch 2\n💰 R$ 329,90 na eShop · físico a partir de R$ 439,90 no Pix\n🎻 Cenas dubladas, trilha sinfônica, botão de pulo e nada de câmera fixa\n⭐ Notas de review: ainda não saíram\n\n📌 Salve para lembrar no dia\n📤 Mande para quem jogou o original no Nintendo 64\n\nE aí, vai comprar? Responda A, B, C ou D 👇\nSiga @lancamentosdegames para ver tudo o que sai na semana.\n\n#zelda #ocarinaoftime #nintendo #nintendoswitch2 #switch2 #games #lancamentos"
+      }
+    ],
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-04T20:00:00-03:00",
+        "sufixo": "estreias-esperadas",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "cinema-sala",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "chamada": "QUINTA · 05/11",
+            "titulo": "3 estreias para a sua semana",
+            "linhas": [
+              [
+                "05/11",
+                "Black Doves 2",
+                "Netflix · temporada inteira"
+              ],
+              [
+                "05/11",
+                "Os Farofeiros 3",
+                "Nos cinemas"
+              ],
+              [
+                "05/11",
+                "O Gatola da Cartola",
+                "Nos cinemas"
+              ]
+            ],
+            "fonte": "Fontes: Netflix · Ingresso.com · Warner",
+            "cta": "Arraste →",
+            "alt": "Estreias de 5 de novembro: Black Doves 2 na Netflix, Os Farofeiros 3 e O Gatola da Cartola nos cinemas"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "NETFLIX · 05/11",
+            "titulo": "Black Doves, 2ª temporada",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "texto": "Thriller de espionagem em Londres: Helen (Keira Knightley) passa segredos do marido político para uma organização secreta, com a ajuda do assassino Sam (Ben Whishaw).",
+            "topicos": [
+              "6 episódios, todos de uma vez",
+              "Entram Neve Campbell, Ambika Mod e Sam Riley",
+              "A 1ª temporada teve 92% da crítica no Rotten Tomatoes"
+            ],
+            "fonte": "Fontes: Netflix · What's on Netflix · Rotten Tomatoes"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "CINEMAS · 05/11",
+            "titulo": "Os Farofeiros 3",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "texto": "A comédia nacional de Roberto Santucci volta com Cacau Protásio, Maurício Manfrini, Antônio Fragoso e Danielle Winits.",
+            "topicos": [
+              "Os 2 primeiros filmes somam mais de R$ 55 milhões de bilheteria",
+              "O primeiro levou 2,6 milhões de pessoas ao cinema"
+            ],
+            "fonte": "Fontes: Downtown Filmes · Ingresso.com"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "CINEMAS · 05/11",
+            "titulo": "O Gatola da Cartola",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "texto": "Animação nova baseada no livro de Dr. Seuss: o Gatola precisa animar dois irmãos que acabaram de mudar de cidade, sem perder o chapéu mágico.",
+            "topicos": [
+              "Direção de Alessandro Carloni e Erica Rivinoja",
+              "Na versão brasileira, Philippe Maia dá voz ao Gatola",
+              "Programa para ir com as crianças"
+            ],
+            "fonte": "Fontes: Warner Bros. · Einerd"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "NOSSA OPINIÃO",
+            "titulo": "Qual vale mais a pena?",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "texto": "Black Doves é a aposta mais segura: a 1ª temporada foi muito bem de crítica. No cinema, Farofeiros 3 é para rir em grupo e o Gatola é o passeio de família da semana.",
+            "fonte": "Opinião da página"
+          },
+          {
+            "tipo": "pergunta",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você vai ver primeiro?",
+            "opcoes": [
+              "Black Doves 2",
+              "Os Farofeiros 3",
+              "O Gatola da Cartola",
+              "Nenhum desses"
+            ],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🍿 Quinta tem estreia no sofá e no cinema. Qual vai ser a sua?\n\n🕵️ Black Doves, 2ª temporada · Netflix, 05/11 · 6 episódios de uma vez\n😂 Os Farofeiros 3 · cinemas, 05/11\n🎩 O Gatola da Cartola · cinemas, 05/11 · animação para a família\n\n📌 Salve para montar sua semana\n📤 Mande para quem vai ao cinema com você\n\nQual você vê primeiro? Responda A, B, C ou D 👇 (sem spoiler nos comentários!)\nSiga @tudooqueestreia para saber tudo o que estreia.\n\n#estreias #netflix #blackdoves #osfarofeiros3 #cinema #filmes #series"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-05T19:00:00-03:00",
+        "sufixo": "show-da-semana",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "show-plateia",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "RIO 09/11 · SÃO PAULO 12 E 13/11",
+            "titulo": "Hayley Williams no Brasil",
+            "caixas": [
+              [
+                "São Paulo · Espaço Unimed",
+                "Esgotado"
+              ],
+              [
+                "Rio · Qualistage",
+                "Veja na Eventim"
+              ]
+            ],
+            "fonte": "Fontes: Eventim · Omelete · Billboard Brasil",
+            "cta": "Arraste →",
+            "alt": "Hayley Williams faz shows no Rio em 9 de novembro e em São Paulo em 12 e 13 de novembro"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "A TURNÊ",
+            "titulo": "The Hayley Williams Show",
+            "pilula": "O SHOW DA SEMANA",
+            "texto": "A vocalista do Paramore vem com a turnê solo, que junta músicas dos seus 3 discos solo. O mais recente é Ego Death at a Bachelorette Party, de 2025.",
+            "fonte": "Fonte: Billboard Brasil"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "ESGOTOU RÁPIDO",
+            "titulo": "SP lotou e ganhou data extra",
+            "pilula": "O SHOW DA SEMANA",
+            "topicos": [
+              "O show de 12/11 esgotou e ganhou o dia 13/11",
+              "As 2 datas de SP esgotaram em poucas horas, segundo a Omelete",
+              "Depois veio o Rio: segunda, 09/11, no Qualistage"
+            ],
+            "fonte": "Fontes: Omelete · DGABC · Billboard Brasil"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "O QUE ESPERAR",
+            "titulo": "O setlist da turnê",
+            "pilula": "O SHOW DA SEMANA",
+            "texto": "Na estreia da turnê, em setembro nos EUA, foram 26 músicas, com 6 tocadas ao vivo pela primeira vez.",
+            "topicos": [
+              "Kill Me, Simmer e True Believer",
+              "No bis: Mirtazapine e Parachute"
+            ],
+            "fonte": "Fonte: setlist.fm"
+          },
+          {
+            "tipo": "texto",
+            "chamada": "ATENÇÃO",
+            "titulo": "Cuidado com golpe de ingresso",
+            "pilula": "O SHOW DA SEMANA",
+            "topicos": [
+              "Compre só na Eventim ou na bilheteria oficial",
+              "Desconfie de preço muito abaixo do normal",
+              "Não pague com Pix para desconhecidos",
+              "Print de ingresso pode ser falso"
+            ],
+            "fonte": "Fonte: Eventim · Estado de Minas"
+          },
+          {
+            "tipo": "pergunta",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Você vai ao show?",
+            "opcoes": [
+              "Vou no Rio",
+              "Vou em São Paulo",
+              "Não consegui ingresso",
+              "Não dessa vez"
+            ],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🎤 A vocalista do Paramore esgotou São Paulo em poucas horas. Semana que vem é a vez dela.\n\n📍 Rio · segunda, 09/11 · Qualistage\n📍 São Paulo · 12 e 13/11 · Espaço Unimed (esgotado)\n💿 Turnê solo, com músicas dos 3 discos, incluindo Ego Death at a Bachelorette Party (2025)\n🎟️ Ingressos só pela Eventim. Cuidado com revenda e com Pix para desconhecidos\n\n📌 Salve para não esquecer a data\n📤 Mande para quem vai com você\n\nVocê vai? Responda A, B, C ou D 👇\nSiga @showsconfirmados para saber de todo show confirmado no Brasil.\n\n#hayleywilliams #paramore #shows #showsnobrasil #espacounimed #qualistage #musica"
+      }
+    ]
+  }
+}
