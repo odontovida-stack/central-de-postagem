@@ -1,12 +1,98 @@
-Openverse falhou para quadra-volei: The read operation timed out
-OK quadra-volei: Foto: Offonvictory · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Penn_State_Women%27s_Volleyball_warming_up_prior_to_the_2014_Women%27s_Volleyball_National_Championship.jpg)
-Openverse falhou para pista-atletismo: The read operation timed out
-OK pista-atletismo: Foto: Owen Massey McKnight · CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Iffley_Road_Track-blue_plaque.jpg)
-Openverse falhou para piscina-natacao: The read operation timed out
-OK piscina-natacao: Foto: Tanis Coralee Leonhardi · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:King_County_Aquatic_Center_competition_pool_and_timing_system_-_23_November_2022.jpg)
 Openverse falhou para tatame-lutas: The read operation timed out
 NADA para tatame-lutas (judo tatami mat)
-Openverse falhou para quadra-basquete: The read operation timed out
-OK quadra-basquete: Foto: Bob Mical · CC BY 2.0 (https://commons.wikimedia.org/wiki/File:John_Paul_Jones_Arena_HDR.jpg)
-Openverse falhou para quadra-tenis: The read operation timed out
-OK quadra-tenis: Foto: Dwight Burdette · CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Hardcourt_tennis_court_curtiss_park_saline_michigan.JPG)
+Openverse falhou para yt-taf001-pentagon: The read operation timed out
+OK yt-taf001-pentagon: Foto: TSGT CEDRIC H. RUDISILL, USAF · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Pentagon_during_rescue_operations_post-September_11_attack.JPEG)
+Openverse falhou para yt-taf001-capitol: The read operation timed out
+OK yt-taf001-capitol: Foto: Noclip · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg)
+Openverse falhou para yt-taf001-carrier: The read operation timed out
+OK yt-taf001-carrier: Foto: U.S. Navy photo by Seaman Recruit Pablo Chavez · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:USS_Carl_Vinson_(CVN_70)_Conducts_Routine_Operations_in_the_Celebes_Sea_(8860610).jpg)
+Openverse falhou para yt-taf001-ww2-fleet: The read operation timed out
+OK yt-taf001-ww2-fleet: Foto: Photographed from USS New Jersey (BB-62) by Lieutenant Comma · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:US_Third_Fleet_warships_enroute_to_the_Philippines_January_1945.jpg)
+Openverse falhou para yt-taf001-white-house: The read operation timed out
+OK yt-taf001-white-house: Foto: National Park Service · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:North_facade_of_Longfellow_House_from_Garden,_1905_(c4198b17-0e59-491a-9b29-d06b2e39bd0b).jpg)
+Openverse falhou para yt-taf001-minuteman: The read operation timed out
+OK yt-taf001-minuteman: Foto: A1C Jack Rodriguez Escamilla, USAF · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Unarmed_Minuteman_III_ICBM_launch_-_operational_test_-_Vandenberg_Space_Force_Base_-_May_21_2025.jpg)
+Openverse falhou para yt-taf001-f35: The read operation timed out
+OK yt-taf001-f35: Foto: Airman 1st Class Alexander Cook · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg)
+Openverse falhou para yt-taf001-ramstein: The read operation timed out
+OK yt-taf001-ramstein: Foto: Beowulf Tomek · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Ramstein_Air_Base.jpg)
+Openverse falhou para yt-taf002-voting-booths: The read operation timed out
+NADA para yt-taf002-voting-booths (empty voting booths polling place United States)
+OK yt-taf002-capitol: Foto: peakfocus.agency · CC BY 4.0 (https://commons.wikimedia.org/wiki/File:The_dome_of_the_United_States_Capitol_building.jpg)
+Openverse falhou para yt-taf002-farewell-address: The read operation timed out
+NADA para yt-taf002-farewell-address (Washington's Farewell Address American Daily Advertiser 1796)
+Openverse falhou para yt-taf002-butterfly-ballot: The read operation timed out
+NADA para yt-taf002-butterfly-ballot (Palm Beach County butterfly ballot 2000)
+OK yt-taf002-state-legislature: Foto: autor desconhecido · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:NORTHEAST_FACADE_AND_PERSPECTIVE_OF_HUNTER_HOLMES_MCGUIRE_STATUE,_LOOKING_WEST_-_Virginia_State_Capitol,_Bank_and_10th_Streets,_Capitol_Square,_Richmond,_Independent_City,_VA_HABS_VA,44-RICH,9-71.tif)
+Openverse falhou para yt-taf002-ballots: The read operation timed out
+OK yt-taf002-ballots: Foto: Unidentified · CC0 (https://commons.wikimedia.org/wiki/File:Missouri_Democratic_Ticket_for_the_United_States_Presidential_Election_of_1868_(2016.149.1).tif)
+Openverse falhou para yt-taf002-debate-stage: The read operation timed out
+NADA para yt-taf002-debate-stage (presidential debate stage empty hall)
+Openverse falhou para yt-taf002-house-chamber: The read operation timed out
+OK yt-taf002-house-chamber: Foto: Bneu2013 · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Tennessee_House_of_Representatives_chamber_-_back_view.jpg)
+Openverse falhou para yt-taf002-gerrymander: The read operation timed out
+OK yt-taf002-gerrymander: Foto: Elkanah Tisdale (1771-1835) (often falsely attributed to Gil · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:The_Gerry-Mander_Edit.png)
+Openverse falhou para yt-taf002-district-map: The read operation timed out
+OK yt-taf002-district-map: Foto: United States Western Power Administration. United States De · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:United_States_Western_Area_Power_Administration_congressional_districts_map_1985.jpg)
+Openverse falhou para yt-bhc001-peconic-bay: The read operation timed out
+NADA para yt-bhc001-peconic-bay (Peconic Bay Long Island shoreline)
+Openverse falhou para yt-bhc001-nassau-point: The read operation timed out
+NADA para yt-bhc001-nassau-point (Nassau Point Cutchogue Long Island)
+Openverse falhou para yt-bhc001-letter: The read operation timed out
+NADA para yt-bhc001-letter (Einstein–Szilárd letter 1939 Roosevelt)
+Openverse falhou para yt-bhc001-russell-square: The read operation timed out
+NADA para yt-bhc001-russell-square (Southampton Row Russell Square London)
+Openverse falhou para yt-bhc001-uranium-ore: The read operation timed out
+NADA para yt-bhc001-uranium-ore (uraninite pitchblende uranium ore specimen)
+OK yt-bhc001-ias-princeton: Foto: Zeete · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Fuld_Hall,_Institute_for_Advanced_Study,_Princeton,_NJ.jpg)
+Openverse falhou para yt-bhc001-battleship-1939: The read operation timed out
+NADA para yt-bhc001-battleship-1939 (SMS Schleswig-Holstein shelling Westerplatte 1939)
+Openverse falhou para yt-bhc001-white-house: The read operation timed out
+OK yt-bhc001-white-house: Foto: Ad Meskens · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:South_facade_of_the_White_House,_Washington_DC,_as_seen_from_the_Washington_Monument.jpg)
+Openverse falhou para yt-bhc001-birmingham: The read operation timed out
+OK yt-bhc001-birmingham: Foto: mattbuck (category) · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Birmingham_MMB_31_University_of_Birmingham.jpg)
+Openverse falhou para yt-bhc001-hiroshima-cloud: The read operation timed out
+OK yt-bhc001-hiroshima-cloud: Foto: George R. Caron · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Atomic_cloud_over_Hiroshima.jpg)
+Openverse falhou para yt-bhc001-farm-hall: The read operation timed out
+OK yt-bhc001-farm-hall: Foto: Kolforn (Kolforn)
+I'd appreciate if you could mail me (Kolfo · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:2018-06-28_Solar_Farm,_Hall_farm,_Hall_Road,_Trimingham.jpg)
+Openverse falhou para yt-bhc002-potomac: The read operation timed out
+OK yt-bhc002-potomac: Foto: Barry Bena · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:USCGC_Lawrence_Lawson_on_the_Potomac_River_in_downtown_Washington_DC.jpg)
+Openverse falhou para yt-bhc002-wright-flyer: The read operation timed out
+OK yt-bhc002-wright-flyer: Foto: Vintage Fan 5678 · CC BY 4.0 (https://commons.wikimedia.org/wiki/File:%E2%80%A2_The_original_1903_Wright_Flyer_on_display_inside_%27The_Wright_Brothers_%26_The_Invention_of_the_Aerial_Age%27_exhibition_gallery_at_the_Smithsonian_National_Air_and_Space_Museum,_Washington,_D.C._(1st_August_2015).jpg)
+Openverse falhou para yt-bhc002-smithsonian-castle: The read operation timed out
+OK yt-bhc002-smithsonian-castle: Foto: Jpesch95 · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Smithsonian_Castle_from_National_Mall.jpg)
+Openverse falhou para yt-bhc002-aerodrome-5: The read operation timed out
+OK yt-bhc002-aerodrome-5: Foto: Smithsonian National Air and Space Museum · CC0 (https://commons.wikimedia.org/wiki/File:Langley_aerodrome_N%C2%B05,_Smithonian.jpg)
+Openverse falhou para yt-bhc002-houseboat: The read operation timed out
+OK yt-bhc002-houseboat: Foto: Smithsonian Institution · CC0 (https://commons.wikimedia.org/wiki/File:Langley_Quarter-scale_Aerodrome_-_DPLA_-_650214223bcba8a3346547b0f6f8d712_(page_13).jpg)
+Openverse falhou para yt-bhc002-aerodrome-wreck: The read operation timed out
+NADA para yt-bhc002-aerodrome-wreck (Langley Aerodrome A wreck Potomac December 1903)
+Openverse falhou para yt-bhc002-kill-devil-hills: The read operation timed out
+OK yt-bhc002-kill-devil-hills: Foto: Ken Lund from Reno, Nevada, USA · CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Memorial_from_Flight_Path,_Wright_Brothers_National_Memorial,_Kill_Devil_Hills,_North_Carolina_(14443959961).jpg)
+Openverse falhou para yt-bhc002-launch-rail: The read operation timed out
+OK yt-bhc002-launch-rail: Foto: Fritzmann2002 · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Marker_and_Replica_Rail_of_First_Flight_Takeoff_at_Wright_Brothers_Memorial_(OBX,_NC).jpg)
+Openverse falhou para yt-bhc002-keuka-lake: The read operation timed out
+OK yt-bhc002-keuka-lake: Foto: Jim Duell · CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Keuka_Lake_from_Depot_Park_in_Hammondsport,_New_York.jpg)
+Openverse falhou para yt-bhc002-science-museum: The read operation timed out
+NADA para yt-bhc002-science-museum (Science Museum London Exhibition Road exterior)
+Openverse falhou para yt-bhc003-whitehall: The read operation timed out
+OK yt-bhc003-whitehall: Foto: Arild Vågen · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Whitehall_Court_Mars_2014.jpg)
+Openverse falhou para yt-bhc003-channel-coast: The read operation timed out
+OK yt-bhc003-channel-coast: Foto: W. Bulach · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:.00_2052_Leuchtturm_von_Cap_Gris-Netz_-_Frankreich.jpg)
+Openverse falhou para yt-bhc003-westminster: The read operation timed out
+OK yt-bhc003-westminster: Foto: Diliff · CC BY-SA 2.5 (https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg)
+Openverse falhou para yt-bhc003-war-rooms: The read operation timed out
+OK yt-bhc003-war-rooms: Foto: Frankemann · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Churchill_War_Rooms_-_meeting_room.JPG)
+OK yt-bhc003-dover-cliffs: Foto: Timitrius from Great Britain · CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Crossing_the_English_Channel_(Le_Manche)._White_cliffs_of_Dover_in_background.jpg)
+Openverse falhou para yt-bhc003-dunkirk-harbour: The read operation timed out
+OK yt-bhc003-dunkirk-harbour: Foto: Storye book · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:PS_Medway_Queen_-_Ramsgate_May_2025_(213).JPG)
+OK yt-bhc003-downing-street: Foto: Arzola, Robert R. · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Exterior_Door_Details._-_Lazaretto_Quarantine_Station,_Wanamaker_Avenue_and_East_Second_Street,_Essington,_Delaware_County,_PA_HABS_PA-6659_(sheet_7_of_10).png)
+Openverse falhou para yt-bhc003-palazzo-venezia: The read operation timed out
+OK yt-bhc003-palazzo-venezia: Foto: Rijksmuseum · CC0 (https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_van_Palazzo_Venezia_te_Rome,_RP-P-1957-653-22-1.jpg)
+Openverse falhou para yt-bhc003-commons-chamber: The read operation timed out
+OK yt-bhc003-commons-chamber: Foto: Rijksmuseum · CC0 (https://commons.wikimedia.org/wiki/File:Interieur_van_House_of_Commons,_RP-F-2001-7-1131-36.jpg)
+Openverse falhou para yt-bhc003-dunkirk-beach: The read operation timed out
+OK yt-bhc003-dunkirk-beach: Foto: Unknown authorUnknown author · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Dunkirk_26-29_May_1940_NYP68075.jpg)
+Openverse falhou para yt-bhc003-st-pauls: The read operation timed out
+OK yt-bhc003-st-pauls: Foto: Herbert Mason · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:St_Paul%27s_Survives.jpg)
