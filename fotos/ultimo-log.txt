@@ -1,15 +1,1 @@
-Openverse falhou para rio-pao-de-acucar: The read operation timed out
-OK rio-pao-de-acucar: Foto: Wilfredor · CC0 (https://commons.wikimedia.org/wiki/File:Sugarloaf_Cable_Car_viewed_from_Rio_de_Janeiro,_Brazil.jpg)
-Openverse falhou para foz-cataratas: The read operation timed out
-OK foz-cataratas: Foto: W. Bulach · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg)
-Openverse falhou para floripa-praia: The read operation timed out
-OK floripa-praia: Foto: Mariordo (Mario Roberto Durán Ortiz) · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Floripa_12_2014_Brava_1079.JPG)
-OK salvador-pelourinho: Foto: Paul R. Burley · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Largo_do_Pelourinho_Salvador_2019-9754_(cropped).jpg)
-Openverse falhou para saopaulo-paulista: The read operation timed out
-OK saopaulo-paulista: Foto: Marcosleal · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg)
-Openverse falhou para paraty-centro: The read operation timed out
-OK paraty-centro: Foto: Pierre André Leclercq · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Paraty_%E2%80%93_Ensemble_architectural_et_paysager_en_2005_(1).jpg)
-Openverse falhou para lencois-dunas: The read operation timed out
-OK lencois-dunas: Foto: Julius Dadalti · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Len%C3%A7%C3%B3is_Maranhenses_2018.jpg)
-Openverse falhou para brasil-praia: The read operation timed out
-OK brasil-praia: Foto: Wilfredor · CC0 (https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset,_Brazil_3.jpg)
+
