@@ -1,0 +1,1194 @@
+[
+  {
+    "tipo": "linha",
+    "titulo": "Two dates. 11 years apart.",
+    "marcos": [
+      [
+        "MAY 2003",
+        "CPA Orders 1 & 2"
+      ],
+      [
+        "JUNE 2014",
+        "A “caliphate” is declared"
+      ]
+    ],
+    "stamp": "FILE #003",
+    "stamp_top": 150,
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "MAY 2003 → JUNE 2014",
+    "titulo": "How did we get from one to the other?",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "COALITION PROVISIONAL AUTHORITY · CPA/ORD/16 May 2003/01",
+    "valor": "Order Number 1",
+    "px": 200,
+    "texto": "“De-Ba'athification of Iraqi Society”",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "Two versions you've heard",
+    "itens": [
+      "“America created ISIS.”",
+      "“ISIS had nothing to do with us.”",
+      "The real story: a chain"
+    ],
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "THE SHORT VERSION",
+    "titulo": "Two orders didn't create ISIS. But it's very hard to tell the story of ISIS without them.",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "WHERE THE NUMBERS ARE DISPUTED",
+    "titulo": "You get the range, not the most dramatic figure.",
+    "file": "003"
+  },
+  {
+    "tipo": "capa",
+    "titulo": "From Two Orders to a Caliphate",
+    "sub": "How Iraq got from May 2003 to ISIS.",
+    "px": 140,
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "foto": "yt-taf003-baghdad",
+    "numero": "BAGHDAD · MAY 12, 2003",
+    "titulo": "L. Paul Bremer III arrives to head the Coalition Provisional Authority.",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Who ran postwar Iraq",
+    "itens": [
+      [
+        "JAN.–MAY 2003 · FIRST POSTWAR OFFICE",
+        "Jay Garner",
+        "retired U.S. Army general"
+      ],
+      [
+        "MAY 2003 – JUNE 2004 · THE CPA",
+        "L. Paul Bremer III",
+        "career American diplomat"
+      ]
+    ],
+    "px": 84,
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MAY 16, 2003 · CPA ORDER NUMBER 1",
+    "valor": "De-Ba'athification",
+    "px": 170,
+    "texto": "The Baath Party had ruled Iraq since 1968.",
+    "fonte": "CPA/ORD/16 May 2003/01",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "...removed from their positions and banned from future employment in the public sector.",
+    "autor": "CPA Order Number 1, May 16, 2003",
+    "px": 72,
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "The top four ranks of full party members",
+    "itens": [
+      "'Udw Qutriyya — Regional Command Member",
+      "'Udw Far' — Branch Member",
+      "'Udw Shu'bah — Section Member",
+      "'Udw Firqah — Group Member"
+    ],
+    "fonte": "CPA Order Number 1 · also: top 3 management layers of every national ministry screened",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MAY 23, 2003 · CPA ORDER NUMBER 2",
+    "valor": "Dissolution of Entities",
+    "px": 150,
+    "texto": "One week after Order 1.",
+    "fonte": "CPA/ORD/23 May 2003/02",
+    "stamp": "CLASSIFIED",
+    "stamp_top": 150,
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "Order 2 · Dissolved",
+    "itens": [
+      "Ministry of Defense",
+      "Intelligence & security services",
+      "Army, Air Force, Navy",
+      "Republican Guard"
+    ],
+    "fonte": "CPA/ORD/23 May 2003/02",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "Order 2 · And",
+    "itens": [
+      "Military ranks cancelled",
+      "Conscription suspended",
+      "Dismissal effective April 16, 2003",
+      "A “New Iraqi Corps” to be built from scratch"
+    ],
+    "fonte": "CPA/ORD/23 May 2003/02",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "ORDER 2 · COLONEL AND ABOVE",
+    "valor": "No payment. No pension.",
+    "px": 140,
+    "texto": "Presumed a Senior Party Member unless he could show otherwise. Most others were promised a termination payment.",
+    "fonte": "CPA/ORD/23 May 2003/02",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "HOW MANY PEOPLE?",
+    "titulo": "You'll see one number quoted with total confidence. It shouldn't be.",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "barras",
+    "titulo": "De-Baathification: people affected (estimates)",
+    "barras": [
+      [
+        "Bremer, Aug. 2003",
+        30000,
+        "15,000–30,000"
+      ],
+      [
+        "CIA warning, as recalled by Garner",
+        50000,
+        "40,000–50,000"
+      ],
+      [
+        "Later estimates*",
+        100000,
+        "~100,000"
+      ]
+    ],
+    "fonte": "*incl. teachers, doctors & civil servants · No official final count exists",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "barras",
+    "titulo": "Order 2: people affected (estimates)",
+    "barras": [
+      [
+        "Bremer memo to Rumsfeld, June 2003",
+        230000,
+        "~230,000"
+      ],
+      [
+        "Jay Garner",
+        400000,
+        "300,000–400,000"
+      ],
+      [
+        "The Guardian, May 24, 2003",
+        400000,
+        "~400,000"
+      ],
+      [
+        "Charles Ferguson, No End in Sight",
+        500000,
+        "~500,000"
+      ]
+    ],
+    "fonte": "Bremer: officers & NCOs · Ferguson: all dissolved entities · estimates vary",
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The honest version",
+    "itens": [
+      [
+        "CIVILIAN JOBS LOST",
+        "Tens of thousands",
+        "15,000–30,000 (Bremer) to ~100,000 (later estimates)"
+      ],
+      [
+        "MILITARY JOBS LOST",
+        "~230,000 to ~500,000",
+        "Anyone who gives you one precise number is guessing."
+      ]
+    ],
+    "px": 76,
+    "parte": "PART 2",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "By the time Baghdad fell on April 9, 2003, the Iraqi Army had simply dissolved.",
+    "autor": "L. Paul Bremer, The New York Times, Sept. 2007",
+    "px": 76,
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "...a decision to dissolve an army which is effectively already dissolved.",
+    "autor": "L. Paul Bremer, PBS Frontline, Aug. 2003",
+    "px": 80,
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "a pretty sick organization",
+    "autor": "Douglas Feith, Pentagon policy chief, on Saddam's army (The Washington Post, Nov. 2003)",
+    "px": 110,
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The case for the orders",
+    "itens": [
+      [
+        "ARGUMENT 1",
+        "Already gone",
+        "The army had already dissolved itself"
+      ],
+      [
+        "ARGUMENT 2",
+        "Old officers",
+        "Recalling it meant recalling Saddam's officer corps"
+      ],
+      [
+        "ARGUMENT 3",
+        "The machine",
+        "The Baath Party was the machinery of the dictatorship"
+      ]
+    ],
+    "px": 72,
+    "fonte": "Postwar precedent cited: denazification, Germany, 1945–",
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "MY TAKE · OPINION",
+    "titulo": "The question isn't whether there was a case. It's whether anyone tested it before signing.",
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "foto": "yt-taf001-white-house",
+    "titulo": "The warnings",
+    "itens": [
+      [
+        "BEFORE THE WAR",
+        "The plan",
+        "approved by the White House: use the Iraqi military to help secure and rebuild"
+      ],
+      [
+        "MAY 23, 2003",
+        "Reversed",
+        "by Order 2"
+      ]
+    ],
+    "px": 96,
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "this is too deep",
+    "autor": "Jay Garner, on Order 1, as he later recalled (PBS Frontline)",
+    "px": 130,
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "The policy was to keep the army intact; didn't happen.",
+    "autor": "President George W. Bush, to biographer Robert Draper, 2007",
+    "px": 84,
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The letters",
+    "itens": [
+      [
+        "BREMER TO BUSH · MAY 2003",
+        "“...dissolve Saddam's military and intelligence structures...”",
+        ""
+      ],
+      [
+        "BUSH TO BREMER",
+        "“Your leadership is apparent.”",
+        ""
+      ]
+    ],
+    "px": 60,
+    "fonte": "Letters released Sept. 2007 (The New York Times)",
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "So who decided?",
+    "itens": [
+      "On paper, Bremer signed",
+      "The White House was told",
+      "The Pentagon helped draft",
+      "The people involved still disagree"
+    ],
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MY TAKE · OPINION",
+    "valor": "One clear owner",
+    "px": 180,
+    "texto": "A decision that big should have had one.",
+    "parte": "PART 3",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "BAGHDAD · JUNE 18, 2003",
+    "titulo": "~2,000 former soldiers protest for back pay.",
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Days later",
+    "itens": [
+      [
+        "THE CPA REVERSES COURSE",
+        "Stipends",
+        "announced for former soldiers"
+      ],
+      [
+        "THE RESULT",
+        "The payments came.",
+        "The army didn't."
+      ]
+    ],
+    "px": 84,
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "An insurgency with many parts",
+    "itens": [
+      "Regime loyalists",
+      "Iraqi nationalists",
+      "Tribal fighters",
+      "Foreign jihadists"
+    ],
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "OFFICIAL HISTORY · U.S. ARMY · 2019",
+    "valor": "The U.S. Army in the Iraq War",
+    "px": 120,
+    "texto": "Volume 1.",
+    "stamp": "REPORT",
+    "stamp_top": 150,
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "...the Coalition Provisional Authority with its fratricidal Orders 1 and 2, made the situation far worse.",
+    "autor": "The U.S. Army in the Iraq War, Vol. 1 (2019)",
+    "px": 70,
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "ENTER ZARQAWI",
+    "titulo": "A Jordanian militant whose group had set up in northern Iraq before the invasion.",
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "If we succeed in dragging them into a sectarian war, this will awaken the sleepy Sunnis.",
+    "autor": "Letter attributed to Abu Musab al-Zarqawi, released by the CPA, Feb. 2004",
+    "px": 70,
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "...won't be acceptable to the Muslim populace...",
+    "autor": "Ayman al-Zawahiri, al-Qaeda's number two, letter to Zarqawi, 2005",
+    "px": 90,
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "From Zarqawi to a “state” (1 of 2)",
+    "marcos": [
+      [
+        "AUG 2003",
+        "Car bombings, Baghdad & Najaf"
+      ],
+      [
+        "FEB 2004",
+        "“Sectarian war” letter"
+      ],
+      [
+        "2004",
+        "Allegiance to bin Laden: “al-Qaeda in Iraq”"
+      ]
+    ],
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "From Zarqawi to a “state” (2 of 2)",
+    "marcos": [
+      [
+        "FEB 22, 2006",
+        "Samarra shrine bombing"
+      ],
+      [
+        "JUNE 7, 2006",
+        "Zarqawi killed"
+      ],
+      [
+        "OCT 15, 2006",
+        "“Islamic State of Iraq” announced"
+      ]
+    ],
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "OCTOBER 2006",
+    "valor": "“Islamic State of Iraq”",
+    "px": 140,
+    "texto": "Eight years before the caliphate, the group was already calling itself a state.",
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The orders and Zarqawi",
+    "itens": [
+      [
+        "THE ORDERS DIDN'T CREATE",
+        "Zarqawi",
+        "He was already in Iraq."
+      ],
+      [
+        "SUMMER 2003 GAVE HIM",
+        "A vacuum",
+        "and a country full of angry, unemployed, trained men"
+      ]
+    ],
+    "px": 96,
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MY TAKE · OPINION",
+    "valor": "Not a cause. A recruiting pool.",
+    "px": 130,
+    "texto": "The ideology came from Zarqawi, not from Washington.",
+    "parte": "PART 4",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "foto": "yt-taf003-iraq-desert",
+    "numero": "CAMP BUCCA · U.S. DETENTION FACILITY",
+    "titulo": "Southern Iraq, near the Kuwaiti border. Closed Sept. 17, 2009.",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "CAMP BUCCA · PEAK, 2007",
+    "valor": "~24,000",
+    "px": 260,
+    "texto": "detainees, in the largest U.S. detention facility in Iraq.",
+    "fonte": "U.S. Air Force, 2009 · The Washington Post, 2014",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "Summary of U.S. Army detention records",
+    "itens": [
+      "Name: Ibrahim Awad Ibrahim al-Badry",
+      "Held: Feb. 4 – Dec. 8, 2004 (about 10 months)",
+      "Where: Camp Bucca",
+      "Then: released"
+    ],
+    "fonte": "As reported by FactCheck.org (2019) · a text summary, not the original record",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "THE WORLD WOULD LATER KNOW HIM AS",
+    "valor": "Abu Bakr al-Baghdadi",
+    "px": 150,
+    "texto": "How long he was held is still contested: some 2014 accounts said years.",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "FACT CHECK · “RELEASED BY OBAMA IN 2009”",
+    "valor": "FALSE",
+    "px": 260,
+    "texto": "Army records: released Dec. 2004, under President Bush.",
+    "fonte": "FactCheck.org · PolitiFact",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "ISIS TOP LEADERS WHO HAD BEEN HELD AT BUCCA",
+    "valor": "9",
+    "px": 300,
+    "texto": "by The Soufan Group's 2014 count.",
+    "fonte": "The Soufan Group, via The Washington Post, 2014",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "virtual terrorist universities",
+    "autor": "Andrew Thompson & Jeremi Suri, The New York Times, 2014, on U.S. wartime prisons in Iraq",
+    "px": 110,
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Inside the wire",
+    "itens": [
+      [
+        "JIHADISTS BROUGHT",
+        "Ideology",
+        "and purpose"
+      ],
+      [
+        "EX-OFFICERS BROUGHT",
+        "Skills",
+        "military and organizational"
+      ]
+    ],
+    "px": 110,
+    "fonte": "“more than a marriage of convenience” — The Soufan Group",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "SEPT. 17, 2009",
+    "valor": "Camp Bucca closes",
+    "px": 170,
+    "texto": "By then, a network that didn't exist in 2003 had had years to form behind American wire.",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MY TAKE · OPINION",
+    "valor": "Nobody chose it.",
+    "px": 180,
+    "texto": "Some of the costliest decisions in a war are the ones nobody remembers making.",
+    "parte": "PART 5",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "JANUARY 2007 · THE SURGE",
+    "valor": "20,000+",
+    "px": 280,
+    "texto": "additional U.S. troops announced by President Bush.",
+    "fonte": "NPR, Jan. 11, 2007",
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Sons of Iraq, April 2008",
+    "itens": [
+      [
+        "MEMBERS",
+        "95,000+",
+        "the Awakening"
+      ],
+      [
+        "SUNNI",
+        "~80%",
+        "of members"
+      ],
+      [
+        "PAY",
+        "~$300",
+        "a month, paid by the U.S."
+      ]
+    ],
+    "px": 110,
+    "fonte": "Council on Foreign Relations, April 2008",
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "APRIL 2010",
+    "valor": "A new leader",
+    "px": 200,
+    "texto": "A joint U.S.-Iraqi operation killed the group's two top leaders. Their replacement: former Bucca detainee Abu Bakr al-Baghdadi.",
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "U.S.–Iraq Status of Forces Agreement",
+    "itens": [
+      "Signed Nov. 17, 2008",
+      "Approved by Iraq's parliament Nov. 27, 2008",
+      "All U.S. forces out by Dec. 31, 2011"
+    ],
+    "stamp": "SIGNED",
+    "stamp_top": 150,
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The Sons of Iraq after 2008",
+    "itens": [
+      [
+        "BAGHDAD'S PLAN",
+        "20–30%",
+        "brought into the army and police"
+      ],
+      [
+        "LATER",
+        "Abandoned",
+        "is how many Awakening fighters said they felt"
+      ]
+    ],
+    "px": 96,
+    "fonte": "Council on Foreign Relations · The Washington Post, 2015",
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "2011: a smaller force?",
+    "itens": [
+      [
+        "AT ONE POINT",
+        "Up to 10,000",
+        "U.S. troops"
+      ],
+      [
+        "LATER",
+        "~5,000",
+        "U.S. troops"
+      ],
+      [
+        "STICKING POINT",
+        "Immunity",
+        "approved by Iraq's parliament: no commitment"
+      ]
+    ],
+    "px": 80,
+    "fonte": "James Jeffrey, U.S. ambassador to Iraq (2014)",
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "...the rest of our troops in Iraq will come home by the end of the year.",
+    "autor": "President Barack Obama, Oct. 21, 2011",
+    "px": 80,
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "DECEMBER 18, 2011",
+    "valor": "The last convoy",
+    "px": 190,
+    "texto": "crosses into Kuwait.",
+    "fonte": "Associated Press",
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "foto": "yt-taf001-capitol",
+    "titulo": "The 2011 withdrawal debate",
+    "itens": [
+      [
+        "CRITICS",
+        "Stay",
+        "A residual force would have kept training Iraqi troops, watching the Islamic State of Iraq, and keeping leverage over Baghdad."
+      ],
+      [
+        "DEFENDERS",
+        "Leave",
+        "The deadline was set in 2008. Iraq's parliament wouldn't grant immunity. Under 20% of Iraqis wanted U.S. troops to stay."
+      ]
+    ],
+    "px": 80,
+    "fonte": "~4,500 U.S. deaths, 2003–2011 (AP) · James Jeffrey (2014)",
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "My take (opinion): both parties own a piece of it",
+    "itens": [
+      [
+        "2008 · BUSH ADMINISTRATION",
+        "Wrote the deadline",
+        ""
+      ],
+      [
+        "2011 · OBAMA ADMINISTRATION",
+        "Kept it",
+        ""
+      ]
+    ],
+    "px": 90,
+    "parte": "PART 6",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "DEC. 19, 2011 · ONE DAY AFTER THE LAST CONVOY",
+    "valor": "Arrest warrant",
+    "px": 190,
+    "texto": "for Vice President Tariq al-Hashimi, one of Iraq's most senior Sunni politicians, on terrorism charges. He denied them.",
+    "fonte": "Al Jazeera, Dec. 2011",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "The optics and timing... are highly suspect.",
+    "autor": "P.J. Crowley, former State Department spokesman, Dec. 2011",
+    "px": 90,
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Prime Minister Nouri al-Maliki",
+    "itens": [
+      [
+        "BY DEC. 2011",
+        "Defense & Interior",
+        "ministries run by Maliki himself for more than a year"
+      ],
+      [
+        "DECEMBER 2012",
+        "A raid",
+        "on the home of Sunni finance minister Rafi al-Issawi; bodyguards arrested"
+      ]
+    ],
+    "px": 76,
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "Sunni protest sites, Dec. 2012 – Dec. 2013",
+    "itens": [
+      "Fallujah · Ramadi · Samarra",
+      "Tikrit · Mosul · Kirkuk · Hawija",
+      "Against: terrorism laws used to arrest Sunnis",
+      "Detentions without charge · continued de-Baathification"
+    ],
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "De-Baathification, now in Iraqi hands",
+    "itens": [
+      [
+        "BEFORE THE 2010 ELECTION",
+        "~500",
+        "candidates disqualified, hardest on secular and Sunni lists"
+      ],
+      [
+        "AFTER 2011",
+        "Pushed out",
+        "officers the Americans had brought back"
+      ]
+    ],
+    "px": 100,
+    "fonte": "Middle East Institute · The Washington Post, 2015",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Hawija · April 23, 2013",
+    "itens": [
+      [
+        "GOVERNMENT COUNT",
+        "27 dead",
+        "including three soldiers"
+      ],
+      [
+        "PROTEST ORGANIZERS",
+        "~50 dead",
+        "their count"
+      ]
+    ],
+    "px": 110,
+    "fonte": "Human Rights Watch",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "The Maliki government's repeated failure to bring anyone to justice has fueled the violence.",
+    "autor": "Human Rights Watch, April 24, 2013",
+    "px": 72,
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Ten years after Order 1: shut out twice",
+    "itens": [
+      [
+        "FIRST",
+        "As Baathists",
+        ""
+      ],
+      [
+        "THEN",
+        "As suspected terrorists",
+        ""
+      ]
+    ],
+    "px": 90,
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "NEXT DOOR: SYRIA",
+    "titulo": "2011: Syria's uprising becomes a civil war.",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "Syria, then Iraq (1 of 2)",
+    "marcos": [
+      [
+        "AUG 2011",
+        "ISI sends Jolani to Syria: the Nusra Front"
+      ],
+      [
+        "APR 9, 2013",
+        "Baghdadi announces “ISIS”"
+      ],
+      [
+        "JUL 21, 2013",
+        "Abu Ghraib prison break: 500+ escape"
+      ],
+      [
+        "DEC 30, 2013",
+        "Ramadi protest camp cleared"
+      ]
+    ],
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "Syria, then Iraq (2 of 2)",
+    "marcos": [
+      [
+        "JAN 2014",
+        "ISIS in Fallujah and Raqqa"
+      ],
+      [
+        "FEB 3, 2014",
+        "al-Qaeda cuts ties"
+      ],
+      [
+        "JUN 10, 2014",
+        "Mosul"
+      ],
+      [
+        "JUN 29, 2014",
+        "“Caliphate”"
+      ]
+    ],
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "What Syria gave the group",
+    "itens": [
+      "Money",
+      "Weapons",
+      "Territory",
+      "A safe haven"
+    ],
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "foto": "yt-taf003-mosul",
+    "numero": "JUNE 10, 2014",
+    "titulo": "Mosul, Iraq's second-largest city, falls.",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Mosul, June 2014",
+    "itens": [
+      [
+        "ON PAPER",
+        "~60,000",
+        "soldiers & federal police"
+      ],
+      [
+        "ATTACKERS",
+        "~1,500 to a few thousand",
+        "estimates vary"
+      ]
+    ],
+    "px": 96,
+    "fonte": "Actual Iraqi forces present: far fewer (“ghost soldiers”)",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "IRAQI PARLIAMENTARY INQUIRY · 2015",
+    "valor": "To the courts",
+    "px": 200,
+    "texto": "It called for Maliki and dozens of officials to face the courts.",
+    "fonte": "NBC News, Aug. 2015",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "JUNE 29, 2014",
+    "titulo": "The group renames itself “Islamic State” and declares a “caliphate.”",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MAY 23, 2003 → JUNE 29, 2014",
+    "valor": "11 years, 5 weeks",
+    "px": 200,
+    "texto": "after Order 2 was signed.",
+    "parte": "PART 7",
+    "file": "003"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "THE VERDICT",
+    "titulo": "How much of ISIS really goes back to those two orders?",
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "DER SPIEGEL · APRIL 2015",
+    "valor": "Haji Bakr",
+    "px": 220,
+    "texto": "Captured papers tied to a former Iraqi colonel describe him as an architect of the group's structure.",
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Who ran ISIS? Contested: no complete roster exists",
+    "itens": [
+      [
+        "EX-OFFICERS RAN IT",
+        "“Almost all”",
+        "leaders = former officers (Washington Post, 2015) · 100–160 Saddam-era veterans (AP, 2015)"
+      ],
+      [
+        "JIHADISTS RAN IT",
+        "“Overwhelmingly”",
+        "“influenced and shaped by” Salafi-jihadi veterans (Whiteside, 2017)"
+      ]
+    ],
+    "px": 84,
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The most defensible reading",
+    "itens": [
+      [
+        "FORMER OFFICERS GAVE ISIS",
+        "Military skill",
+        ""
+      ],
+      [
+        "THE JIHADISTS GAVE IT",
+        "Purpose",
+        "and kept control of it"
+      ]
+    ],
+    "px": 110,
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "The chain",
+    "marcos": [
+      [
+        "LINK 1",
+        "2003: Orders 1 & 2"
+      ],
+      [
+        "LINK 2",
+        "Zarqawi's sectarian strategy"
+      ],
+      [
+        "LINK 3",
+        "Camp Bucca"
+      ],
+      [
+        "LINK 4",
+        "Awakening promises, half kept"
+      ],
+      [
+        "LINK 5",
+        "2011 exit"
+      ],
+      [
+        "LINK 6",
+        "Maliki's crackdown"
+      ],
+      [
+        "LINK 7",
+        "Syria's war"
+      ],
+      [
+        "2014",
+        "June: “caliphate”"
+      ]
+    ],
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "...an emboldened and expansionist Iran appears to be the only victor.",
+    "autor": "The U.S. Army in the Iraq War, 2019",
+    "px": 80,
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MY TAKE · OPINION · DID TWO ORDERS CREATE ISIS?",
+    "valor": "No.",
+    "px": 300,
+    "texto": "But they mattered more than their defenders admit.",
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "FILE #003, in five lines",
+    "itens": [
+      "May 16 & 23, 2003 — Orders 1 & 2",
+      "~230,000–500,000 lost military jobs",
+      "10 months — Baghdadi at Bucca (Army records)",
+      "Dec. 18, 2011 — last U.S. convoy",
+      "June 29, 2014 — the “caliphate”"
+    ],
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Next: FILE #004",
+    "itens": [
+      [
+        "AUGUST 19, 1953 · TEHRAN",
+        "A coup",
+        "Iran's prime minister, Mohammad Mossadegh, is overthrown"
+      ],
+      [
+        "2013 · DECLASSIFIED CIA HISTORY",
+        "“under CIA direction”",
+        "“...as an act of U.S. foreign policy”"
+      ]
+    ],
+    "px": 80,
+    "stamp": "FILE #004",
+    "stamp_top": 150,
+    "parte": "PART 8",
+    "file": "003"
+  },
+  {
+    "tipo": "capa",
+    "titulo": "FILE #003 — Closed",
+    "sub": "Subscribe. Next: FILE #004.",
+    "px": 130,
+    "stamp": "CLOSED",
+    "stamp_top": 200,
+    "file": "003"
+  }
+]
