@@ -1,0 +1,36 @@
+{
+  "conta": "brazilonabudget",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook",
+    "tiktok"
+  ],
+  "quando": "2026-11-07T18:30:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg"
+  ],
+  "legenda": "¿Camboriú este verano? Esto es lo que necesitas antes de salir 🇧🇷\n• Argentina: el último DNI físico (el de Mi Argentina no sirve en la frontera)\n• En auto: Carta Verde, papeles en físico y peajes solo en reales\n• Pagar: Pix desde Mercado Pago, con saldo en pesos\n• Hotel: en diciembre la tarifa media sube +106%\n• 5 noches desde US$ 235 por persona, estilo económico\n\n📌 Guárdalo para tu viaje\n📤 Mándaselo a quien viaja contigo\n\nNuestra guía de Camboriú en español tiene el plan de 5 días con mapas QR, la ruta en auto desde Argentina, Pix y el presupuesto en dólares y pesos. Link en la bio.\n\n🇬🇧 Going to Camboriú? Documents, driving from Argentina, Pix and real prices. Spanish guide in bio.\n\n#camboriu #balneariocamboriu #brasil #vacacionesenbrasil #viajarabrasil #santacatarina #playasdebrasil #argentinosenbrasil",
+  "textos_alternativos": [
+    "Portada: Camboriú este verano, lo que necesitas antes de salir",
+    "Documentos: DNI físico para argentinos, cédula vigente para chilenos, autorización para menores",
+    "En auto: seguro Carta Verde, peajes solo en reales, no usar el carril TAG",
+    "Pix: Mercado Pago permite pagar con Pix en Brasil con saldo en pesos",
+    "Hotel en diciembre: +106%, de R$ 401 a R$ 1.165 por noche",
+    "5 noches desde US$ 235 por persona, estilo económico",
+    "Sigue a @brazil.onabudget y activa las notificaciones"
+  ],
+  "links": [
+    {
+      "titulo": "Camboriú 2026/27 – guía PDF (ES)",
+      "url": "https://quickbudgetguides.gumroad.com/l/djird"
+    }
+  ]
+}
