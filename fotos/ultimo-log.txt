@@ -1,15 +1,8 @@
-Openverse falhou para rio-pao-de-acucar: The read operation timed out
-OK rio-pao-de-acucar: Foto: Wilfredor · CC0 (https://commons.wikimedia.org/wiki/File:Sugarloaf_Cable_Car_viewed_from_Rio_de_Janeiro,_Brazil.jpg)
-Openverse falhou para foz-cataratas: The read operation timed out
-OK foz-cataratas: Foto: W. Bulach · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg)
-Openverse falhou para floripa-praia: The read operation timed out
-OK floripa-praia: Foto: Mariordo (Mario Roberto Durán Ortiz) · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Floripa_12_2014_Brava_1079.JPG)
-OK salvador-pelourinho: Foto: Paul R. Burley · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Largo_do_Pelourinho_Salvador_2019-9754_(cropped).jpg)
-Openverse falhou para saopaulo-paulista: The read operation timed out
-OK saopaulo-paulista: Foto: Marcosleal · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg)
-Openverse falhou para paraty-centro: The read operation timed out
-OK paraty-centro: Foto: Pierre André Leclercq · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Paraty_%E2%80%93_Ensemble_architectural_et_paysager_en_2005_(1).jpg)
-Openverse falhou para lencois-dunas: The read operation timed out
-OK lencois-dunas: Foto: Julius Dadalti · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Len%C3%A7%C3%B3is_Maranhenses_2018.jpg)
-Openverse falhou para brasil-praia: The read operation timed out
-OK brasil-praia: Foto: Wilfredor · CC0 (https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset,_Brazil_3.jpg)
+OK rio-selaron: Foto: Rjcastillo · CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Piezas_de_cer%C3%A1mica,_R%C3%ADo_de_Janeiro_A74229820241122.jpg)
+OK rio-ipanema: Foto: Wilfredor · CC0 (https://commons.wikimedia.org/wiki/File:Ipanema_and_Leblon_as_seen_from_Morro_Dois_Irm%C3%A3os,_with_Lagoa_and_Cantagalo_in_the_background,_Rio_de_Janeiro,_Brazil.jpg)
+Openverse falhou para rio-copacabana: The read operation timed out
+OK rio-copacabana: Foto: Wilfredor · CC0 (https://commons.wikimedia.org/wiki/File:Morena_beach_kiosk_on_the_Copacabana_promenade,_Rio_de_Janeiro,_Brazil.jpg)
+OK rio-cristo: Foto: Donatas Dabravolskas · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg)
+Openverse falhou para brasil-chapada: The read operation timed out
+OK brasil-chapada: Foto: JeilsonandradeDerivative work including crop, contrast, whit · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Morr%C3%A3o,_no_Parque_Nacional_da_Chapada_Diamantina_-_Bahia_crop_2.jpg)
+OK brasil-bonito: Foto: Ateliesandraromano · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Rio_Formoso_em_Bonito_no_Mato_Grosso_do_Sul,_Serra_da_Bodoquena.jpg)
