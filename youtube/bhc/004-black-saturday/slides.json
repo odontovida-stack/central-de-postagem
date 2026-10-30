@@ -1,0 +1,915 @@
+[
+ {
+  "tipo": "capitulo",
+  "foto": "yt-bhc004-white-house",
+  "numero": "SATURDAY, OCTOBER 27, 1962",
+  "titulo": "Washington.",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-bhc004-key-west",
+  "rotulo": "THE STRAITS OF FLORIDA · OCTOBER 1962",
+  "valor": "Cuba",
+  "px": 260,
+  "texto": "About 90 miles from Key West, Florida. Soviet nuclear missiles are on the island.",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "1 · CUBA",
+  "valor": "U-2 shot down",
+  "px": 200,
+  "texto": "An American pilot is killed.",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "2 · SOVIET AIRSPACE",
+  "valor": "U-2 lost",
+  "px": 200,
+  "texto": "A second American spy plane wanders over the Soviet Union.",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "3 · THE ATLANTIC",
+  "valor": "Submarine B-59",
+  "px": 200,
+  "texto": "Carrying a nuclear torpedo, forced to the surface.",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "4 · MOSCOW",
+  "valor": "A second letter",
+  "px": 200,
+  "texto": "It raises the price of peace.",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "JUSTICE DEPARTMENT · WASHINGTON",
+  "valor": "7:45 P.M.",
+  "px": 300,
+  "texto": "The President's brother sits down alone with the Soviet ambassador.",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WHAT WAS SAID IN THAT ROOM",
+  "valor": "~25 years",
+  "px": 300,
+  "texto": "Secret.",
+  "file": "004"
+ },
+ {
+  "tipo": "capa",
+  "foto": "yt-bhc004-capitol",
+  "titulo": "Before History Changed",
+  "sub": "#004 — Black Saturday. Every story has a before.",
+  "px": 150,
+  "file": "004"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "FRIDAY, OCTOBER 26, 1962 · EVENING",
+  "titulo": "It looks like the crisis might be ending.",
+  "parte": "PART 2",
+  "file": "004"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Letter · Khrushchev to Kennedy · Oct. 26, 1962",
+  "itens": [
+   "Soviet missiles out of Cuba",
+   "In return: the U.S. lifts the naval quarantine",
+   "…and pledges not to invade Cuba"
+  ],
+  "fonte": "“long, rambling letter” — JFK Library summary",
+  "parte": "PART 2",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SATURDAY, OCT. 27 · A NEWS TICKER REACHES THE OVAL OFFICE",
+  "valor": "~10:00 A.M.",
+  "px": 240,
+  "texto": "MOSCOW RADIO… KHRUSHCHEV… TURKEY…",
+  "parte": "PART 2",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We are willing to remove from Cuba the means which you regard as offensive.",
+  "autor": "Khrushchev to Kennedy, Oct. 27, 1962 (broadcast on Moscow Radio)",
+  "px": 84,
+  "parte": "PART 2",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-bhc004-jupiter-missile",
+  "rotulo": "ÇIĞLI AIR BASE · IZMIR, TURKEY",
+  "valor": "15 Jupiter missiles",
+  "px": 180,
+  "texto": "American nuclear missiles, right on the Soviet border.",
+  "parte": "PART 2",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "But Turkey adjoins us; our sentries patrol back and forth and see each other.",
+  "autor": "Khrushchev to Kennedy, Oct. 27, 1962",
+  "px": 84,
+  "parte": "PART 2",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We're going to be in an insupportable position on this matter if this becomes his proposal.",
+  "autor": "JFK, White House recording, Oct. 27, 1962, ~10:05 A.M. (Miller Center transcript)",
+  "px": 80,
+  "parte": "PART 2",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…to any man at the United Nations or any other rational man, it will look like a very fair trade.",
+  "autor": "JFK, White House recording, Oct. 27, 1962 (Miller Center transcript)",
+  "px": 80,
+  "parte": "PART 2",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. AIR FORCE · 1927–1962 · GREENVILLE, SOUTH CAROLINA",
+  "valor": "Maj. Rudolf Anderson Jr.",
+  "px": 128,
+  "texto": "U-2 pilot. Thirty-five years old.",
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "TAKEOFF: McCOY AIR FORCE BASE, FLORIDA",
+  "valor": "6th mission",
+  "px": 260,
+  "texto": "over Cuba, in a U-2 reconnaissance plane.",
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Soviet command in Cuba",
+  "itens": [
+   [
+    "SOVIET COMMANDER IN CUBA",
+    "Gen. Issa Pliyev",
+    "unavailable: he could not be reached"
+   ],
+   [
+    "AIR DEFENSE",
+    "Lt. Gen. Stepan Grechko",
+    "decided not to wait"
+   ],
+   [
+    "DEPUTY COMMANDER",
+    "Gen. Leonid Garbuz",
+    "agreed"
+   ]
+  ],
+  "px": 64,
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-bhc004-sa2-missile",
+  "rotulo": "SOVIET SURFACE-TO-AIR MISSILE BATTERY NEAR",
+  "valor": "Banes, eastern Cuba",
+  "px": 170,
+  "texto": "A Soviet-made SA-2 missile explodes near the U-2.",
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Destroy Target Number 33.",
+  "autor": "Order as reconstructed by Michael Dobbs, One Minute to Midnight (2008)",
+  "px": 130,
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CUBA, LOCAL TIME · OCT. 27, 1962",
+  "valor": "~10:20 A.M.",
+  "px": 240,
+  "texto": "Maj. Anderson is killed.",
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We believe that you were too hasty in shooting down the U.S. U-2 reconnaissance plane.",
+  "autor": "Marshal Malinovsky to Gen. Pliyev, Moscow, Oct. 1962 (as quoted in Air & Space Forces Magazine)",
+  "px": 80,
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…almost imminent — within the next 24 to 72 hours.",
+  "autor": "Castro to Khrushchev, Havana, Oct. 26, 1962",
+  "px": 96,
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…that would be the moment to eliminate this danger forever, in an act of the most legitimate self-defense.",
+  "autor": "Castro to Khrushchev, Havana, Oct. 26, 1962",
+  "px": 76,
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WASHINGTON · OCT. 27, 1962 · “U-2 OVERDUE”",
+  "valor": "2:03 P.M.",
+  "px": 300,
+  "texto": "Retaliation against the Soviet missile sites: NOT ordered.",
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Your husband's mission was of the greatest importance, but I know how deeply you must feel his loss.",
+  "autor": "JFK to Mrs. Anderson, 1962",
+  "px": 78,
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MAJ. RUDOLF ANDERSON JR. · POSTHUMOUS",
+  "valor": "Air Force Cross",
+  "px": 200,
+  "texto": "Its first recipient ever.",
+  "parte": "PART 3",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-bhc004-bering-strait",
+  "rotulo": "SOVIET FAR EAST · ACROSS THE BERING STRAIT FROM ALASKA",
+  "valor": "Chukotka Peninsula",
+  "px": 170,
+  "texto": "Thousands of miles from Cuba.",
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. AIR FORCE · U-2 PILOT",
+  "valor": "Capt. Charles Maultsby",
+  "px": 150,
+  "texto": "Mission: air sampling over the North Pole. Takeoff: Eielson AFB, Alaska, just after midnight.",
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "The wrong turn",
+  "marcos": [
+   [
+    "Alaska",
+    "Takeoff from Eielson AFB"
+   ],
+   [
+    "North Pole",
+    "Compass useless · northern lights"
+   ],
+   [
+    "Wrong turn",
+    "West instead of back to Alaska"
+   ],
+   [
+    "Chukotka",
+    "Into Soviet airspace"
+   ]
+  ],
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CAPT. MAULTSBY'S U-2 · OCT. 27, 1962",
+  "valor": "~1 hr 15 min",
+  "px": 230,
+  "texto": "over Soviet territory.",
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Two sets of fighters",
+  "itens": [
+   [
+    "SOVIET",
+    "MiG fighters",
+    "scrambled to catch him"
+   ],
+   [
+    "AMERICAN",
+    "F-102s",
+    "from Galena, Alaska · armed with nuclear Falcon missiles"
+   ]
+  ],
+  "px": 110,
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-bhc004-kotzebue",
+  "rotulo": "MAULTSBY'S FLIGHT · OCT. 27, 1962",
+  "valor": "10 hr 25 min",
+  "px": 230,
+  "texto": "Out of fuel, he glided home without power to a snowy airstrip near Kotzebue, Alaska.",
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE PENTAGON · McNAMARA INFORMED",
+  "valor": "1:41 P.M.",
+  "px": 300,
+  "texto": "101 minutes after the U-2 entered Soviet airspace (Pentagon records, per Michael Dobbs).",
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "There's always some sonofabitch who doesn't get the word.",
+  "autor": "JFK, as later recalled (no recording)",
+  "px": 62,
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…could be easily taken for a nuclear bomber, which might push us to a fateful step.",
+  "autor": "Khrushchev to Kennedy, Oct. 28, 1962",
+  "px": 84,
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "In turning south, the pilot made a serious navigational error…",
+  "autor": "Kennedy to Khrushchev, Oct. 28, 1962 (FRUS)",
+  "px": 90,
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "I regret this incident…",
+  "autor": "Kennedy to Khrushchev, Oct. 28, 1962 (FRUS)",
+  "px": 130,
+  "parte": "PART 4",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CABINET ROOM · THE WHITE HOUSE · OCT. 27, 1962",
+  "valor": "4:00 P.M.",
+  "px": 300,
+  "texto": "ExComm: the Executive Committee of the National Security Council.",
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NATIONAL SECURITY ADVISER",
+  "valor": "McGeorge Bundy",
+  "px": 200,
+  "texto": "Worried about how a trade would look to NATO.",
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…if we sound as if we wanted to make this trade, to our NATO people…",
+  "autor": "McGeorge Bundy, White House recording, Oct. 27, 1962",
+  "px": 84,
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…all because we wouldn't take missiles out of Turkey.",
+  "autor": "JFK, White House recording, Oct. 27, 1962, 4:00 P.M. meeting (Miller Center transcript)",
+  "px": 96,
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "President has been seized with the idea of trading Turkish for Cuban missiles: he seems to be the only one in favor of it.",
+  "autor": "Joint Chiefs of Staff notes, Oct. 27, 1962, 1830 (via National Security Archive, 2022)",
+  "px": 70,
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The President has a feeling that time is running out.",
+  "autor": "Joint Chiefs of Staff notes, Oct. 27, 1962, 1830 (via National Security Archive, 2022)",
+  "px": 96,
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE OLD STORY",
+  "valor": "The “Trollope ploy”",
+  "px": 190,
+  "texto": "Named after a scene in a novel by Anthony Trollope (a hand squeeze read as a proposal).",
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Kennedy to Khrushchev · Oct. 27, 1962 · evening",
+  "itens": [
+   "“…which seem generally acceptable as I understand them…”",
+   "Missiles out of Cuba ✓",
+   "No invasion ✓",
+   "Turkey — not mentioned"
+  ],
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The ExComm tapes prove conclusively that the Trollope Ploy is a myth.",
+  "autor": "Sheldon M. Stern, former historian, JFK Library (History News Network, 2008)",
+  "px": 84,
+  "parte": "PART 5",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WESTERN ATLANTIC · NEAR THE QUARANTINE LINE",
+  "valor": "B-59",
+  "px": 300,
+  "texto": "A Soviet Foxtrot-class submarine.",
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SOVIET DIESEL SUBMARINES SENT TOWARD CUBA",
+  "valor": "4 submarines",
+  "px": 230,
+  "texto": "B-4 · B-36 · B-59 · B-130 — armed with nuclear-tipped torpedoes (unknown to the U.S. Navy).",
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Foxtrot submarines, Oct. 1962",
+  "itens": [
+   "Batteries low",
+   "Heat",
+   "Little ventilation"
+  ],
+  "fonte": "as later described by the crews (National Security Archive)",
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-bhc004-destroyer",
+  "rotulo": "USS BEALE DROPS SIGNALING CHARGES",
+  "valor": "4:59–5:33 P.M.",
+  "px": 220,
+  "texto": "The U.S. Navy's message: come up. To the men inside, it sounded like an attack.",
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "practice depth charges (PDCs), the size of hand grenades",
+  "autor": "Robert Kennedy's description, via the National Security Archive",
+  "px": 90,
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "SUBMARINE B-59 · OCT. 27, 1962",
+  "titulo": "Two accounts.",
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We're going to blast them now! We will die, but we will sink them all.",
+  "autor": "Account 1 · Capt. Valentin Savitsky, as recalled by Vadim Orlov (2002)",
+  "px": 88,
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ACCOUNT 1 · VADIM ORLOV (2002)",
+  "valor": "“Controversial”",
+  "px": 220,
+  "texto": "The National Security Archive's word for Orlov's account of the order.",
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Account 2 · National Security Archive (2022)",
+  "itens": [
+   "After surfacing, at night",
+   "U.S. planes low overhead",
+   "Savitsky calls for a dive + the nuclear torpedo",
+   "Arkhipov, on the tower, calls him back",
+   "The order is never transmitted"
+  ],
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "What the sources agree on",
+  "itens": [
+   "Nuclear torpedo aboard ✓",
+   "Forced to surface, night of Oct. 27 ✓",
+   "Captain lost his temper ✓",
+   "Arkhipov calmed him ✓"
+  ],
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "B-59 SURFACES · OCT. 27, 1962",
+  "valor": "9:52 P.M.",
+  "px": 300,
+  "texto": "Time per Michael Dobbs.",
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE POPULAR VERSION",
+  "valor": "“Three officers had to agree — Arkhipov voted no”",
+  "px": 96,
+  "stamp": "UNPROVEN",
+  "stamp_top": 150,
+  "texto": "RECORD: no document shows a three-officer rule. Accounts rest on later testimony.",
+  "parte": "PART 6",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "TOWARD EVENING · OCT. 27, 1962",
+  "valor": "A smaller meeting",
+  "px": 190,
+  "texto": "The decision: send Robert Kennedy.",
+  "fonte": "McGeorge Bundy, Danger and Survival",
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "ATTORNEY GENERAL",
+    "Robert F. Kennedy",
+    "the President's brother"
+   ],
+   [
+    "SOVIET AMBASSADOR TO THE U.S.",
+    "Anatoly Dobrynin",
+    ""
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-bhc004-justice-dept",
+  "rotulo": "JUSTICE DEPARTMENT · RFK'S OFFICE",
+  "valor": "7:45 P.M.",
+  "px": 300,
+  "texto": "7:15 P.M. call · 7:45 P.M. meeting, by Robert Kennedy's own account.",
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Two records",
+  "itens": [
+   [
+    "CABLE · OCT. 27, 1962",
+    "Dobrynin → Moscow",
+    "written that night"
+   ],
+   [
+    "MEMORANDUM · OCT. 30, 1962",
+    "Attorney General → Secretary of State",
+    "Robert Kennedy to Dean Rusk"
+   ]
+  ],
+  "px": 70,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…there are many unreasonable heads among the generals, and not only among the generals, who are ‘itching for a fight.’",
+  "autor": "Robert Kennedy, as reported in Dobrynin's cable to Moscow, Oct. 27, 1962",
+  "px": 72,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…a chain reaction will quickly start that will be very hard to stop.",
+  "autor": "Robert Kennedy, per Dobrynin's cable",
+  "px": 88,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The greatest difficulty for the president is the public discussion of the issue of Turkey.",
+  "autor": "Dobrynin cable, Oct. 27, 1962 (as translated from the Russian)",
+  "px": 80,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…we need 4-5 months.",
+  "autor": "Robert Kennedy, per Dobrynin's cable, Oct. 27, 1962 (as translated from the Russian)",
+  "px": 140,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…during our meeting R. Kennedy was very upset; in any case, I've never seen him like this before.",
+  "autor": "Dobrynin's cable, Oct. 27, 1962",
+  "px": 76,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MEMORANDUM · OCT. 30, 1962",
+  "valor": "Attorney General to Secretary of State",
+  "px": 110,
+  "stamp": "TOP SECRET",
+  "stamp_top": 210,
+  "texto": "Robert Kennedy's own record of the meeting.",
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "I replied that there could be no quid pro quo — no deal of this kind could be made.",
+  "autor": "RFK memo, Oct. 30, 1962 (JFK Library; FRUS)",
+  "px": 84,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "riscado": true,
+  "texto": "If some time elapsed — and per your instructions, I mentioned four or five months — I said I was sure that these matters could be resolved satisfactory.",
+  "autor": "Sentence crossed out in the draft memo (FRUS, footnote)",
+  "px": 66,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Where the two records agree",
+  "itens": [
+   "Turkey raised by Dobrynin ✓",
+   "No public deal ✓",
+   "Jupiters out in ~4–5 months ✓",
+   "Answer needed fast ✓"
+  ],
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We had to have a commitment by at least tomorrow that those bases would be removed.",
+  "autor": "RFK memo, Oct. 30, 1962",
+  "px": 84,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "This was not an ultimatum, I said, but just a statement of fact.",
+  "autor": "RFK memo, Oct. 30, 1962",
+  "px": 90,
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The Cordier backup plan",
+  "itens": [
+   "Rusk → Andrew Cordier, Columbia University",
+   "→ U.N. Secretary-General U Thant",
+   "→ a public “U.N.” proposal for the trade",
+   "Only on a signal from Washington"
+  ],
+  "stamp": "NEVER USED",
+  "stamp_top": 230,
+  "fonte": "Revealed by Dean Rusk, 1987",
+  "parte": "PART 7",
+  "file": "004"
+ },
+ {
+  "tipo": "capitulo",
+  "foto": "yt-bhc004-kremlin",
+  "numero": "SUNDAY, OCTOBER 28, 1962 · MOSCOW RADIO",
+  "titulo": "The missiles will be dismantled.",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…has given a new order to dismantle the arms which you described as offensive…",
+  "autor": "Khrushchev to Kennedy, Oct. 28, 1962",
+  "px": 84,
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. OFFICIALS BELIEVED TO HAVE KNOWN ABOUT THE TURKEY PROMISE",
+  "valor": "9 officials",
+  "px": 260,
+  "texto": "The Kennedy brothers, Rusk, McNamara, Bundy, and four others.",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "The secret",
+  "marcos": [
+   [
+    "Oct. 27, 1962",
+    "Promise made"
+   ],
+   [
+    "Apr. 1963",
+    "Last Jupiter in Turkey dismantled"
+   ],
+   [
+    "1969",
+    "Thirteen Days published"
+   ],
+   [
+    "1989",
+    "Dobrynin and Sorensen speak in Moscow"
+   ],
+   [
+    "Later",
+    "Russian archives release Dobrynin's cable"
+   ]
+  ],
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ROBERT F. KENNEDY · PUBLISHED 1969, AFTER HIS ASSASSINATION",
+  "valor": "Thirteen Days",
+  "px": 230,
+  "texto": "The secret promise isn't in it.",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…very explicit…",
+  "autor": "Ted Sorensen, the book's editor, Moscow conference, 1989 (as quoted by historian Philip Nash)",
+  "px": 150,
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MYTH NO. 1",
+  "valor": "“Khrushchev backed down for nothing”",
+  "px": 110,
+  "stamp": "MYTH",
+  "stamp_top": 150,
+  "texto": "RECORD: a public no-invasion pledge + a secret Jupiter promise.",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MYTH NO. 2 · OCT. 24, 1962",
+  "valor": "“Eyeball to eyeball”",
+  "px": 150,
+  "stamp": "MYTH",
+  "stamp_top": 150,
+  "texto": "RECORD: the Soviet missile ships had turned back ~30 hours earlier, ~500 miles away.",
+  "fonte": "Michael Dobbs, Foreign Policy (2012)",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MYTH NO. 3",
+  "valor": "“The Trollope ploy saved the day”",
+  "px": 110,
+  "stamp": "MYTH",
+  "stamp_top": 150,
+  "texto": "RECORD: “a myth” — Sheldon Stern, JFK Library historian.",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MYTH NO. 4 · THE FILM THIRTEEN DAYS (2000)",
+  "valor": "Kenny O'Donnell as the hero",
+  "px": 130,
+  "stamp": "MYTH",
+  "stamp_top": 150,
+  "texto": "Disputed ✗",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…Kenny O'Donnell didn't have any role whatsoever in the missile crisis…",
+  "autor": "Robert McNamara, before seeing the film Thirteen Days (2000)",
+  "px": 84,
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE U-2 SHOOTDOWN · OCT. 27, 1962",
+  "valor": "Ordered locally",
+  "px": 230,
+  "texto": "Against Moscow's standing orders.",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "SATURDAY NIGHT · OCTOBER 27, 1962",
+  "titulo": "A deal, just in time.",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Black Saturday",
+  "itens": [
+   "A letter that raised the price",
+   "A pilot over Banes",
+   "A wrong turn over Siberia",
+   "Signal charges over a submarine",
+   "A sentence crossed out in a memo"
+  ],
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "BEFORE HISTORY CHANGED",
+  "titulo": "None of those moments looked like history while they were happening.",
+  "parte": "PART 8",
+  "file": "004"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "Before History Changed",
+  "sub": "Every story has a before. Subscribe. Next: July 1969, a speech for a Moon landing gone wrong.",
+  "px": 150,
+  "file": "004"
+ }
+]

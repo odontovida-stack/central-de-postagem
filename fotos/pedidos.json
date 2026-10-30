@@ -397,5 +397,65 @@
     "busca": "St Paul's Cathedral London Blitz 1940",
     "formato": "paisagem",
     "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-white-house",
+    "busca": "White House north facade Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-key-west",
+    "busca": "Key West Florida ocean sunset",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-capitol",
+    "busca": "United States Capitol dome Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-jupiter-missile",
+    "busca": "PGM-19 Jupiter missile museum",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-sa2-missile",
+    "busca": "S-75 Dvina SA-2 surface-to-air missile museum",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-bering-strait",
+    "busca": "Bering Strait Chukotka coast",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-kotzebue",
+    "busca": "Kotzebue Alaska winter",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-destroyer",
+    "busca": "Fletcher class destroyer museum ship",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-justice-dept",
+    "busca": "Robert F. Kennedy Department of Justice Building Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-kremlin",
+    "busca": "Moscow Kremlin wall towers",
+    "formato": "paisagem",
+    "opcao": 1
   }
 ]

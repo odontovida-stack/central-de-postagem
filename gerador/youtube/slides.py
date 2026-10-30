@@ -2,7 +2,8 @@
 Uso: python gerador/youtube/slides.py slides.json pasta_saida
 Tipos: capa, capitulo, numero, citacao, lista, barras, duplo, linha, donut, xs. Campo opcional "stamp" (carimbo).
 Campo opcional "foto": "<nome>" põe fotos/banco/<nome>.jpg de fundo, sob um véu escuro na cor do tema, com o crédito
-no canto (opcional "foto_pos": "center 30%" para escolher o enquadramento). Sem a foto no banco, o slide sai como sempre."""
+no canto (opcional "foto_pos": "center 30%" para escolher o enquadramento). Sem a foto no banco, o slide sai como sempre.
+Opcionais: "riscado": true na citação (o texto sai riscado em vermelho); "linha_riscada": "<texto>" na capa (linha datilografada riscada em vermelho)."""
 import json, sys, html
 from pathlib import Path
 from playwright.sync_api import sync_playwright
@@ -34,6 +35,7 @@ CSS = (ff("S", 400, fn="source-serif-4-latin-400-normal.woff2") + ff("S", 400, "
 .credito{{position:absolute;right:48px;bottom:24px;font:500 19px M;color:{MUTED};letter-spacing:.03em;opacity:.9;max-width:1100px;text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}
 """)
 e = html.escape
+RISCO = "text-decoration:line-through;text-decoration-color:#C0392B;text-decoration-thickness:6px"  # "riscado" (citação) / "linha_riscada" (capa)
 def topo(s): return f'<div class="top"><span>{TEMA["marca"]}</span><span>{TEMA["rotulo"]}{e(s.get("file","001"))}{" · " + e(s["parte"]) if s.get("parte") else ""}</span></div>'
 def corpo(s):
     t = s["tipo"]
@@ -41,7 +43,9 @@ def corpo(s):
         return (topo(s) + f'<div style="flex-grow:1;display:flex;flex-direction:column;justify-content:center;gap:34px;position:relative">'
                 f'<span style="font:700 34px M;color:{RED};letter-spacing:.2em">{TEMA["rotulo"]}{e(s.get("file","001"))}</span>'
                 f'<h1 style="margin:0;font-weight:700;font-size:{s.get("px",128)}px;line-height:1.02;max-width:1500px">{e(s["titulo"])}</h1>'
-                f'<p style="margin:0;font-style:italic;font-size:44px;color:{MUTED};max-width:1400px">{e(s.get("sub",""))}</p></div>' +
+                f'<p style="margin:0;font-style:italic;font-size:44px;color:{MUTED};max-width:1400px">{e(s.get("sub",""))}</p>'
+                + (f'<p style="margin:0;font:500 38px M;line-height:1.4;max-width:1500px;{RISCO}">{e(s["linha_riscada"])}</p>' if s.get("linha_riscada") else "")
+                + '</div>' +
                 (f'<div class="stamp" style="right:140px;top:230px">CLASSIFIED</div>' if not s.get("stamp") and os.environ.get("TEMA_SLIDES", "taf") == "taf" else ''))
     if t == "capitulo":
         return (topo(s) + f'<div style="flex-grow:1;display:flex;flex-direction:column;justify-content:center;gap:28px;position:relative">'
@@ -56,7 +60,7 @@ def corpo(s):
                 + (f'<div class="src">SOURCE: {e(s["fonte"])}</div>' if s.get("fonte") else ""))
     if t == "citacao":
         return (topo(s) + f'<div style="flex-grow:1;display:flex;flex-direction:column;justify-content:center;gap:40px;position:relative;padding-left:60px;border-left:10px solid {RED};margin:60px 0">'
-                f'<p style="margin:0;font-style:italic;font-size:{s.get("px",62)}px;line-height:1.3;max-width:1550px">“{e(s["texto"])}”</p>'
+                f'<p style="margin:0;font-style:italic;font-size:{s.get("px",62)}px;line-height:1.3;max-width:1550px;{RISCO if s.get("riscado") else ""}">“{e(s["texto"])}”</p>'
                 f'<span style="font:500 32px M;color:{MUTED};letter-spacing:.08em">— {e(s["autor"])}</span></div>')
     if t == "lista":
         itens = "".join(f'<div style="display:flex;gap:30px;align-items:baseline"><span style="font:700 34px M;color:{RED}">{i:02d}</span><span style="font-size:52px;line-height:1.25">{e(x)}</span></div>' for i, x in enumerate(s["itens"], 1))
