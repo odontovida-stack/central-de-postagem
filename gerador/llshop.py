@@ -258,6 +258,9 @@ def main():
             "textos_alternativos": alts,
             "legenda": legenda,
         }
+        # links da bio: [{"titulo": "...", "url": "https://..."}] — aparecem na página de links do perfil
+        if card.get("links"):
+            post["links"] = card["links"]
         (pasta / "post.json").write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     for _, img in trabalhos:
         print(img.relative_to(RAIZ))
