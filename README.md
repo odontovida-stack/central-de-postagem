@@ -9,7 +9,7 @@ Roda de graça no **GitHub Actions**. Você aprova cada post pelo app do GitHub 
 1. **O post chega na fila.** Cada post é uma pasta em `fila/` com as imagens (JPEG) e um `post.json` com conta, legenda, redes e horário. O Claude cria essas pastas e abre um *pull request*.
 2. **Você aprova pelo celular.** No app do GitHub, abra o pull request, veja as imagens e a legenda e toque em **Merge**. O post fica com `"status": "aprovado"`.
 3. **Ele sai na hora marcada.** A cada 30 minutos o GitHub roda `scripts/publicar.py`. Ele publica os posts aprovados cujo horário já chegou e grava o resultado no próprio `post.json`.
-4. **Os números entram no painel.** Todo dia às 6:23, `scripts/coletar_metricas.py` grava os números de ontem em `dados/metricas.json`, que alimenta o Painel de Crescimento das Páginas.
+4. **Os números entram no painel.** Todo dia às 6:23, `scripts/coletar_metricas.py` grava os números de ontem em `dados/metricas.json`. O **Painel das Páginas** (`painel/index.html`, publicado em https://odontovida-stack.github.io/central-de-postagem/painel/) mostra seguidores, alcance e interações de cada conta e a fila de posts. Ele se atualiza sozinho.
 
 Se algo der errado, o post fica com `"status": "erro"` e a mensagem do problema, e o GitHub manda um e-mail avisando. Nada é publicado duas vezes.
 
@@ -74,3 +74,52 @@ Não precisa instalar nada: só Python 3.10 ou mais novo.
 ## Limites da Meta
 - Até 100 posts por conta a cada 24 horas no Instagram (nós usamos uns 2).
 - Imagens precisam estar num endereço público. Por isso o repositório é público e as imagens são lidas direto do GitHub.
+
+## Robô de agenda das páginas LLShop
+
+As 5 páginas (@jogosnatela, @esportesnatela, @tudooqueestreia, @lancamentosdegames e @showsconfirmados) recebem toda semana uma **agenda** e um ou mais **destaques**.
+
+1. **A pauta.** Toda quinta, o Claude apura a semana seguinte em fontes oficiais (CBF, UEFA, Conmebol, UFC, F1, Netflix, Nintendo, Eventim etc.). Ele grava tudo em `pauta/AAAA-MM-DD.json`, com a data da segunda-feira da semana.
+2. **Os cards.** `python gerador/llshop.py pauta/AAAA-MM-DD.json` monta os cards no visual das páginas, com as fontes de `gerador/fontes`. Ele cria um post por card em `fila/`. Se um texto não couber no card, o robô para e avisa.
+3. **A aprovação.** Tudo vai num pull request. Você confere as imagens e as legendas e faz o merge. Cada post sai no horário marcado no campo `quando`.
+
+Para só ver as imagens, sem criar posts: `python gerador/llshop.py pauta/AAAA-MM-DD.json --previa` (elas ficam em `previa/`, que não vai para o GitHub).
+
+Cada card da pauta tem:
+- `tipo`: `agenda` (lista de até 6 itens) ou `destaque` (um evento).
+- `quando`, `pilula`, `chamada`, `titulo`, `fonte`, `cta` e `legenda`.
+- Na agenda: `itens`, cada um com `data`, `sub`, `titulo` e `detalhe`.
+- No destaque: `grande` (uma data grande), `caixas` (2 pares título/valor), `linhas` (data, cidade, local) e `nota`.
+- `tipo: pergunta` é o card de engajamento: `pilula`, `chamada`, `titulo` (a pergunta), `contexto` (opcional), `opcoes` (até 4, viram A, B, C e D), `fonte` e `cta`. A pessoa responde nos comentários.
+- `tipo: texto` é o slide de comentário dos carrosséis: `pilula`, `chamada`, `titulo`, `texto` (um parágrafo curto), `topicos` (até 4) e `grande` (um número grande, opcional).
+- `tipo: carrossel` junta vários cards num post só. Ele leva `quando`, `legenda`, `alt` (opcional) e `cards` (a lista de cards agenda/destaque, na ordem dos slides). É o que o card diário de 7h30 do @jogosnatela usa: resultados de ontem e jogos de hoje.
+
+### Calendário das páginas LLShop (combinado em 29/10/2026)
+
+Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull request por dia) e só existem quando há novidade. As agendas semanais saem do robô semanal (quinta às 10h58).
+
+
+| Página | Post | Quando |
+|---|---|---|
+| @jogosnatela | Resultados de ontem + jogos de hoje (carrossel) | Todo dia, 7h30 |
+| @jogosnatela | Jogo do dia (só se houver jogo grande) | 17h |
+| @esportesnatela | Hoje tem (UFC, F1, NBA, NFL grandes) | 11h |
+| @lancamentosdegames | Sai hoje (lançamento grande) | 10h |
+| @lancamentosdegames | Jogos grátis para resgatar (Epic toda quinta, Steam, GOG, PS Plus, Prime, Game Pass) | 14h |
+| @tudooqueestreia | Estreia hoje | 12h |
+| @showsconfirmados | Pré-venda hoje | 8h |
+| @showsconfirmados | Hoje tem show | 16h |
+| @lancamentosdegames | Carrossel "O game da semana" | Terça, 19h |
+| @tudooqueestreia | Carrossel "As estreias mais esperadas" (streaming + cinema) | Quarta, 20h |
+| @lancamentosdegames | Carrossel "O grátis da semana: vale resgatar?" | Quinta, 16h |
+| @showsconfirmados | Carrossel "O show da semana" | Quinta, 19h |
+| @jogosnatela | Carrossel "O jogo da semana" | Sexta, 19h |
+| @esportesnatela | Carrossel "O evento da semana" | Sábado, 10h |
+| Todas | Notícia do dia: desfalque, líder, campeão, recorde (inclusive de bilheteria, vendas e público) ou fato curioso, só quando houver | 10h30, 13h ou 15h, até 1 por página por dia |
+| Todas | Perguntas para o público: palpite antes de um evento grande, "o que achou?" depois, e 1 enquete fixa por semana (ver o robô "Posts do dia") | 12h ou 20h, até 1 por página por dia |
+| @jogosnatela | Agenda da semana | Segunda, 12h |
+| @esportesnatela | Agenda da semana | Segunda, 12h30 |
+| @lancamentosdegames | Lançamentos da semana | Segunda, 9h |
+| @showsconfirmados | Shows da semana ou do mês | Segunda, 19h |
+| @tudooqueestreia | Estreias da semana (sexta a quinta) | Sexta, 9h |
+| Todas | Destaques | 18h, de terça a sábado |

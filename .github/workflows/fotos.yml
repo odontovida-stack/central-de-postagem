@@ -1,0 +1,32 @@
+name: Buscar fotos de licença livre
+
+on:
+  push:
+    branches: ["**"]
+    paths: ["fotos/pedidos.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fotos-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Buscar e baixar
+        run: python scripts/buscar_fotos.py
+      - name: Gravar as fotos no branch
+        run: |
+          git config user.name "central-de-postagem"
+          git config user.email "actions@users.noreply.github.com"
+          git add fotos
+          git diff --cached --quiet || (git commit -m "Fotos baixadas $(date -u +%FT%TZ)" && git push)
