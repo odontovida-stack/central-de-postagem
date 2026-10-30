@@ -115,6 +115,7 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 | @showsconfirmados | Carrossel "O show da semana" | Quinta, 19h |
 | @jogosnatela | Carrossel "O jogo da semana" | Sexta, 19h |
 | @esportesnatela | Carrossel "O evento da semana" | Sábado, 10h |
+| Todas | Notícia do dia: desfalque, líder, campeão, recorde (inclusive de bilheteria, vendas e público) ou fato curioso, só quando houver | 10h30, 13h ou 15h, até 1 por página por dia |
 | Todas | Perguntas para o público: palpite antes de um evento grande, "o que achou?" depois, e 1 enquete fixa por semana (ver o robô "Posts do dia") | 12h ou 20h, até 1 por página por dia |
 | @jogosnatela | Agenda da semana | Segunda, 12h |
 | @esportesnatela | Agenda da semana | Segunda, 12h30 |
