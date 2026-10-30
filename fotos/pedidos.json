@@ -105,5 +105,10 @@
     "nome": "streaming-sofa",
     "busca": "television living room watching",
     "opcao": 1
+  },
+  {
+    "nome": "pc-teclado",
+    "busca": "gaming keyboard RGB backlit",
+    "opcao": 1
   }
 ]
