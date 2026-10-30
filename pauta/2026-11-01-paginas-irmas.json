@@ -1,0 +1,111 @@
+{
+  "semana": "2026-11-01 · páginas irmãs",
+  "apurado_em": "2026-10-29",
+  "contas": {
+    "jogosnatela": [
+      {
+        "tipo": "texto",
+        "quando": "2026-11-01T15:00:00-03:00",
+        "sufixo": "paginas-irmas",
+        "pilula": "NOSSAS PÁGINAS",
+        "chamada": "CURTE O QUE A GENTE POSTA?",
+        "titulo": "Conheça as páginas irmãs",
+        "texto": "Mesmo time, mesmo cuidado: tudo conferido em fonte oficial e com horário de Brasília.",
+        "topicos": [
+          "@esportesnatela: F1, UFC, NBA, NFL, tênis e vôlei",
+          "@tudooqueestreia: Estreias do cinema e do streaming",
+          "@lancamentosdegames: Lançamentos e jogos grátis para resgatar",
+          "@showsconfirmados: Shows confirmados no Brasil e pré-vendas"
+        ],
+        "fonte": "",
+        "cta": "Toque no @ e siga",
+        "alt": "Lista das páginas irmãs: @esportesnatela, @tudooqueestreia, @lancamentosdegames, @showsconfirmados",
+        "legenda": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:\n\n• @esportesnatela: F1, UFC, NBA, NFL, tênis e vôlei\n• @tudooqueestreia: Estreias do cinema e do streaming\n• @lancamentosdegames: Lançamentos e jogos grátis para resgatar\n• @showsconfirmados: Shows confirmados no Brasil e pré-vendas\n\nTudo conferido em fonte oficial, com horário de Brasília.\n📤 Mande para aquele amigo que vive perguntando \"que horas passa?\"\n\nQual delas você já segue? 👇\n\n#agenda #ondeassistir #estreias #games #shows"
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "texto",
+        "quando": "2026-11-01T15:00:00-03:00",
+        "sufixo": "paginas-irmas",
+        "pilula": "NOSSAS PÁGINAS",
+        "chamada": "CURTE O QUE A GENTE POSTA?",
+        "titulo": "Conheça as páginas irmãs",
+        "texto": "Mesmo time, mesmo cuidado: tudo conferido em fonte oficial e com horário de Brasília.",
+        "topicos": [
+          "@jogosnatela: Os jogos do dia, com horário e onde assistir",
+          "@tudooqueestreia: Estreias do cinema e do streaming",
+          "@lancamentosdegames: Lançamentos e jogos grátis para resgatar",
+          "@showsconfirmados: Shows confirmados no Brasil e pré-vendas"
+        ],
+        "fonte": "",
+        "cta": "Toque no @ e siga",
+        "alt": "Lista das páginas irmãs: @jogosnatela, @tudooqueestreia, @lancamentosdegames, @showsconfirmados",
+        "legenda": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:\n\n• @jogosnatela: Os jogos do dia, com horário e onde assistir\n• @tudooqueestreia: Estreias do cinema e do streaming\n• @lancamentosdegames: Lançamentos e jogos grátis para resgatar\n• @showsconfirmados: Shows confirmados no Brasil e pré-vendas\n\nTudo conferido em fonte oficial, com horário de Brasília.\n📤 Mande para aquele amigo que vive perguntando \"que horas passa?\"\n\nQual delas você já segue? 👇\n\n#agenda #ondeassistir #estreias #games #shows"
+      }
+    ],
+    "tudooqueestreia": [
+      {
+        "tipo": "texto",
+        "quando": "2026-11-01T15:00:00-03:00",
+        "sufixo": "paginas-irmas",
+        "pilula": "NOSSAS PÁGINAS",
+        "chamada": "CURTE O QUE A GENTE POSTA?",
+        "titulo": "Conheça as páginas irmãs",
+        "texto": "Mesmo time, mesmo cuidado: tudo conferido em fonte oficial e com horário de Brasília.",
+        "topicos": [
+          "@jogosnatela: Os jogos do dia, com horário e onde assistir",
+          "@esportesnatela: F1, UFC, NBA, NFL, tênis e vôlei",
+          "@lancamentosdegames: Lançamentos e jogos grátis para resgatar",
+          "@showsconfirmados: Shows confirmados no Brasil e pré-vendas"
+        ],
+        "fonte": "",
+        "cta": "Toque no @ e siga",
+        "alt": "Lista das páginas irmãs: @jogosnatela, @esportesnatela, @lancamentosdegames, @showsconfirmados",
+        "legenda": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:\n\n• @jogosnatela: Os jogos do dia, com horário e onde assistir\n• @esportesnatela: F1, UFC, NBA, NFL, tênis e vôlei\n• @lancamentosdegames: Lançamentos e jogos grátis para resgatar\n• @showsconfirmados: Shows confirmados no Brasil e pré-vendas\n\nTudo conferido em fonte oficial, com horário de Brasília.\n📤 Mande para aquele amigo que vive perguntando \"que horas passa?\"\n\nQual delas você já segue? 👇\n\n#agenda #ondeassistir #estreias #games #shows"
+      }
+    ],
+    "lancamentosdegames": [
+      {
+        "tipo": "texto",
+        "quando": "2026-11-01T15:00:00-03:00",
+        "sufixo": "paginas-irmas",
+        "pilula": "NOSSAS PÁGINAS",
+        "chamada": "CURTE O QUE A GENTE POSTA?",
+        "titulo": "Conheça as páginas irmãs",
+        "texto": "Mesmo time, mesmo cuidado: tudo conferido em fonte oficial e com horário de Brasília.",
+        "topicos": [
+          "@jogosnatela: Os jogos do dia, com horário e onde assistir",
+          "@esportesnatela: F1, UFC, NBA, NFL, tênis e vôlei",
+          "@tudooqueestreia: Estreias do cinema e do streaming",
+          "@showsconfirmados: Shows confirmados no Brasil e pré-vendas"
+        ],
+        "fonte": "",
+        "cta": "Toque no @ e siga",
+        "alt": "Lista das páginas irmãs: @jogosnatela, @esportesnatela, @tudooqueestreia, @showsconfirmados",
+        "legenda": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:\n\n• @jogosnatela: Os jogos do dia, com horário e onde assistir\n• @esportesnatela: F1, UFC, NBA, NFL, tênis e vôlei\n• @tudooqueestreia: Estreias do cinema e do streaming\n• @showsconfirmados: Shows confirmados no Brasil e pré-vendas\n\nTudo conferido em fonte oficial, com horário de Brasília.\n📤 Mande para aquele amigo que vive perguntando \"que horas passa?\"\n\nQual delas você já segue? 👇\n\n#agenda #ondeassistir #estreias #games #shows"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "texto",
+        "quando": "2026-11-01T15:00:00-03:00",
+        "sufixo": "paginas-irmas",
+        "pilula": "NOSSAS PÁGINAS",
+        "chamada": "CURTE O QUE A GENTE POSTA?",
+        "titulo": "Conheça as páginas irmãs",
+        "texto": "Mesmo time, mesmo cuidado: tudo conferido em fonte oficial e com horário de Brasília.",
+        "topicos": [
+          "@jogosnatela: Os jogos do dia, com horário e onde assistir",
+          "@esportesnatela: F1, UFC, NBA, NFL, tênis e vôlei",
+          "@tudooqueestreia: Estreias do cinema e do streaming",
+          "@lancamentosdegames: Lançamentos e jogos grátis para resgatar"
+        ],
+        "fonte": "",
+        "cta": "Toque no @ e siga",
+        "alt": "Lista das páginas irmãs: @jogosnatela, @esportesnatela, @tudooqueestreia, @lancamentosdegames",
+        "legenda": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:\n\n• @jogosnatela: Os jogos do dia, com horário e onde assistir\n• @esportesnatela: F1, UFC, NBA, NFL, tênis e vôlei\n• @tudooqueestreia: Estreias do cinema e do streaming\n• @lancamentosdegames: Lançamentos e jogos grátis para resgatar\n\nTudo conferido em fonte oficial, com horário de Brasília.\n📤 Mande para aquele amigo que vive perguntando \"que horas passa?\"\n\nQual delas você já segue? 👇\n\n#agenda #ondeassistir #estreias #games #shows"
+      }
+    ]
+  }
+}
