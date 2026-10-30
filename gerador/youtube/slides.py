@@ -5,27 +5,34 @@ import json, sys, html
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 F = Path(__file__).resolve().parent / "fontes"
-BG, NAVY, RED, PAPER, MUTED = "#0D1117", "#1B3A6B", "#C0392B", "#EDE6D6", "#9AA4B2"
+import os
+TEMAS = {
+    "taf": {"cores": ("#0D1117", "#1B3A6B", "#C0392B", "#EDE6D6", "#9AA4B2"), "marca": "THE AMERICAN FILE", "rotulo": "FILE #"},
+    "bhc": {"cores": ("#15110C", "#5A4426", "#C9A227", "#F1E6CF", "#A89A84"), "marca": "BEFORE HISTORY CHANGED", "rotulo": "#", "brilho": ("rgba(90,68,38,.45)", "rgba(201,162,39,.10)")},
+}
+TEMA = TEMAS[os.environ.get("TEMA_SLIDES", "taf")]
+BG, NAVY, RED, PAPER, MUTED = TEMA["cores"]
+GLOW1, GLOW2 = TEMA.get("brilho", ("rgba(27,58,107,.35)", "rgba(192,57,43,.12)"))
 def ff(fam, w, st="normal", fn=None): return f"@font-face{{font-family:'{fam}';font-weight:{w};font-style:{st};src:url('file://{F}/{fn}')}}"
 CSS = (ff("S", 400, fn="source-serif-4-latin-400-normal.woff2") + ff("S", 400, "italic", "source-serif-4-latin-400-italic.woff2") +
        ff("S", 700, fn="source-serif-4-latin-700-normal.woff2") + ff("S", 700, "italic", "source-serif-4-latin-700-italic.woff2") +
        ff("M", 500, fn="ibm-plex-mono-latin-500-normal.woff2") + ff("M", 700, fn="ibm-plex-mono-latin-700-normal.woff2") +
        f"""body{{margin:0}}#c{{width:1920px;height:1080px;box-sizing:border-box;padding:90px 120px;background:{BG};color:{PAPER};font-family:S;position:relative;overflow:hidden;display:flex;flex-direction:column}}
-.grain{{position:absolute;inset:0;background:radial-gradient(ellipse at 30% 20%,rgba(27,58,107,.35),transparent 60%),radial-gradient(ellipse at 90% 100%,rgba(192,57,43,.12),transparent 50%)}}
+.grain{{position:absolute;inset:0;background:radial-gradient(ellipse at 30% 20%,{GLOW1},transparent 60%),radial-gradient(ellipse at 90% 100%,{GLOW2},transparent 50%)}}
 .top{{display:flex;justify-content:space-between;font:500 26px M;letter-spacing:.18em;color:{MUTED};position:relative}}
 .stamp{{position:absolute;border:6px solid {RED};color:{RED};font:700 44px M;letter-spacing:.2em;padding:10px 26px;transform:rotate(-8deg);opacity:.85}}
 .src{{position:absolute;left:120px;bottom:60px;font:500 22px M;color:{MUTED};letter-spacing:.04em}}
 """)
 e = html.escape
-def topo(s): return f'<div class="top"><span>THE AMERICAN FILE</span><span>FILE #{e(s.get("file","001"))}{" · " + e(s["parte"]) if s.get("parte") else ""}</span></div>'
+def topo(s): return f'<div class="top"><span>{TEMA["marca"]}</span><span>{TEMA["rotulo"]}{e(s.get("file","001"))}{" · " + e(s["parte"]) if s.get("parte") else ""}</span></div>'
 def corpo(s):
     t = s["tipo"]
     if t == "capa":
         return (topo(s) + f'<div style="flex-grow:1;display:flex;flex-direction:column;justify-content:center;gap:34px;position:relative">'
-                f'<span style="font:700 34px M;color:{RED};letter-spacing:.2em">FILE #{e(s.get("file","001"))}</span>'
+                f'<span style="font:700 34px M;color:{RED};letter-spacing:.2em">{TEMA["rotulo"]}{e(s.get("file","001"))}</span>'
                 f'<h1 style="margin:0;font-weight:700;font-size:{s.get("px",128)}px;line-height:1.02;max-width:1500px">{e(s["titulo"])}</h1>'
                 f'<p style="margin:0;font-style:italic;font-size:44px;color:{MUTED};max-width:1400px">{e(s.get("sub",""))}</p></div>' +
-                (f'<div class="stamp" style="right:140px;top:230px">CLASSIFIED</div>' if not s.get("stamp") else ''))
+                (f'<div class="stamp" style="right:140px;top:230px">CLASSIFIED</div>' if not s.get("stamp") and os.environ.get("TEMA_SLIDES", "taf") == "taf" else ''))
     if t == "capitulo":
         return (topo(s) + f'<div style="flex-grow:1;display:flex;flex-direction:column;justify-content:center;gap:28px;position:relative">'
                 f'<span style="font:700 32px M;color:{RED};letter-spacing:.2em">{e(s["numero"])}</span>'

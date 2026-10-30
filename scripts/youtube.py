@@ -73,6 +73,7 @@ def rodar(*args):
 def montar(pasta, cfg):
     out = SAIDA / pasta.parent.name / pasta.name
     out.mkdir(parents=True, exist_ok=True)
+    os.environ["TEMA_SLIDES"] = cfg.get("tema", cfg["canal"])
     rodar(sys.executable, GER / "slides.py", pasta / "slides.json", out / "slides")
     rodar(sys.executable, GER / "slides.py", pasta / "thumb.json", out / "thumb")
     from PIL import Image
