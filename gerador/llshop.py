@@ -104,6 +104,58 @@ def agenda(conta, card):
     return moldura(miolo, card)
 
 
+
+TIMES_ARQ = RAIZ / "config" / "times.json"
+
+
+def selo(nome, cor, px=84):
+    """Selo do time: sigla nas cores do clube, num círculo. Nunca o escudo (marca registrada do clube)."""
+    times = json.loads(TIMES_ARQ.read_text(encoding="utf-8")) if TIMES_ARQ.exists() else {}
+    times.pop("_leia", None)
+    t = times.get(nome, {})
+    sigla = t.get("sigla") or "".join(ch for ch in nome.upper() if ch.isalpha())[:3]
+    c1, c2 = t["cores"][:2] if len(t.get("cores", [])) >= 2 else ("#3A3F48", cor)
+    return (f'<span style="flex-shrink: 0; width: {px}px; height: {px}px; border-radius: 50%; background: {c1}; border: {max(4, px // 14)}px solid {c2}; '
+            f'box-shadow: 0 0 0 4px {LINE}; display: flex; align-items: center; justify-content: center; '
+            f'font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: {px * 36 // 100}px; color: {t.get("texto", "#FFFFFF")}; letter-spacing: .02em">{e(sigla)}</span>')
+
+
+def placar(conta, card):
+    """Placar por competição: [{"competicao": "...", "jogos": [{"casa","gc","fora","gf","nota"}]}] + "destaque" opcional."""
+    cor = PAGINAS[conta]["cor"]
+    grupos = card["grupos"]
+    n = sum(len(g["jogos"]) for g in grupos)
+    nome_px, sel_px, gol_px, h1_px = (46, 84, 58, 104) if n <= 4 else (40, 72, 50, 88) if n <= 6 else (34, 62, 44, 76)
+    blocos = []
+    for g in grupos:
+        linhas = []
+        for j in g["jogos"]:
+            gc, gf = str(j.get("gc", "")), str(j.get("gf", ""))
+            vc = gc.isdigit() and gf.isdigit() and int(gc) > int(gf)
+            vf = gc.isdigit() and gf.isdigit() and int(gf) > int(gc)
+            nc = f'<span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 700; font-size: {nome_px}px; color: {FG if vc or not vf else MUTED}; text-align: right; flex: 1; min-width: 0">{e(j["casa"])}</span>'
+            nf = f'<span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 700; font-size: {nome_px}px; color: {FG if vf or not vc else MUTED}; flex: 1; min-width: 0">{e(j["fora"])}</span>'
+            meio = (f'<span style="flex-shrink: 0; font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: {gol_px}px; background: {BG}; border-radius: 12px; padding: 0 18px; white-space: nowrap">'
+                    f'{e(gc)}<span style="color: {cor}; padding: 0 10px">×</span>{e(gf)}</span>')
+            nota = f'<div style="font-size: 24px; color: {MUTED}; text-align: center; margin-top: -4px">{e(j["nota"])}</div>' if j.get("nota") else ""
+            linhas.append(f'<div style="background: {CARD}; border-radius: 18px; padding: 10px 18px"><div style="display: flex; align-items: center; gap: 18px">{selo(j["casa"], cor, sel_px)}{nc}{meio}{nf}{selo(j["fora"], cor, sel_px)}</div>{nota}</div>')
+        blocos.append(f'<div style="display: flex; flex-direction: column; gap: 12px"><span style="align-self: center; font-family: \'Barlow Condensed\', sans-serif; font-weight: 700; font-size: 34px; letter-spacing: .06em; text-transform: uppercase; border: 2px solid {cor}; color: {cor}; border-radius: 999px; padding: 4px 26px">{e(g["competicao"])}</span>{"".join(linhas)}</div>')
+    dest = ""
+    if card.get("destaque"):
+        dest = (f'<div style="background: {cor}; color: {BG}; border-radius: 18px; padding: 18px 26px; font-size: 32px; line-height: 1.3; text-align: center">'
+                f'<b>★ {e(card.get("destaque_rotulo", "DESTAQUE DA NOITE"))}:</b> {e(card["destaque"])}</div>')
+    miolo = f'''{topo(conta, cor, card["pilula"], False)}
+<div style="display: flex; flex-direction: column; gap: 10px">
+<span style="font-weight: 700; font-size: 32px; letter-spacing: 0.12em; color: {cor}">{e(card["chamada"])}</span>
+<h1 style="margin: 0; font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: {h1_px}px; line-height: 0.9; text-transform: uppercase">{e(card["titulo"])}</h1>
+</div>
+<div style="display: flex; flex-direction: column; gap: 22px; flex-grow: 1; justify-content: center">
+{"".join(blocos)}
+{dest}
+</div>
+{rodape(card["fonte"], card["cta"])}'''
+    return moldura(miolo, card)
+
 def destaque(conta, card):
     cor = PAGINAS[conta]["cor"]
     partes = [f'<span style="font-weight: 700; font-size: 32px; letter-spacing: 0.12em; color: {cor}">{e(card["chamada"])}</span>']
@@ -229,7 +281,7 @@ def main():
             pasta = (RAIZ / "previa" / pauta_arq.stem) if previa else (RAIZ / "fila" / nome)
             midias, alts, creditos = [], [], []
             for i, sub in enumerate(subcards, 1):
-                htm = {"agenda": agenda, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir}[sub["tipo"]](conta, sub)
+                htm = {"agenda": agenda, "placar": placar, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
                 img = pasta / (f"{nome}-{arq}" if previa else arq)
                 trabalhos.append((htm, img))

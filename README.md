@@ -124,6 +124,14 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 | @tudooqueestreia | Estreias da semana (sexta a quinta) | Sexta, 9h |
 | Todas | Destaques | 18h, de terça a sábado |
 
+### Placar com selos dos times (tipo `placar`)
+
+Para resultados, o card `placar` agrupa os jogos por competição e mostra o selo de cada time: a sigla nas cores do clube.
+**Nunca o escudo:** o escudo é marca registrada do clube. Usar escudo em post sem licença pode derrubar o post ou a página, e a Meta pune isso.
+- Cores e siglas: `config/times.json`. Um time que não está na lista sai com as 3 primeiras letras num selo cinza.
+- Formato: `{"tipo": "placar", "chamada": "RESULTADOS DE ONTEM", "titulo": "Placar final", "grupos": [{"competicao": "Libertadores", "jogos": [{"casa": "Flamengo", "gc": 3, "fora": "Cusco FC", "gf": 0}]}], "destaque": "…", "fonte": "…", "cta": "…"}`.
+- Cabem até 8 jogos por card. O vencedor fica em branco e o perdedor em cinza.
+
 ## Fotos e engajamento (combinado em 29/10/2026)
 
 ### Fotos de fundo

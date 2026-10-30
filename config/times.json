@@ -1,0 +1,307 @@
+{
+ "_leia": "Selos dos times: sigla nas cores do clube. Nunca use o escudo (marca registrada). Time fora da lista usa as 3 primeiras letras na cor da página.",
+ "Flamengo": {
+  "sigla": "FLA",
+  "cores": [
+   "#C8102E",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Palmeiras": {
+  "sigla": "PAL",
+  "cores": [
+   "#006437",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Corinthians": {
+  "sigla": "COR",
+  "cores": [
+   "#111111",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "São Paulo": {
+  "sigla": "SAO",
+  "cores": [
+   "#E30613",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Santos": {
+  "sigla": "SAN",
+  "cores": [
+   "#FFFFFF",
+   "#111111"
+  ],
+  "texto": "#111111"
+ },
+ "Vasco": {
+  "sigla": "VAS",
+  "cores": [
+   "#111111",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Botafogo": {
+  "sigla": "BOT",
+  "cores": [
+   "#111111",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Fluminense": {
+  "sigla": "FLU",
+  "cores": [
+   "#7A0026",
+   "#00613C"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Cruzeiro": {
+  "sigla": "CRU",
+  "cores": [
+   "#0033A0",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Atlético-MG": {
+  "sigla": "CAM",
+  "cores": [
+   "#111111",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Grêmio": {
+  "sigla": "GRE",
+  "cores": [
+   "#0D80BF",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Internacional": {
+  "sigla": "INT",
+  "cores": [
+   "#D2001F",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Bahia": {
+  "sigla": "BAH",
+  "cores": [
+   "#005CA9",
+   "#E30613"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Fortaleza": {
+  "sigla": "FOR",
+  "cores": [
+   "#00529F",
+   "#E30613"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Vitória": {
+  "sigla": "VIT",
+  "cores": [
+   "#E30613",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Sport": {
+  "sigla": "SPT",
+  "cores": [
+   "#E30613",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Ceará": {
+  "sigla": "CEA",
+  "cores": [
+   "#111111",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Athletico-PR": {
+  "sigla": "CAP",
+  "cores": [
+   "#C8102E",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Coritiba": {
+  "sigla": "CFC",
+  "cores": [
+   "#00573F",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Red Bull Bragantino": {
+  "sigla": "RBB",
+  "cores": [
+   "#FFFFFF",
+   "#D2001F"
+  ],
+  "texto": "#D2001F"
+ },
+ "Bragantino": {
+  "sigla": "RBB",
+  "cores": [
+   "#FFFFFF",
+   "#D2001F"
+  ],
+  "texto": "#D2001F"
+ },
+ "Mirassol": {
+  "sigla": "MIR",
+  "cores": [
+   "#FFD700",
+   "#00843D"
+  ],
+  "texto": "#00843D"
+ },
+ "Juventude": {
+  "sigla": "JUV",
+  "cores": [
+   "#00843D",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Goiás": {
+  "sigla": "GOI",
+  "cores": [
+   "#00843D",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Remo": {
+  "sigla": "REM",
+  "cores": [
+   "#0B2A5B",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Paysandu": {
+  "sigla": "PAY",
+  "cores": [
+   "#3FA9F5",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Chapecoense": {
+  "sigla": "CHA",
+  "cores": [
+   "#00843D",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Seleção Brasileira": {
+  "sigla": "BRA",
+  "cores": [
+   "#FFDF00",
+   "#009C3B"
+  ],
+  "texto": "#009C3B"
+ },
+ "Brasil": {
+  "sigla": "BRA",
+  "cores": [
+   "#FFDF00",
+   "#009C3B"
+  ],
+  "texto": "#009C3B"
+ },
+ "Argentina": {
+  "sigla": "ARG",
+  "cores": [
+   "#75AADB",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Lanús": {
+  "sigla": "LAN",
+  "cores": [
+   "#7A0026",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Boca Juniors": {
+  "sigla": "BOC",
+  "cores": [
+   "#0033A0",
+   "#FFD700"
+  ],
+  "texto": "#FFD700"
+ },
+ "River Plate": {
+  "sigla": "RIV",
+  "cores": [
+   "#FFFFFF",
+   "#E30613"
+  ],
+  "texto": "#E30613"
+ },
+ "Real Madrid": {
+  "sigla": "RMA",
+  "cores": [
+   "#FFFFFF",
+   "#3D195B"
+  ],
+  "texto": "#3D195B"
+ },
+ "Barcelona": {
+  "sigla": "BAR",
+  "cores": [
+   "#A50044",
+   "#004D98"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Manchester City": {
+  "sigla": "MCI",
+  "cores": [
+   "#6CABDD",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Liverpool": {
+  "sigla": "LIV",
+  "cores": [
+   "#C8102E",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "PSG": {
+  "sigla": "PSG",
+  "cores": [
+   "#004170",
+   "#DA291C"
+  ],
+  "texto": "#FFFFFF"
+ }
+}
