@@ -20,14 +20,13 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Conferir a fila
-        run: python scripts/validar.py
-      - name: Publicar
+      - name: Publicar (fica de plantão por até 5h40, conferindo a fila a cada 5 minutos)
         env:
           SIMULAR: ${{ github.event_name == 'workflow_dispatch' && inputs.simular && '1' || '0' }}
           GRAPH_VERSION: ${{ vars.GRAPH_VERSION || 'v23.0' }}
@@ -35,11 +34,22 @@ jobs:
           TOKEN_BRASIL2359: ${{ secrets.TOKEN_BRASIL2359 }}
           TOKEN_BRAZILONABUDGET: ${{ secrets.TOKEN_BRAZILONABUDGET }}
           TOKEN_LLSHOP: ${{ secrets.TOKEN_LLSHOP }}
-        run: python scripts/publicar.py
-      - name: Gravar o resultado na fila
-        if: always()
         run: |
+          # O agendamento do GitHub atrasa horas em repositórios pequenos. Por isso cada execução
+          # fica ligada e confere a fila a cada 5 minutos; a próxima execução agendada assume depois.
           git config user.name "central-de-postagem"
           git config user.email "actions@users.noreply.github.com"
-          git add fila
-          git diff --cached --quiet || (git commit -m "Resultado da publicação $(date -u +%FT%TZ)" && git push)
+          voltas=68; [ "$SIMULAR" = "1" ] && voltas=1
+          falhou=0
+          for i in $(seq 1 $voltas); do
+            git pull -q --rebase origin main || true
+            python scripts/validar.py || falhou=1
+            python scripts/publicar.py || falhou=1
+            git add fila
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Resultado da publicação $(date -u +%FT%TZ)"
+              git pull -q --rebase origin main && git push -q || echo "push falhou, tento na próxima volta"
+            fi
+            [ "$i" -lt "$voltas" ] && sleep 300
+          done
+          exit $falhou
