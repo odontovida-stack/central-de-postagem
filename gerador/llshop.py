@@ -20,7 +20,7 @@ FONTES = Path(__file__).resolve().parent / "fontes"
 
 PAGINAS = {
     "jogosnatela": {"cor": "#2FD17A", "promessa": "Os jogos do dia, todo dia de manhã, com horário e onde passa."},
-    "esportesnatela": {"cor": "#4C9AFF", "promessa": "A agenda de todos os esportes: futebol, F1, NBA, vôlei, UFC e mais."},
+    "esportesnatela": {"cor": "#4C9AFF", "promessa": "A agenda de todos os esportes: vôlei, basquete, atletismo, F1, lutas, tênis e mais."},
     "tudooqueestreia": {"cor": "#FF5A5F", "promessa": "Tudo o que estreia no cinema e no streaming, toda semana."},
     "lancamentosdegames": {"cor": "#A78BFA", "promessa": "Os lançamentos do dia e os jogos grátis antes de acabar o prazo."},
     "showsconfirmados": {"cor": "#FFB020", "promessa": "Os shows confirmados no Brasil, com data, cidade e pré-venda."},
