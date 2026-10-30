@@ -1,0 +1,15 @@
+{
+  "amazon": {
+    "tag": "llshop0d-20",
+    "loja": "amazon.com.br",
+    "como_usar": "Link de produto: https://www.amazon.com.br/dp/<ASIN>?tag=llshop0d-20 (ou gere pela SiteStripe logado na conta de Associado).",
+    "aviso_obrigatorio": "Como Associado da Amazon, ganho com compras qualificadas.",
+    "contas": [
+      "jogosnatela",
+      "lancamentosdegames",
+      "esportesnatela",
+      "tudooqueestreia",
+      "showsconfirmados"
+    ]
+  }
+}
