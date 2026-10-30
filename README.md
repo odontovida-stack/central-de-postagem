@@ -142,6 +142,33 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 5. Responder os comentários na primeira hora ajuda o alcance. Na legenda, faça uma pergunta fácil de responder com uma palavra ou letra (A, B, C).
 6. Séries com nome fixo ("O JOGO DA SEMANA", "O GRÁTIS DA SEMANA") criam hábito: mantenha sempre o mesmo nome e dia.
 
+## Robô de vídeo do YouTube (The American File e BHC)
+
+Cada vídeo é uma pasta `youtube/<canal>/<nome>/` (canal `taf` ou `bhc`) com:
+`video.json` (título, data e hora, tags, voz, status), `roteiro.md`, `narracao.json` (um bloco por PART),
+`descricao.txt`, `slides.json`, `thumb.json` e, se tiver Short, `short.json`.
+
+Fluxo:
+1. O Claude cria a pasta num branch e abre um PR com `"status": "aprovado"`.
+2. O Luiz confere e faz o merge.
+3. O workflow `youtube.yml`:
+   - narra os blocos pela API do ElevenLabs (pula os que já estão em `audio/`);
+   - gera os slides e a thumbnail;
+   - monta o MP4 e o Short;
+   - envia os dois ao YouTube como **privados e agendados**: o Short 24 h antes do vídeo longo, ambos com "não é para crianças" e "conteúdo sintético" marcados.
+4. O resultado (`video_id`, `status: agendado`) volta gravado no `video.json`.
+
+Sem as chaves do YouTube, o robô para depois de montar. O MP4 fica nos artefatos da execução (Actions → a execução → Artifacts), para conferir e subir à mão.
+
+Secrets necessários (Settings → Secrets and variables → Actions):
+- `ELEVENLABS_API_KEY`: ElevenLabs → Profile → API Keys.
+- `YT_CLIENT_ID` e `YT_CLIENT_SECRET`: Google Cloud → APIs e serviços → Credenciais → ID do cliente OAuth (tipo "App para computador" ou "Aplicativo da Web").
+- `YT_REFRESH_TOKEN_TAF` e `YT_REFRESH_TOKEN_BHC`: um por canal, gerado no OAuth Playground com o escopo `https://www.googleapis.com/auth/youtube.upload`.
+
+Para publicar a tela de consentimento, ponha o app do Google Cloud "Em produção", e não "Em teste". Em teste, o token vence em 7 dias.
+
+Thumbnail personalizada só funciona em canal verificado por telefone (youtube.com/verify).
+
 ## Páginas de links da bio (afiliados)
 
 - Cada perfil tem uma página `links/<conta>.html` (ex.: `https://odontovida-stack.github.io/central-de-postagem/links/brazilonabudget.html`). Ela entra no lugar do link da bio. O GitHub Pages precisa estar ligado: Settings → Pages → main / root.

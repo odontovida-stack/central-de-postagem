@@ -1,0 +1,781 @@
+[
+ {
+  "tipo": "citacao",
+  "texto": "What do you think the US military budget is?",
+  "autor": "Take a guess.",
+  "px": 84
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FY2026 · US NATIONAL DEFENSE",
+  "valor": "$1,000,000,000,000",
+  "px": 170,
+  "texto": "~$901 billion regular budget + ~$113 billion from the 2025 reconciliation law ≈ $1.01 trillion in one year.",
+  "fonte": "CRS R48891 · DoD Comptroller FY2026"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "EVERY NUMBER IN THIS VIDEO",
+  "titulo": "Sources are in the description."
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Military spending, 2025 (US$ billions)",
+  "barras": [
+   [
+    "United States",
+    954,
+    "954"
+   ],
+   [
+    "China",
+    336,
+    "336"
+   ],
+   [
+    "Russia",
+    190,
+    "190"
+   ],
+   [
+    "Germany",
+    114,
+    "114"
+   ],
+   [
+    "India",
+    92,
+    "92"
+   ],
+   [
+    "United Kingdom",
+    89,
+    "89"
+   ],
+   [
+    "Ukraine",
+    84,
+    "84"
+   ]
+  ],
+  "fonte": "SIPRI Military Expenditure Database, April 2026"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "The US vs the next six countries combined",
+  "barras": [
+   [
+    "United States",
+    954,
+    "$954B"
+   ],
+   [
+    "Next 6 combined",
+    905,
+    "$905B"
+   ]
+  ],
+  "fonte": "SIPRI, April 2026"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "US vs China: 2.8×",
+  "barras": [
+   [
+    "United States",
+    954,
+    "$954B"
+   ],
+   [
+    "China",
+    336,
+    "$336B"
+   ]
+  ],
+  "fonte": "SIPRI, April 2026"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "Where the Trillion Goes",
+  "sub": "The US military budget, explained like nobody explained it to you.",
+  "file": "001",
+  "px": 140
+ },
+ {
+  "tipo": "citacao",
+  "texto": "As armies in time of peace are allowed on all hands to be an evil, it is well to discountenance them by the Constitution.",
+  "autor": "James Madison, Constitutional Convention, September 14, 1787",
+  "px": 58,
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "After World War I, America went home",
+  "itens": [
+   [
+    "1918–1919",
+    "3.25 million",
+    "troops discharged within about nine months"
+   ],
+   [
+    "1922",
+    "~137,000",
+    "the size Congress capped the Army at"
+   ]
+  ],
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WORLD WAR II",
+  "valor": "16,000,000",
+  "texto": "Americans served. This time, the country never fully demobilized.",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "How we got here",
+  "marcos": [
+   [
+    "1945",
+    "World War II ends"
+   ],
+   [
+    "1947",
+    "Cold War begins"
+   ],
+   [
+    "1961",
+    "Eisenhower's warning"
+   ],
+   [
+    "1991",
+    "Soviet Union collapses"
+   ],
+   [
+    "2001",
+    "9/11"
+   ],
+   [
+    "2026",
+    "~$1 trillion"
+   ]
+  ],
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "JANUARY 17, 1961",
+  "titulo": "Eisenhower's farewell address",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex.",
+  "autor": "Dwight D. Eisenhower, farewell address, January 17, 1961",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The loop he warned about",
+  "itens": [
+   "The Pentagon buys",
+   "Contractors build",
+   "Lobbyists push",
+   "Congress funds — and the loop starts again"
+  ],
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "1961",
+    "The warning",
+    "\"Guard against unwarranted influence\""
+   ],
+   [
+    "2026",
+    "The budget",
+    "~$1 trillion a year"
+   ]
+  ],
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "donut",
+  "titulo": "FY2026 Pentagon spending bill (enacted Feb. 3, 2026)",
+  "fatias": [
+   [
+    "Operations & Maintenance",
+    294
+   ],
+   [
+    "Military Personnel",
+    193
+   ],
+   [
+    "Procurement",
+    168
+   ],
+   [
+    "Research & Development",
+    146
+   ],
+   [
+    "Other, net of cuts",
+    38
+   ]
+  ],
+  "centro": "BASE BILL",
+  "nota": "Plus ~$113B reconciliation money, military construction and DOE nuclear weapons — not shown.",
+  "fonte": "FY2026 Defense Appropriations Act · CRS",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The people",
+  "itens": [
+   [
+    "ACTIVE DUTY",
+    "1.3 million",
+    "troops: pay, housing, retirement"
+   ],
+   [
+    "CIVILIANS",
+    "~715,000",
+    "Pentagon civilian employees (Jan. 2026)"
+   ]
+  ],
+  "fonte": "DMDC · DoD",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "What the hardware costs",
+  "itens": [
+   [
+    "F-35",
+    "$92–121M",
+    "per plane, latest lots"
+   ],
+   [
+    "FORD-CLASS CARRIER",
+    "$13.3B",
+    "per ship"
+   ],
+   [
+    "B-21 BOMBER",
+    "~$692M",
+    "each (2022 dollars)"
+   ]
+  ],
+  "px": 80,
+  "fonte": "GAO · CRS · US Air Force",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "F-35: $2 trillion+ over its lifetime",
+  "barras": [
+   [
+    "F-35B",
+    121.4,
+    "$121.4M"
+   ],
+   [
+    "F-35C",
+    110.8,
+    "$110.8M"
+   ],
+   [
+    "F-35A",
+    92.0,
+    "$92.0M"
+   ]
+  ],
+  "fonte": "GAO-24-106703 (lifetime cost) · Lots 18–19 unit prices",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Aircraft carriers",
+  "itens": [
+   [
+    "UNITED STATES",
+    "11",
+    "carriers in service"
+   ],
+   [
+    "CHINA",
+    "3",
+    "carriers"
+   ],
+   [
+    "NEXT FORD-CLASS",
+    "$13.2–15.2B",
+    "CVN-79, 80 and 81 (Navy estimates)"
+   ]
+  ],
+  "px": 96,
+  "fonte": "CRS · US Navy FY2026",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ONE F-35A = $92 MILLION",
+  "valor": "1,052 years",
+  "texto": "of a median American household's income ($87,460 a year, Census 2025).",
+  "fonte": "US Census Bureau, Sept. 2026 · GAO",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "US nuclear warheads, early 2026",
+  "barras": [
+   [
+    "Deployed",
+    1670,
+    "1,670"
+   ],
+   [
+    "Rest of active stockpile",
+    2030,
+    "~2,030"
+   ],
+   [
+    "Retired, awaiting dismantlement",
+    1342,
+    "1,342"
+   ]
+  ],
+  "fonte": "Federation of American Scientists, 2026 · Total: 5,042",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Cost of US nuclear forces over 10 years: +25%",
+  "barras": [
+   [
+    "CBO 2025 (2025–2034)",
+    946,
+    "$946B"
+   ],
+   [
+    "CBO 2023 (2023–2032)",
+    756,
+    "$756B"
+   ]
+  ],
+  "fonte": "Congressional Budget Office",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "100 SMALL NUCLEAR WEAPONS",
+  "valor": "~260 million",
+  "texto": "projected deaths from the famine that would follow.",
+  "fonte": "Xia et al., Nature Food, 2022",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Pentagon contracts, 2020–2024 (US$ billions)",
+  "barras": [
+   [
+    "Lockheed Martin",
+    313,
+    "$313B"
+   ],
+   [
+    "RTX (Raytheon)",
+    145,
+    "$145B"
+   ],
+   [
+    "General Dynamics",
+    116,
+    "$116B"
+   ],
+   [
+    "Boeing",
+    115,
+    "$115B"
+   ],
+   [
+    "Northrop Grumman",
+    81,
+    "$81B"
+   ]
+  ],
+  "fonte": "Costs of War Project, Brown University",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Five companies vs a whole country's military",
+  "barras": [
+   [
+    "Big Five, average per year",
+    154,
+    "~$154B"
+   ],
+   [
+    "Germany's military, 2025",
+    114,
+    "$114B"
+   ]
+  ],
+  "fonte": "Costs of War · SIPRI",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Lockheed Martin, 2025",
+  "itens": [
+   [
+    "SALES",
+    "$75.0B",
+    "72% from the US government"
+   ],
+   [
+    "CEO PAY",
+    "$23.5M",
+    "one year"
+   ],
+   [
+    "LOBBYING",
+    "~$15M",
+    "in 2025 · industry: ~950 lobbyists"
+   ]
+  ],
+  "px": 84,
+  "fonte": "Lockheed Martin 10-K & proxy · OpenSecrets",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The revolving door",
+  "itens": [
+   "General or Pentagon official",
+   "Retires",
+   "Joins a contractor board or becomes a lobbyist",
+   "Back to influencing the Pentagon"
+  ],
+  "parte": "PART 4",
+  "stamp": "LEGAL"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "POGO, 2018",
+    "380+",
+    "high-ranking officials who became defense lobbyists, board members or executives"
+   ],
+   [
+    "GAO, 2021",
+    "1,718",
+    "former senior DoD officials working at 14 contractors in 2019"
+   ]
+  ],
+  "px": 110,
+  "fonte": "Project On Government Oversight · GAO-21-104311",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE JOBS ARGUMENT",
+  "valor": "2.2 million",
+  "texto": "jobs supported by the aerospace and defense industry (2024 data).",
+  "fonte": "Aerospace Industries Association",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Jobs created per $1 billion spent",
+  "barras": [
+   [
+    "Military",
+    11200,
+    "11,200"
+   ],
+   [
+    "Education",
+    26700,
+    "26,700"
+   ],
+   [
+    "Health care",
+    17200,
+    "17,200"
+   ],
+   [
+    "Clean energy",
+    16800,
+    "16,800"
+   ]
+  ],
+  "fonte": "Pollin & Garrett-Peltier, PERI / UMass Amherst, 2011",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Over budget",
+  "itens": [
+   [
+    "GAO, 2020",
+    "$628B",
+    "over budget (+54%) across major weapons programs"
+   ],
+   [
+    "GAO, JULY 2026",
+    "$2.4T",
+    "104 programs · 12+ years to deliver"
+   ]
+  ],
+  "px": 100,
+  "fonte": "Government Accountability Office",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The F-35, then and now",
+  "itens": [
+   [
+    "2001 PLAN",
+    "$37–48M",
+    "per plane (2002 dollars)"
+   ],
+   [
+    "2026 PRICE",
+    "$92–121M",
+    "per plane"
+   ]
+  ],
+  "px": 110,
+  "fonte": "GAO",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "PART 5",
+  "titulo": "~750 bases in ~80 countries and territories",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "US MILITARY BASES ABROAD",
+  "valor": "~750",
+  "texto": "in about 80 countries and territories. The Pentagon stopped publishing its full list after FY2018.",
+  "fonte": "Quincy Institute / David Vine, 2021",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Active-duty troops abroad, end of 2025",
+  "barras": [
+   [
+    "Japan",
+    54000,
+    "54,000+"
+   ],
+   [
+    "Germany",
+    36000,
+    "36,000+"
+   ],
+   [
+    "South Korea",
+    23495,
+    "23,495"
+   ],
+   [
+    "Italy",
+    12662,
+    "12,662"
+   ],
+   [
+    "United Kingdom",
+    10156,
+    "10,156"
+   ]
+  ],
+  "fonte": "Defense Manpower Data Center",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "donut",
+  "titulo": "Federal discretionary spending, FY2025",
+  "fatias": [
+   [
+    "Defense",
+    893
+   ],
+   [
+    "Everything else",
+    980
+   ]
+  ],
+  "centro": "DISCRETIONARY",
+  "nota": "Defense is 48% of everything Congress votes on each year.",
+  "fonte": "Congressional Budget Office",
+  "parte": "PART 5",
+  "total_txt": "$1.87T"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "INTEREST ON POST-9/11 WAR BORROWING",
+  "valor": "$6.5 trillion",
+  "texto": "projected by 2050 — even if war spending had stopped in 2019.",
+  "fonte": "Peltier, Costs of War Project",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The threats the budget is built around",
+  "itens": [
+   "China — military spending up 31 years in a row",
+   "Russia",
+   "North Korea",
+   "Iran"
+  ],
+  "fonte": "SIPRI",
+  "parte": "PART 6"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The mismatch argument",
+  "itens": [
+   [
+    "ONE CARRIER",
+    "$13.3B",
+    "Ford-class"
+   ],
+   [
+    "THE COUNTER",
+    "Anti-ship missiles",
+    "built to keep carriers far from China's coast"
+   ]
+  ],
+  "px": 80,
+  "fonte": "CRS",
+  "parte": "PART 6"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "The outcomes record",
+  "marcos": [
+   [
+    "2001–2021",
+    "Afghanistan: $2.3T, Taliban back in power"
+   ],
+   [
+    "2003–2011",
+    "Iraq: Saddam out in 3 weeks; ISIS rises"
+   ],
+   [
+    "2011",
+    "Libya: Gaddafi out; country split since"
+   ]
+  ],
+  "fonte": "Costs of War · CRS",
+  "parte": "PART 6"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "What deterrence did deliver",
+  "itens": [
+   "No war between great powers since 1945",
+   "No NATO member invaded",
+   "Sea lanes mostly open"
+  ],
+  "parte": "PART 6"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WHY CONGRESS NEVER CUTS IT",
+  "valor": "1,800+",
+  "texto": "US suppliers for the F-35 alone, in 48 states and Puerto Rico.",
+  "fonte": "Lockheed Martin",
+  "parte": "PART 7"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE DEFENSE BILL",
+  "valor": "65 years in a row",
+  "px": 150,
+  "texto": "FY2026 NDAA signed Dec. 18, 2025 — $901 billion authorized.",
+  "fonte": "CRS",
+  "parte": "PART 7"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE PENTAGON AUDIT",
+  "titulo": "Failed. Eight times in a row.",
+  "stamp": "FAILED ×8",
+  "parte": "PART 7"
+ },
+ {
+  "tipo": "xs",
+  "titulo": "Pentagon audits, FY2018–FY2025",
+  "itens": [
+   "FY18",
+   "FY19",
+   "FY20",
+   "FY21",
+   "FY22",
+   "FY23",
+   "FY24",
+   "FY25"
+  ],
+  "texto": "$4.6 trillion in assets · 26 material weaknesses · legal deadline for a clean audit: Dec. 31, 2028.",
+  "fonte": "DoD Inspector General · CRS IF12627",
+  "parte": "PART 7"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "What it means for you",
+  "itens": [
+   [
+    "DEFENSE vs EDUCATION",
+    "~13×",
+    "$1.01T vs $79B (FY2026)"
+   ],
+   [
+    "PER HOUSEHOLD",
+    "≈ $7,500",
+    "$1.01T ÷ 134.8M households"
+   ]
+  ],
+  "px": 110,
+  "fonte": "CRS · Dept. of Education · US Census",
+  "parte": "PART 8"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Meanwhile",
+  "itens": [
+   "Social Security retirement fund: depleted in late 2032 (Trustees, 2026)",
+   "Roads: $684B funding gap over 10 years (ASCE, 2025)",
+   "Veterans still wait for care"
+  ],
+  "parte": "PART 8"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed.",
+  "autor": "Dwight D. Eisenhower, \"The Chance for Peace,\" April 16, 1953",
+  "px": 56,
+  "parte": "PART 8"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "FILE #001 — Closed",
+  "sub": "Subscribe. Next: FILE #002 — the two-party system.",
+  "file": "001",
+  "px": 130,
+  "stamp": "CLOSED",
+  "stamp_top": 200
+ }
+]

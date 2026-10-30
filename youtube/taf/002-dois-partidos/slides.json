@@ -1,0 +1,867 @@
+[
+ {
+  "tipo": "capitulo",
+  "numero": "BE HONEST",
+  "titulo": "When did you last vote FOR someone?",
+  "stamp": "FILE #002",
+  "stamp_top": 150,
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Voting FOR someone — or AGAINST?",
+  "itens": [
+   [
+    "SUPPORTERS OF CANDIDATE A",
+    "53%",
+    "say their vote is mainly AGAINST the other candidate"
+   ],
+   [
+    "SUPPORTERS OF CANDIDATE B",
+    "46%",
+    "say the same"
+   ]
+  ],
+  "px": 150,
+  "fonte": "Pew Research Center, Aug. 2016",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "TIMES THE U.S. CONSTITUTION MENTIONS POLITICAL PARTIES",
+  "valor": "0",
+  "px": 300,
+  "texto": "The two-party system isn't required by any federal law, either.",
+  "fonte": "U.S. Constitution",
+  "file": "002"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "The Two-Party Lock",
+  "sub": "Why America has only two parties — and why it's so hard to change.",
+  "px": 150,
+  "file": "002"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "SEPTEMBER 19, 1796",
+  "titulo": "Washington's Farewell Address: printed in a newspaper, never delivered as a speech.",
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "...warn you in the most solemn manner against the baneful effects of the spirit of party generally.",
+  "autor": "George Washington, Farewell Address, 1796",
+  "px": 70,
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension... is itself a frightful despotism.",
+  "autor": "George Washington, 1796",
+  "px": 64,
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "“Alternate domination”",
+  "itens": [
+   "One side takes over",
+   "The other side takes over — and gets even",
+   "The first side gets even back",
+   "Sound familiar?"
+  ],
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Fact check: “cunning, ambitious, and unprincipled men”",
+  "itens": [
+   [
+    "THE QUOTE",
+    "Real",
+    "Washington wrote it in the Farewell Address"
+   ],
+   [
+    "THE SUBJECT",
+    "Not parties",
+    "“combinations and associations” obstructing the laws"
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The causes of faction cannot be removed... relief is only to be sought in the means of controlling its effects.",
+  "autor": "James Madison, Federalist No. 10, 1787",
+  "px": 66,
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "172 years, same two parties",
+  "marcos": [
+   [
+    "1790s",
+    "Federalists vs. Democratic-Republicans"
+   ],
+   [
+    "1850s",
+    "The Whigs collapse"
+   ],
+   [
+    "1854",
+    "Republican Party founded"
+   ],
+   [
+    "1860",
+    "Lincoln elected"
+   ],
+   [
+    "2026",
+    "Every president since: D or R"
+   ]
+  ],
+  "fonte": "History Today · Constitutional Rights Foundation",
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Duverger's law",
+  "itens": [
+   "One seat + most votes wins",
+   "Voters fear wasting their vote",
+   "Votes pile onto the top two",
+   "Two-party system"
+  ],
+  "fonte": "Duverger, Les partis politiques, 1951 — a tendency, not an iron law",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The fear is measurable",
+  "itens": [
+   [
+    "WASTING THEIR VOTE",
+    "57%",
+    "very concerned about wasting a vote on a third-party candidate"
+   ],
+   [
+    "HELPING THE OTHER SIDE",
+    "59%",
+    "very concerned about helping the candidate they like least win"
+   ]
+  ],
+  "px": 150,
+  "fonte": "Gallup, Sept. 2025",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Florida 2000, certified results",
+  "itens": [
+   [
+    "BUSH",
+    "48.85%",
+    "2,912,790 votes"
+   ],
+   [
+    "GORE",
+    "48.84%",
+    "2,912,253 votes"
+   ],
+   [
+    "NADER",
+    "1.63%",
+    "97,488 votes"
+   ]
+  ],
+  "px": 110,
+  "fonte": "Florida certified results · FEC",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FLORIDA 2000 · BUSH OVER GORE",
+  "valor": "537 votes",
+  "px": 230,
+  "texto": "National popular vote: Gore 48.38% · Bush 47.87% · Nader 2.74%.",
+  "fonte": "FEC, Federal Elections 2000",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "How states award electoral votes",
+  "itens": [
+   [
+    "48 STATES + D.C.",
+    "Winner-take-all",
+    "win the state by one vote, take all of its electoral votes"
+   ],
+   [
+    "MAINE & NEBRASKA",
+    "Split",
+    "by congressional district"
+   ]
+  ],
+  "px": 80,
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "IN THEORY",
+  "valor": "20% → 0",
+  "px": 230,
+  "texto": "A candidate could win 20% of the vote in every single state and end up with zero electoral votes.",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "2016: the two biggest third-party runs",
+  "barras": [
+   [
+    "Johnson · 3.28%",
+    4489221,
+    "4,489,221"
+   ],
+   [
+    "Stein · 1.07%",
+    1457216,
+    "1,457,216"
+   ]
+  ],
+  "fonte": "FEC, 2016 presidential general election results",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "JOHNSON + STEIN, 2016",
+  "valor": "5.95 million",
+  "px": 200,
+  "texto": "votes. Electoral votes: 0. In 2024, all third-party and independent candidates combined: ≈ 2.1% of the vote, 0 electoral votes.",
+  "fonte": "FEC",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WHO WRITES MOST BALLOT RULES? STATE LEGISLATURES",
+  "valor": "D or R",
+  "px": 230,
+  "texto": "Nearly all state legislators in the country belong to one of the two major parties.",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Signatures an independent needed for president, 2024",
+  "barras": [
+   [
+    "California",
+    219403,
+    "219,403"
+   ],
+   [
+    "Texas*",
+    113151,
+    "113,151"
+   ],
+   [
+    "Georgia",
+    7500,
+    "7,500"
+   ]
+  ],
+  "fonte": "* Mar. 5–May 13 only; signers can't have voted in a primary · CA & TX Secretaries of State · NASS",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "MAJOR-PARTY NOMINEES",
+  "titulo": "Ballot lines: automatic. Every single time.",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Whichever major party feels threatened",
+  "itens": [
+   [
+    "2004 · PENNSYLVANIA",
+    "Nader off the ballot",
+    "ordered to pay $80,000+ in costs"
+   ],
+   [
+    "2020 · TEXAS",
+    "Republican suit",
+    "vs. 44 Libertarians — dismissed as too late"
+   ],
+   [
+    "2024 · GEORGIA",
+    "Democratic challenges",
+    "Supreme Court: votes for 2 candidates won't count (paperwork defect)"
+   ]
+  ],
+  "px": 62,
+  "fonte": "NBC News · KSAT · AP",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Presidential public funding",
+  "itens": [
+   [
+    "MAJOR · 25%+",
+    "Full grant",
+    "$123.5 million in 2024"
+   ],
+   [
+    "MINOR · 5%–25%",
+    "Partial",
+    "Reform Party, 2000: about $12.6 million"
+   ],
+   [
+    "UNDER 5%",
+    "Nothing",
+    "up front"
+   ]
+  ],
+  "px": 76,
+  "fonte": "FEC · % = the party's share of the vote last time",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ESTIMATED COST OF THE 2024 FEDERAL ELECTIONS",
+  "valor": "$15,900,000,000",
+  "px": 190,
+  "texto": "Last major-party nominee to accept the public grant: 2008.",
+  "fonte": "OpenSecrets · FEC",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "PRESIDENTIAL DEBATE · SEPT. 10, 2024",
+  "valor": "67.1 million",
+  "px": 220,
+  "texto": "TV viewers. If you're not on that stage, most voters never seriously consider you.",
+  "fonte": "Nielsen",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "...the demands of the two campaign organizations would perpetrate a fraud on the American voter.",
+  "autor": "League of Women Voters, Oct. 3, 1988",
+  "px": 72,
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Who controls the debate stage",
+  "marcos": [
+   [
+    "1976–84",
+    "League of Women Voters"
+   ],
+   [
+    "1987",
+    "Commission founded by RNC + DNC chairs"
+   ],
+   [
+    "1992",
+    "Perot debates, gets 18.9%"
+   ],
+   [
+    "1996",
+    "Perot excluded"
+   ],
+   [
+    "2000",
+    "15% rule adopted"
+   ],
+   [
+    "2024",
+    "Campaigns bypass the Commission"
+   ]
+  ],
+  "fonte": "League of Women Voters · Center for Public Integrity · AP",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "2024: the CNN debate rules",
+  "itens": [
+   [
+    "NATIONAL POLLS",
+    "15%",
+    "in four national polls"
+   ],
+   [
+    "BALLOT LINES",
+    "270",
+    "enough states to win 270 electoral votes"
+   ],
+   [
+    "THIRD CANDIDATES",
+    "0",
+    "qualified"
+   ]
+  ],
+  "px": 130,
+  "fonte": "CNN qualification rules, 2024",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Who votes in midterm primaries?",
+  "barras": [
+   [
+    "Eligible voters",
+    100,
+    "100%"
+   ],
+   [
+    "Vote in primaries",
+    20,
+    "~20%"
+   ]
+  ],
+  "fonte": "Bipartisan Policy Center",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "HOUSE SEATS EFFECTIVELY DECIDED IN PRIMARIES, 2024",
+  "valor": "87%",
+  "px": 260,
+  "texto": "decided by about 7% of eligible voters.",
+  "fonte": "Unite America estimate, 2024 (reform advocacy group)",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The safe-seat loop",
+  "itens": [
+   "Safe seat",
+   "The primary is the real election",
+   "Few, very committed voters",
+   "Compromise gets punished",
+   "Gridlock — and back to the safe seat"
+  ],
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Primary types, by state",
+  "barras": [
+   [
+    "Closed",
+    13,
+    "13"
+   ],
+   [
+    "Semi-closed",
+    10,
+    "10"
+   ],
+   [
+    "Open",
+    14,
+    "14"
+   ],
+   [
+    "Top-two / four",
+    5,
+    "5"
+   ],
+   [
+    "Party decides",
+    11,
+    "11 (incl. D.C.)"
+   ]
+  ],
+  "fonte": "Ballotpedia, Aug. 2026",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "How Americans identify, 2025",
+  "barras": [
+   [
+    "Independent",
+    45,
+    "45%"
+   ],
+   [
+    "Republican",
+    27,
+    "27%"
+   ],
+   [
+    "Democrat",
+    27,
+    "27%"
+   ]
+  ],
+  "fonte": "Gallup, 2025",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Americans calling themselves independent",
+  "marcos": [
+   [
+    "2014",
+    "43%"
+   ],
+   [
+    "2023",
+    "43%"
+   ],
+   [
+    "2024",
+    "43%"
+   ],
+   [
+    "2025",
+    "45% — a record"
+   ]
+  ],
+  "fonte": "Gallup",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Inside the 45%",
+  "itens": [
+   [
+    "LEAN DEMOCRATIC",
+    "20%",
+    "of Americans"
+   ],
+   [
+    "LEAN REPUBLICAN",
+    "15%",
+    "of Americans"
+   ],
+   [
+    "LEAN NEITHER",
+    "10%",
+    "of Americans"
+   ]
+  ],
+  "px": 150,
+  "fonte": "Gallup, 2025",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Frustration across the board",
+  "itens": [
+   [
+    "A THIRD MAJOR PARTY",
+    "62%",
+    "say one is needed (Gallup, Sept. 2025)"
+   ],
+   [
+    "CONGRESS",
+    "14%",
+    "approve of the job it's doing (Gallup, Oct. 2026)"
+   ]
+  ],
+  "px": 150,
+  "fonte": "Gallup",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "1912: the Republican side splits",
+  "barras": [
+   [
+    "Wilson",
+    41.8,
+    "41.8% (435)"
+   ],
+   [
+    "Roosevelt",
+    27.4,
+    "27.4% (88)"
+   ],
+   [
+    "Taft",
+    23.2,
+    "23.2% (8)"
+   ],
+   [
+    "Debs",
+    6.0,
+    "6.0% (0)"
+   ]
+  ],
+  "fonte": "American Presidency Project · % of the vote (electoral votes)",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ROSS PEROT, 1992",
+  "valor": "19.7 million",
+  "px": 220,
+  "texto": "votes — almost 19% of the national vote. About $60 million of his own money. Electoral votes: 0.",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "The biggest third-party runs",
+  "barras": [
+   [
+    "Roosevelt 1912",
+    27.4,
+    "27.4% (88)"
+   ],
+   [
+    "Perot 1992",
+    18.9,
+    "18.9% (0)"
+   ],
+   [
+    "Perot 1996",
+    8,
+    "~8% (0)"
+   ],
+   [
+    "Johnson 2016",
+    3.3,
+    "3.3% (0)"
+   ],
+   [
+    "Nader 2000",
+    2.7,
+    "2.7% (0)"
+   ]
+  ],
+  "fonte": "American Presidency Project · FEC · % of the vote (electoral votes)",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "BOSTON GAZETTE · MARCH 26, 1812",
+  "titulo": "The “Gerry-Mander”: a district so twisted it looked like a salamander.",
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "2025–26: redrawing in the middle of the decade",
+  "itens": [
+   [
+    "TEXAS",
+    "~+5 R",
+    "seats, projected — drawn by the legislature"
+   ],
+   [
+    "CALIFORNIA",
+    "~+5 D",
+    "seats, projected — Proposition 50, approved by voters"
+   ]
+  ],
+  "px": 150,
+  "fonte": "NCSL, July 2026",
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NEW CONGRESSIONAL MAPS FOR 2026",
+  "valor": "At least 10 states",
+  "px": 150,
+  "texto": "Texas, Missouri, North Carolina, Ohio, California, Utah, Florida, Tennessee, Louisiana, Alabama. Rejected or blocked: Indiana, South Carolina, Virginia, Washington, Georgia.",
+  "fonte": "NCSL, July 2026",
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "COMPETITIVE HOUSE SEATS, 2026 MIDTERMS",
+  "valor": "43 of 435",
+  "px": 230,
+  "texto": "Less than one in ten. The rest are rated safe, likely, or lean for one party.",
+  "fonte": "Cook Political Report, Oct. 2026",
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "How ranked-choice voting works",
+  "itens": [
+   "You rank the candidates: 1st, 2nd, 3rd",
+   "Round 1: first choices are counted",
+   "No majority? Last place is eliminated",
+   "Those votes move to their next choice",
+   "Repeat until someone has a majority"
+  ],
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Alaska's U.S. House seat: same system, both parties won",
+  "itens": [
+   [
+    "AUG. 2022 SPECIAL",
+    "Peltola (D) 51.5%",
+    "vs. Palin (R) 48.5%, final round"
+   ],
+   [
+    "NOV. 2024",
+    "Begich (R) 51.3%",
+    "vs. Peltola (D) 48.7%, final round"
+   ]
+  ],
+  "px": 80,
+  "fonte": "Stateline (Pew) · Juneau Empire",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Ranked-choice voting faces pushback",
+  "itens": [
+   [
+    "ALASKA REPEAL, 2024",
+    "50.1% no",
+    "49.9% yes — narrowest result in state history"
+   ],
+   [
+    "ALASKA, NOV. 2026",
+    "Measure 2",
+    "on the ballot again — result: see description"
+   ],
+   [
+    "STATE BANS",
+    "~19 states",
+    "ban ranked-choice voting"
+   ]
+  ],
+  "px": 76,
+  "fonte": "Ballotpedia, 2026",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "How 217 countries elect their legislatures",
+  "barras": [
+   [
+    "Plurality/majority",
+    86,
+    "86"
+   ],
+   [
+    "Proportional",
+    82,
+    "82"
+   ],
+   [
+    "Mixed",
+    33,
+    "33"
+   ],
+   [
+    "Other / n.a.",
+    16,
+    "16"
+   ]
+  ],
+  "fonte": "International IDEA, Electoral System Design Database",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE WALL",
+  "valor": "1967",
+  "px": 230,
+  "texto": "A federal law requires single-member House districts. Only Congress — almost entirely the two parties — could change it.",
+  "fonte": "Congressional Research Service",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The file, in five numbers",
+  "itens": [
+   "0 mentions of parties in the Constitution",
+   "172 years, same two parties",
+   "45% call themselves independents",
+   "62% want a third major party",
+   "14% approve of Congress"
+  ],
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Next: FILE #003",
+  "itens": [
+   [
+    "MAY 2003",
+    "CPA Orders 1 & 2",
+    "signed by the U.S.-led occupation authority in Iraq"
+   ],
+   [
+    "JUNE 2014",
+    "A caliphate",
+    "declared by ISIS"
+   ]
+  ],
+  "px": 80,
+  "stamp": "FILE #003",
+  "stamp_top": 200,
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "FILE #002 — Closed",
+  "sub": "Subscribe. Next: FILE #003.",
+  "px": 130,
+  "stamp": "CLOSED",
+  "stamp_top": 200,
+  "parte": "PART 8",
+  "file": "002"
+ }
+]

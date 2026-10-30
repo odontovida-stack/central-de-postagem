@@ -1,0 +1,808 @@
+[
+ {
+  "tipo": "capitulo",
+  "numero": "DECEMBER 8, 1903",
+  "titulo": "The Potomac River, Washington, D.C.",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "POTOMAC RIVER · WASHINGTON, D.C. · DEC. 8, 1903",
+  "valor": "$50,000",
+  "px": 300,
+  "texto": "U.S. Army grant. A flying machine built by the head of the Smithsonian.",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "9 days",
+  "itens": [
+   [
+    "DEC. 8 · WASHINGTON",
+    "FELL",
+    "Langley's aerodrome, Potomac River"
+   ],
+   [
+    "DEC. 17 · KITTY HAWK, N.C.",
+    "FLEW",
+    "two bicycle makers from Ohio"
+   ]
+  ],
+  "px": 150,
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "THE FEUD",
+    "28 years",
+    "1914–1942"
+   ],
+   [
+    "THE CLAIM",
+    "1 label",
+    "on a museum wall"
+   ],
+   [
+    "THE EXILE",
+    "20 years",
+    "in London"
+   ]
+  ],
+  "px": 110,
+  "file": "002"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "Before History Changed",
+  "sub": "#002 — Nine Days in December. Every story has a before.",
+  "px": 150,
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ASTRONOMER, PHYSICIST · 1834–1906",
+  "valor": "Samuel P. Langley",
+  "px": 170,
+  "texto": "3rd Secretary of the Smithsonian Institution, from 1887.",
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The top job",
+  "itens": [
+   "Smithsonian Institution",
+   "→ Secretary",
+   "→ S. P. Langley"
+  ],
+  "fonte": "“the nation's unofficial chief scientist” — Smithsonian Air and Space Museum podcast",
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "LANGLEY'S NAME FOR HIS FLYING MACHINES",
+  "valor": "AERODROME",
+  "px": 230,
+  "texto": "Heavier than air. Driven by an engine.",
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "POTOMAC RIVER NEAR QUANTICO, VA. · MAY 6, 1896",
+  "valor": "~3,300 ft",
+  "px": 260,
+  "texto": "Aerodrome No. 5. No pilot. About 90 seconds in the air.",
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "WITNESS & PHOTOGRAPHER · MAY 6, 1896",
+    "A. Graham Bell",
+    "the inventor of the telephone"
+   ],
+   [
+    "AERODROME NO. 6 · NOV. 28, 1896",
+    "~4,790 ft",
+    "even farther"
+   ]
+  ],
+  "px": 90,
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Scaling it up",
+  "itens": [
+   [
+    "BOARD OF ORDNANCE AND FORTIFICATION · APRIL 1898",
+    "$50,000",
+    "Army grant for a man-carrying aerodrome"
+   ],
+   [
+    "TOTAL BY 1903",
+    "~$70,000",
+    "Smithsonian Libraries estimate"
+   ]
+  ],
+  "px": 130,
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "LANGLEY'S ASSISTANT · ENGINEER & PILOT",
+  "valor": "Charles M. Manly",
+  "px": 180,
+  "texto": "He finished the engine — and he would sit in the machine.",
+  "parte": "PART 2",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Dayton, Ohio · Wright Cycle Company",
+  "itens": [
+   [
+    "1867–1912",
+    "Wilbur Wright",
+    "the older brother"
+   ],
+   [
+    "1871–1948",
+    "Orville Wright",
+    "the younger brother"
+   ]
+  ],
+  "px": 100,
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Who paid?",
+  "itens": [
+   [
+    "LANGLEY",
+    "$50,000",
+    "government grant"
+   ],
+   [
+    "THE WRIGHTS",
+    "Their own",
+    "earnings from the bicycle shop"
+   ]
+  ],
+  "px": 120,
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "I am an enthusiast, but not a crank in the sense that I have some pet theories as to the proper construction of a flying machine.",
+  "autor": "Wilbur Wright to the Smithsonian, May 30, 1899",
+  "px": 66,
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…add my mite to help on the future workers who will attain final success.",
+  "autor": "Wilbur Wright, May 30, 1899",
+  "px": 84,
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Smithsonian reply · June 22, 1899 · R. Rathbun",
+  "itens": [
+   "Four pamphlets on flight",
+   "Among them: “Story of Experiments in Mechanical Flight”",
+   "— by S. P. Langley"
+  ],
+  "fonte": "Smithsonian Institution Archives",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "From letter to engine",
+  "marcos": [
+   [
+    "1899",
+    "Letter to the Smithsonian"
+   ],
+   [
+    "1900–02",
+    "Gliders at Kitty Hawk"
+   ],
+   [
+    "1902",
+    "700–1,000 glides"
+   ],
+   [
+    "1903",
+    "12-hp engine (Charlie Taylor, ~6 weeks)"
+   ],
+   [
+    "Dec. 1903",
+    "?"
+   ]
+  ],
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Cordial. Careful.",
+  "itens": [
+   [
+    "LETTER",
+    "Oct. 20, 1902",
+    "Langley writes to the Wrights"
+   ],
+   [
+    "LETTER",
+    "Nov. 7, 1902",
+    "still cordial, still careful"
+   ]
+  ],
+  "px": 96,
+  "fonte": "Smithsonian Institution Archives",
+  "parte": "PART 3",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WIDEWATER, VIRGINIA · POTOMAC RIVER",
+  "valor": "Oct. 7, 1903",
+  "px": 220,
+  "texto": "A houseboat with a catapult track on the roof.",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FIRST ATTEMPT · TIME IN THE AIR",
+  "valor": "~0 seconds",
+  "px": 260,
+  "texto": "Off the roof — and straight down into the water.",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "like a handful of mortar",
+  "autor": "Newspaper reporter, Oct. 1903 (quoted by the Smithsonian National Air and Space Museum)",
+  "px": 130,
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE NEW YORK TIMES · EDITORIAL · OCT. 9, 1903",
+  "titulo": "“Flying Machines Which Do Not Fly”",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE TIMES' ESTIMATE FOR A FLYING MACHINE THAT WILL REALLY FLY",
+  "valor": "1–10 million years",
+  "px": 150,
+  "texto": "Actual answer: 69 days.",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "POTOMAC RIVER · DEC. 8, 1903",
+  "titulo": "The second attempt.",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "December 8, 1903",
+  "itens": [
+   "The aircraft collapses on launch",
+   "The pilot is briefly trapped underwater",
+   "Manly survives, unhurt"
+  ],
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We hope that Professor Langley will not put his substantial greatness as a scientist in further peril…",
+  "autor": "The New York Times, editorial, December 1903",
+  "px": 70,
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Life is short, and he is capable of services to humanity incomparably greater than can be expected to result from trying to fly.",
+  "autor": "The New York Times, December 1903",
+  "px": 64,
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Why bigger isn't the same",
+  "itens": [
+   [
+    "SMALL MODEL",
+    "Flies",
+    "1896"
+   ],
+   [
+    "LARGE AIRCRAFT",
+    "Stresses grow faster",
+    "than the size"
+   ]
+  ],
+  "px": 90,
+  "fonte": "Analysis: Peter Jakab, Smithsonian NASM",
+  "parte": "PART 4",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "KILL DEVIL HILLS, NEAR KITTY HAWK, N.C. · DEC. 17, 1903",
+  "valor": "21+ mph",
+  "px": 260,
+  "texto": "The wind that morning, per the Wrights' own telegram.",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE LAUNCH RAIL",
+  "valor": "60 ft",
+  "px": 300,
+  "texto": "A straight wooden track on the sand. No catapult.",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The witnesses",
+  "itens": [
+   "John T. Daniels — took the famous photo",
+   "Adam Etheridge · Willis Dough",
+   "W. C. Brinkley · Johnny Moore (16)"
+  ],
+  "fonte": "National Park Service",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "10:35 A.M.",
+  "itens": [
+   [
+    "FLIGHT 1 · TIME",
+    "12 seconds",
+    "Orville at the controls"
+   ],
+   [
+    "FLIGHT 1 · DISTANCE",
+    "120 feet",
+    ""
+   ]
+  ],
+  "px": 140,
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Four flights, one morning",
+  "barras": [
+   [
+    "Flight 1 · 12 s",
+    120,
+    "120 ft"
+   ],
+   [
+    "Flight 2 · 12 s",
+    175,
+    "175 ft"
+   ],
+   [
+    "Flight 3 · 15 s",
+    200,
+    "200 ft"
+   ],
+   [
+    "Flight 4 · 59 s",
+    852,
+    "852 ft"
+   ]
+  ],
+  "fonte": "National Park Service",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "AFTER FLIGHT 4",
+  "titulo": "A gust wrecks the Flyer. End of the 1903 season.",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Success four flights Thursday morning all against twenty-one mile wind started from level with engine power alone average speed through air thirty-one miles longest 57 seconds inform press home Christmas.",
+  "autor": "Telegram to Bishop Milton Wright, Dec. 17, 1903 (Library of Congress)",
+  "px": 54,
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Two errors in the telegram",
+  "itens": [
+   [
+    "“57 SECONDS”",
+    "Really 59",
+    "the longest flight"
+   ],
+   [
+    "SIGNED “OREVELLE”",
+    "Orville",
+    "the operator's misspelling"
+   ]
+  ],
+  "px": 110,
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The first newspaper story",
+  "itens": [
+   [
+    "NORFOLK VIRGINIAN-PILOT",
+    "Invented",
+    "many of the details"
+   ],
+   [
+    "OFFERED TO 21 PAPERS",
+    "5 bought it",
+    ""
+   ]
+  ],
+  "px": 110,
+  "fonte": "National Park Service",
+  "parte": "PART 5",
+  "file": "002"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "1906–1914",
+  "marcos": [
+   [
+    "Feb. 1906",
+    "Langley dies"
+   ],
+   [
+    "Feb. 1910",
+    "Langley Medal to the Wrights"
+   ],
+   [
+    "1910",
+    "Smithsonian passes on the 1903 Flyer"
+   ],
+   [
+    "May 1912",
+    "Wilbur dies"
+   ],
+   [
+    "1914",
+    "The rebuild"
+   ]
+  ],
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FEB. 10, 1910 · PRESENTED TO WILBUR & ORVILLE WRIGHT",
+  "valor": "Langley Medal",
+  "px": 210,
+  "texto": "The first one ever awarded.",
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The natural plan would be to install the different Wright machines along with the Langley machines.",
+  "autor": "Charles D. Walcott, Smithsonian Secretary, 1910",
+  "px": 70,
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "APRIL 16, 1867 – MAY 30, 1912",
+  "valor": "Wilbur Wright",
+  "px": 210,
+  "texto": "Typhoid fever. Age 45.",
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "JAN. 1914 · U.S. COURT OF APPEALS (2ND CIRCUIT)",
+  "valor": "Patent upheld",
+  "px": 210,
+  "texto": "The Wrights win against Glenn Curtiss.",
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "HAMMONDSPORT, N.Y. · LAKE KEUKA · CURTISS AEROPLANE AND MOTOR CO.",
+  "valor": "$2,000",
+  "px": 300,
+  "texto": "The Smithsonian hands Langley's aerodrome to the Wrights' rival to test.",
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "What changed in 1914",
+  "itens": [
+   "Wing ribs · spars · covering",
+   "Propellers · carburetor & ignition",
+   "Controls · pontoons"
+  ],
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "May 28, 1914",
+  "itens": [
+   [
+    "IN THE AIR",
+    "~3 seconds",
+    "off a lake, on pontoons"
+   ],
+   [
+    "DISTANCE",
+    "~150 ft",
+    "after modifications"
+   ]
+  ],
+  "px": 120,
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…the first man-carrying aeroplane in the history of the world capable of sustained free flight.",
+  "autor": "Smithsonian label for the Langley Aerodrome (as quoted by Orville Wright, 1928)",
+  "px": 72,
+  "parte": "PART 6",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ORVILLE WRIGHT · 1871–1948",
+  "valor": "1925",
+  "px": 300,
+  "texto": "He decides to send the 1903 Flyer abroad.",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "the only way of correcting the history of the flying machine",
+  "autor": "Orville Wright (quoted by the Smithsonian National Air and Space Museum)",
+  "px": 96,
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SCIENCE MUSEUM · SOUTH KENSINGTON, LONDON",
+  "valor": "1928",
+  "px": 300,
+  "texto": "The first airplane goes on display — in Britain.",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…because of the hostile and unfair attitude shown towards us by the officials of the Smithsonian Institution.",
+  "autor": "Orville Wright, U.S. Air Services, March 1928",
+  "px": 70,
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "I do so with the belief it will be impartially judged and will receive whatever credit it is entitled to.",
+  "autor": "Orville Wright, 1928",
+  "px": 70,
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…not in confession of error, but in a gesture of good will…",
+  "autor": "C. G. Abbot, “The Relations Between the Smithsonian Institution and the Wright Brothers,” Sept. 29, 1928",
+  "px": 90,
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "OFFERED TO MEDIATE · SEE BHC #001",
+  "valor": "Charles Lindbergh",
+  "px": 170,
+  "texto": "It didn't work.",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WORLD WAR II · ~100 MILES FROM LONDON",
+  "valor": "Underground",
+  "px": 230,
+  "texto": "Part of the war, hidden in an underground chamber in England.",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SMITHSONIAN ANNUAL REPORT FOR 1942 · C. G. ABBOT",
+  "valor": "Oct. 8, 1942",
+  "px": 230,
+  "texto": "“The 1914 Tests of the Langley Aerodrome.” Approved by Orville Wright.",
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…did not warrant the statements published by the Smithsonian Institution that these tests proved that the large Langley machine of 1903 was capable of sustained flight carrying a man.",
+  "autor": "C. G. Abbot, Smithsonian Secretary, 1942",
+  "px": 58,
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…the Kitty Hawk machine to which all the world awards first place… the highest place of honor, which is its due.",
+  "autor": "C. G. Abbot, 1942",
+  "px": 70,
+  "parte": "PART 7",
+  "file": "002"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "AUG. 19, 1871 – JAN. 30, 1948",
+  "valor": "Orville Wright",
+  "px": 210,
+  "texto": "He never saw the Flyer come home.",
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "LONDON · 1948",
+  "titulo": "The Science Museum builds a replica. The original leaves.",
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Agreement · Nov. 23, 1948",
+  "itens": [
+   "Vendors: Harold S. Miller & Harold W. Steeper, executors of the estate of Orville Wright",
+   "Vendee: the United States of America, by the Smithsonian Institution (A. Wetmore, Secretary)",
+   "Paragraph 2(d)…"
+  ],
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight.",
+  "autor": "Agreement of Nov. 23, 1948, paragraph 2(d)",
+  "px": 58,
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…title to and right of possession of said aeroplane shall automatically revert to the Vendors…",
+  "autor": "Agreement of Nov. 23, 1948, paragraph 4",
+  "px": 74,
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Accepted by Chief Justice Fred M. Vinson · Arts and Industries Building",
+  "itens": [
+   [
+    "DEC. 17, 1903",
+    "Kitty Hawk",
+    "the first flight"
+   ],
+   [
+    "DEC. 17, 1948",
+    "Washington",
+    "the Flyer goes on display"
+   ]
+  ],
+  "px": 110,
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "The clause, later",
+  "marcos": [
+   [
+    "1948",
+    "Signed"
+   ],
+   [
+    "1978",
+    "Book: “History by Contract”"
+   ],
+   [
+    "2013",
+    "A rival claim resurfaces; the Smithsonian releases a copy; Tom Crouch reviews the claim"
+   ]
+  ],
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE 1903 WRIGHT FLYER",
+  "titulo": "Twelve seconds. Forty-five years to come home.",
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Today",
+  "itens": [
+   [
+    "NATIONAL AIR AND SPACE MUSEUM",
+    "1903 Wright Flyer",
+    "Washington, D.C."
+   ],
+   [
+    "SMITHSONIAN COLLECTION",
+    "Langley Aerodrome A",
+    "the old label: “misleading”"
+   ]
+  ],
+  "px": 80,
+  "parte": "PART 8",
+  "file": "002"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "Before History Changed",
+  "sub": "Every story has a before. Subscribe. Next: three days in May 1940.",
+  "px": 150,
+  "file": "002"
+ }
+]

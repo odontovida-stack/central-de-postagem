@@ -1,0 +1,55 @@
+name: Vídeos do YouTube (narra, monta e agenda)
+
+on:
+  push:
+    branches: [main]
+    paths: ["youtube/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube
+  cancel-in-progress: false
+
+jobs:
+  youtube:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar ffmpeg, Pillow e Playwright
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install pillow playwright
+          python -m playwright install --with-deps chromium
+      - name: Narrar, montar e enviar
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN_TAF: ${{ secrets.YT_REFRESH_TOKEN_TAF }}
+          YT_REFRESH_TOKEN_BHC: ${{ secrets.YT_REFRESH_TOKEN_BHC }}
+        run: python scripts/youtube.py
+      - name: Guardar o vídeo montado para conferir
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: videos-montados
+          path: |
+            saida-youtube/**/video.mp4
+            saida-youtube/**/short.mp4
+            saida-youtube/**/thumbnail.jpg
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Gravar resultado e áudios narrados
+        if: always()
+        run: |
+          git config user.name "central-de-postagem"
+          git config user.email "actions@users.noreply.github.com"
+          git add youtube
+          git diff --cached --quiet || (git commit -m "YouTube: vídeos narrados/agendados $(date -u +%FT%TZ)" && git push)
