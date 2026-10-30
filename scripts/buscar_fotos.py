@@ -11,6 +11,7 @@ Para trocar uma foto, apague o .jpg e mude "opcao" para 2, 3...
 Uso: python scripts/buscar_fotos.py
 """
 import io
+import re
 import json
 import time
 import urllib.parse
@@ -36,6 +37,35 @@ def baixar(url):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=60) as r:
         return r.read()
+
+
+LOG = []
+
+
+def log(msg):
+    print(msg)
+    LOG.append(msg)
+
+
+def candidatos_commons(busca):
+    q = urllib.parse.urlencode({"action": "query", "format": "json", "generator": "search", "gsrnamespace": 6,
+                                "gsrsearch": f"{busca} filetype:bitmap", "gsrlimit": 20, "prop": "imageinfo",
+                                "iiprop": "url|size|extmetadata", "iiurlwidth": 1600})
+    dados = get_json(f"https://commons.wikimedia.org/w/api.php?{q}")
+    res = []
+    for pg in sorted(dados.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99)):
+        ii = (pg.get("imageinfo") or [{}])[0]
+        meta = ii.get("extmetadata", {})
+        lic = (meta.get("LicenseShortName", {}).get("value") or "").lower()
+        if not any(k in lic for k in ("cc0", "public domain", "cc by")) or "nc" in lic or "nd" in lic:
+            continue
+        if min(ii.get("width", 0), ii.get("height", 0)) < 1000:
+            continue
+        autor = re.sub(r"<[^>]+>", "", meta.get("Artist", {}).get("value") or "").strip()
+        res.append({"url": ii.get("thumburl") or ii.get("url"), "creator": autor[:60], "license": lic,
+                    "license_url": meta.get("LicenseUrl", {}).get("value"), "source": "wikimedia",
+                    "foreign_landing_url": ii.get("descriptionurl"), "title": pg.get("title")})
+    return res
 
 
 def candidatos(busca):
@@ -68,31 +98,37 @@ def main():
         destino = BANCO / f"{nome}.jpg"
         if destino.exists():
             continue
+        lista = []
         try:
             lista = candidatos(busca)
         except Exception as e:  # noqa: BLE001
-            print(f"ERRO na busca de {nome}: {e}")
-            continue
+            log(f"Openverse falhou para {nome}: {e}")
+        if not lista:
+            try:
+                lista = candidatos_commons(busca)
+            except Exception as e:  # noqa: BLE001
+                log(f"Wikimedia falhou para {nome}: {e}")
         ok = False
         for item in lista[opcao - 1:]:
             try:
                 img = recortar(baixar(item["url"]))
             except Exception as e:  # noqa: BLE001
-                print(f"  pulando {item.get('id')}: {e}")
+                log(f"  pulando {item.get('id')}: {e}")
                 continue
             img.save(destino, "JPEG", quality=88)
-            lic = LICENCAS.get(item.get("license", ""), item.get("license", "").upper())
+            lic = LICENCAS.get(item.get("license", ""), (item.get("license") or "").upper().replace("CC-BY", "CC BY"))
             autor = (item.get("creator") or "autor desconhecido").strip()
             info = {"nome": nome, "busca": busca, "opcao": opcao, "titulo": item.get("title"), "autor": autor,
                     "licenca": lic, "licenca_url": item.get("license_url"), "fonte": item.get("source"),
                     "pagina": item.get("foreign_landing_url"), "credito": f"Foto: {autor} · {lic}"}
             (BANCO / f"{nome}.json").write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-            print(f"OK {nome}: {info['credito']} ({info['pagina']})")
+            log(f"OK {nome}: {info['credito']} ({info['pagina']})")
             ok = True
             break
         if not ok:
-            print(f"NADA para {nome} ({busca})")
+            log(f"NADA para {nome} ({busca})")
         time.sleep(1)
+    (RAIZ / "fotos" / "ultimo-log.txt").write_text("\n".join(LOG) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
