@@ -128,6 +128,27 @@ def pergunta(conta, card):
     return moldura(miolo)
 
 
+def texto(conta, card):
+    """Slide de comentário: título, um parágrafo curto e até 4 tópicos, ou um número grande."""
+    cor = PAGINAS[conta]["cor"]
+    tam = card.get("titulo_px") or (96 if len(card["titulo"]) <= 34 else 80)
+    partes = [f'<span style="font-weight: 700; font-size: 32px; letter-spacing: 0.12em; color: {cor}">{e(card["chamada"])}</span>',
+              f'<h2 style="margin: 0; font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: {tam}px; line-height: 0.95; text-transform: uppercase">{e(card["titulo"])}</h2>']
+    if card.get("grande"):
+        partes.append(f'<span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: 170px; line-height: 0.9; color: {cor}">{e(card["grande"])}</span>')
+    if card.get("texto"):
+        partes.append(f'<p style="margin: 0; font-size: 38px; line-height: 1.35; color: {FG}">{e(card["texto"])}</p>')
+    if card.get("topicos"):
+        itens = "".join(f'<div style="display: flex; gap: 18px; align-items: flex-start"><span style="flex-shrink: 0; width: 14px; height: 14px; margin-top: 16px; border-radius: 4px; background: {cor}"></span><span style="font-size: 36px; line-height: 1.3">{e(t)}</span></div>' for t in card["topicos"][:4])
+        partes.append(f'<div style="display: flex; flex-direction: column; gap: 16px; background: {CARD}; border-radius: 18px; padding: 28px 30px">{itens}</div>')
+    miolo = f'''{topo(conta, cor, card["pilula"], False)}
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; gap: 30px">
+{chr(10).join(partes)}
+</div>
+{rodape(card.get("fonte", ""), card.get("cta", "Arraste →"))}'''
+    return moldura(miolo)
+
+
 def renderizar(trabalhos):
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
@@ -165,7 +186,7 @@ def main():
             pasta = (RAIZ / "previa" / pauta_arq.stem) if previa else (RAIZ / "fila" / nome)
             midias, alts = [], []
             for i, sub in enumerate(subcards, 1):
-                htm = {"agenda": agenda, "destaque": destaque, "pergunta": pergunta}[sub["tipo"]](conta, sub)
+                htm = {"agenda": agenda, "destaque": destaque, "pergunta": pergunta, "texto": texto}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
                 img = pasta / (f"{nome}-{arq}" if previa else arq)
                 trabalhos.append((htm, img))

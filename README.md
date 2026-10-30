@@ -91,6 +91,7 @@ Cada card da pauta tem:
 - Na agenda: `itens`, cada um com `data`, `sub`, `titulo` e `detalhe`.
 - No destaque: `grande` (uma data grande), `caixas` (2 pares título/valor), `linhas` (data, cidade, local) e `nota`.
 - `tipo: pergunta` é o card de engajamento: `pilula`, `chamada`, `titulo` (a pergunta), `contexto` (opcional), `opcoes` (até 4, viram A, B, C e D), `fonte` e `cta`. A pessoa responde nos comentários.
+- `tipo: texto` é o slide de comentário dos carrosséis: `pilula`, `chamada`, `titulo`, `texto` (um parágrafo curto), `topicos` (até 4) e `grande` (um número grande, opcional).
 - `tipo: carrossel` junta vários cards num post só. Ele leva `quando`, `legenda`, `alt` (opcional) e `cards` (a lista de cards agenda/destaque, na ordem dos slides). É o que o card diário de 7h30 do @jogosnatela usa: resultados de ontem e jogos de hoje.
 
 ### Calendário das páginas LLShop (combinado em 29/10/2026)
@@ -108,6 +109,12 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 | @tudooqueestreia | Estreia hoje | 12h |
 | @showsconfirmados | Pré-venda hoje | 8h |
 | @showsconfirmados | Hoje tem show | 16h |
+| @lancamentosdegames | Carrossel "O game da semana" | Terça, 19h |
+| @tudooqueestreia | Carrossel "As estreias mais esperadas" (streaming + cinema) | Quarta, 20h |
+| @lancamentosdegames | Carrossel "O grátis da semana: vale resgatar?" | Quinta, 16h |
+| @showsconfirmados | Carrossel "O show da semana" | Quinta, 19h |
+| @jogosnatela | Carrossel "O jogo da semana" | Sexta, 19h |
+| @esportesnatela | Carrossel "O evento da semana" | Sábado, 10h |
 | Todas | Perguntas para o público: palpite antes de um evento grande, "o que achou?" depois, e 1 enquete fixa por semana (ver o robô "Posts do dia") | 12h ou 20h, até 1 por página por dia |
 | @jogosnatela | Agenda da semana | Segunda, 12h |
 | @esportesnatela | Agenda da semana | Segunda, 12h30 |
