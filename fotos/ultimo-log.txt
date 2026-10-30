@@ -1,8 +1,2 @@
+Openverse falhou para tatame-lutas: The read operation timed out
 NADA para tatame-lutas (judo tatami mat)
-Openverse falhou para yt-taf003-baghdad: The read operation timed out
-NADA para yt-taf003-baghdad (Tigris River Baghdad skyline)
-Openverse falhou para yt-taf003-iraq-desert: The read operation timed out
-OK yt-taf003-iraq-desert: Foto: Vyacheslav Argenberg · CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Syrian_desert_near_Palmyra,_Valley_of_the_tombs,_Syria.jpg)
-Openverse falhou para yt-taf003-mosul: The read operation timed out
-  pulando None: image file is truncated (66 bytes not processed)
-OK yt-taf003-mosul: Foto: Levi Clancy · CC0 (https://commons.wikimedia.org/wiki/File:Views_along_the_river_Tigris_in_Mosul_in_2019_when_Moslawis_go_during_the_summer_to_cool_down_03.jpg)
