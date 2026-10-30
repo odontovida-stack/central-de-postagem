@@ -8,10 +8,11 @@ F = Path(__file__).resolve().parent / "fontes"
 import os
 TEMAS = {
     "taf": {"cores": ("#0D1117", "#1B3A6B", "#C0392B", "#EDE6D6", "#9AA4B2"), "marca": "THE AMERICAN FILE", "rotulo": "FILE #"},
-    "bhc": {"cores": ("#15110C", "#5A4426", "#C9A227", "#F1E6CF", "#A89A84"), "marca": "BEFORE HISTORY CHANGED", "rotulo": "#", "brilho": ("rgba(90,68,38,.45)", "rgba(201,162,39,.10)")},
+    "bhc": {"cores": ("#15110C", "#5A4426", "#C9A227", "#F1E6CF", "#A89A84"), "marca": "BEFORE HISTORY CHANGED", "rotulo": "#", "brilho": ("rgba(90,68,38,.45)", "rgba(201,162,39,.10)"), "cartao": "rgba(90,68,38,.38)"},
 }
 TEMA = TEMAS[os.environ.get("TEMA_SLIDES", "taf")]
 BG, NAVY, RED, PAPER, MUTED = TEMA["cores"]
+CARTAO = TEMA.get("cartao", "rgba(27,58,107,.35)")
 GLOW1, GLOW2 = TEMA.get("brilho", ("rgba(27,58,107,.35)", "rgba(192,57,43,.12)"))
 def ff(fam, w, st="normal", fn=None): return f"@font-face{{font-family:'{fam}';font-weight:{w};font-style:{st};src:url('file://{F}/{fn}')}}"
 CSS = (ff("S", 400, fn="source-serif-4-latin-400-normal.woff2") + ff("S", 400, "italic", "source-serif-4-latin-400-italic.woff2") +
@@ -62,7 +63,7 @@ def corpo(s):
                 f'<h2 style="margin:0 0 20px;font-weight:700;font-size:76px">{e(s["titulo"])}</h2>{bs}</div>'
                 + (f'<div class="src">SOURCE: {e(s["fonte"])}</div>' if s.get("fonte") else ""))
     if t == "duplo":
-        cs = "".join(f'<div style="flex:1;background:rgba(27,58,107,.35);border-top:6px solid {RED if i == len(s["itens"])-1 else NAVY};padding:44px 48px;display:flex;flex-direction:column;gap:18px"><span style="font:500 30px M;color:{MUTED};letter-spacing:.1em">{e(a)}</span><span style="font-weight:700;font-size:{s.get("px",96)}px;line-height:1">{e(b)}</span><span style="font-size:36px;line-height:1.3;color:{PAPER}">{e(c)}</span></div>' for i,(a,b,c) in enumerate(s["itens"]))
+        cs = "".join(f'<div style="flex:1;background:{CARTAO};border-top:6px solid {RED if i == len(s["itens"])-1 else NAVY};padding:44px 48px;display:flex;flex-direction:column;gap:18px"><span style="font:500 30px M;color:{MUTED};letter-spacing:.1em">{e(a)}</span><span style="font-weight:700;font-size:{s.get("px",96)}px;line-height:1">{e(b)}</span><span style="font-size:36px;line-height:1.3;color:{PAPER}">{e(c)}</span></div>' for i,(a,b,c) in enumerate(s["itens"]))
         return (topo(s) + f'<div style="flex-grow:1;display:flex;flex-direction:column;justify-content:center;gap:40px;position:relative">'
                 + (f'<h2 style="margin:0;font-weight:700;font-size:72px">{e(s["titulo"])}</h2>' if s.get("titulo") else "")
                 + f'<div style="display:flex;gap:40px">{cs}</div></div>' + (f'<div class="src">SOURCE: {e(s["fonte"])}</div>' if s.get("fonte") else ""))

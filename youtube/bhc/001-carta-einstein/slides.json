@@ -1,0 +1,862 @@
+[
+ {
+  "tipo": "capitulo",
+  "numero": "AUGUST 2, 1939",
+  "titulo": "Peconic, Long Island.",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ALBERT EINSTEIN · OLD GROVE RD. · NASSAU POINT",
+  "valor": "Sir:",
+  "px": 300,
+  "texto": "Peconic, Long Island — August 2, 1939. Two pages. Typed. To the President of the United States.",
+  "fonte": "FDR Library / National Archives",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "I made one great mistake in my life — when I signed the letter to President Roosevelt recommending that atom bombs be made…",
+  "autor": "Albert Einstein, as recorded by Linus Pauling, Nov. 16, 1954",
+  "px": 66,
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "THE WAIT",
+    "10 weeks",
+    "before it reached the President"
+   ],
+   [
+    "THE MESSENGER",
+    "Lindbergh?",
+    "the man they almost asked"
+   ],
+   [
+    "THE ANSWER",
+    "$6,000",
+    "the government's first budget"
+   ]
+  ],
+  "px": 80,
+  "file": "001"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "Before History Changed",
+  "sub": "#001 — The Letter Einstein Regretted. Every story has a before.",
+  "px": 150,
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "HUNGARIAN-BORN PHYSICIST · 1898–1964",
+  "valor": "Leo Szilárd",
+  "px": 200,
+  "texto": "The man who actually wrote the letter. And it wasn't Einstein.",
+  "parte": "PART 2",
+  "file": "001"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "A refugee's road",
+  "marcos": [
+   [
+    "1898",
+    "Born in Budapest"
+   ],
+   [
+    "1922",
+    "PhD in Berlin"
+   ],
+   [
+    "1933",
+    "Flees the Nazis to London"
+   ],
+   [
+    "Late 1930s",
+    "Columbia University, New York"
+   ]
+  ],
+  "parte": "PART 2",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Anyone who expects a source of power from the transformation of these atoms is talking moonshine.",
+  "autor": "Ernest Rutherford, as reported by the Associated Press, Sept. 11, 1933 · Exact wording varies between newspaper reports.",
+  "px": 66,
+  "parte": "PART 2",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SOUTHAMPTON ROW × RUSSELL SQUARE · LONDON",
+  "valor": "Sept. 12, 1933",
+  "px": 190,
+  "texto": "Waiting to cross the street, Szilárd has the thought that would define the century.",
+  "parte": "PART 2",
+  "file": "001"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "Chain reaction",
+  "barras": [
+   [
+    "1 neutron",
+    1,
+    "1"
+   ],
+   [
+    "Next step",
+    2,
+    "2"
+   ],
+   [
+    "Next step",
+    4,
+    "4"
+   ],
+   [
+    "Next step",
+    8,
+    "8"
+   ],
+   [
+    "Next step",
+    16,
+    "16"
+   ],
+   [
+    "Next step",
+    32,
+    "32"
+   ]
+  ],
+  "parte": "PART 2",
+  "file": "001"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "A theory looking for an element",
+  "marcos": [
+   [
+    "1933",
+    "The idea"
+   ],
+   [
+    "1934",
+    "Szilárd's chain-reaction patent"
+   ],
+   [
+    "1938",
+    "?"
+   ]
+  ],
+  "parte": "PART 2",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "December 1938",
+  "itens": [
+   [
+    "BERLIN",
+    "Hahn & Strassmann",
+    "chemists, bombarding uranium with neutrons"
+   ],
+   [
+    "SWEDEN",
+    "Lise Meitner",
+    "Austrian-born physicist, in exile"
+   ]
+  ],
+  "px": 80,
+  "parte": "PART 3",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Uranium hit by a neutron — barium?",
+  "itens": [
+   [
+    "ELEMENT 92",
+    "Uranium",
+    "what they bombarded"
+   ],
+   [
+    "ELEMENT 56",
+    "Barium",
+    "what they found: a much lighter element"
+   ]
+  ],
+  "px": 110,
+  "parte": "PART 3",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Christmas 1938 — the nucleus splits",
+  "itens": [
+   [
+    "AUSTRIAN-BORN PHYSICIST",
+    "Lise Meitner",
+    "fled to Sweden in 1938"
+   ],
+   [
+    "PHYSICIST · HER NEPHEW",
+    "Otto Frisch",
+    "named it “fission”"
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 3",
+  "file": "001"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "From Berlin to America",
+  "marcos": [
+   [
+    "Dec. 1938",
+    "Hahn & Strassmann find barium"
+   ],
+   [
+    "Jan. 3, 1939",
+    "Meitner: 'fairly certain' it's a split"
+   ],
+   [
+    "Jan. 1939",
+    "Bohr brings the news to the US"
+   ],
+   [
+    "1944",
+    "Hahn wins the Nobel Prize in Chemistry. Meitner doesn't."
+   ]
+  ],
+  "parte": "PART 3",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "NEW YORK, 1939",
+    "Szilárd",
+    "fission: the missing piece"
+   ],
+   [
+    "BERLIN, 1938",
+    "The discovery",
+    "in Hitler's Germany"
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 3",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "BELGIAN CONGO · 1939",
+  "valor": "Uranium",
+  "px": 230,
+  "texto": "One of the richest sources in the world, in Belgian-controlled mines. Would Germany get it?",
+  "parte": "PART 3",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NASSAU POINT · PECONIC BAY · NORTH FORK, LONG ISLAND",
+  "valor": "Summer 1939",
+  "px": 220,
+  "texto": "Einstein's summer rental.",
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "INSTITUTE FOR ADVANCED STUDY · PRINCETON",
+  "valor": "Albert Einstein",
+  "px": 190,
+  "texto": "On vacation, sailing. His sailboat: the Tinef.",
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Sunday, July 16, 1939",
+  "itens": [
+   [
+    "LEO SZILÁRD",
+    "Didn't drive",
+    "the physicist with the idea"
+   ],
+   [
+    "EUGENE WIGNER",
+    "The driver",
+    "fellow Hungarian physicist"
+   ]
+  ],
+  "px": 100,
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "NASSAU POINT · JULY 16, 1939",
+  "titulo": "They got lost. A young boy pointed them to the house.",
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "I never thought of that!",
+  "autor": "Albert Einstein to Leo Szilárd, July 16, 1939 (as recalled by Szilárd)",
+  "px": 130,
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "PLAN A",
+    "Warn Belgium",
+    "Congo uranium — dropped"
+   ],
+   [
+    "PLAN B",
+    "?",
+    ""
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Plan B: straight to the White House",
+  "itens": [
+   [
+    "THE ECONOMIST",
+    "Alexander Sachs",
+    "Lehman Brothers; adviser to FDR"
+   ],
+   [
+    "PLAN B",
+    "The President",
+    "Sachs offers to hand-deliver it"
+   ]
+  ],
+  "px": 88,
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "JULY 30, 1939 · SECOND VISIT · THE DRIVER",
+  "valor": "Edward Teller",
+  "px": 200,
+  "texto": "At the wheel of his 1935 Plymouth. Later known as the “father of the hydrogen bomb.”",
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Dated August 2, 1939. Einstein signed both.",
+  "itens": [
+   [
+    "LONG VERSION",
+    "45 lines",
+    "went to the President"
+   ],
+   [
+    "SHORT VERSION",
+    "25 lines",
+    "the copy Szilárd kept"
+   ]
+  ],
+  "px": 120,
+  "parte": "PART 4",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…leads me to expect that the element uranium may be turned into a new and important source of energy in the immediate future.",
+  "autor": "Einstein to Roosevelt, Aug. 2, 1939",
+  "px": 64,
+  "parte": "PART 5",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "…it may become possible to set up a nuclear chain reaction in a large mass of uranium…",
+  "autor": "Einstein to Roosevelt, Aug. 2, 1939",
+  "px": 72,
+  "parte": "PART 5",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "This new phenomenon would also lead to the construction of bombs…",
+  "autor": "Einstein to Roosevelt, Aug. 2, 1939",
+  "px": 96,
+  "parte": "PART 5",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "A single bomb of this type, carried by boat and exploded in a port, might very well destroy the whole port together with some of the surrounding territory.",
+  "autor": "Einstein to Roosevelt, Aug. 2, 1939",
+  "px": 60,
+  "parte": "PART 5",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "How they pictured the bomb in 1939",
+  "itens": [
+   [
+    "DELIVERY",
+    "By boat",
+    "“exploded in a port”"
+   ],
+   [
+    "BY PLANE?",
+    "Too heavy",
+    "“too heavy for transportation by air”"
+   ]
+  ],
+  "px": 110,
+  "parte": "PART 5",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Germany, 1939",
+  "itens": [
+   [
+    "BOHEMIA–MORAVIA",
+    "Uranium mines",
+    "Czechoslovak mines, now German-controlled"
+   ],
+   [
+    "BERLIN",
+    "Kaiser-Wilhelm-Institut",
+    "where von Weizsäcker's son was attached"
+   ]
+  ],
+  "px": 72,
+  "parte": "PART 5",
+  "file": "001"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Ten weeks in a briefcase",
+  "marcos": [
+   [
+    "Aug 2",
+    "Signed"
+   ],
+   [
+    "Aug 15",
+    "Sent to Sachs"
+   ],
+   [
+    "Sept 1",
+    "War in Europe"
+   ],
+   [
+    "Oct 11",
+    "Delivered"
+   ]
+  ],
+  "parte": "PART 6",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CONSIDERED AS MESSENGER · SUMMER 1939",
+  "valor": "Charles Lindbergh",
+  "px": 170,
+  "texto": "The most famous aviator in the world. They dropped the idea.",
+  "parte": "PART 6",
+  "file": "001"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "SEPTEMBER 1, 1939",
+  "titulo": "Germany invades Poland. World War II begins in Europe.",
+  "parte": "PART 6",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "OCT. 11, 1939 · THE OVAL OFFICE",
+  "valor": "“By way of the ear”",
+  "px": 150,
+  "texto": "Alexander Sachs reads his summary aloud to President Roosevelt.",
+  "parte": "PART 6",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Alex, what you are after is to see that the Nazis don't blow us up.",
+  "autor": "Franklin D. Roosevelt, Oct. 11, 1939 (as recalled by Alexander Sachs)",
+  "px": 84,
+  "parte": "PART 6",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Pa, this requires action!",
+  "autor": "FDR to Gen. Edwin M. Watson, Oct. 11, 1939 (as recalled by Sachs)",
+  "px": 120,
+  "parte": "PART 6",
+  "file": "001"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Ten days in October",
+  "marcos": [
+   [
+    "Oct 11",
+    "Sachs meets FDR"
+   ],
+   [
+    "Oct 19",
+    "FDR replies to Einstein"
+   ],
+   [
+    "Oct 21",
+    "Uranium Committee meets (Lyman Briggs)"
+   ]
+  ],
+  "parte": "PART 6",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE FIRST MONEY · ADVISORY COMMITTEE ON URANIUM",
+  "valor": "$6,000",
+  "px": 320,
+  "texto": "for graphite and uranium experiments.",
+  "parte": "PART 6",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "US urgency, 1939–1941",
+  "itens": [
+   [
+    "OCT. 1939 – MID-1941",
+    "Almost flat",
+    "the letter barely moved the needle"
+   ],
+   [
+    "LATE 1941",
+    "A sharp spike",
+    "then everything changes"
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Einstein kept writing",
+  "itens": [
+   [
+    "AUG. 1939",
+    "First letter",
+    "to President Roosevelt"
+   ],
+   [
+    "MARCH 1940",
+    "Another letter",
+    "German interest in uranium had intensified"
+   ]
+  ],
+  "px": 96,
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "UNIVERSITY OF BIRMINGHAM, ENGLAND · MARCH 1940",
+  "valor": "Frisch–Peierls",
+  "px": 190,
+  "texto": "Their memorandum called the bomb “practically irresistible.”",
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The weight of the idea",
+  "itens": [
+   [
+    "1939 LETTER",
+    "Too heavy",
+    "“too heavy for transportation by air”"
+   ],
+   [
+    "MAUD REPORT, JULY 1941",
+    "~10 kg",
+    "of uranium-235: small enough for existing aircraft"
+   ]
+  ],
+  "px": 120,
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WASHINGTON · 1941",
+  "valor": "In the safe",
+  "px": 220,
+  "texto": "Lyman Briggs had put the British MAUD reports in his safe, and hadn't shown them to his own committee.",
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "amazed and distressed",
+  "autor": "Mark Oliphant, Australian physicist, late August 1941",
+  "px": 130,
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "1941",
+  "marcos": [
+   [
+    "June 28",
+    "FDR creates OSRD (Vannevar Bush)"
+   ],
+   [
+    "Late Aug.",
+    "Oliphant visits"
+   ],
+   [
+    "Early Dec.",
+    "Committee: a bomb could be built"
+   ],
+   [
+    "Dec. 7",
+    "Pearl Harbor"
+   ]
+  ],
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The Manhattan Project",
+  "itens": [
+   [
+    "AT PEAK",
+    "130,000",
+    "workers"
+   ],
+   [
+    "BY THE END OF THE WAR",
+    "$2.2 billion",
+    "spent"
+   ]
+  ],
+  "px": 130,
+  "fonte": "US Department of Energy",
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Three secret cities",
+  "itens": [
+   "Los Alamos, New Mexico",
+   "Oak Ridge, Tennessee",
+   "Hanford, Washington"
+  ],
+  "parte": "PART 7",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ARMY INTELLIGENCE · JULY 1940",
+  "valor": "Albert Einstein",
+  "px": 190,
+  "texto": "Security clearance denied. He never worked on the bomb.",
+  "stamp": "CLEARANCE DENIED",
+  "stamp_top": 210,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Six years, to the day",
+  "itens": [
+   [
+    "JULY 16, 1939",
+    "“I never thought of that.”",
+    "the porch on Long Island"
+   ],
+   [
+    "JULY 16, 1945",
+    "Trinity test",
+    "the New Mexico desert"
+   ]
+  ],
+  "px": 66,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "A PETITION TO THE PRESIDENT OF THE UNITED STATES · JULY 17, 1945",
+  "valor": "~70 signatures",
+  "px": 190,
+  "texto": "Never reached Truman in time.",
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "itens": [
+   [
+    "AUGUST 6, 1945",
+    "Hiroshima",
+    ""
+   ],
+   [
+    "AUGUST 9, 1945",
+    "Nagasaki",
+    ""
+   ]
+  ],
+  "px": 120,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Oh, my God.",
+  "autor": "Albert Einstein, as recounted by Helen Dukas",
+  "px": 150,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "GODMANCHESTER, ENGLAND · JULY 1945 – JANUARY 1946",
+  "valor": "Farm Hall",
+  "px": 230,
+  "texto": "An English country house. Ten German nuclear scientists. Everything they said, secretly recorded.",
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Held at Farm Hall",
+  "itens": [
+   [
+    "SPLIT THE URANIUM ATOM",
+    "Otto Hahn",
+    "chemist"
+   ],
+   [
+    "PHYSICIST",
+    "Werner Heisenberg",
+    ""
+   ],
+   [
+    "NAMED IN THE 1939 LETTER",
+    "Carl Friedrich von Weizsäcker",
+    "as “the son of…”"
+   ]
+  ],
+  "px": 56,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "I don't believe a word of the whole thing.",
+  "autor": "Werner Heisenberg, Farm Hall, Aug. 6, 1945 (secretly recorded transcript)",
+  "px": 96,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The race",
+  "itens": [
+   [
+    "GERMANY, 1942",
+    "3–5 years",
+    "“not in less than 3–5 years”"
+   ],
+   [
+    "USA, 1945",
+    "Bomb built",
+    "130,000 workers, $2.2B"
+   ]
+  ],
+  "px": 120,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Had I known that the Germans would not succeed in developing an atomic bomb, I would have done nothing.",
+  "autor": "Albert Einstein, interview with Newsweek",
+  "px": 72,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "I made one great mistake in my life — when I signed the letter to President Roosevelt recommending that atom bombs be made; but there was some justification — the danger that the Germans would make them.",
+  "autor": "Albert Einstein, as recorded by Linus Pauling, Nov. 16, 1954 (Oregon State University Special Collections)",
+  "px": 56,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "AUGUST 2, 1939",
+  "titulo": "A. Einstein",
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The letter today",
+  "itens": [
+   [
+    "SZILÁRD'S COPY",
+    "$3.92M",
+    "sold at Christie's, Sept. 2024"
+   ],
+   [
+    "FDR'S COPY",
+    "Hyde Park, NY",
+    "FDR Presidential Library"
+   ]
+  ],
+  "px": 90,
+  "parte": "PART 8",
+  "file": "001"
+ },
+ {
+  "tipo": "capa",
+  "titulo": "Before History Changed",
+  "sub": "Every story has a before. Subscribe. Next: nine days in December 1903.",
+  "px": 150,
+  "file": "001"
+ }
+]
