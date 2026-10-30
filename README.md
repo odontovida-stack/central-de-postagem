@@ -194,3 +194,4 @@ Thumbnail personalizada só funciona em canal verificado por telefone (youtube.c
 - O workflow `links.yml` refaz as páginas sozinho a cada mudança na fila e mostra os 12 links mais recentes de cada perfil.
 - Toda página leva o aviso de link de afiliado, exigido pela lei americana (FTC) e pelas plataformas.
 - Os links de afiliado usam `rel="sponsored"`.
+- **Amazon Associados:** tag `llshop0d-20` (em `config/afiliados.json`). Link de produto: `https://www.amazon.com.br/dp/<ASIN>?tag=llshop0d-20`. Post com link da Amazon leva na legenda: "Como Associado da Amazon, ganho com compras qualificadas." Meta da Amazon: 3 vendas nos primeiros 180 dias.

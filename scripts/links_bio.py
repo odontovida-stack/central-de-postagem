@@ -15,7 +15,7 @@ RAIZ = pathlib.Path(__file__).resolve().parent.parent
 CORES = {"jogosnatela": "#2FD17A", "esportesnatela": "#4C9AFF", "tudooqueestreia": "#FF5A5F", "lancamentosdegames": "#A78BFA",
          "showsconfirmados": "#FFB020", "brazilonabudget": "#0F6E8C", "brasil2359": "#FF6B2C"}
 AVISO = {"brazilonabudget": "Some links are affiliate links: if you book through them we may earn a small commission, at no extra cost to you.",
-         "padrao": "Alguns links são de afiliado: se você comprar por eles, podemos ganhar uma pequena comissão, sem custo extra para você."}
+         "padrao": "Alguns links são de afiliado: se você comprar por eles, podemos ganhar uma pequena comissão, sem custo extra para você. Como Associado da Amazon, ganho com compras qualificadas."}
 
 
 def main():
