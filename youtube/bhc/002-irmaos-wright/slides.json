@@ -626,7 +626,6 @@
  },
  {
   "tipo": "numero",
-  "foto": "yt-bhc002-science-museum",
   "rotulo": "SCIENCE MUSEUM · SOUTH KENSINGTON, LONDON",
   "valor": "1928",
   "px": 300,
@@ -712,7 +711,6 @@
  },
  {
   "tipo": "capitulo",
-  "foto": "yt-bhc002-science-museum",
   "numero": "LONDON · 1948",
   "titulo": "The Science Museum builds a replica. The original leaves.",
   "parte": "PART 8",

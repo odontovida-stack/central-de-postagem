@@ -8,7 +8,6 @@
  },
  {
   "tipo": "numero",
-  "foto": "yt-bhc001-nassau-point",
   "rotulo": "ALBERT EINSTEIN · OLD GROVE RD. · NASSAU POINT",
   "valor": "Sir:",
   "px": 300,
@@ -96,7 +95,6 @@
  },
  {
   "tipo": "numero",
-  "foto": "yt-bhc001-russell-square",
   "rotulo": "SOUTHAMPTON ROW × RUSSELL SQUARE · LONDON",
   "valor": "Sept. 12, 1933",
   "px": 190,
@@ -273,7 +271,6 @@
  },
  {
   "tipo": "numero",
-  "foto": "yt-bhc001-nassau-point",
   "rotulo": "NASSAU POINT · PECONIC BAY · NORTH FORK, LONG ISLAND",
   "valor": "Summer 1939",
   "px": 220,
@@ -495,7 +492,6 @@
  },
  {
   "tipo": "capitulo",
-  "foto": "yt-bhc001-battleship-1939",
   "numero": "SEPTEMBER 1, 1939",
   "titulo": "Germany invades Poland. World War II begins in Europe.",
   "parte": "PART 6",

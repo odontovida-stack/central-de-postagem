@@ -153,12 +153,6 @@
     "opcao": 1
   },
   {
-    "nome": "yt-taf001-carrier",
-    "busca": "USS Nimitz aircraft carrier at sea",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
     "nome": "yt-taf001-ww2-fleet",
     "busca": "US Navy fleet at sea World War II 1944 warships",
     "formato": "paisagem",
@@ -201,12 +195,6 @@
     "opcao": 1
   },
   {
-    "nome": "yt-taf002-farewell-address",
-    "busca": "Washington Farewell Address manuscript",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
     "nome": "yt-taf002-butterfly-ballot",
     "busca": "butterfly ballot",
     "formato": "paisagem",
@@ -221,12 +209,6 @@
   {
     "nome": "yt-taf002-ballots",
     "busca": "paper ballots election United States",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
-    "nome": "yt-taf002-debate-stage",
-    "busca": "debate stage",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -255,20 +237,8 @@
     "opcao": 1
   },
   {
-    "nome": "yt-bhc001-nassau-point",
-    "busca": "Cutchogue New York",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
     "nome": "yt-bhc001-letter",
     "busca": "Einstein letter Roosevelt",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
-    "nome": "yt-bhc001-russell-square",
-    "busca": "Russell Square London",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -281,12 +251,6 @@
   {
     "nome": "yt-bhc001-ias-princeton",
     "busca": "Fuld Hall Institute for Advanced Study Princeton",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
-    "nome": "yt-bhc001-battleship-1939",
-    "busca": "Schleswig-Holstein battleship",
     "formato": "paisagem",
     "opcao": 1
   },
@@ -365,12 +329,6 @@
   {
     "nome": "yt-bhc002-keuka-lake",
     "busca": "Keuka Lake Hammondsport New York",
-    "formato": "paisagem",
-    "opcao": 1
-  },
-  {
-    "nome": "yt-bhc002-science-museum",
-    "busca": "Science Museum London",
     "formato": "paisagem",
     "opcao": 1
   },
