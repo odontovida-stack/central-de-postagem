@@ -103,7 +103,7 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 |---|---|---|
 | @jogosnatela | Resultados de ontem + jogos de hoje (carrossel) | Todo dia, 7h30 |
 | @jogosnatela | Jogo do dia (só se houver jogo grande) | 17h |
-| @esportesnatela | Hoje tem (UFC, F1, NBA, NFL grandes) | 11h |
+| @esportesnatela | Hoje tem (todos os esportes menos futebol de clubes: vôlei, basquete, atletismo, natação, tênis, F1, lutas, NFL e outros) | 11h |
 | @lancamentosdegames | Sai hoje (lançamento grande) | 10h |
 | @lancamentosdegames | Jogos grátis para resgatar (Epic toda quinta, Steam, GOG, PS Plus, Prime, Game Pass) | 14h |
 | @tudooqueestreia | Estreia hoje | 12h |
