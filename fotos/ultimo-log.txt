@@ -1,8 +1,2 @@
-OK rio-selaron: Foto: Rjcastillo · CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Piezas_de_cer%C3%A1mica,_R%C3%ADo_de_Janeiro_A74229820241122.jpg)
-OK rio-ipanema: Foto: Wilfredor · CC0 (https://commons.wikimedia.org/wiki/File:Ipanema_and_Leblon_as_seen_from_Morro_Dois_Irm%C3%A3os,_with_Lagoa_and_Cantagalo_in_the_background,_Rio_de_Janeiro,_Brazil.jpg)
-Openverse falhou para rio-copacabana: The read operation timed out
-OK rio-copacabana: Foto: Wilfredor · CC0 (https://commons.wikimedia.org/wiki/File:Morena_beach_kiosk_on_the_Copacabana_promenade,_Rio_de_Janeiro,_Brazil.jpg)
-OK rio-cristo: Foto: Donatas Dabravolskas · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg)
-Openverse falhou para brasil-chapada: The read operation timed out
-OK brasil-chapada: Foto: JeilsonandradeDerivative work including crop, contrast, whit · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Morr%C3%A3o,_no_Parque_Nacional_da_Chapada_Diamantina_-_Bahia_crop_2.jpg)
-OK brasil-bonito: Foto: Ateliesandraromano · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Rio_Formoso_em_Bonito_no_Mato_Grosso_do_Sul,_Serra_da_Bodoquena.jpg)
+OK paraty-ruas: Foto: Diego Torres Silvestre from Sao Paulo, Brazil · CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Somewhere_in_Paraty_(5796610183).jpg)
+OK rio-copacabana-praia: Foto: Christopher Crouzet · CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Copacabana,_Bolivia.jpg)
