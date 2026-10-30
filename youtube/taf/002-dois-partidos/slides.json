@@ -1,6 +1,7 @@
 [
  {
   "tipo": "capitulo",
+  "foto": "yt-taf002-voting-booths",
   "numero": "BE HONEST",
   "titulo": "When did you last vote FOR someone?",
   "stamp": "FILE #002",
@@ -37,6 +38,7 @@
  },
  {
   "tipo": "capa",
+  "foto": "yt-taf002-capitol",
   "titulo": "The Two-Party Lock",
   "sub": "Why America has only two parties — and why it's so hard to change.",
   "px": 150,
@@ -193,6 +195,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf002-butterfly-ballot",
   "rotulo": "FLORIDA 2000 · BUSH OVER GORE",
   "valor": "537 votes",
   "px": 230,
@@ -260,6 +263,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf002-state-legislature",
   "rotulo": "WHO WRITES MOST BALLOT RULES? STATE LEGISLATURES",
   "valor": "D or R",
   "px": 230,
@@ -293,6 +297,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-taf002-ballots",
   "numero": "MAJOR-PARTY NOMINEES",
   "titulo": "Ballot lines: automatic. Every single time.",
   "parte": "PART 4",
@@ -455,6 +460,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf002-house-chamber",
   "rotulo": "HOUSE SEATS EFFECTIVELY DECIDED IN PRIMARIES, 2024",
   "valor": "87%",
   "px": 260,
@@ -678,6 +684,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-taf002-gerrymander",
   "numero": "BOSTON GAZETTE · MARCH 26, 1812",
   "titulo": "The “Gerry-Mander”: a district so twisted it looked like a salamander.",
   "parte": "PART 6",
@@ -705,6 +712,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf002-district-map",
   "rotulo": "NEW CONGRESSIONAL MAPS FOR 2026",
   "valor": "At least 10 states",
   "px": 150,
@@ -812,6 +820,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf002-capitol",
   "rotulo": "THE WALL",
   "valor": "1967",
   "px": 230,

@@ -1,6 +1,7 @@
 [
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc001-peconic-bay",
   "numero": "AUGUST 2, 1939",
   "titulo": "Peconic, Long Island.",
   "file": "001"
@@ -45,6 +46,7 @@
  },
  {
   "tipo": "capa",
+  "foto": "yt-bhc001-letter",
   "titulo": "Before History Changed",
   "sub": "#001 — The Letter Einstein Regretted. Every story has a before.",
   "px": 150,
@@ -259,6 +261,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc001-uranium-ore",
   "rotulo": "BELGIAN CONGO · 1939",
   "valor": "Uranium",
   "px": 230,
@@ -277,6 +280,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc001-ias-princeton",
   "rotulo": "INSTITUTE FOR ADVANCED STUDY · PRINCETON",
   "valor": "Albert Einstein",
   "px": 190,
@@ -495,6 +499,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc001-white-house",
   "rotulo": "OCT. 11, 1939 · THE OVAL OFFICE",
   "valor": "“By way of the ear”",
   "px": 150,
@@ -587,6 +592,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc001-birmingham",
   "rotulo": "UNIVERSITY OF BIRMINGHAM, ENGLAND · MARCH 1940",
   "valor": "Frisch–Peierls",
   "px": 190,
@@ -744,6 +750,7 @@
  },
  {
   "tipo": "citacao",
+  "foto": "yt-bhc001-hiroshima-cloud",
   "texto": "Oh, my God.",
   "autor": "Albert Einstein, as recounted by Helen Dukas",
   "px": 150,
@@ -752,6 +759,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-bhc001-farm-hall",
   "rotulo": "GODMANCHESTER, ENGLAND · JULY 1945 – JANUARY 1946",
   "valor": "Farm Hall",
   "px": 230,
@@ -828,6 +836,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-bhc001-letter",
   "numero": "AUGUST 2, 1939",
   "titulo": "A. Einstein",
   "parte": "PART 8",

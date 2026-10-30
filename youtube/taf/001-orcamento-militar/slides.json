@@ -1,12 +1,14 @@
 [
  {
   "tipo": "citacao",
+  "foto": "yt-taf001-pentagon",
   "texto": "What do you think the US military budget is?",
   "autor": "Take a guess.",
   "px": 84
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf001-capitol",
   "rotulo": "FY2026 · US NATIONAL DEFENSE",
   "valor": "$1,000,000,000,000",
   "px": 170,
@@ -127,6 +129,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf001-ww2-fleet",
   "rotulo": "WORLD WAR II",
   "valor": "16,000,000",
   "texto": "Americans served. This time, the country never fully demobilized.",
@@ -165,6 +168,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-taf001-white-house",
   "numero": "JANUARY 17, 1961",
   "titulo": "Eisenhower's farewell address",
   "parte": "PART 2"
@@ -323,6 +327,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf001-f35",
   "rotulo": "ONE F-35A = $92 MILLION",
   "valor": "1,052 years",
   "texto": "of a median American household's income ($87,460 a year, Census 2025).",
@@ -372,6 +377,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf001-minuteman",
   "rotulo": "100 SMALL NUCLEAR WEAPONS",
   "valor": "~260 million",
   "texto": "projected deaths from the famine that would follow.",
@@ -559,6 +565,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-taf001-ramstein",
   "numero": "PART 5",
   "titulo": "~750 bases in ~80 countries and territories",
   "parte": "PART 5"
@@ -702,6 +709,7 @@
  },
  {
   "tipo": "numero",
+  "foto": "yt-taf001-capitol",
   "rotulo": "THE DEFENSE BILL",
   "valor": "65 years in a row",
   "px": 150,
@@ -711,6 +719,7 @@
  },
  {
   "tipo": "capitulo",
+  "foto": "yt-taf001-pentagon",
   "numero": "THE PENTAGON AUDIT",
   "titulo": "Failed. Eight times in a row.",
   "stamp": "FAILED ×8",

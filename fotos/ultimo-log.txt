@@ -1,12 +1,1 @@
-Openverse falhou para quadra-volei: The read operation timed out
-OK quadra-volei: Foto: Offonvictory · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Penn_State_Women%27s_Volleyball_warming_up_prior_to_the_2014_Women%27s_Volleyball_National_Championship.jpg)
-Openverse falhou para pista-atletismo: The read operation timed out
-OK pista-atletismo: Foto: Owen Massey McKnight · CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Iffley_Road_Track-blue_plaque.jpg)
-Openverse falhou para piscina-natacao: The read operation timed out
-OK piscina-natacao: Foto: Tanis Coralee Leonhardi · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:King_County_Aquatic_Center_competition_pool_and_timing_system_-_23_November_2022.jpg)
-Openverse falhou para tatame-lutas: The read operation timed out
 NADA para tatame-lutas (judo tatami mat)
-Openverse falhou para quadra-basquete: The read operation timed out
-OK quadra-basquete: Foto: Bob Mical · CC BY 2.0 (https://commons.wikimedia.org/wiki/File:John_Paul_Jones_Arena_HDR.jpg)
-Openverse falhou para quadra-tenis: The read operation timed out
-OK quadra-tenis: Foto: Dwight Burdette · CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Hardcourt_tennis_court_curtiss_park_saline_michigan.JPG)

@@ -177,6 +177,15 @@ Para publicar a tela de consentimento, ponha o app do Google Cloud "Em produçã
 
 Thumbnail personalizada só funciona em canal verificado por telefone (youtube.com/verify).
 
+### Fotos de fundo nos slides (combinado em 30/10/2026)
+- Qualquer slide do `slides.json` aceita `"foto": "<nome>"`: a foto `fotos/banco/<nome>.jpg` entra de fundo, em tela cheia, sob um véu escuro na cor do tema (azul-marinho no TAF, sépia no BHC), e o crédito "Photo: autor · licença · Wikimedia Commons" fica no canto de baixo, à direita. Opcional: `"foto_pos": "center 30%"` para mudar o enquadramento.
+- Se a foto ainda não foi baixada, o slide sai igual a antes (sem foto) e o robô só avisa no log.
+- O robô do YouTube acrescenta no fim da descrição a seção "PHOTOS" com os créditos das fotos usadas, sem passar de 5000 caracteres (o que não couber fica só no crédito da tela, e o log avisa). A descrição final também vai nos artefatos (`descricao.txt`).
+- Pedido de foto para vídeo: em `fotos/pedidos.json`, com nome começando pelo vídeo (`yt-taf001-...`, `yt-bhc002-...`) e `"formato": "paisagem"` (o robô de fotos procura fotos largas e recorta 1920 x 1080).
+- Use foto em capa, capítulo, número e citação curta. Nunca em citação longa, gráfico, lista ou cartões.
+- Só lugares, prédios, navios, aviões, documentos, mapas, paisagens, objetos e multidões vistas de longe. NUNCA foto em que o assunto é uma pessoa identificável (Churchill, Einstein, os Wright, políticos...), criança, logo ou marca.
+- Toda foto baixada precisa ser conferida antes de aprovar o vídeo. Foto ruim: apague o `.jpg` e o `.json` e mude `"opcao"` para 2, 3... no pedido.
+
 ## Páginas de links da bio (afiliados)
 
 - Cada perfil tem uma página `links/<conta>.html` (ex.: `https://odontovida-stack.github.io/central-de-postagem/links/brazilonabudget.html`). Ela entra no lugar do link da bio. O GitHub Pages precisa estar ligado: Settings → Pages → main / root.

@@ -17,6 +17,7 @@ O que o robô faz com cada video.json de "status": "aprovado" que ainda não tem
   4. envia ao YouTube como privado e agendado para "quando" (secrets YT_CLIENT_ID, YT_CLIENT_SECRET,
      YT_REFRESH_TOKEN_<CANAL>), com "não é para crianças" e "conteúdo sintético" marcados, e põe a thumbnail;
   5. se houver short.json, monta e agenda o Short antes do vídeo longo ("short_antes_horas", padrão 24);
+     A descrição recebe no fim a seção PHOTOS com os créditos das fotos de fundo dos slides (campo "foto").
   6. grava o resultado no video.json (status "agendado", ids) para não repetir.
 Sem os secrets do YouTube, ele para no passo 3 e deixa o MP4 como artefato da execução (para conferir).
 
@@ -33,6 +34,8 @@ from datetime import datetime, timedelta, timezone
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 GER = RAIZ / "gerador" / "youtube"
 SAIDA = RAIZ / "saida-youtube"
+sys.path.insert(0, str(GER))
+from fotos_fundo import creditos_do_video, descricao_com_creditos  # noqa: E402
 
 
 def http(url, dados=None, headers=None, metodo=None):
@@ -121,6 +124,12 @@ def montar_short(pasta, out):
           "-movflags", "+faststart", out / "short.mp4")
 
 
+def descricao(pasta):
+    """descricao.txt + seção PHOTOS com os créditos das fotos de fundo usadas (até 5000 caracteres)."""
+    desc = (pasta / "descricao.txt").read_text(encoding="utf-8")
+    return descricao_com_creditos(desc, creditos_do_video(pasta / "slides.json", pasta / "thumb.json"))
+
+
 def no_futuro(dt, folga_min=45):
     """O YouTube recusa agendamento no passado: se a hora já passou, agenda para daqui a pouco."""
     minimo = datetime.now(timezone.utc) + timedelta(minutes=folga_min)
@@ -174,6 +183,7 @@ def main():
         print(f"== {pasta.relative_to(RAIZ)}")
         narrar(pasta, cfg)
         out = montar(pasta, cfg)
+        (out / "descricao.txt").write_text(descricao(pasta), encoding="utf-8")  # a descrição final, para conferir
         token = None if sem_envio else token_youtube(cfg["canal"])
         if not token:
             print("Sem as chaves do YouTube: vídeo montado em", out.relative_to(RAIZ), "(baixe nos artefatos da execução)")
@@ -181,7 +191,7 @@ def main():
             arq.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             continue
         quando = datetime.fromisoformat(cfg["quando"])
-        desc = (pasta / "descricao.txt").read_text(encoding="utf-8")
+        desc = descricao(pasta)
         vid = enviar(token, out / "video.mp4", cfg["titulo"], desc, cfg.get("tags", []), no_futuro(quando), cfg)
         cfg["video_id"] = vid
         cfg["thumbnail"] = por_thumbnail(token, vid, out / "thumbnail.jpg")
