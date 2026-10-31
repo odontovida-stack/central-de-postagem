@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-10-30T23:16:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,9 @@
     "Capa do destaque GOLPES"
   ],
   "legenda": "",
-  "nota": "Story para virar destaque: Destacar > Novo > nome 'Golpes' > depois Editar capa com esta mesma imagem."
+  "nota": "Story para virar destaque: Destacar > Novo > nome 'Golpes' > depois Editar capa com esta mesma imagem.",
+  "publicado_em": "2026-10-31T02:17:29+00:00",
+  "resultado": {
+    "instagram": "18029433764856581"
+  }
 }
