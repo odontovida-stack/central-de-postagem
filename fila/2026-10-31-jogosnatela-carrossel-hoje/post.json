@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-10-31T07:30:00-03:00",
-  "status": "erro",
+  "status": "aprovado",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -18,6 +18,5 @@
     "Siga @jogosnatela e ative as notificações para não perder os próximos posts"
   ],
   "legenda": "⚽ O Corinthians voltou a vencer, o PSG fez 5 e hoje tem Bayern x Dortmund e clássico de Milão!\n\n📊 Resultados de ontem (sexta, 30/10):\n🇧🇷 Corinthians 2x0 Mirassol · Brasileirão (Matheus Bidu e Kaio César)\n🇧🇷 Criciúma 2x0 Ponte Preta · Série B\n🇫🇷 Le Havre 1x5 PSG · Ligue 1 (3 gols de Hakimi)\n🇫🇷 Lille 1x0 Lens · Ligue 1 (Giroud no fim)\n🇪🇸 Villarreal 0x1 Espanyol · LaLiga\n🇵🇹 Casa Pia 0x2 Sporting · Liga Portugal\n\n📺 Jogos de hoje (horário de Brasília):\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 9h30 · Chelsea x Manchester United · Premier League · CazéTV, Disney+\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 12h · Manchester City x Brighton · Premier League · ESPN, Disney+\n🇩🇪 14h30 · Bayern x Borussia Dortmund · Bundesliga · CazéTV, SporTV\n🇧🇷 16h · Coritiba x Vitória · Brasileirão · Premiere\n🇮🇹 16h45 · Milan x Inter · Serie A · ESPN, Disney+\n🇪🇸 17h · Barcelona x Alavés · LaLiga · CazéTV\n\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual desses você vai assistir? Comenta aí 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #corinthians #psg #bayern #milan #inter #ondeassistir",
-  "resultado": {},
-  "erro": "POST 17841436210817201/media: Only photo or video can be accepted as media type. (código 9004)"
+  "resultado": {}
 }

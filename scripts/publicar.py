@@ -7,6 +7,9 @@ Regras:
 - Só publica post com "status": "aprovado" e "quando" no passado (até 6 horas de atraso).
 - Depois de publicar, grava o resultado no próprio post.json (status "publicado" e os ids).
 - Se der erro, grava "status": "erro" e a mensagem, e não tenta de novo sozinho.
+  Exceção: quando a Meta não consegue baixar a imagem (código 9004, comum logo depois
+  do merge, enquanto o endereço público da imagem ainda não está no ar), o post continua
+  "aprovado" e é tentado de novo nas próximas rodadas, até 3 vezes.
 """
 import json
 import os
@@ -20,6 +23,8 @@ import meta  # noqa: E402
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 LIMITE_ATRASO = timedelta(hours=6)
 MAX_POR_RODADA = 5
+ERROS_TEMPORARIOS = ("código 9004",)  # a Meta não conseguiu baixar a imagem
+MAX_TENTATIVAS = 3
 
 
 def url_publica(pasta, arquivo):
@@ -95,12 +100,17 @@ def main():
                 p["publicado_em"] = agora.isoformat(timespec="seconds")
             p["resultado"] = resultado
             p.pop("erro", None)
+            p.pop("tentativas", None)
             resumo.append(f"{'SIMULADO ' if simular else 'PUBLICADO'} {pasta.name} -> {', '.join(p['redes'])}")
         except meta.MetaError as e:
             p["resultado"] = resultado
-            p["status"] = "erro"
             p["erro"] = str(e)
-            resumo.append(f"ERRO      {pasta.name}: {e}")
+            p["tentativas"] = p.get("tentativas", 0) + 1
+            if any(t in str(e) for t in ERROS_TEMPORARIOS) and p["tentativas"] < MAX_TENTATIVAS:
+                resumo.append(f"DE NOVO   {pasta.name}: {e} (tentativa {p['tentativas']} de {MAX_TENTATIVAS})")
+            else:
+                p["status"] = "erro"
+                resumo.append(f"ERRO      {pasta.name}: {e}")
         if not simular:
             arq.write_text(json.dumps(p, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         feitos += 1
