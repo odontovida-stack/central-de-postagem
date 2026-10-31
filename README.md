@@ -96,14 +96,14 @@ Cada card da pauta tem:
 
 ### Calendário das páginas LLShop (combinado em 29/10/2026)
 
-Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull request por dia) e só existem quando há novidade. As agendas semanais saem do robô semanal (quinta às 10h58).
+Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull request por dia) e só existem quando há novidade. No fim de semana e em feriado os jogos começam mais cedo, então o jogo do dia e o "hoje tem" saem de manhã (combinado em 31/10/2026); nenhum post de "hoje tem", jogo do dia ou palpite sai depois que o evento começou. As agendas semanais saem do robô semanal (quinta às 10h58).
 
 
 | Página | Post | Quando |
 |---|---|---|
 | @jogosnatela | Resultados de ontem + jogos de hoje (carrossel) | Todo dia, 7h30 |
-| @jogosnatela | Jogo do dia (só se houver jogo grande) | 17h |
-| @esportesnatela | Hoje tem (todos os esportes menos futebol de clubes: vôlei, basquete, atletismo, natação, tênis, F1, lutas, NFL e outros) | 11h |
+| @jogosnatela | Jogo do dia (só se houver jogo grande) | Seg a sex 17h · fim de semana e feriado: 4h antes do jogo (nunca antes das 8h) |
+| @esportesnatela | Hoje tem (todos os esportes menos futebol de clubes: vôlei, basquete, atletismo, natação, tênis, F1, lutas, NFL e outros) | Seg a sex 11h · fim de semana e feriado: 8h |
 | @lancamentosdegames | Sai hoje (lançamento grande) | 10h |
 | @lancamentosdegames | Jogos grátis para resgatar (Epic toda quinta, Steam, GOG, PS Plus, Prime, Game Pass) | 14h |
 | @tudooqueestreia | Estreia hoje | 12h |
