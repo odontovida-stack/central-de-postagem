@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-10-30T22:30:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,9 @@
     "Capa do destaque HOJE"
   ],
   "legenda": "",
-  "nota": "Story para virar destaque: Destacar > Novo > nome 'Hoje' > depois Editar capa com esta mesma imagem."
+  "nota": "Story para virar destaque: Destacar > Novo > nome 'Hoje' > depois Editar capa com esta mesma imagem.",
+  "publicado_em": "2026-10-31T01:34:15+00:00",
+  "resultado": {
+    "instagram": "18421546903156771"
+  }
 }
