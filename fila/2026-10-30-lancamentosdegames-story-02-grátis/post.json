@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-10-30T23:04:00-03:00",
-  "status": "aprovado",
+  "status": "erro",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,7 @@
     "Capa do destaque GRÁTIS"
   ],
   "legenda": "",
-  "nota": "Story para virar destaque: Destacar > Novo > nome 'Grátis' > depois Editar capa com esta mesma imagem."
+  "nota": "Story para virar destaque: Destacar > Novo > nome 'Grátis' > depois Editar capa com esta mesma imagem.",
+  "resultado": {},
+  "erro": "POST 17841436201733983/media: Only photo or video can be accepted as media type. (código 9004)"
 }
