@@ -14,6 +14,7 @@ Regras:
 import json
 import os
 import pathlib
+import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -27,13 +28,28 @@ ERROS_TEMPORARIOS = ("código 9004",)  # a Meta não conseguiu baixar a imagem
 MAX_TENTATIVAS = 3
 
 
+def commit_atual():
+    """Commit mais recente do main (atualizado pelo git pull de cada volta).
+
+    Não use GITHUB_SHA: a execução fica ligada por até 5h40 e o GITHUB_SHA é o commit
+    do começo dela. Um post aprovado (merge) depois disso não existe naquele commit, o
+    endereço da imagem dá 404 e a Meta responde "Only photo or video" (código 9004).
+    """
+    for ref in ("origin/main", "HEAD"):  # origin/main: o que já está no GitHub
+        try:
+            return subprocess.run(["git", "rev-parse", ref], cwd=RAIZ, capture_output=True,
+                                  text=True, check=True).stdout.strip()
+        except (OSError, subprocess.CalledProcessError):
+            continue
+    return os.environ.get("GITHUB_SHA", "main")
+
+
 def url_publica(pasta, arquivo):
     """Endereço público da imagem. O Instagram baixa a imagem deste endereço."""
     base = os.environ.get("MEDIA_BASE_URL")
     if not base:
         repo = os.environ.get("GITHUB_REPOSITORY", "SEU-USUARIO/central-de-postagem")
-        ref = os.environ.get("GITHUB_SHA", "main")
-        base = f"https://raw.githubusercontent.com/{repo}/{ref}"
+        base = f"https://raw.githubusercontent.com/{repo}/{commit_atual()}"
     rel = (pasta / arquivo).relative_to(RAIZ).as_posix()
     return f"{base.rstrip('/')}/{rel}"
 
