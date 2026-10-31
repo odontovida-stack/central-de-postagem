@@ -303,5 +303,141 @@
    "#DA291C"
   ],
   "texto": "#FFFFFF"
+ },
+ "Sporting": {
+  "sigla": "SCP",
+  "cores": [
+   "#008057",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Criciúma": {
+  "sigla": "CRI",
+  "cores": [
+   "#FDD116",
+   "#000000"
+  ],
+  "texto": "#000000"
+ },
+ "Ponte Preta": {
+  "sigla": "PON",
+  "cores": [
+   "#000000",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Lille": {
+  "sigla": "LIL",
+  "cores": [
+   "#E01E13",
+   "#1B2A5C"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Lens": {
+  "sigla": "RCL",
+  "cores": [
+   "#FFD200",
+   "#E30613"
+  ],
+  "texto": "#E30613"
+ },
+ "Le Havre": {
+  "sigla": "HAC",
+  "cores": [
+   "#7AB2E2",
+   "#0B2240"
+  ],
+  "texto": "#0B2240"
+ },
+ "Villarreal": {
+  "sigla": "VIL",
+  "cores": [
+   "#FFE667",
+   "#005187"
+  ],
+  "texto": "#005187"
+ },
+ "Espanyol": {
+  "sigla": "ESP",
+  "cores": [
+   "#007FC8",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Chelsea": {
+  "sigla": "CHE",
+  "cores": [
+   "#034694",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Manchester United": {
+  "sigla": "MUN",
+  "cores": [
+   "#DA291C",
+   "#000000"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Arsenal": {
+  "sigla": "ARS",
+  "cores": [
+   "#EF0107",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Bayern": {
+  "sigla": "BAY",
+  "cores": [
+   "#DC052D",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Borussia Dortmund": {
+  "sigla": "BVB",
+  "cores": [
+   "#FDE100",
+   "#000000"
+  ],
+  "texto": "#000000"
+ },
+ "Milan": {
+  "sigla": "MIL",
+  "cores": [
+   "#FB090B",
+   "#000000"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Inter": {
+  "sigla": "INT",
+  "cores": [
+   "#0068A8",
+   "#000000"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Juventus": {
+  "sigla": "JUV",
+  "cores": [
+   "#000000",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Atlético de Madrid": {
+  "sigla": "ATM",
+  "cores": [
+   "#CB3524",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
