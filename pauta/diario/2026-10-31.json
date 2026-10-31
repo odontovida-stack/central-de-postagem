@@ -1,0 +1,310 @@
+{
+  "dia": "31/10/2026",
+  "apurado_em": "2026-10-31",
+  "contas": {
+    "jogosnatela": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "hoje",
+        "quando": "2026-10-31T07:30:00-03:00",
+        "alt": "Resultados de sexta, 30/10, e jogos de sábado, 31/10, com horários de Brasília e onde assistir",
+        "cards": [
+          {
+            "tipo": "placar",
+            "pilula": "SEX 30/10",
+            "chamada": "RESULTADOS DE ONTEM",
+            "titulo": "Placar final",
+            "grupos": [
+              {
+                "competicao": "Brasileirão A e B",
+                "jogos": [
+                  {
+                    "casa": "Corinthians",
+                    "gc": 2,
+                    "fora": "Mirassol",
+                    "gf": 0
+                  },
+                  {
+                    "casa": "Criciúma",
+                    "gc": 2,
+                    "fora": "Ponte Preta",
+                    "gf": 0
+                  }
+                ]
+              },
+              {
+                "competicao": "Ligue 1",
+                "jogos": [
+                  {
+                    "casa": "Le Havre",
+                    "gc": 1,
+                    "fora": "PSG",
+                    "gf": 5
+                  }
+                ]
+              },
+              {
+                "competicao": "LaLiga",
+                "jogos": [
+                  {
+                    "casa": "Villarreal",
+                    "gc": 0,
+                    "fora": "Espanyol",
+                    "gf": 1
+                  }
+                ]
+              }
+            ],
+            "destaque": "Corinthians volta a vencer depois de 11 jogos",
+            "fonte": "Conferido em 31/10 às 1h · Metrópoles, Revista Fórum, beIN Sports, La Nación",
+            "cta": "Arraste →",
+            "alt": "Resultados de sexta: Corinthians 2x0 Mirassol, Criciúma 2x0 Ponte Preta, Le Havre 1x5 PSG e Villarreal 0x1 Espanyol"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "SÁB 31/10",
+            "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+            "titulo": "Onde assistir",
+            "itens": [
+              {
+                "data": "31/10",
+                "sub": "SÁB · 9h30",
+                "titulo": "Chelsea x Manchester United",
+                "detalhe": "Premier League · CazéTV, Disney+"
+              },
+              {
+                "data": "31/10",
+                "sub": "SÁB · 12h",
+                "titulo": "Manchester City x Brighton",
+                "detalhe": "Premier League · ESPN, Disney+"
+              },
+              {
+                "data": "31/10",
+                "sub": "SÁB · 14h30",
+                "titulo": "Bayern x Borussia Dortmund",
+                "detalhe": "Bundesliga · CazéTV, SporTV"
+              },
+              {
+                "data": "31/10",
+                "sub": "SÁB · 16h",
+                "titulo": "Coritiba x Vitória",
+                "detalhe": "Brasileirão · Premiere"
+              },
+              {
+                "data": "31/10",
+                "sub": "SÁB · 16h45",
+                "titulo": "Milan x Inter",
+                "detalhe": "Serie A · ESPN, Disney+"
+              },
+              {
+                "data": "31/10",
+                "sub": "SÁB · 17h",
+                "titulo": "Barcelona x Alavés",
+                "detalhe": "LaLiga · CazéTV"
+              }
+            ],
+            "fonte": "Conferido em 31/10 às 1h · Inter.it, NBC, O Tempo, guias de TV",
+            "cta": "Salve e compartilhe",
+            "alt": "Jogos de sábado, 31/10: Chelsea x Manchester United 9h30, Manchester City x Brighton 12h, Bayern x Dortmund 14h30, Coritiba x Vitória 16h, Milan x Inter 16h45 e Barcelona x Alavés 17h"
+          }
+        ],
+        "legenda": "⚽ O Corinthians voltou a vencer, o PSG fez 5 e hoje tem Bayern x Dortmund e clássico de Milão!\n\n📊 Resultados de ontem (sexta, 30/10):\n🇧🇷 Corinthians 2x0 Mirassol · Brasileirão (Matheus Bidu e Kaio César)\n🇧🇷 Criciúma 2x0 Ponte Preta · Série B\n🇫🇷 Le Havre 1x5 PSG · Ligue 1 (3 gols de Hakimi)\n🇫🇷 Lille 1x0 Lens · Ligue 1 (Giroud no fim)\n🇪🇸 Villarreal 0x1 Espanyol · LaLiga\n🇵🇹 Casa Pia 0x2 Sporting · Liga Portugal\n\n📺 Jogos de hoje (horário de Brasília):\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 9h30 · Chelsea x Manchester United · Premier League · CazéTV, Disney+\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 12h · Manchester City x Brighton · Premier League · ESPN, Disney+\n🇩🇪 14h30 · Bayern x Borussia Dortmund · Bundesliga · CazéTV, SporTV\n🇧🇷 16h · Coritiba x Vitória · Brasileirão · Premiere\n🇮🇹 16h45 · Milan x Inter · Serie A · ESPN, Disney+\n🇪🇸 17h · Barcelona x Alavés · LaLiga · CazéTV\n\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual desses você vai assistir? Comenta aí 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #corinthians #psg #bayern #milan #inter #ondeassistir"
+      },
+      {
+        "tipo": "destaque",
+        "sufixo": "jogo-do-dia",
+        "quando": "2026-10-31T12:30:00-03:00",
+        "foto": "futebol-gramado",
+        "pilula": "SÁB 31/10",
+        "chamada": "JOGO DO DIA · HORÁRIO DE BRASÍLIA",
+        "grande": "14h30",
+        "titulo": "Bayern x Borussia Dortmund",
+        "caixas": [
+          [
+            "Onde assistir",
+            "CazéTV, SporTV"
+          ],
+          [
+            "Competição",
+            "Bundesliga"
+          ]
+        ],
+        "nota": "1º contra 2º: os dois chegam com 17 pontos.",
+        "fonte": "Conferido em 31/10 às 1h · hessenschau (tabela), Mantos do Futebol",
+        "cta": "Mande para quem vai ver",
+        "alt": "Jogo do dia: Bayern x Borussia Dortmund às 14h30, horário de Brasília, pela Bundesliga, na CazéTV e no SporTV",
+        "legenda": "🔥 Hoje tem o clássico da Alemanha valendo a liderança!\n\n🇩🇪 Bayern x Borussia Dortmund\n⏰ 14h30 (horário de Brasília)\n🏆 Bundesliga\n📊 1º contra 2º, os dois com 17 pontos\n📺 CazéTV e SporTV (e mais opções no streaming)\n\n📌 Salve para não perder o horário.\n📤 Mande para quem vai ver o jogo com você.\n\nQuem sai líder: Bayern ou Dortmund? 👇\nSiga @jogosnatela para o jogo do dia, todo dia.\n\n#bundesliga #bayern #dortmund #klassiker #futebol #jogododia"
+      },
+      {
+        "tipo": "pergunta",
+        "sufixo": "palpite",
+        "quando": "2026-10-31T13:45:00-03:00",
+        "foto": "estadio-maracana",
+        "pilula": "PALPITE",
+        "chamada": "SERIE A · HOJE ÀS 16H45",
+        "titulo": "Milan x Inter: quem vence o clássico?",
+        "contexto": "Clássico de Milão no San Siro, pela 10ª rodada.",
+        "opcoes": [
+          "Milan",
+          "Empate",
+          "Inter"
+        ],
+        "fonte": "",
+        "cta": "Responda A, B ou C",
+        "alt": "Palpite: Milan x Inter, quem vence o clássico? A: Milan. B: Empate. C: Inter.",
+        "legenda": "🔴⚫🔵 Milan x Inter: quem vence o clássico de Milão?\n\nA) Milan\nB) Empate\nC) Inter\n\n⏰ Hoje, 16h45 (horário de Brasília), no San Siro · ESPN e Disney+\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para aquele amigo que torce para o rival.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos grandes de todo dia.\n\n#milan #inter #derbydellamadonnina #seriea #futebol #palpite"
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "destaque",
+        "sufixo": "noticia",
+        "quando": "2026-10-31T10:00:00-03:00",
+        "foto": "formula1-pista",
+        "pilula": "LÍDER",
+        "chamada": "F1 2026 · RETA FINAL",
+        "grande": "365",
+        "titulo": "Antonelli pode ser campeão amanhã",
+        "caixas": [
+          [
+            "Vice",
+            "Russell, 242 pts"
+          ],
+          [
+            "Faltam",
+            "5 corridas"
+          ]
+        ],
+        "nota": "Se terminar entre os 9 primeiros no México, é campeão.",
+        "fonte": "Conferido em 31/10 às 1h · Grande Prêmio, Lance, formula1.com",
+        "cta": "Salve e compartilhe",
+        "alt": "Kimi Antonelli lidera a F1 com 365 pontos, 123 à frente de George Russell, e pode ser campeão no GP do México",
+        "legenda": "🏁 A F1 pode ter campeão já neste domingo, no México!\n\n🥇 Kimi Antonelli (Mercedes) · 365 pontos\n🥈 George Russell · 242 pontos\n🥉 Lewis Hamilton · 241 pontos\n🗓️ Faltam 5 corridas: México, São Paulo, Las Vegas, Catar e Abu Dhabi\n\n✅ Antonelli é campeão se terminar entre os 9 primeiros na corrida de domingo (1/11, 17h de Brasília)\n🤒 Ele faltou à entrevista de quinta, recuperando-se de um vírus\n\n⏰ Classificação hoje às 18h · SporTV e F1 TV Pro\n\n📌 Salve para acompanhar a decisão.\n📤 Mande para quem acompanha F1 com você.\n\nO título sai no México ou só em Interlagos? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Grande Prêmio, Lance e formula1.com.\n\n#f1 #formula1 #antonelli #gpdomexico #mercedes #automobilismo"
+      },
+      {
+        "tipo": "agenda",
+        "sufixo": "hoje",
+        "quando": "2026-10-31T11:00:00-03:00",
+        "pilula": "SÁB 31/10",
+        "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+        "titulo": "Esportes de hoje",
+        "itens": [
+          {
+            "data": "31/10",
+            "sub": "SÁB · 18h",
+            "titulo": "Classificação do GP do México",
+            "detalhe": "F1 · SporTV, F1 TV Pro"
+          },
+          {
+            "data": "31/10",
+            "sub": "SÁB · 18h30",
+            "titulo": "Sesc RJ Flamengo x Mackenzie",
+            "detalhe": "Vôlei · Superliga feminina · sportv2"
+          },
+          {
+            "data": "31/10",
+            "sub": "SÁB · 21h",
+            "titulo": "UFC: Moicano x Nolan",
+            "detalhe": "Lutas · card principal · Paramount+"
+          },
+          {
+            "data": "31/10",
+            "sub": "SÁB · 21h",
+            "titulo": "Osasco x Sancor Londrina",
+            "detalhe": "Vôlei · Superliga feminina · sportv2"
+          }
+        ],
+        "fonte": "Conferido em 31/10 às 1h · F1Mania, Portal da TV, UFC, Web Vôlei",
+        "cta": "Salve a agenda",
+        "alt": "Hoje tem: classificação do GP do México de F1 às 18h, Sesc RJ Flamengo x Mackenzie às 18h30, UFC Moicano x Nolan às 21h e Osasco x Londrina às 21h",
+        "legenda": "🏁🥊🏐 Sábado cheio: F1 decidindo o grid, brasileiro na luta principal do UFC e Superliga!\n\n⏰ Horário de Brasília:\n🏎️ 18h · Classificação do GP do México · SporTV e F1 TV Pro\n🏐 18h30 · Sesc RJ Flamengo x Mackenzie · Superliga feminina · sportv2\n🥊 21h · UFC: Renato Moicano x Tom Nolan (card principal) · Paramount+\n🏐 21h · Osasco x Sancor Londrina · Superliga feminina · sportv2\n\n📌 Salve para não perder nada.\n📤 Mande para quem vai assistir com você.\n\nQual você não perde? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#esportes #f1 #ufc #moicano #superliga #volei #hojetem"
+      },
+      {
+        "tipo": "pergunta",
+        "sufixo": "palpite",
+        "quando": "2026-10-31T19:00:00-03:00",
+        "pilula": "PALPITE",
+        "chamada": "UFC · HOJE · CARD PRINCIPAL ÀS 21H",
+        "titulo": "Moicano x Nolan: quem leva?",
+        "contexto": "Renato Moicano faz a luta principal do UFC em Las Vegas.",
+        "opcoes": [
+          "Moicano por nocaute",
+          "Moicano por finalização ou pontos",
+          "Tom Nolan"
+        ],
+        "fonte": "",
+        "cta": "Responda A, B ou C",
+        "alt": "Palpite: Moicano x Nolan, quem leva? A: Moicano por nocaute. B: Moicano por finalização ou pontos. C: Tom Nolan.",
+        "legenda": "🥊 Moicano x Nolan: quem leva a luta principal de hoje?\n\nA) Moicano por nocaute\nB) Moicano por finalização ou pontos\nC) Tom Nolan\n\n⏰ Card principal às 21h (horário de Brasília) · Paramount+\n🇧🇷 No card principal também luta Luana Santos\n\n📌 Salve e volte depois da luta para ver se acertou.\n📤 Mande para quem acompanha UFC com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#ufc #mma #moicano #ufcvegas #lutas #palpite"
+      }
+    ],
+    "tudooqueestreia": [
+      {
+        "tipo": "pergunta",
+        "sufixo": "enquete",
+        "quando": "2026-10-31T20:00:00-03:00",
+        "foto": "streaming-sofa",
+        "pilula": "ENQUETE",
+        "chamada": "FIM DE SEMANA DE HALLOWEEN",
+        "titulo": "O que você vai assistir neste fim de semana?",
+        "opcoes": [
+          "Noturno · Apple TV",
+          "Until Dawn · Prime Video",
+          "Apocalipse Z · Prime Video",
+          "Um Trabalho do Inferno · Netflix"
+        ],
+        "fonte": "",
+        "cta": "Responda A, B, C ou D",
+        "alt": "Enquete: o que você vai assistir neste fim de semana? A: Noturno, Apple TV. B: Until Dawn, Prime Video. C: Apocalipse Z, Prime Video. D: Um Trabalho do Inferno, Netflix.",
+        "legenda": "🎃 Fim de semana de Halloween: o que você vai assistir?\n\nA) Noturno · Apple TV (série nova, desde sexta)\nB) Until Dawn: Noite de Terror · Prime Video (chega hoje)\nC) Apocalipse Z: Novo Mundo · Prime Video (desde sexta)\nD) Um Trabalho do Inferno · Netflix (desde sexta)\n\n📌 Salve para montar sua maratona.\n📤 Mande para quem vai assistir com você.\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @tudooqueestreia para saber o que estreia, toda semana.\n\n#halloween #estreias #streaming #primevideo #netflix #appletv #oqueassistir"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "pergunta",
+        "sufixo": "o-que-achou",
+        "quando": "2026-10-31T12:00:00-03:00",
+        "foto": "show-plateia",
+        "pilula": "O QUE ACHOU?",
+        "chamada": "BTS NO MORUMBIS · SÃO PAULO",
+        "titulo": "Foi ao show do BTS? Conta como foi",
+        "contexto": "Ontem foi o 2º dos 3 shows da turnê ARIRANG em São Paulo.",
+        "opcoes": [
+          "Fui e foi incrível",
+          "Vi no cinema",
+          "Vou hoje!",
+          "Fiquei de fora"
+        ],
+        "fonte": "",
+        "cta": "Responda A, B, C ou D",
+        "alt": "Pergunta: foi ao show do BTS? A: Fui e foi incrível. B: Vi no cinema. C: Vou hoje. D: Fiquei de fora.",
+        "legenda": "💜 Foi ao show do BTS no MorumBIS? Conta como foi!\n\nA) Fui e foi incrível\nB) Vi no cinema\nC) Vou hoje!\nD) Fiquei de fora\n\n🎤 Ontem (30/10) foi o 2º show da turnê ARIRANG em São Paulo, e hoje tem o último.\n\n📌 Salve para lembrar dessa semana.\n📤 Mande para quem foi com você.\n\nResponda com a letra e conta a melhor parte 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\n#bts #arirang #btsnobrasil #morumbis #army #showsconfirmados"
+      },
+      {
+        "tipo": "destaque",
+        "sufixo": "hoje",
+        "quando": "2026-10-31T16:00:00-03:00",
+        "foto": "show-plateia",
+        "pilula": "SÁB 31/10",
+        "chamada": "HOJE TEM SHOW · SÃO PAULO",
+        "grande": "20h",
+        "titulo": "BTS no MorumBIS: último show",
+        "caixas": [
+          [
+            "Portões",
+            "Abrem às 16h"
+          ],
+          [
+            "Ingressos",
+            "Esgotados"
+          ]
+        ],
+        "nota": "3º e último show da turnê ARIRANG em São Paulo.",
+        "fonte": "Conferido em 31/10 às 1h · Correio da Manhã, NC News, BNews",
+        "cta": "Mande para quem vai",
+        "alt": "Hoje tem show: último show do BTS no Estádio MorumBIS, em São Paulo, portões às 16h e show às 20h, ingressos esgotados",
+        "legenda": "💜 Hoje é a despedida do BTS de São Paulo!\n\n🎤 BTS · turnê ARIRANG · 3º e último show\n📍 Estádio MorumBIS, São Paulo\n🚪 Portões: 16h\n🎶 Show: 20h (horário de Brasília)\n🎟️ Esgotado nas três datas\n🚇 Metrô com embarque até 0h30\n🎬 Algumas salas de cinema exibem reprise a partir das 18h45\n\nTriagem no entorno do estádio só para quem tem ingresso. Fuja de cambista.\n\n📌 Salve para ter os horários à mão.\n📤 Mande para quem vai ao show com você.\n\nVai hoje? Conta de onde você vem 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\nFontes: Correio da Manhã, NC News e BNews.\n\n#bts #arirang #btsnobrasil #morumbis #saopaulo #army #showsconfirmados"
+      }
+    ]
+  }
+}
