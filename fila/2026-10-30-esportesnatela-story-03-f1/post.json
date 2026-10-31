@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-10-30T22:44:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,9 @@
     "Capa do destaque F1"
   ],
   "legenda": "",
-  "nota": "Story para virar destaque: Destacar > Novo > nome 'F1' > depois Editar capa com esta mesma imagem."
+  "nota": "Story para virar destaque: Destacar > Novo > nome 'F1' > depois Editar capa com esta mesma imagem.",
+  "publicado_em": "2026-10-31T01:45:21+00:00",
+  "resultado": {
+    "instagram": "18639589339061302"
+  }
 }
