@@ -1,0 +1,71 @@
+{
+  "semana": "2026-10-31 · O evento da semana (@esportesnatela)",
+  "apurado_em": "2026-10-31",
+  "contas": {
+    "esportesnatela": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-10-31T15:00:00-03:00",
+        "sufixo": "evento-da-semana",
+        "alt": "O evento da semana: Renato Moicano x Tom Nolan, luta principal do UFC deste sábado, 31/10, às 21h de Brasília",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "UFC LAS VEGAS · HOJE",
+            "grande": "21h",
+            "titulo": "Moicano x Nolan",
+            "caixas": [["Onde assistir", "Paramount+"], ["Luta principal", "5 rounds · peso-leve"]],
+            "nota": "Brasileiro experiente contra australiano com 5 vitórias seguidas.",
+            "fonte": "Conferido em 31/10 às 9h · UFC, Sherdog",
+            "cta": "Arraste →",
+            "alt": "Capa: Renato Moicano x Tom Nolan, luta principal do UFC hoje às 21h de Brasília, no Paramount+"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "O QUE ESTÁ EM JOGO",
+            "titulo": "Briga pelo top 10",
+            "texto": "Moicano é o 12º do ranking e Nolan, o 14º. Quem vencer se aproxima dos dez primeiros de uma das divisões mais disputadas do UFC.",
+            "topicos": ["5 rounds no Meta APEX, em Las Vegas", "Os dois bateram o peso na sexta", "Nolan substituiu Brian Ortega, que se machucou"],
+            "fonte": "UFC · Sherdog · Cageside Press"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "FRENTE A FRENTE",
+            "titulo": "Experiência x embalo",
+            "topicos": ["Moicano: 37 anos, cartel 21-7-1, 13 vitórias antes do limite", "Nolan: 26 anos, cartel 11-1, 5 vitórias seguidas", "Nolan é cerca de 10 cm mais alto", "É a 1ª luta principal de Nolan no UFC"],
+            "fonte": "UFC · Cageside Press"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "COMO CHEGAM",
+            "titulo": "As últimas lutas",
+            "topicos": ["Moicano finalizou Chris Duncan com um mata-leão em abril", "Antes, perdeu para Beneil Dariush e Islam Makhachev", "Nolan venceu Farès Ziam na decisão em junho", "Em 2025, finalizou Charlie Campbell no 1º round"],
+            "fonte": "UFC"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "TEM MAIS BRASIL",
+            "titulo": "4 brasileiros no card",
+            "topicos": ["Card principal: Luana Santos x Yana Santos (galo)", "Preliminares: Rodrigo Sezinando x Theodor Berggren", "Talita Alencar x Piera Rodriguez", "Tainara Lisboa x Lucia Szabová"],
+            "texto": "Preliminares às 18h e card principal às 21h (Brasília), no Paramount+.",
+            "fonte": "UFC Brasil"
+          },
+          {
+            "tipo": "pergunta",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "QUEM LEVA?",
+            "titulo": "Moicano x Nolan: quem vence?",
+            "opcoes": ["Moicano por finalização", "Moicano por pontos ou nocaute", "Tom Nolan"],
+            "cta": "Responda A, B ou C"
+          }
+        ],
+        "legenda": "🥊 Brasileiro na luta principal do UFC hoje! Moicano encara o embalado Tom Nolan.\n\n🇧🇷 Renato Moicano · 37 anos · 21-7-1 · 12º do ranking peso-leve\n🇦🇺 Tom Nolan · 26 anos · 11-1 · 14º do ranking · 5 vitórias seguidas\n🔔 5 rounds, no Meta APEX, em Las Vegas\n⏰ Preliminares às 18h e card principal às 21h (horário de Brasília)\n📺 Paramount+\n🇧🇷 Também lutam Luana Santos, Rodrigo Sezinando, Talita Alencar e Tainara Lisboa\n\n📌 Salve para não perder o horário.\n📤 Mande para quem vai ver a luta com você.\n\nQuem leva? Responda A, B ou C 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: UFC, UFC Brasil, Sherdog e Cageside Press.\n\n#ufc #mma #moicano #ufcvegas #lutas #eventodasemana"
+      }
+    ]
+  }
+}
