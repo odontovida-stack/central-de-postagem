@@ -439,5 +439,69 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Brighton": {
+  "sigla": "BHA",
+  "cores": [
+   "#0057B8",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Náutico": {
+  "sigla": "NAU",
+  "cores": [
+   "#E30613",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Vila Nova": {
+  "sigla": "VIL",
+  "cores": [
+   "#E30613",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Avaí": {
+  "sigla": "AVA",
+  "cores": [
+   "#0054A6",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Alavés": {
+  "sigla": "ALA",
+  "cores": [
+   "#0055A5",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Man. United": {
+  "sigla": "MUN",
+  "cores": [
+   "#DA291C",
+   "#000000"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Dortmund": {
+  "sigla": "BVB",
+  "cores": [
+   "#FDE100",
+   "#000000"
+  ],
+  "texto": "#000000"
+ },
+ "Man. City": {
+  "sigla": "MCI",
+  "cores": [
+   "#6CABDD",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }

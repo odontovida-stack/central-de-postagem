@@ -1,0 +1,332 @@
+{
+  "dia": "01/11/2026",
+  "apurado_em": "2026-11-01",
+  "contas": {
+    "jogosnatela": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "hoje",
+        "quando": "2026-11-01T07:30:00-03:00",
+        "alt": "Resultados de sábado, 31/10, e jogos de domingo, 01/11, com horários de Brasília e onde assistir",
+        "cards": [
+          {
+            "tipo": "placar",
+            "pilula": "SÁB 31/10",
+            "chamada": "RESULTADOS DE ONTEM",
+            "titulo": "Placar final",
+            "grupos": [
+              {
+                "competicao": "Brasileirão A e B",
+                "jogos": [
+                  {
+                    "casa": "Coritiba",
+                    "gc": 2,
+                    "fora": "Vitória",
+                    "gf": 0
+                  },
+                  {
+                    "casa": "Vila Nova",
+                    "gc": 2,
+                    "fora": "Juventude",
+                    "gf": 2
+                  }
+                ]
+              },
+              {
+                "competicao": "Europa",
+                "jogos": [
+                  {
+                    "casa": "Chelsea",
+                    "gc": 2,
+                    "fora": "Man. United",
+                    "gf": 0
+                  },
+                  {
+                    "casa": "Bayern",
+                    "gc": 2,
+                    "fora": "Dortmund",
+                    "gf": 2
+                  },
+                  {
+                    "casa": "Milan",
+                    "gc": 3,
+                    "fora": "Inter",
+                    "gf": 1
+                  },
+                  {
+                    "casa": "Barcelona",
+                    "gc": 6,
+                    "fora": "Alavés",
+                    "gf": 1
+                  }
+                ]
+              }
+            ],
+            "destaque": "Cruzeiro é campeão da Libertadores Feminina",
+            "fonte": "Conferido em 01/11 às 1h · Agência Brasil, Gazeta, Sky, ESPN",
+            "cta": "Arraste →",
+            "alt": "Resultados de sábado: Coritiba 2x0 Vitória, Vila Nova 2x2 Juventude, Chelsea 2x0 Manchester United, Bayern 2x2 Dortmund, Milan 3x1 Inter e Barcelona 6x1 Alavés. Destaque: Cruzeiro campeão da Libertadores Feminina",
+            "destaque_rotulo": "TÍTULO"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "DOM 01/11",
+            "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+            "titulo": "Onde assistir",
+            "itens": [
+              {
+                "data": "01/11",
+                "sub": "DOM · 12h15",
+                "titulo": "Racing Santander x Real Madrid",
+                "detalhe": "LaLiga · CazéTV"
+              },
+              {
+                "data": "01/11",
+                "sub": "DOM · 13h30",
+                "titulo": "Liverpool x Arsenal",
+                "detalhe": "Premier League · ESPN, Disney+"
+              },
+              {
+                "data": "01/11",
+                "sub": "DOM · 16h",
+                "titulo": "Palmeiras x Vasco",
+                "detalhe": "Copa do Brasil · Globo, sportv, Premiere"
+              },
+              {
+                "data": "01/11",
+                "sub": "DOM · 16h45",
+                "titulo": "Juventus x Napoli",
+                "detalhe": "Serie A · canal a confirmar"
+              },
+              {
+                "data": "01/11",
+                "sub": "DOM · 18h30",
+                "titulo": "Grêmio x Atlético-MG",
+                "detalhe": "Copa do Brasil · sportv, Premiere"
+              },
+              {
+                "data": "01/11",
+                "sub": "DOM · 18h30",
+                "titulo": "Novorizontino x Operário-PR",
+                "detalhe": "Série B · ESPN, Disney+"
+              }
+            ],
+            "fonte": "Conferido em 01/11 às 1h · O Tempo, Premier League, Real Madrid, Lance, Trivela",
+            "cta": "Salve e compartilhe",
+            "alt": "Jogos de domingo, 01/11: Racing x Real Madrid 12h15, Liverpool x Arsenal 13h30, Palmeiras x Vasco 16h, Juventus x Napoli 16h45, Grêmio x Atlético-MG 18h30 e Novorizontino x Operário 18h30"
+          }
+        ],
+        "legenda": "⚽ Milan venceu o dérbi, o Barça fez 6, o Cruzeiro é campeão da Libertadores Feminina e hoje tem semifinal da Copa do Brasil!\n\n📊 Resultados de ontem (sábado, 31/10):\n🇧🇷 Coritiba 2x0 Vitória · Brasileirão (Pedro Rocha e Tinga)\n🇧🇷 Vila Nova 2x2 Juventude · Série B (Juventude volta à liderança)\n🇧🇷 Náutico 1x0 Avaí · Série B\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea 2x0 Manchester United · Premier League\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City 0x1 Brighton · Premier League\n🇩🇪 Bayern 2x2 Borussia Dortmund · Bundesliga (Kane perdeu pênalti)\n🇮🇹 Milan 3x1 Inter · Serie A\n🇪🇸 Barcelona 6x1 Alavés · LaLiga (Barça volta à liderança)\n🏆 Libertadores Feminina: Cruzeiro campeão sobre o Corinthians, 4x4 e 5x4 nos pênaltis, título inédito\n\n📺 Jogos de hoje (horário de Brasília):\n🇪🇸 12h15 · Racing Santander x Real Madrid · LaLiga · CazéTV\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 13h30 · Liverpool x Arsenal · Premier League · ESPN, Disney+\n🇧🇷 16h · Palmeiras x Vasco · Copa do Brasil (ida da semi) · Globo, sportv, Premiere\n🇮🇹 16h45 · Juventus x Napoli · Serie A · canal a confirmar\n🇧🇷 18h30 · Grêmio x Atlético-MG · Copa do Brasil (ida da semi) · sportv, Premiere\n🇧🇷 18h30 · Novorizontino x Operário-PR · Série B · ESPN, Disney+\n\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual desses você vai assistir? Comenta aí 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #copadobrasil #milan #barcelona #cruzeiro #ondeassistir"
+      },
+      {
+        "tipo": "destaque",
+        "sufixo": "jogo-do-dia",
+        "quando": "2026-11-01T12:00:00-03:00",
+        "foto": "estadio-maracana",
+        "pilula": "DOM 01/11",
+        "chamada": "JOGO DO DIA · HORÁRIO DE BRASÍLIA",
+        "grande": "16h",
+        "titulo": "Palmeiras x Vasco",
+        "caixas": [
+          [
+            "Onde assistir",
+            "Globo, sportv, Premiere"
+          ],
+          [
+            "Competição",
+            "Copa do Brasil · semi"
+          ]
+        ],
+        "nota": "Jogo de ida da semifinal, no Nubank Parque.",
+        "fonte": "Conferido em 01/11 às 1h · O Tempo, Lance",
+        "cta": "Mande para quem vai ver",
+        "alt": "Jogo do dia: Palmeiras x Vasco às 16h, horário de Brasília, ida da semifinal da Copa do Brasil, na Globo, no sportv e no Premiere",
+        "legenda": "🔥 Hoje tem semifinal da Copa do Brasil na TV aberta!\n\n🇧🇷 Palmeiras x Vasco\n⏰ 16h (horário de Brasília)\n🏆 Copa do Brasil · jogo de ida da semifinal\n🏟️ Nubank Parque, São Paulo\n📺 Globo, sportv e Premiere (ge tv grátis no YouTube a partir das 14h30)\n\n⚽ Às 18h30 tem a outra semi: Grêmio x Atlético-MG, no sportv e no Premiere.\n\n📌 Salve para não perder o horário.\n📤 Mande para quem vai ver o jogo com você.\n\nQuem sai na frente na ida? 👇\nSiga @jogosnatela para o jogo do dia, todo dia.\n\n#copadobrasil #palmeiras #vasco #semifinal #futebol #jogododia"
+      },
+      {
+        "tipo": "pergunta",
+        "sufixo": "palpite",
+        "quando": "2026-11-01T14:00:00-03:00",
+        "foto": "futebol-gramado",
+        "pilula": "PALPITE",
+        "chamada": "COPA DO BRASIL · HOJE ÀS 16H",
+        "titulo": "Palmeiras x Vasco: quem vence a ida?",
+        "contexto": "Jogo de ida da semifinal, no Nubank Parque.",
+        "opcoes": [
+          "Palmeiras",
+          "Empate",
+          "Vasco"
+        ],
+        "fonte": "",
+        "cta": "Responda A, B ou C",
+        "alt": "Palpite: Palmeiras x Vasco, quem vence a ida? A: Palmeiras. B: Empate. C: Vasco.",
+        "legenda": "🟢⚫ Palmeiras x Vasco: quem vence o jogo de ida da semifinal?\n\nA) Palmeiras\nB) Empate\nC) Vasco\n\n⏰ Hoje, 16h (horário de Brasília), no Nubank Parque · Globo, sportv e Premiere\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para aquele amigo que torce para o rival.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos grandes de todo dia.\n\n#copadobrasil #palmeiras #vasco #semifinal #futebol #palpite"
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "agenda",
+        "sufixo": "hoje",
+        "quando": "2026-11-01T08:00:00-03:00",
+        "pilula": "DOM 01/11",
+        "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+        "titulo": "Esportes de hoje",
+        "itens": [
+          {
+            "data": "01/11",
+            "sub": "DOM · 8h30",
+            "titulo": "Calderano na semifinal",
+            "detalhe": "Tênis de mesa · WTT Montpellier · canal a confirmar"
+          },
+          {
+            "data": "01/11",
+            "sub": "DOM · 10h35",
+            "titulo": "Maratona de Nova York",
+            "detalhe": "Atletismo · 50ª edição · ESPN, Disney+"
+          },
+          {
+            "data": "01/11",
+            "sub": "DOM · 15h",
+            "titulo": "Ravens x Bills",
+            "detalhe": "NFL · Semana 8 · SporTV2"
+          },
+          {
+            "data": "01/11",
+            "sub": "DOM · 17h",
+            "titulo": "GP do México",
+            "detalhe": "F1 · Antonelli pode ser campeão · sportv"
+          }
+        ],
+        "fonte": "Conferido em 01/11 às 1h · Olimpíada Todo Dia, Sua Corrida, DGABC, CNN Brasil, Itatiaia",
+        "cta": "Salve a agenda",
+        "alt": "Hoje tem: Hugo Calderano na semifinal do WTT Montpellier às 8h30, Maratona de Nova York às 10h35, Ravens x Bills às 15h e GP do México de F1 às 17h",
+        "legenda": "🏁🏈🏓 Domingo com F1 valendo título, NFL e brasileiro na semifinal!\n\n⏰ Horário de Brasília:\n🏓 8h30 · Hugo Calderano x Woojin Jang · semifinal do WTT Champions Montpellier · canal a confirmar (se vencer, a final é às 14h30)\n🏃 10h35 · Maratona de Nova York, 50ª edição · largada da elite feminina (masculina às 11h05) · ESPN e Disney+\n🏈 15h · Ravens x Bills · NFL · SporTV2\n🏎️ 17h · GP do México · F1 · sportv, Globoplay e F1 TV Pro\n\n🏆 Kimi Antonelli é campeão da F1 se terminar entre os 9 primeiros. Hamilton larga na pole.\n\n📌 Salve para não perder nada.\n📤 Mande para quem vai assistir com você.\n\nQual você não perde? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#esportes #f1 #gpdomexico #nfl #maratonadenovayork #calderano #hojetem"
+      },
+      {
+        "tipo": "destaque",
+        "sufixo": "noticia",
+        "quando": "2026-11-01T13:00:00-03:00",
+        "foto": "formula1-pista",
+        "pilula": "FATO CURIOSO",
+        "chamada": "F1 · GP DO MÉXICO",
+        "grande": "105ª",
+        "titulo": "Hamilton volta à pole aos 41 anos",
+        "caixas": [
+          [
+            "Última pole",
+            "Em 2023"
+          ],
+          [
+            "Hoje",
+            "17h · sportv"
+          ]
+        ],
+        "nota": "É a 1ª pole dele desde que chegou à Ferrari.",
+        "fonte": "Conferido em 01/11 às 1h · CNN Brasil, Metrópoles",
+        "cta": "Salve e compartilhe",
+        "alt": "Lewis Hamilton, de 41 anos, fez a 105ª pole da carreira no GP do México, a primeira desde 2023 e a primeira pela Ferrari",
+        "legenda": "🏎️ Aos 41 anos, Lewis Hamilton voltou à pole!\n\n🥇 Pole no GP do México com 1min16s514\n🔢 É a 105ª pole da carreira do heptacampeão\n⏳ Ele não largava em 1º desde 2023 e chegou à Ferrari em 2025: é a primeira pole pela equipe italiana\n🥈 George Russell larga em 2º, a 0s009\n🏆 Kimi Antonelli larga em 4º e é campeão se terminar entre os 9 primeiros\n\n⏰ Corrida hoje às 17h (horário de Brasília) · sportv, Globoplay e F1 TV Pro\n\n📌 Salve para acompanhar a corrida.\n📤 Mande para quem acompanha F1 com você.\n\nHamilton consegue transformar a pole em vitória? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: CNN Brasil e Metrópoles.\n\n#f1 #formula1 #hamilton #ferrari #gpdomexico #automobilismo"
+      },
+      {
+        "tipo": "pergunta",
+        "sufixo": "palpite",
+        "quando": "2026-11-01T14:30:00-03:00",
+        "pilula": "PALPITE",
+        "chamada": "F1 · HOJE ÀS 17H",
+        "titulo": "Antonelli sai campeão hoje?",
+        "contexto": "Ele é campeão se terminar entre os 9 primeiros no México.",
+        "opcoes": [
+          "Sim, vencendo a corrida",
+          "Sim, sem vencer",
+          "Não, decide em Interlagos"
+        ],
+        "fonte": "",
+        "cta": "Responda A, B ou C",
+        "alt": "Palpite: Antonelli sai campeão hoje? A: Sim, vencendo a corrida. B: Sim, sem vencer. C: Não, decide em Interlagos.",
+        "legenda": "🏆 Kimi Antonelli sai campeão da F1 hoje, no México?\n\nA) Sim, vencendo a corrida\nB) Sim, sem vencer\nC) Não, a decisão fica para Interlagos\n\n⏰ GP do México hoje às 17h (horário de Brasília) · sportv, Globoplay e F1 TV Pro\n🏁 Hamilton larga na pole, Russell em 2º e Antonelli em 4º\n\n📌 Salve e volte depois da corrida para ver se acertou.\n📤 Mande para quem acompanha F1 com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#f1 #formula1 #antonelli #gpdomexico #mercedes #palpite"
+      }
+    ],
+    "lancamentosdegames": [
+      {
+        "tipo": "pergunta",
+        "sufixo": "enquete",
+        "quando": "2026-11-01T20:00:00-03:00",
+        "foto": "game-controle",
+        "pilula": "ENQUETE",
+        "chamada": "GRÁTIS PARA MANTER",
+        "titulo": "Qual grátis da semana vale o resgate?",
+        "opcoes": [
+          "Sorry We're Closed · Epic",
+          "Asleep: Act 1 · Steam",
+          "A New Beginning: Final Cut · GOG",
+          "Peguei todos"
+        ],
+        "fonte": "",
+        "cta": "Responda A, B, C ou D",
+        "alt": "Enquete: qual grátis da semana vale o resgate? A: Sorry We're Closed, Epic. B: Asleep: Act 1, Steam. C: A New Beginning: Final Cut, GOG. D: Peguei todos.",
+        "legenda": "🎮 Qual grátis da semana vale o resgate?\n\nA) Sorry We're Closed · Epic Games Store (até 5/11)\nB) Asleep: Act 1 · Steam (até segunda, 2/11, às 15h)\nC) A New Beginning: Final Cut · GOG (até segunda, 2/11, às 11h)\nD) Peguei todos\n\n⏳ Os da Steam e da GOG acabam amanhã: resgate antes do prazo e o jogo fica seu.\n\n📌 Salve para não perder o prazo.\n📤 Mande para quem coleciona jogo grátis.\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @lancamentosdegames para os grátis de toda semana.\n\n#jogosgratis #epicgames #steam #gog #games #pcgamer"
+      }
+    ],
+    "tudooqueestreia": [
+      {
+        "tipo": "destaque",
+        "sufixo": "hoje",
+        "quando": "2026-11-01T12:00:00-03:00",
+        "foto": "streaming-sofa",
+        "pilula": "DOM 01/11",
+        "chamada": "ESTREIA HOJE · HORÁRIO DE BRASÍLIA",
+        "grande": "22h",
+        "titulo": "A Idade Dourada: 4ª temporada",
+        "caixas": [
+          [
+            "Onde",
+            "HBO e HBO Max"
+          ],
+          [
+            "Episódios",
+            "8, um por domingo"
+          ]
+        ],
+        "nota": "Novo episódio todo domingo, no mesmo horário.",
+        "fonte": "Conferido em 01/11 às 1h · Lineup",
+        "cta": "Salve e compartilhe",
+        "alt": "Estreia hoje: 4ª temporada de A Idade Dourada, às 22h, no canal HBO e na HBO Max, com 8 episódios semanais",
+        "legenda": "🎩 A Idade Dourada está de volta hoje!\n\n📺 A Idade Dourada (The Gilded Age) · 4ª temporada\n⏰ 22h (horário de Brasília)\n📍 Canal HBO e HBO Max\n🎬 8 episódios, um por domingo\n\n📌 Salve para lembrar do horário.\n📤 Mande para quem assiste com você.\n\nVai ver hoje ou maratonar depois? 👇\nSiga @tudooqueestreia para saber o que estreia, toda semana.\n\n#aidadedourada #thegildedage #hbomax #series #estreia #oqueassistir"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "agenda",
+        "sufixo": "hoje",
+        "quando": "2026-11-01T11:00:00-03:00",
+        "pilula": "DOM 01/11",
+        "chamada": "HOJE TEM SHOW · HORÁRIO DE BRASÍLIA",
+        "titulo": "Shows de hoje",
+        "itens": [
+          {
+            "data": "01/11",
+            "sub": "DOM · 22h10",
+            "titulo": "Ivete no Rock the Mountain",
+            "detalhe": "Itaipava (RJ) · festival desde 12h30 · esgotado"
+          },
+          {
+            "data": "01/11",
+            "sub": "DOM · 18h",
+            "titulo": "Ronnie Wood",
+            "detalhe": "Espaço Unimed, São Paulo · abertura da casa"
+          },
+          {
+            "data": "01/11",
+            "sub": "DOM · 19h",
+            "titulo": "M.I.A.",
+            "detalhe": "Audio, São Paulo · abertura das portas"
+          }
+        ],
+        "fonte": "Conferido em 01/11 às 1h · Diário do Rio, Rolling Stone Brasil",
+        "cta": "Mande para quem vai",
+        "alt": "Hoje tem show: Ivete Sangalo às 22h10 no Rock the Mountain, em Itaipava, esgotado; Ronnie Wood no Espaço Unimed, em São Paulo, casa abre às 18h; M.I.A. na Audio, em São Paulo, portas às 19h",
+        "legenda": "🎤 Domingo de show: Ivete na serra, um Rolling Stone e M.I.A. em São Paulo!\n\n⛰️ Rock the Mountain · Itaipava, Petrópolis (RJ) · último dia do 1º fim de semana, esgotado\n🎶 13h30 Dora Morelenbaum · 15h30 Paulinho da Viola · 17h30 Jorja Smith · 20h Dominguinho · 22h10 Ivete Sangalo\n\n🎸 Ronnie Wood (Rolling Stones) · Espaço Unimed, São Paulo · casa abre às 18h · horário do show a confirmar · venda só no link oficial: Eventim\n\n🎧 M.I.A. · show único no Brasil · Audio, São Paulo · portas às 19h\n\nSe ainda vai comprar, fuja de cambista e use só a tiqueteira oficial.\n\n📌 Salve para ter os horários à mão.\n📤 Mande para quem vai ao show com você.\n\nVai a algum? Conta qual 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\n#rockthemountain #ivetesangalo #ronniewood #mia #shows #saopaulo #showsconfirmados"
+      }
+    ]
+  }
+}
