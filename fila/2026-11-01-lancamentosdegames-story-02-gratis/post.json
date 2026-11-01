@@ -4,8 +4,8 @@
   "redes": [
     "instagram"
   ],
-  "quando": "2026-10-30T23:04:00-03:00",
-  "status": "erro",
+  "quando": "2026-11-01T08:30:00-03:00",
+  "status": "aprovado",
   "midias": [
     "01.jpg"
   ],
@@ -14,6 +14,5 @@
   ],
   "legenda": "",
   "nota": "Story para virar destaque: Destacar > Novo > nome 'Grátis' > depois Editar capa com esta mesma imagem.",
-  "resultado": {},
-  "erro": "POST 17841436201733983/media: Only photo or video can be accepted as media type. (código 9004)"
+  "resultado": {}
 }
