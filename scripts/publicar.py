@@ -51,7 +51,8 @@ def url_publica(pasta, arquivo):
         repo = os.environ.get("GITHUB_REPOSITORY", "SEU-USUARIO/central-de-postagem")
         base = f"https://raw.githubusercontent.com/{repo}/{commit_atual()}"
     rel = (pasta / arquivo).relative_to(RAIZ).as_posix()
-    return f"{base.rstrip('/')}/{rel}"
+    from urllib.parse import quote
+    return f"{base.rstrip('/')}/{quote(rel)}"  # pasta com acento (ex.: "grátis") precisa ir codificada
 
 
 def token_de(conta_cfg, chave):
