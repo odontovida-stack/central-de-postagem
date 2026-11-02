@@ -1,7 +1,7 @@
 {
   "canal": "bhc",
   "tema": "bhc",
-  "status": "agendado",
+  "status": "aprovado",
   "titulo": "The Letter Einstein Regretted — and Why It Almost Didn't Matter (1939)",
   "quando": "2026-11-05T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -106,8 +106,9 @@
     59
   ],
   "_como_aprovar": "Preencha 'voz' com o Voice ID do ElevenLabs (de preferência uma voz diferente da do The American File) ou ponha os MP3 em audio/ (01.mp3 ... 08.mp3 e short.mp3), e troque status para 'aprovado'. O merge do PR dispara o robô.",
-  "video_id": "fpTJ6cqw1II",
-  "thumbnail": true,
-  "short_id": "ErkK-dBRqjM",
-  "meta_hash": "06eaad87422f0b8a"
+  "ids_antigos_excluir_no_TAF": {
+    "video": "fpTJ6cqw1II",
+    "short": "ErkK-dBRqjM"
+  },
+  "status_montagem": "reenviar: estava no canal errado (TAF)"
 }
