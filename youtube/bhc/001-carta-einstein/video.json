@@ -108,5 +108,6 @@
   "_como_aprovar": "Preencha 'voz' com o Voice ID do ElevenLabs (de preferência uma voz diferente da do The American File) ou ponha os MP3 em audio/ (01.mp3 ... 08.mp3 e short.mp3), e troque status para 'aprovado'. O merge do PR dispara o robô.",
   "video_id": "fpTJ6cqw1II",
   "thumbnail": true,
-  "short_id": "ErkK-dBRqjM"
+  "short_id": "ErkK-dBRqjM",
+  "meta_hash": "c3eab4b172ec1df8"
 }

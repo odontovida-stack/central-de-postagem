@@ -111,5 +111,6 @@
   "_como_aprovar": "Preencha 'voz' com o MESMO Voice ID do BHC #001 ou ponha os MP3 em audio/ (01.mp3 ... 08.mp3 e short.mp3), e troque status para 'aprovado'. O merge do PR dispara o robô.",
   "video_id": "_VKuCVnfjAY",
   "thumbnail": true,
-  "short_id": "Z5q3aONImBo"
+  "short_id": "Z5q3aONImBo",
+  "meta_hash": "672cc1f872f15323"
 }

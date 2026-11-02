@@ -137,5 +137,6 @@
   "_como_aprovar": "Confira as fotos de fundo baixadas (fotos/banco/yt-bhc004-*) e troque status para 'aprovado'. O merge do PR dispara o robô (narração pelo ElevenLabs com a voz do BHC).",
   "video_id": "8fwcluLLfqg",
   "thumbnail": true,
-  "short_id": "lVz_ldGiYAI"
+  "short_id": "lVz_ldGiYAI",
+  "meta_hash": "7dfc28898133fbd4"
 }
