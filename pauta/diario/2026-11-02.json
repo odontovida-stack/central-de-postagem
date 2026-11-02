@@ -1,0 +1,174 @@
+{
+  "dia": "02/11/2026",
+  "apurado_em": "2026-11-02",
+  "contas": {
+    "jogosnatela": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "hoje",
+        "quando": "2026-11-02T07:30:00-03:00",
+        "alt": "Resultados de domingo, 01/11, e jogos de segunda, 02/11, com horários de Brasília e onde assistir",
+        "cards": [
+          {
+            "tipo": "placar",
+            "pilula": "DOM 01/11",
+            "chamada": "RESULTADOS DE ONTEM",
+            "titulo": "Placar final",
+            "grupos": [
+              {
+                "competicao": "Copa do Brasil e Série B",
+                "jogos": [
+                  {
+                    "casa": "Palmeiras",
+                    "gc": 1,
+                    "fora": "Vasco",
+                    "gf": 0
+                  },
+                  {
+                    "casa": "Grêmio",
+                    "gc": 2,
+                    "fora": "Atlético-MG",
+                    "gf": 0
+                  },
+                  {
+                    "casa": "Novorizontino",
+                    "gc": 2,
+                    "fora": "Operário-PR",
+                    "gf": 1
+                  }
+                ]
+              },
+              {
+                "competicao": "Europa",
+                "jogos": [
+                  {
+                    "casa": "Liverpool",
+                    "gc": 0,
+                    "fora": "Arsenal",
+                    "gf": 1
+                  },
+                  {
+                    "casa": "Racing",
+                    "gc": 0,
+                    "fora": "Real Madrid",
+                    "gf": 3
+                  },
+                  {
+                    "casa": "Juventus",
+                    "gc": 2,
+                    "fora": "Napoli",
+                    "gf": 0
+                  }
+                ]
+              }
+            ],
+            "destaque": "Palmeiras e Grêmio vencem na ida",
+            "destaque_rotulo": "SEMIS",
+            "fonte": "Conferido em 02/11 às 1h · Agência Brasil, Gazeta, ESPN",
+            "cta": "Arraste →",
+            "alt": "Resultados de domingo: Palmeiras 1x0 Vasco e Grêmio 2x0 Atlético-MG pela Copa do Brasil, Novorizontino 2x1 Operário-PR pela Série B, Liverpool 0x1 Arsenal, Racing 0x3 Real Madrid e Juventus 2x0 Napoli"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "SEG 02/11",
+            "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+            "titulo": "Onde assistir",
+            "itens": [
+              {
+                "data": "02/11",
+                "sub": "SEG · 16h",
+                "titulo": "Fortaleza x Atlético-GO",
+                "detalhe": "Série B · ESPN, Disney+"
+              },
+              {
+                "data": "02/11",
+                "sub": "SEG · 17h",
+                "titulo": "Newcastle x Everton",
+                "detalhe": "Premier League · ESPN 4, Disney+"
+              },
+              {
+                "data": "02/11",
+                "sub": "SEG · 20h",
+                "titulo": "Bragantino x Santos",
+                "detalhe": "Brasileirão · sportv, Premiere"
+              }
+            ],
+            "fonte": "Conferido em 02/11 às 1h · Gazeta Esportiva, Máquina do Esporte, Mantos do Futebol",
+            "cta": "Salve e compartilhe",
+            "alt": "Jogos de segunda, 02/11: Fortaleza x Atlético-GO às 16h, Newcastle x Everton às 17h e Bragantino x Santos às 20h"
+          }
+        ],
+        "legenda": "⚽ Palmeiras e Grêmio largaram na frente nas semis da Copa do Brasil, e o Arsenal venceu em Anfield!\n\n📊 Resultados de ontem (domingo, 01/11):\n🏆 Palmeiras 1x0 Vasco · Copa do Brasil, ida da semi (gol de Maurício)\n🏆 Grêmio 2x0 Atlético-MG · Copa do Brasil, ida da semi (Carlos Vinícius e Erick Noriega)\n🇧🇷 Novorizontino 2x1 Operário-PR · Série B\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool 0x1 Arsenal · Premier League (gol de Havertz)\n🇪🇸 Racing 0x3 Real Madrid · LaLiga\n🇮🇹 Juventus 2x0 Napoli · Serie A\n\n📺 Jogos de hoje, feriado de Finados (horário de Brasília):\n🇧🇷 16h · Fortaleza x Atlético-GO · Série B · ESPN, Disney+\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 17h · Newcastle x Everton · Premier League · ESPN 4, Disney+\n🇧🇷 20h · Bragantino x Santos · Brasileirão · sportv, Premiere\n\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQuem vai à final: Palmeiras ou Vasco? Comenta aí 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #copadobrasil #palmeiras #gremio #santos #ondeassistir"
+      },
+      {
+        "tipo": "pergunta",
+        "sufixo": "enquete",
+        "quando": "2026-11-02T20:00:00-03:00",
+        "foto": "futebol-gramado",
+        "pilula": "ENQUETE",
+        "chamada": "O MELHOR DO FIM DE SEMANA",
+        "titulo": "Quem foi o melhor time da rodada?",
+        "contexto": "Semis da Copa do Brasil e clássicos na Europa no fim de semana.",
+        "opcoes": [
+          "Palmeiras · 1x0 no Vasco",
+          "Grêmio · 2x0 no Galo",
+          "Arsenal · 1x0 em Anfield",
+          "Real Madrid · 3x0 fora"
+        ],
+        "fonte": "",
+        "cta": "Responda A, B, C ou D",
+        "alt": "Enquete: quem foi o melhor time da rodada? A: Palmeiras, 1x0 no Vasco. B: Grêmio, 2x0 no Atlético-MG. C: Arsenal, 1x0 em Anfield. D: Real Madrid, 3x0 fora de casa.",
+        "legenda": "🏆 Quem foi o melhor time da rodada?\n\nA) Palmeiras · 1x0 no Vasco, na ida da semi da Copa do Brasil\nB) Grêmio · 2x0 no Atlético-MG, na ida da semi da Copa do Brasil\nC) Arsenal · 1x0 no Liverpool, em Anfield\nD) Real Madrid · 3x0 no Racing, fora de casa\n\n📌 Salve e veja no fim da semana quem venceu a enquete.\n📤 Mande para aquele amigo que só fala do time dele.\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @jogosnatela para os resultados todo dia.\n\n#futebol #enquete #copadobrasil #palmeiras #gremio #arsenal #realmadrid"
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "destaque",
+        "sufixo": "noticia",
+        "quando": "2026-11-02T13:00:00-03:00",
+        "foto": "formula1-pista",
+        "pilula": "CAMPEÃO",
+        "chamada": "F1 · TÍTULO DECIDIDO NO MÉXICO",
+        "grande": "20 anos",
+        "titulo": "Antonelli é campeão da F1",
+        "caixas": [
+          [
+            "Título",
+            "1º da carreira"
+          ],
+          [
+            "No México",
+            "3º lugar"
+          ]
+        ],
+        "nota": "É o campeão mais jovem da história da F1. Verstappen venceu a corrida.",
+        "fonte": "Conferido em 02/11 às 1h · F1Mania, Lance, Autoracing",
+        "cta": "Salve e compartilhe",
+        "alt": "Kimi Antonelli, da Mercedes, é campeão mundial de F1 aos 20 anos, o mais jovem da história, após o 3º lugar no GP do México",
+        "legenda": "🏆 Kimi Antonelli é campeão mundial de Fórmula 1 aos 20 anos!\n\n🥉 O italiano da Mercedes terminou em 3º no GP do México e garantiu o título com antecedência\n👶 É o campeão mais jovem da história da F1: o recorde era de Sebastian Vettel, em 2010\n🥇 Max Verstappen venceu a corrida, com Lewis Hamilton em 2º\n🇧🇷 Gabriel Bortoleto (Audi) foi o 11º\n\n🏁 A próxima etapa é o GP de São Paulo, em Interlagos, de 6 a 8/11\n\n📌 Salve para lembrar desse título.\n📤 Mande para quem acompanha F1 com você.\n\nAntonelli mereceu o título? Sim ou não 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: F1Mania, Lance e Autoracing.\n\n#f1 #formula1 #antonelli #mercedes #gpdomexico #campeao #automobilismo"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "pergunta",
+        "sufixo": "o-que-achou",
+        "quando": "2026-11-02T12:00:00-03:00",
+        "foto": "show-plateia",
+        "pilula": "O QUE ACHOU?",
+        "chamada": "SHOWS DO DOMINGO",
+        "titulo": "Foi a algum show ontem?",
+        "contexto": "Teve Ivete no Rock the Mountain e Ronnie Wood em São Paulo.",
+        "opcoes": [
+          "Fui e amei",
+          "Fui, foi ok",
+          "Não fui, mas queria",
+          "Fico para o próximo"
+        ],
+        "fonte": "",
+        "cta": "Responda nos comentários",
+        "alt": "Pergunta: foi a algum show ontem? A: Fui e amei. B: Fui, foi ok. C: Não fui, mas queria. D: Fico para o próximo.",
+        "legenda": "🎤 Foi a algum show ontem? Conta como foi!\n\nDomingo teve Ivete Sangalo no Rock the Mountain, em Itaipava, e Ronnie Wood no Espaço Unimed, em São Paulo.\n\nA) Fui e amei\nB) Fui, foi ok\nC) Não fui, mas queria\nD) Fico para o próximo\n\n📌 Salve e acompanhe os próximos shows com a gente.\n📤 Mande para quem foi com você.\n\nResponda com a letra e conta o melhor momento 👇\nSiga @showsconfirmados para os shows confirmados no Brasil.\n\n#shows #rockthemountain #ivetesangalo #ronniewood #musica #showsnobrasil"
+      }
+    ]
+  }
+}
