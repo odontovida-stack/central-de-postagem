@@ -37,8 +37,10 @@ if any(c.exists() for c in clipes):
         for k, (png, clip, d) in enumerate(zip(slides, clipes, duracoes)):
             seg = tdir / f'{k:03d}.mp4'
             if clip.exists():
-                extra = max(0.0, d - dur(str(clip)))
-                cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-i', str(clip), '-vf', f'tpad=stop_mode=clone:stop_duration={extra:.3f},fps=30,format=yuv420p',
+                D = dur(str(clip))
+                fator = max(d / D, 1 / 3) if d < D else 1.0  # slide curto: acelera a animação (até 3x) para ela terminar
+                extra = max(0.0, d - D * fator)
+                cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-i', str(clip), '-vf', f'setpts=PTS*{fator:.4f},tpad=stop_mode=clone:stop_duration={extra:.3f},fps=30,format=yuv420p',
                        '-t', f'{d:.3f}', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', str(seg)]
             else:
                 cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-loop', '1', '-i', png, '-t', f'{d:.3f}', '-vf', 'fps=30,format=yuv420p',
