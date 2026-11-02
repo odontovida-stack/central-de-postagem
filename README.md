@@ -124,6 +124,17 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 | @tudooqueestreia | Estreias da semana (sexta a quinta) | Sexta, 9h |
 | Todas | Destaques | 18h, de terça a sábado |
 
+### Agenda completa do dia (tipo `grade`)
+
+Post diário do @esportesnatela às **07:00**: um carrossel com a agenda do dia inteiro, todos os esportes, em tabela.
+
+- Cada card tem até **12 linhas**: `{"hora": "09h00", "esporte": "tenis", "competicao": "Masters 1000 Paris · 1ª rodada", "jogo": "Musetti x Hurkacz", "canal": "ESPN 2"}`.
+- Esportes com cor própria: futebol, tenis, volei, basquete, f1, automobilismo, nfl, lutas, atletismo, natacao, surfe, outros.
+- Use de 2 a 4 cards (títulos "Agenda completa 1/3", "2/3"...), em ordem de horário; mire 25 a 35 eventos.
+- Só entra evento com horário e canal conferidos em fonte oficial ou grande veículo. Canal incerto: "a confirmar".
+- Inclua canais grátis (YouTube, CazéTV, GOAT etc.) quando houver; eles atraem salvamentos.
+- Legenda: os destaques do dia em 3 a 5 linhas + "Salve para consultar durante o dia".
+
 ### Placar com selos dos times (tipo `placar`)
 
 Para resultados, o card `placar` agrupa os jogos por competição e mostra o selo de cada time: a sigla nas cores do clube.

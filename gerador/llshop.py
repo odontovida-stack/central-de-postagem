@@ -105,6 +105,45 @@ def agenda(conta, card):
 
 
 
+# Grade completa do dia (modelo "agenda esportiva" em tabela): uma linha por evento, cor por esporte.
+CORES_ESPORTE = {"futebol": "#2FD17A", "tenis": "#C7E04A", "volei": "#FFB020", "basquete": "#FF7A45", "f1": "#FF4D5E",
+                 "automobilismo": "#FF4D5E", "nfl": "#8C7BFF", "lutas": "#E04AC7", "atletismo": "#4CD3E0", "natacao": "#4C9AFF",
+                 "surfe": "#3FB6A8", "outros": "#B4B8C0"}
+ROTULO_ESPORTE = {"futebol": "FUTEBOL", "tenis": "TÊNIS", "volei": "VÔLEI", "basquete": "BASQUETE", "f1": "F1",
+                  "automobilismo": "MOTOR", "nfl": "NFL", "lutas": "LUTAS", "atletismo": "ATLETISMO", "natacao": "NATAÇÃO",
+                  "surfe": "SURFE", "outros": "OUTROS"}
+MAX_LINHAS_GRADE = 12
+
+
+def grade(conta, card):
+    """card: {"tipo": "grade", "pilula", "chamada", "titulo", "linhas": [{"hora","esporte","competicao","jogo","canal"}], "fonte", "cta"}"""
+    cor = PAGINAS[conta]["cor"]
+    linhas = card["linhas"]
+    if len(linhas) > MAX_LINHAS_GRADE:
+        raise SystemExit(f"Grade com {len(linhas)} linhas: o máximo é {MAX_LINHAS_GRADE} por card. Divida em mais cards no carrossel.")
+    corpo = []
+    for i, l in enumerate(linhas):
+        esp = l.get("esporte", "outros")
+        ce = CORES_ESPORTE.get(esp, CORES_ESPORTE["outros"])
+        fundo = CARD if i % 2 == 0 else BG
+        corpo.append(f'''<div style="display: grid; grid-template-columns: 112px 8px 1fr 230px; align-items: center; gap: 18px; background: {fundo}; border-radius: 10px; padding: 7px 18px">
+<span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 40px; font-variant-numeric: tabular-nums">{e(l["hora"])}</span>
+<span style="align-self: stretch; border-radius: 4px; background: {ce}"></span>
+<div style="display: flex; flex-direction: column; min-width: 0"><span style="font-weight: 700; font-size: 30px; line-height: 1.08; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">{e(l["jogo"])}</span><span style="font-size: 21px; line-height: 1.2; color: {MUTED}; white-space: nowrap; overflow: hidden; text-overflow: ellipsis"><b style="color: {ce}; letter-spacing: 0.06em">{e(ROTULO_ESPORTE.get(esp, esp.upper()))}</b> · {e(l.get("competicao"))}</span></div>
+<span style="font-size: 25px; font-weight: 600; text-align: right; line-height: 1.1">{e(l.get("canal"))}</span>
+</div>''')
+    miolo = f'''{topo(conta, cor, card["pilula"], True)}
+<div style="display: flex; flex-direction: column; gap: 6px">
+<span style="font-weight: 700; font-size: 28px; letter-spacing: 0.12em; color: {cor}">{e(card["chamada"])}</span>
+<h1 style="margin: 0; font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 72px; line-height: 0.9; text-transform: uppercase">{e(card["titulo"])}</h1>
+</div>
+<div style="display: flex; flex-direction: column; gap: 5px; flex-grow: 1; margin-top: -12px">
+{"".join(corpo)}
+</div>
+{rodape(card["fonte"], card["cta"])}'''
+    return moldura(miolo, card)
+
+
 TIMES_ARQ = RAIZ / "config" / "times.json"
 
 
@@ -281,7 +320,7 @@ def main():
             pasta = (RAIZ / "previa" / pauta_arq.stem) if previa else (RAIZ / "fila" / nome)
             midias, alts, creditos = [], [], []
             for i, sub in enumerate(subcards, 1):
-                htm = {"agenda": agenda, "placar": placar, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir}[sub["tipo"]](conta, sub)
+                htm = {"agenda": agenda, "placar": placar, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir, "grade": grade}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
                 img = pasta / (f"{nome}-{arq}" if previa else arq)
                 trabalhos.append((htm, img))
