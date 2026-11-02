@@ -1,56 +1,76 @@
 {
   "_como_usar": "Ponha em 'pendentes' os vídeos a excluir do YouTube ({id, titulo, motivo}). A exclusão é definitiva e só acontece depois do merge do Luiz. O robô recusa id que ainda é vídeo atual de algum video.json.",
-  "pendentes": [
+  "pendentes": [],
+  "feitos": [
     {
       "id": "fpTJ6cqw1II",
       "titulo": "The Letter Einstein Regretted — and Why It Almost Didn't Matter (1939)",
-      "motivo": "Cópia antiga no canal The American File — reenviado ao canal Before History Changed; novo id dQqvPX5_p3E"
+      "motivo": "Cópia antiga no canal The American File — reenviado ao canal Before History Changed; novo id dQqvPX5_p3E",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:00"
     },
     {
       "id": "ErkK-dBRqjM",
       "titulo": "Short — The Letter Einstein Regretted — and Why It Almost Didn't Matter (1939)",
-      "motivo": "Short antigo no canal The American File — novo short ePdHl9K3uQI"
+      "motivo": "Short antigo no canal The American File — novo short ePdHl9K3uQI",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:01"
     },
     {
       "id": "_VKuCVnfjAY",
       "titulo": "Why the Wright Brothers' First Airplane Spent 20 Years in London (1928)",
-      "motivo": "Cópia antiga no canal The American File — reenviado ao canal Before History Changed; novo id LMfD6KURISQ"
+      "motivo": "Cópia antiga no canal The American File — reenviado ao canal Before History Changed; novo id LMfD6KURISQ",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:02"
     },
     {
       "id": "Z5q3aONImBo",
       "titulo": "Short — Why the Wright Brothers' First Airplane Spent 20 Years in London (1928)",
-      "motivo": "Short antigo no canal The American File — novo short lgnbnXjOo3Y"
+      "motivo": "Short antigo no canal The American File — novo short lgnbnXjOo3Y",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:04"
     },
     {
       "id": "kGvQaTA7Zrg",
       "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
-      "motivo": "Cópia antiga no canal The American File — reenviado ao canal Before History Changed; novo id w61PfYPxjM4"
+      "motivo": "Cópia antiga no canal The American File — reenviado ao canal Before History Changed; novo id w61PfYPxjM4",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:04"
     },
     {
       "id": "_CGlcN9h6g4",
       "titulo": "Short — Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
-      "motivo": "Short antigo no canal The American File — novo short 9W30eEL-Wwk"
+      "motivo": "Short antigo no canal The American File — novo short 9W30eEL-Wwk",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:05"
     },
     {
       "id": "8fwcluLLfqg",
       "titulo": "Black Saturday: The Secret Deal That Ended the Cuban Missile Crisis (Oct. 27, 1962)",
-      "motivo": "Cópia antiga no canal The American File — reenviado ao canal Before History Changed; novo id L-JzJsTXX3s"
+      "motivo": "Cópia antiga no canal The American File — reenviado ao canal Before History Changed; novo id L-JzJsTXX3s",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:08"
     },
     {
       "id": "lVz_ldGiYAI",
       "titulo": "Short — Black Saturday: The Secret Deal That Ended the Cuban Missile Crisis (Oct. 27, 1962)",
-      "motivo": "Short antigo no canal The American File — novo short 1WfWS4TI30o"
+      "motivo": "Short antigo no canal The American File — novo short 1WfWS4TI30o",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:09"
     },
     {
       "id": "usZZr1AAi4A",
       "titulo": "The US Military Budget: $1 Trillion a Year — More Than the Next 6 Countries Combined",
-      "motivo": "Cópia antiga no canal The American File — reenviado após verificação do canal (processamento interrompido); novo id 0eeSXqirYuI"
+      "motivo": "Cópia antiga no canal The American File — reenviado após verificação do canal (processamento interrompido); novo id 0eeSXqirYuI",
+      "resultado": "não encontrado",
+      "em": "2026-11-02T15:26:10"
     },
     {
       "id": "K1_gVvvPcZw",
       "titulo": "Short — The US Military Budget: $1 Trillion a Year — More Than the Next 6 Countries Combined",
-      "motivo": "Short antigo no canal The American File — novo short PPQIsgO9rHQ"
+      "motivo": "Short antigo no canal The American File — novo short PPQIsgO9rHQ",
+      "resultado": "excluído do canal TAF",
+      "em": "2026-11-02T15:26:11"
     }
-  ],
-  "feitos": []
+  ]
 }
