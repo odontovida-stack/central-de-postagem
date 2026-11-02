@@ -503,5 +503,29 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Napoli": {
+  "sigla": "NAP",
+  "cores": [
+   "#12A0D7",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Novorizontino": {
+  "sigla": "NOV",
+  "cores": [
+   "#FFD200",
+   "#111111"
+  ],
+  "texto": "#111111"
+ },
+ "Operário-PR": {
+  "sigla": "OPE",
+  "cores": [
+   "#111111",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
