@@ -87,5 +87,6 @@
   "_como_aprovar": "Preencha 'voz' com o Voice ID do ElevenLabs (ou ponha os MP3 em audio/) e troque status para 'aprovado'. O merge do PR dispara o robô. Antes de aprovar: acrescentar à descrição o resultado da votação do voto ranqueado no Alaska (3/11).",
   "video_id": "Mqz-yolkDGw",
   "thumbnail": true,
-  "short_id": "aaY32MIWkeI"
+  "short_id": "aaY32MIWkeI",
+  "meta_hash": "30e97530e611e28c"
 }
