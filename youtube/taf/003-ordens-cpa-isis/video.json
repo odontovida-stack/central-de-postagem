@@ -1,6 +1,6 @@
 {
   "canal": "taf",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Did America Create ISIS? The Two 2003 Orders and What Came Next",
   "quando": "2026-11-17T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -135,5 +135,8 @@
     33,
     34
   ],
-  "_como_aprovar": "Ponha os MP3 em audio/ (ou deixe o robô narrar com a 'voz') e troque status para 'aprovado'. O merge do PR dispara o robô. Antes de aprovar: trocar [ADD AMAZON ASSOCIATES LINKS] na descrição pelos links de afiliado (ou apagar a linha) e conferir os capítulos com a timeline final."
+  "_como_aprovar": "Ponha os MP3 em audio/ (ou deixe o robô narrar com a 'voz') e troque status para 'aprovado'. O merge do PR dispara o robô. Antes de aprovar: trocar [ADD AMAZON ASSOCIATES LINKS] na descrição pelos links de afiliado (ou apagar a linha) e conferir os capítulos com a timeline final.",
+  "video_id": "a4DcbhjRy1w",
+  "thumbnail": true,
+  "short_id": "R8wpe4hciVg"
 }
