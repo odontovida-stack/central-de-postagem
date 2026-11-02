@@ -280,6 +280,22 @@ def sincronizar_metadados(sem_envio=False):
         print("metadados atualizados:", pasta.relative_to(RAIZ), cfg["video_id"])
 
 
+def conferir_canais():
+    """Mostra no log para qual canal cada chave aponta (nome e id), para não enviar vídeo ao canal errado."""
+    for canal in ("taf", "bhc"):
+        try:
+            tk = token_youtube(canal)
+            if not tk:
+                continue
+            _, _, r = http("https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true", headers={"Authorization": f"Bearer {tk}"})
+            for it in json.loads(r).get("items", []):
+                print(f"CANAL DA CHAVE {canal.upper()}: {it['snippet']['title']} ({it['id']})")
+        except Exception as e:  # noqa: BLE001
+            print(f"CANAL DA CHAVE {canal.upper()}: não consegui conferir ({e})")
+
+
 if __name__ == "__main__":
+    if "--sem-envio" not in sys.argv:
+        conferir_canais()
     main()
     sincronizar_metadados("--sem-envio" in sys.argv)
