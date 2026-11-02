@@ -132,8 +132,13 @@ Post diário do @esportesnatela às **07:00**: um carrossel com a agenda do dia 
 - Esportes com cor própria: futebol, tenis, volei, basquete, f1, automobilismo, nfl, lutas, atletismo, natacao, surfe, outros.
 - Use de 2 a 4 cards (títulos "Agenda completa 1/3", "2/3"...), em ordem de horário; mire 25 a 35 eventos.
 - Só entra evento com horário e canal conferidos em fonte oficial ou grande veículo. Canal incerto: "a confirmar".
-- Inclua canais grátis (YouTube, CazéTV, GOAT etc.) quando houver; eles atraem salvamentos.
+- Inclua canais grátis (YouTube, CazéTV, GOAT, TV aberta) quando houver e marque a linha com `"gratis": true`: aparece o selo verde GRÁTIS. É o que mais faz o post ser salvo.
 - Legenda: os destaques do dia em 3 a 5 linhas + "Salve para consultar durante o dia".
+
+### Jogo do dia e selo grátis no card `agenda`
+
+- Num item de agenda, `"destaque": true` põe a borda colorida e o rótulo "★ JOGO DO DIA" (use em 1 item por card, o maior jogo de hoje).
+- `"gratis": true` põe o selo GRÁTIS ao lado do detalhe (jogo em TV aberta ou streaming grátis).
 
 ### Placar com selos dos times (tipo `placar`)
 
