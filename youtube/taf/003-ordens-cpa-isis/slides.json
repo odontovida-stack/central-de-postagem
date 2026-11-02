@@ -196,31 +196,8 @@
     "file": "003"
   },
   {
-    "tipo": "barras",
-    "titulo": "Order 2: people affected (estimates)",
-    "barras": [
-      [
-        "Bremer memo to Rumsfeld, June 2003",
-        230000,
-        "~230,000"
-      ],
-      [
-        "Jay Garner",
-        400000,
-        "300,000–400,000"
-      ],
-      [
-        "The Guardian, May 24, 2003",
-        400000,
-        "~400,000"
-      ],
-      [
-        "Charles Ferguson, No End in Sight",
-        500000,
-        "~500,000"
-      ]
-    ],
-    "fonte": "Bremer: officers & NCOs · Ferguson: all dissolved entities · estimates vary",
+    "tipo": "animacao",
+    "html": "anim/ordem2-estimativas.html",
     "parte": "PART 2",
     "file": "003"
   },
@@ -534,9 +511,8 @@
     "file": "003"
   },
   {
-    "tipo": "capitulo",
-    "numero": "CAMP BUCCA · U.S. DETENTION FACILITY",
-    "titulo": "Southern Iraq, near the Kuwaiti border. Closed Sept. 17, 2009.",
+    "tipo": "animacao",
+    "html": "anim/camp-bucca.html",
     "parte": "PART 5",
     "file": "003"
   },
@@ -982,9 +958,8 @@
     "file": "003"
   },
   {
-    "tipo": "capitulo",
-    "numero": "JUNE 10, 2014",
-    "titulo": "Mosul, Iraq's second-largest city, falls.",
+    "tipo": "animacao",
+    "html": "anim/mosul-2014.html",
     "parte": "PART 7",
     "file": "003"
   },
@@ -1089,42 +1064,8 @@
     "file": "003"
   },
   {
-    "tipo": "linha",
-    "titulo": "The chain",
-    "marcos": [
-      [
-        "LINK 1",
-        "2003: Orders 1 & 2"
-      ],
-      [
-        "LINK 2",
-        "Zarqawi's sectarian strategy"
-      ],
-      [
-        "LINK 3",
-        "Camp Bucca"
-      ],
-      [
-        "LINK 4",
-        "Awakening promises, half kept"
-      ],
-      [
-        "LINK 5",
-        "2011 exit"
-      ],
-      [
-        "LINK 6",
-        "Maliki's crackdown"
-      ],
-      [
-        "LINK 7",
-        "Syria's war"
-      ],
-      [
-        "2014",
-        "June: “caliphate”"
-      ]
-    ],
+    "tipo": "animacao",
+    "html": "anim/a-corrente.html",
     "parte": "PART 8",
     "file": "003"
   },
