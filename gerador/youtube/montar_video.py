@@ -28,15 +28,36 @@ mapa = mapa or list(range(1, len(slides) + 1))
 assert len(mapa) == len(slides) and max(mapa) == len(tempos), (len(mapa), len(slides), max(mapa), len(tempos))
 cont = {v: mapa.count(v) for v in set(mapa)}
 lista = Path(out).with_suffix('.txt')
-with open(lista, 'w') as f:
-    for png, v in zip(slides, mapa):
-        f.write(f"file '{os.path.abspath(png)}'\nduration {tempos[v - 1] / cont[v]:.3f}\n")
-    f.write(f"file '{os.path.abspath(slides[-1])}'\n")
+duracoes = [tempos[v - 1] / cont[v] for v in mapa]
+clipes = [Path(png).with_suffix('.mp4') for png in slides]
+if any(c.exists() for c in clipes):
+    # há cenas animadas: cada slide vira um trecho; a animação toca e o último quadro segura até o fim do tempo do slide
+    tdir = Path(out).with_suffix('.trechos'); tdir.mkdir(exist_ok=True)
+    with open(lista, 'w') as f:
+        for k, (png, clip, d) in enumerate(zip(slides, clipes, duracoes)):
+            seg = tdir / f'{k:03d}.mp4'
+            if clip.exists():
+                extra = max(0.0, d - dur(str(clip)))
+                cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-i', str(clip), '-vf', f'tpad=stop_mode=clone:stop_duration={extra:.3f},fps=30,format=yuv420p',
+                       '-t', f'{d:.3f}', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', str(seg)]
+            else:
+                cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-loop', '1', '-i', png, '-t', f'{d:.3f}', '-vf', 'fps=30,format=yuv420p',
+                       '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', '-tune', 'stillimage', str(seg)]
+            subprocess.run(cmd, check=True)
+            f.write(f"file '{seg.resolve()}'\n")
+    concat_video = ['-f', 'concat', '-safe', '0', '-i', str(lista)]
+    vf = ['-c:v', 'copy']
+else:
+    with open(lista, 'w') as f:
+        for png, d in zip(slides, duracoes):
+            f.write(f"file '{os.path.abspath(png)}'\nduration {d:.3f}\n")
+        f.write(f"file '{os.path.abspath(slides[-1])}'\n")
+    concat_video = ['-f', 'concat', '-safe', '0', '-i', str(lista)]
+    vf = ['-vf', 'fps=30,format=yuv420p', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', '-tune', 'stillimage']
 audio = Path(out).with_suffix('.audio.m4a')
 with open(Path(out).with_suffix('.audios.txt'), 'w') as f:
     for a in audios: f.write(f"file '{os.path.abspath(a)}'\n")
 subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', str(Path(out).with_suffix('.audios.txt')), '-c:a', 'aac', '-b:a', '192k', str(audio)], check=True)
-subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', str(lista), '-i', str(audio),
-                '-vf', 'fps=30,format=yuv420p', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', '-tune', 'stillimage',
-                '-c:a', 'copy', '-shortest', '-movflags', '+faststart', out], check=True)
+subprocess.run(['ffmpeg', '-y', '-loglevel', 'error'] + concat_video + ['-i', str(audio)] + vf +
+               ['-c:a', 'copy', '-shortest', '-movflags', '+faststart', out], check=True)
 print(out, f'{dur(out) / 60:.1f} min', len(slides), 'slides')

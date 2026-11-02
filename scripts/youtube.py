@@ -84,6 +84,7 @@ def montar(pasta, cfg):
     out.mkdir(parents=True, exist_ok=True)
     os.environ["TEMA_SLIDES"] = cfg.get("tema", cfg["canal"])
     rodar(sys.executable, GER / "slides.py", pasta / "slides.json", out / "slides")
+    rodar(sys.executable, GER / "animacao.py", pasta, out / "slides")  # cenas animadas (mapas, linhas do tempo)
     fazer_thumb(pasta, out)
     blocos = json.loads((pasta / "narracao.json").read_text(encoding="utf-8"))
     aud = out / "audio-longo"
