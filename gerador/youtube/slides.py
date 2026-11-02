@@ -102,6 +102,8 @@ def corpo(s):
         return (topo(s) + f'<div style="flex-grow:1;display:flex;flex-direction:column;justify-content:center;gap:56px;position:relative"><h2 style="margin:0;font-weight:700;font-size:80px">{e(s["titulo"])}</h2>'
                 f'<div style="display:flex;justify-content:space-between">{xs}</div><p style="margin:0;font-size:40px;line-height:1.3">{e(s.get("texto",""))}</p></div>'
                 + (f'<div class="src">SOURCE: {e(s["fonte"])}</div>' if s.get("fonte") else ""))
+    if t == "animacao":
+        return ""  # placeholder: scripts/youtube.py grava a animação e troca este PNG pelo quadro final
     raise SystemExit("tipo desconhecido: " + t)
 def fundo_foto(s, i):
     """Camadas da foto de fundo + crédito, ou ('', '') se o slide não tem foto ou ela ainda não foi baixada."""
