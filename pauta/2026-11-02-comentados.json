@@ -1,0 +1,167 @@
+{
+  "semana": "2026-11-06 a 2026-11-07 · carrosséis comentados (jogo e evento da semana)",
+  "apurado_em": "2026-11-02",
+  "contas": {
+    "jogosnatela": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-06T19:00:00-03:00",
+        "sufixo": "jogo-da-semana",
+        "alt": "O jogo da semana: Vasco x Palmeiras, volta da semifinal da Copa do Brasil, domingo 8 de novembro às 17h em São Januário; o Palmeiras venceu a ida por 1 a 0",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "estadio-maracana",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "COPA DO BRASIL · SEMIFINAL · VOLTA",
+            "titulo": "Vasco x Palmeiras: vaga na final",
+            "caixas": [
+              ["Ida", "Palmeiras 1 x 0 Vasco"],
+              ["Volta · dom 08/11", "17h · São Januário"]
+            ],
+            "nota": "Globo, SporTV, GE TV, Prime Video e Premiere",
+            "fonte": "Fontes: Gazeta Esportiva · Máquina do Esporte · CNN Brasil",
+            "cta": "Arraste →",
+            "alt": "Capa: Vasco x Palmeiras, volta da semifinal da Copa do Brasil, domingo às 17h em São Januário; Palmeiras venceu a ida por 1 a 0"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "A CONTA DA VOLTA",
+            "titulo": "O que cada time precisa",
+            "topicos": [
+              "Palmeiras: um empate basta",
+              "Vasco: vencer por 2 gols ou mais",
+              "Vitória do Vasco por 1 gol leva aos pênaltis",
+              "Na ida, gol de Maurício no 1º tempo; Saldivia foi expulso"
+            ],
+            "fonte": "Fontes: Gazeta Esportiva · Campo Grande News"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "COMO CHEGARAM",
+            "titulo": "A campanha dos dois",
+            "topicos": [
+              "Palmeiras: Jacuipense (7 x 1), Fortaleza (5 x 3) e Santos (3 x 0)",
+              "Vasco: Paysandu (4 x 2), Fluminense (3 x 1) e Vitória (3 x 0)",
+              "Brasileirão: Palmeiras é o 2º, com 70 pontos",
+              "Vasco é o 13º, com 38 pontos (1 jogo a menos)"
+            ],
+            "fonte": "Placares somados (ida + volta) · Brasileirão após a 33ª rodada · Gazeta · O Povo · NetVasco"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "FIQUE DE OLHO",
+            "titulo": "Técnicos e destaques",
+            "topicos": [
+              "Palmeiras: técnico Abel Ferreira",
+              "Fique de olho: Maurício, que fez o gol da ida, e Flaco López",
+              "Vasco: técnico Pedro Emanuel",
+              "Fique de olho: Brenner, que fez 2 gols no Fluminense na Copa"
+            ],
+            "fonte": "Fontes: Gazeta Esportiva · Terra · DGABC"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "O PRÊMIO",
+            "titulo": "Quem passa vai a Brasília",
+            "topicos": [
+              "Final em jogo único: domingo, 06/12, no Mané Garrincha",
+              "Campeão leva R$ 78 milhões",
+              "E vaga direta na fase de grupos da Libertadores 2027",
+              "Na outra semifinal: Grêmio 2 x 0 Atlético-MG na ida"
+            ],
+            "fonte": "Fontes: CBF via A Crítica · Lance! · Terra"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "estadio-maracana",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Quem vai à final?",
+            "opcoes": ["Vasco", "Palmeiras", "Pênaltis"],
+            "cta": "Responda A, B ou C"
+          }
+        ],
+        "legenda": "⚽ O Palmeiras saiu na frente. O Vasco tem São Januário. Quem vai à final da Copa do Brasil?\n\n🏆 Semifinal da Copa do Brasil · jogo de volta\n📅 Domingo, 08/11, às 17h, em São Januário\n🔙 Ida: Palmeiras 1 x 0 Vasco, gol de Maurício\n✅ Palmeiras passa com empate. O Vasco precisa vencer por 2 gols; vitória por 1 leva aos pênaltis\n💰 A final é em 06/12, no Mané Garrincha, e o campeão leva R$ 78 milhões\n📺 Globo, SporTV, GE TV, Prime Video e Premiere\n\n📌 Salve para não esquecer o horário\n📤 Mande para quem torce com você\n\nQuem vai à final? Responda A, B ou C 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\n#copadobrasil #vasco #palmeiras #vascoxpalmeiras #saojanuario #futebol #jogodasemana"
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-07T10:00:00-03:00",
+        "sufixo": "evento-da-semana",
+        "alt": "O evento da semana: GP de São Paulo de Fórmula 1, em Interlagos, com corrida no domingo 8 de novembro às 14h",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "formula1-pista",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "FÓRMULA 1 · INTERLAGOS",
+            "grande": "Dom 14h",
+            "titulo": "GP de São Paulo",
+            "caixas": [
+              ["Classificação", "Hoje, 15h"],
+              ["Formato", "Sem sprint"]
+            ],
+            "fonte": "Horários de Brasília · Fonte: F1Mania",
+            "cta": "Arraste →",
+            "alt": "Capa: GP de São Paulo de F1 em Interlagos; classificação no sábado às 15h e corrida no domingo às 14h"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "O CAMPEONATO",
+            "titulo": "Antonelli já é campeão",
+            "texto": "Kimi Antonelli, da Mercedes, garantiu o título com o 3º lugar no México e virou, aos 20 anos, o campeão mais jovem da F1. A briga agora é pelo vice.",
+            "topicos": [
+              "1º Antonelli, 380 pontos (119 à frente do 2º)",
+              "Verstappen 261 · Hamilton 259 · Russell 250",
+              "Faltam 4 corridas: SP, Las Vegas, Catar e Abu Dhabi"
+            ],
+            "fonte": "Fontes: Terra · F1Mania · Flashscore"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "A PROGRAMAÇÃO",
+            "titulo": "Os horários do fim de semana",
+            "topicos": [
+              "Sexta: treinos livres às 12h30 e às 16h",
+              "Sábado: treino livre às 11h30 e classificação às 15h",
+              "Domingo: corrida às 14h, 71 voltas",
+              "Na TV: SporTV · no streaming: F1 TV"
+            ],
+            "fonte": "Horários de Brasília · Fonte: F1Mania"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "INTERLAGOS",
+            "titulo": "Fatos da pista",
+            "topicos": [
+              "Autódromo José Carlos Pace: 4,309 km, sentido anti-horário",
+              "Recorde de volta: Bottas, 1min10s540, em 2018",
+              "Último brasileiro a vencer aqui: Felipe Massa, em 2008",
+              "Bortoleto (Audi) corre em casa: 8º no México"
+            ],
+            "fonte": "Fontes: F1Mania · DCI · Terra"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "formula1-pista",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "QUEM LEVA?",
+            "titulo": "Quem vence em Interlagos?",
+            "opcoes": ["Antonelli", "Verstappen", "Hamilton", "Russell"],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🏁 A F1 chega a Interlagos com o campeão já definido. E agora, quem vence em casa?\n\n🏆 Kimi Antonelli (Mercedes) já é campeão, aos 20 anos\n🥈 Briga pelo vice: Verstappen 261, Hamilton 259, Russell 250\n⏰ Classificação hoje, às 15h · corrida domingo, às 14h (Brasília)\n🔁 71 voltas, sem sprint\n🇧🇷 Gabriel Bortoleto corre em casa pela Audi\n📺 SporTV e F1 TV\n\n📌 Salve para não perder o horário\n📤 Mande para quem vê F1 com você\n\nQuem vence? Responda A, B, C ou D 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#f1 #formula1 #gpsaopaulo #interlagos #bortoleto #automobilismo #eventodasemana"
+      }
+    ]
+  }
+}
