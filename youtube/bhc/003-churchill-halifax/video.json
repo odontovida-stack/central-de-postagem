@@ -1,7 +1,7 @@
 {
   "canal": "bhc",
   "tema": "bhc",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
   "quando": "2026-11-19T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -119,5 +119,9 @@
     "video": "kGvQaTA7Zrg",
     "short": "_CGlcN9h6g4"
   },
-  "status_montagem": "reenviar: estava no canal errado (TAF)"
+  "status_montagem": "reenviar: estava no canal errado (TAF)",
+  "video_id": "w61PfYPxjM4",
+  "thumbnail": true,
+  "short_id": "9W30eEL-Wwk",
+  "meta_hash": "6eb564904d61e037"
 }

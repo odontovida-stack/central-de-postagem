@@ -1,7 +1,7 @@
 {
   "canal": "bhc",
   "tema": "bhc",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Black Saturday: The Secret Deal That Ended the Cuban Missile Crisis (Oct. 27, 1962)",
   "quando": "2026-11-26T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -139,5 +139,9 @@
     "video": "8fwcluLLfqg",
     "short": "lVz_ldGiYAI"
   },
-  "status_montagem": "reenviar: estava no canal errado (TAF)"
+  "status_montagem": "reenviar: estava no canal errado (TAF)",
+  "video_id": "L-JzJsTXX3s",
+  "thumbnail": true,
+  "short_id": "1WfWS4TI30o",
+  "meta_hash": "95ec7bd266eb757f"
 }

@@ -1,6 +1,6 @@
 {
   "canal": "taf",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "The US Military Budget: $1 Trillion a Year — More Than the Next 6 Countries Combined",
   "quando": "2026-11-03T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -85,5 +85,9 @@
   "ids_antigos_excluir_no_TAF": {
     "video": "usZZr1AAi4A",
     "short": "K1_gVvvPcZw"
-  }
+  },
+  "video_id": "0eeSXqirYuI",
+  "thumbnail": true,
+  "short_id": "PPQIsgO9rHQ",
+  "meta_hash": "0635ba3cda9752d6"
 }

@@ -1,7 +1,7 @@
 {
   "canal": "bhc",
   "tema": "bhc",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "The Letter Einstein Regretted — and Why It Almost Didn't Matter (1939)",
   "quando": "2026-11-05T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -110,5 +110,9 @@
     "video": "fpTJ6cqw1II",
     "short": "ErkK-dBRqjM"
   },
-  "status_montagem": "reenviar: estava no canal errado (TAF)"
+  "status_montagem": "reenviar: estava no canal errado (TAF)",
+  "video_id": "dQqvPX5_p3E",
+  "thumbnail": true,
+  "short_id": "ePdHl9K3uQI",
+  "meta_hash": "06eaad87422f0b8a"
 }
