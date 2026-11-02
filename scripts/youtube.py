@@ -261,7 +261,11 @@ def sincronizar_metadados(sem_envio=False):
             continue
         canal = cfg["canal"]
         if canal not in tokens:
-            tokens[canal] = token_youtube(canal)
+            try:
+                tokens[canal] = token_youtube(canal)
+            except Exception as e:  # noqa: BLE001
+                print(f"ERRO: a chave YT_REFRESH_TOKEN_{canal.upper()} foi recusada pelo Google ({e}). Gere de novo no OAuth Playground.")
+                tokens[canal] = None
         if not tokens[canal]:
             continue
         corpo = json.dumps({"id": cfg["video_id"], "snippet": snip}).encode()
