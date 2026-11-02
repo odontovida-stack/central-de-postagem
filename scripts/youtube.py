@@ -294,8 +294,63 @@ def conferir_canais():
             print(f"CANAL DA CHAVE {canal.upper()}: não consegui conferir ({e})")
 
 
+def excluir_videos(sem_envio=False):
+    """Exclui do YouTube os vídeos listados em youtube/excluir.json ("pendentes": [{"id", "titulo", "motivo"}]).
+    Exclusão é definitiva: a lista só entra no main pelo merge do Luiz. Travas: só exclui vídeo dos nossos 2 canais
+    e nunca um id que algum video.json ainda usa como vídeo ou Short atual."""
+    arq = RAIZ / "youtube" / "excluir.json"
+    if sem_envio or not arq.exists():
+        return
+    lista = json.loads(arq.read_text(encoding="utf-8"))
+    pend = lista.get("pendentes", [])
+    if not pend:
+        return
+    em_uso = set()
+    for v in RAIZ.glob("youtube/*/*/video.json"):
+        c = json.loads(v.read_text(encoding="utf-8"))
+        em_uso |= {c.get("video_id"), c.get("short_id")}
+    tokens, canais = {}, {}
+    for canal in ("taf", "bhc"):
+        try:
+            tk = token_youtube(canal)
+            _, _, r = http("https://www.googleapis.com/youtube/v3/channels?part=id&mine=true", headers={"Authorization": f"Bearer {tk}"})
+            for it in json.loads(r).get("items", []):
+                canais[it["id"]] = canal
+            tokens[canal] = tk
+        except Exception as e:  # noqa: BLE001
+            print(f"exclusão: não consegui usar a chave {canal.upper()} ({e})")
+    restantes, feitos = [], lista.setdefault("feitos", [])
+    for item in pend:
+        vid = item["id"]
+        if vid in em_uso:
+            print(f"exclusão RECUSADA: {vid} ainda é o vídeo atual de um video.json")
+            restantes.append(item)
+            continue
+        dono = None
+        for canal, tk in tokens.items():
+            _, _, r = http(f"https://www.googleapis.com/youtube/v3/videos?part=snippet&id={vid}", headers={"Authorization": f"Bearer {tk}"})
+            its = json.loads(r).get("items", [])
+            if its:
+                dono = canais.get(its[0]["snippet"]["channelId"])
+                break
+        if dono is None:
+            print(f"exclusão: {vid} não existe mais ou não é dos nossos canais; tirando da lista")
+            feitos.append({**item, "resultado": "não encontrado", "em": datetime.now(timezone.utc).isoformat()[:19]})
+            continue
+        try:
+            http(f"https://www.googleapis.com/youtube/v3/videos?id={vid}", headers={"Authorization": f"Bearer {tokens[dono]}"}, metodo="DELETE")
+            print("EXCLUÍDO:", vid, item.get("titulo", ""))
+            feitos.append({**item, "resultado": f"excluído do canal {dono.upper()}", "em": datetime.now(timezone.utc).isoformat()[:19]})
+        except Exception as e:  # noqa: BLE001
+            print(f"exclusão de {vid} falhou ({e})")
+            restantes.append(item)
+    lista["pendentes"] = restantes
+    arq.write_text(json.dumps(lista, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
 if __name__ == "__main__":
     if "--sem-envio" not in sys.argv:
         conferir_canais()
     main()
     sincronizar_metadados("--sem-envio" in sys.argv)
+    excluir_videos("--sem-envio" in sys.argv)

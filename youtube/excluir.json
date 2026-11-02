@@ -1,0 +1,5 @@
+{
+  "_como_usar": "Ponha em 'pendentes' os vídeos a excluir do YouTube ({id, titulo, motivo}). A exclusão é definitiva e só acontece depois do merge do Luiz. O robô recusa id que ainda é vídeo atual de algum video.json.",
+  "pendentes": [],
+  "feitos": []
+}
