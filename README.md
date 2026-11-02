@@ -133,7 +133,8 @@ Post diário do @esportesnatela às **07:00**: um carrossel com a agenda do dia 
 - Use de 2 a 4 cards (títulos "Agenda completa 1/3", "2/3"...), em ordem de horário; mire 25 a 35 eventos.
 - Só entra evento com horário e canal conferidos em fonte oficial ou grande veículo. Canal incerto: "a confirmar".
 - Inclua canais grátis (YouTube, CazéTV, GOAT, TV aberta) quando houver e marque a linha com `"gratis": true`: aparece o selo verde GRÁTIS. É o que mais faz o post ser salvo.
-- Legenda: os destaques do dia em 3 a 5 linhas + "Salve para consultar durante o dia".
+- Legenda: os destaques do dia em 3 a 5 linhas + "Salve para consultar durante o dia" + "📲 Receba a agenda no WhatsApp: link na bio".
+- Canal de WhatsApp do @esportesnatela: https://whatsapp.com/channel/0029VbEifluBFLgRGCjIEd41 (o Luiz cola a agenda do dia lá; o robô manda o texto pronto na mensagem do PR).
 
 ### Jogo do dia e selo grátis no card `agenda`
 
