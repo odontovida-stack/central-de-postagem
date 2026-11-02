@@ -26,7 +26,12 @@
   },
   "esportesnatela": {
     "titulo": "@esportesnatela · links",
-    "fixos": []
+    "fixos": [
+      {
+        "titulo": "📲 Agenda do dia no WhatsApp (grátis)",
+        "url": "https://whatsapp.com/channel/0029VbEifluBFLgRGCjIEd41"
+      }
+    ]
   },
   "tudooqueestreia": {
     "titulo": "@tudooqueestreia · links",
