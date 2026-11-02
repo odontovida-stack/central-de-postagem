@@ -19,6 +19,8 @@ jobs:
     timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main  # execução que estava na fila pega o main mais novo (com os ids já gravados), nunca um commit antigo
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

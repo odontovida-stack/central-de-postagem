@@ -241,5 +241,41 @@ def main():
         arq.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def sincronizar_metadados(sem_envio=False):
+    """Vídeos já enviados: se o título, a descrição ou as tags no repositório mudaram, atualiza no YouTube.
+    Precisa do refresh token com o escopo youtube.force-ssl (o youtube.upload sozinho não edita vídeo)."""
+    import hashlib
+    if sem_envio:
+        return
+    tokens = {}
+    for arq in sorted(RAIZ.glob("youtube/*/*/video.json")):
+        pasta = arq.parent
+        cfg = json.loads(arq.read_text(encoding="utf-8"))
+        if not cfg.get("video_id"):
+            continue
+        snip = {"title": cfg["titulo"][:100], "description": descricao(pasta)[:5000], "tags": cfg.get("tags", []),
+                "categoryId": cfg.get("categoria", "27"), "defaultLanguage": cfg.get("idioma", "en"),
+                "defaultAudioLanguage": cfg.get("idioma", "en")}
+        h = hashlib.sha256(json.dumps(snip, sort_keys=True, ensure_ascii=False).encode()).hexdigest()[:16]
+        if cfg.get("meta_hash") == h:
+            continue
+        canal = cfg["canal"]
+        if canal not in tokens:
+            tokens[canal] = token_youtube(canal)
+        if not tokens[canal]:
+            continue
+        corpo = json.dumps({"id": cfg["video_id"], "snippet": snip}).encode()
+        try:
+            http("https://www.googleapis.com/youtube/v3/videos?part=snippet", corpo,
+                 {"Authorization": f"Bearer {tokens[canal]}", "Content-Type": "application/json; charset=UTF-8"}, "PUT")
+        except Exception as e:  # noqa: BLE001
+            print(f"metadados de {pasta.relative_to(RAIZ)} não atualizados ({e}); falta o escopo youtube.force-ssl no token de {canal}?")
+            continue
+        cfg["meta_hash"] = h
+        arq.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print("metadados atualizados:", pasta.relative_to(RAIZ), cfg["video_id"])
+
+
 if __name__ == "__main__":
     main()
+    sincronizar_metadados("--sem-envio" in sys.argv)
