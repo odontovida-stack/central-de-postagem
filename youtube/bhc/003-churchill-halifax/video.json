@@ -1,7 +1,7 @@
 {
   "canal": "bhc",
   "tema": "bhc",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
   "quando": "2026-11-19T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -114,5 +114,8 @@
     58,
     59
   ],
-  "_como_aprovar": "Preencha 'voz' com o MESMO Voice ID do BHC #001 ou ponha os MP3 em audio/ (01.mp3 ... 08.mp3 e short.mp3), e troque status para 'aprovado'. O merge do PR dispara o robô."
+  "_como_aprovar": "Preencha 'voz' com o MESMO Voice ID do BHC #001 ou ponha os MP3 em audio/ (01.mp3 ... 08.mp3 e short.mp3), e troque status para 'aprovado'. O merge do PR dispara o robô.",
+  "video_id": "kGvQaTA7Zrg",
+  "thumbnail": true,
+  "short_id": "_CGlcN9h6g4"
 }
