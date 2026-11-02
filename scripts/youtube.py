@@ -132,7 +132,27 @@ def montar_short(pasta, out):
 def descricao(pasta):
     """descricao.txt + seção PHOTOS com os créditos das fotos de fundo usadas (até 5000 caracteres)."""
     desc = (pasta / "descricao.txt").read_text(encoding="utf-8")
+    desc = desc.replace(" (affiliate links: [ADD AMAZON ASSOCIATES LINKS])", "")  # sem afiliado nos EUA por enquanto
+    desc = capitulos_reais(pasta, desc)
     return descricao_com_creditos(desc, creditos_do_video(pasta / "slides.json", pasta / "thumb.json"))
+
+
+def capitulos_reais(pasta, desc):
+    """Se há um capítulo por PART e os áudios existem, troca os tempos estimados pelos tempos reais da narração."""
+    import re
+    linhas = desc.split("\n")
+    idx = [i for i, l in enumerate(linhas) if re.match(r"^\d{1,2}:\d{2}(:\d{2})? ", l)]
+    blocos = json.loads((pasta / "narracao.json").read_text(encoding="utf-8"))
+    mp3s = [pasta / "audio" / b["arquivo"] for b in blocos]
+    if len(idx) != len(blocos) or not all(m.exists() for m in mp3s):
+        return desc
+    ini = 0.0
+    for i, m in zip(idx, mp3s):
+        s = int(ini)
+        tempo = f"{s // 3600}:{s % 3600 // 60:02d}:{s % 60:02d}" if s >= 3600 else f"{s // 60}:{s % 60:02d}"
+        linhas[i] = re.sub(r"^\d{1,2}:\d{2}(:\d{2})?", tempo, linhas[i])
+        ini += float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(m)]).decode())
+    return "\n".join(linhas)
 
 
 def no_futuro(dt, folga_min=45):
