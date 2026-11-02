@@ -84,6 +84,12 @@ body{{margin:0}}</style></head><body>
 </div></body></html>'''
 
 
+def selo_gratis(px=24):
+    """Selo verde de transmissão grátis (TV aberta, YouTube, CazéTV...)."""
+    return (f'<span style="display: inline-block; font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: {px}px; '
+            f'letter-spacing: 0.06em; background: #2FD17A; color: {BG}; border-radius: 6px; padding: 1px 10px; white-space: nowrap">GRÁTIS</span>')
+
+
 def agenda(conta, card):
     cor = PAGINAS[conta]["cor"]
     itens = card["itens"]
@@ -91,7 +97,10 @@ def agenda(conta, card):
     titulo_px, det_px, pad, gap, h1_px, data_px = (50, 30, 22, 18, 124, 48) if n <= 4 else (44, 28, 18, 14, 112, 44) if n == 5 else (40, 26, 14, 12, 100, 40)
     linhas = []
     for it in itens:
-        linhas.append(f'''<div style="display: flex; align-items: center; gap: 28px; background: {CARD}; border-radius: 18px; padding: {pad}px 24px"><div style="width: 150px; flex-shrink: 0; background: {cor}; color: {BG}; border-radius: 12px; padding: 10px 0; display: flex; flex-direction: column; align-items: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: {data_px if len(it["data"]) <= 5 else data_px - 10}px; line-height: 1">{e(it["data"])}</span><span style="font-weight: 700; font-size: 26px">{e(it.get("sub"))}</span></div><div style="display: flex; flex-direction: column; gap: 4px; min-width: 0"><span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: {titulo_px}px; line-height: 1">{e(it["titulo"])}</span><span style="font-size: {det_px}px; color: {MUTED}">{e(it.get("detalhe"))}</span></div></div>''')
+        borda = f"box-shadow: inset 0 0 0 4px {cor}; " if it.get("destaque") else ""
+        rotulo = (f'<span style="font-weight: 800; font-size: 22px; letter-spacing: 0.12em; color: {cor}">★ JOGO DO DIA</span>' if it.get("destaque") else "")
+        gratis = (" " + selo_gratis(det_px - 4)) if it.get("gratis") else ""
+        linhas.append(f'''<div style="display: flex; align-items: center; gap: 28px; background: {CARD}; {borda}border-radius: 18px; padding: {pad}px 24px"><div style="width: 150px; flex-shrink: 0; background: {cor}; color: {BG}; border-radius: 12px; padding: 10px 0; display: flex; flex-direction: column; align-items: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: {data_px if len(it["data"]) <= 5 else data_px - 10}px; line-height: 1">{e(it["data"])}</span><span style="font-weight: 700; font-size: 26px">{e(it.get("sub"))}</span></div><div style="display: flex; flex-direction: column; gap: 4px; min-width: 0">{rotulo}<span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: {titulo_px}px; line-height: 1">{e(it["titulo"])}</span><span style="font-size: {det_px}px; color: {MUTED}">{e(it.get("detalhe"))}{gratis}</span></div></div>''')
     miolo = f'''{topo(conta, cor, card["pilula"], False)}
 <div style="display: flex; flex-direction: column; gap: 10px">
 <span style="font-weight: 700; font-size: 32px; letter-spacing: 0.12em; color: {cor}">{e(card["chamada"])}</span>
@@ -130,7 +139,7 @@ def grade(conta, card):
 <span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 40px; font-variant-numeric: tabular-nums">{e(l["hora"])}</span>
 <span style="align-self: stretch; border-radius: 4px; background: {ce}"></span>
 <div style="display: flex; flex-direction: column; min-width: 0"><span style="font-weight: 700; font-size: 30px; line-height: 1.08; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">{e(l["jogo"])}</span><span style="font-size: 21px; line-height: 1.2; color: {MUTED}; white-space: nowrap; overflow: hidden; text-overflow: ellipsis"><b style="color: {ce}; letter-spacing: 0.06em">{e(ROTULO_ESPORTE.get(esp, esp.upper()))}</b> · {e(l.get("competicao"))}</span></div>
-<span style="font-size: 25px; font-weight: 600; text-align: right; line-height: 1.1">{e(l.get("canal"))}</span>
+<span style="display: flex; flex-direction: column; align-items: flex-end; gap: 4px; font-size: 25px; font-weight: 600; text-align: right; line-height: 1.1">{e(l.get("canal"))}{selo_gratis(22) if l.get("gratis") else ""}</span>
 </div>''')
     miolo = f'''{topo(conta, cor, card["pilula"], True)}
 <div style="display: flex; flex-direction: column; gap: 6px">
