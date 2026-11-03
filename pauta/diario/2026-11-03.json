@@ -1,0 +1,429 @@
+{
+ "dia": "03/11/2026",
+ "apurado_em": "2026-11-03",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-03T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de terça-feira, 03/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 03/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 1ª rodada",
+        "jogo": "Rinderknech x F. Cerundolo",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "07h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 1ª rodada",
+        "jogo": "Rublev x Etcheverry",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "07h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 1ª rodada",
+        "jogo": "Halys x Fery",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "~10h",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 1ª rodada",
+        "jogo": "Djokovic x Vacherot",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 1ª rodada",
+        "jogo": "Michelsen x Lehecka",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 1ª rodada",
+        "jogo": "Bonzi x Fritz",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "Shakhtar x Sporting",
+        "canal": "TNT · HBO Max"
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "Galatasaray x Stuttgart",
+        "canal": "Space · HBO Max"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 2ª rodada",
+        "jogo": "Shelton x Norrie",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Costa do Sauípe (BA)",
+        "jogo": "Thiago Monteiro x Leonardo Storck",
+        "canal": "Challenger TV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 03/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, UEFA, emissoras",
+      "cta": "Arraste →",
+      "alt": "Agenda de terça, 03/11, das 7h às 15h: Masters 1000 de Paris com Djokovic x Vacherot por volta das 10h, Champions às 14h45 e brasileiros no Challenger da Costa do Sauípe"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 03/11",
+      "linhas": [
+       {
+        "hora": "16h00",
+        "esporte": "basquete",
+        "competicao": "EuroCup",
+        "jogo": "Napoli x Trento",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 2ª rodada",
+        "jogo": "Ruud x Jodar",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "Atlético de Madrid x Bayern",
+        "canal": "Space · HBO Max"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "Barcelona x Aston Villa",
+        "canal": "SBT · HBO Max",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "Manchester United x Roma",
+        "canal": "YouTube · HBO Max",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Costa do Sauípe (BA)",
+        "jogo": "Guto Miguel x Eduardo Ribeiro",
+        "canal": "Challenger TV",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Goiás x Minas",
+        "canal": "SporTV 2"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Barueri x Sesi Bauru",
+        "canal": "ge tv (YouTube)",
+        "gratis": true
+       },
+       {
+        "hora": "19h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Brasil Feminina · semi",
+        "jogo": "Bahia x Flamengo",
+        "canal": "SporTV"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Costa do Sauípe (BA)",
+        "jogo": "Díaz Acosta x Matheus Pucinelli",
+        "canal": "Challenger TV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 03/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, UEFA, emissoras",
+      "cta": "Arraste →",
+      "alt": "Agenda de terça, 03/11, das 16h às 19h: Atlético de Madrid x Bayern, Barcelona x Aston Villa no SBT e Manchester United x Roma no YouTube, Superliga de vôlei e Challenger do Sauípe"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 03/11",
+      "linhas": [
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Franca x Minas",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Bauru x Cruzeiro",
+        "canal": "YouTube do NBB",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "Chapecoense x Mirassol",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "~20h30",
+        "esporte": "tenis",
+        "competicao": "Challenger Costa do Sauípe (BA)",
+        "jogo": "Thiago Wild x Felipe Meligeni",
+        "canal": "Challenger TV",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "São José x Vôlei Renata",
+        "canal": "SporTV 2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Monte Carmelo x Suzano",
+        "canal": "ge tv (YouTube)",
+        "gratis": true
+       },
+       {
+        "hora": "21h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "Internacional x Coritiba",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "outros",
+        "competicao": "NHL · hóquei no gelo",
+        "jogo": "Oilers e Devils",
+        "canal": "a confirmar"
+       }
+      ],
+      "fonte": "Conferido em 03/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, UEFA, emissoras",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de terça, 03/11, das 19h30 às 21h30: NBB, Brasileirão, Thiago Wild x Felipe Meligeni, Superliga Masculina e NHL"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de terça-feira, 03/11 (horário de Brasília)\n\n🎾 ~10h · Djokovic x Vacherot no Masters de Paris, jogo que vale a vaga em Turim · ESPN 2 e Disney+\n⚽ 17h · Atlético de Madrid x Bayern, Barcelona x Aston Villa (SBT 🆓) e Manchester United x Roma (YouTube da TNT 🆓) na Champions\n🏐 18h30 e 21h · Superliga de vôlei, com Barueri x Sesi Bauru e Monte Carmelo x Suzano grátis no ge tv 🆓\n🏀 19h30 · NBB: Franca x Minas (ESPN) e Bauru x Cruzeiro (YouTube do NBB 🆓)\n🇧🇷 ~20h30 · Thiago Wild x Felipe Meligeni, duelo brasileiro no Challenger da Costa do Sauípe (Challenger TV 🆓)\n\nSem NBA hoje: a liga não joga no dia da eleição nos EUA e volta na quarta.\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #tenis #championsleague #superliga #nbb #djokovic"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-03T07:30:00-03:00",
+    "alt": "Resultados de segunda, 02/11, e jogos de terça, 03/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "SEG 02/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão",
+        "jogos": [
+         {
+          "casa": "Bragantino",
+          "gc": 2,
+          "fora": "Santos",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Série B",
+        "jogos": [
+         {
+          "casa": "Fortaleza",
+          "gc": 0,
+          "fora": "Atlético-GO",
+          "gf": 0
+         }
+        ]
+       },
+       {
+        "competicao": "Premier League",
+        "jogos": [
+         {
+          "casa": "Newcastle",
+          "gc": 0,
+          "fora": "Everton",
+          "gf": 1
+         }
+        ]
+       }
+      ],
+      "destaque": "Wallace Yan decide e Bragantino vence o Santos",
+      "destaque_rotulo": "FATO DA NOITE",
+      "fonte": "Conferido em 03/11 às 1h · Lance, Gazeta Esportiva, Terra, Arab News",
+      "cta": "Arraste →",
+      "alt": "Resultados de segunda, 02/11: Bragantino 2x1 Santos pelo Brasileirão, Fortaleza 0x0 Atlético-GO pela Série B e Newcastle 0x1 Everton pela Premier League"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "TER 03/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "03/11",
+        "sub": "TER · 17h",
+        "titulo": "Atlético de Madrid x Bayern",
+        "detalhe": "Champions · Space, HBO Max",
+        "destaque": true
+       },
+       {
+        "data": "03/11",
+        "sub": "TER · 14h45",
+        "titulo": "Shakhtar x Sporting",
+        "detalhe": "Champions · TNT, HBO Max"
+       },
+       {
+        "data": "03/11",
+        "sub": "TER · 17h",
+        "titulo": "Barcelona x Aston Villa",
+        "detalhe": "Champions · SBT, TNT, HBO Max",
+        "gratis": true
+       },
+       {
+        "data": "03/11",
+        "sub": "TER · 17h",
+        "titulo": "Man. United x Roma",
+        "detalhe": "Champions · YouTube TNT, HBO Max",
+        "gratis": true
+       },
+       {
+        "data": "03/11",
+        "sub": "TER · 19h30",
+        "titulo": "Chapecoense x Mirassol",
+        "detalhe": "Brasileirão · Premiere"
+       },
+       {
+        "data": "03/11",
+        "sub": "TER · 21h30",
+        "titulo": "Internacional x Coritiba",
+        "detalhe": "Brasileirão · Premiere"
+       }
+      ],
+      "fonte": "Conferido em 03/11 às 1h · UEFA, TNT Sports, SBT, Gazeta Esportiva",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de terça, 03/11: Atlético de Madrid x Bayern às 17h (jogo do dia), Shakhtar x Sporting às 14h45, Barcelona x Aston Villa às 17h no SBT, Manchester United x Roma às 17h no YouTube da TNT, Chapecoense x Mirassol às 19h30 e Internacional x Coritiba às 21h30"
+     }
+    ],
+    "legenda": "⚽ Dia de Champions: Atlético de Madrid x Bayern é o jogo do dia, e tem Barcelona e Manchester United de graça!\n\n📊 Resultados de ontem (segunda, 02/11):\n🇧🇷 Bragantino 2x1 Santos · Brasileirão (gol contra de Rodinei, Coutinho empatou e Wallace Yan decidiu de cabeça)\n🇧🇷 Fortaleza 0x0 Atlético-GO · Série B (Maílton perdeu pênalti no fim)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle 0x1 Everton · Premier League (gol de Thierno Barry)\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 17h · Atlético de Madrid x Bayern · Champions · Space e HBO Max\n🏆 14h45 · Shakhtar x Sporting · Champions · TNT e HBO Max\n🆓 17h · Barcelona x Aston Villa · Champions · SBT, TNT e HBO Max\n🆓 17h · Manchester United x Roma · Champions · YouTube da TNT Sports e HBO Max\n🇧🇷 19h30 · Chapecoense x Mirassol · Brasileirão · Premiere\n🇧🇷 21h30 · Internacional x Coritiba · Brasileirão · Premiere\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual jogo você vai assistir hoje? 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #championsleague #brasileirao #barcelona #bayern #ondeassistir"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "gratis",
+    "quando": "2026-11-03T14:00:00-03:00",
+    "alt": "Tudo grátis agora #3: jogos para resgatar na Epic e no PS Plus Essential",
+    "cards": [
+     {
+      "tipo": "agenda",
+      "pilula": "SÉRIE #3",
+      "chamada": "TUDO GRÁTIS AGORA #3",
+      "titulo": "Resgate antes que acabe",
+      "itens": [
+       {
+        "data": "05/11",
+        "sub": "QUI · 13h",
+        "titulo": "Sorry We're Closed",
+        "detalhe": "Epic · acaba em 47h · qui 05/11, 13h"
+       },
+       {
+        "data": "HOJE",
+        "sub": "PS PLUS",
+        "titulo": "Dead Island 2",
+        "detalhe": "PS Plus Essential · PS5 e PS4 · para assinantes"
+       },
+       {
+        "data": "HOJE",
+        "sub": "PS PLUS",
+        "titulo": "Tomb Raider IV-VI Remastered",
+        "detalhe": "PS Plus Essential · PS5 e PS4 · para assinantes"
+       },
+       {
+        "data": "HOJE",
+        "sub": "PS PLUS",
+        "titulo": "Monster Train 2",
+        "detalhe": "PS Plus Essential · PS5 · para assinantes"
+       },
+       {
+        "data": "05/11",
+        "sub": "A PARTIR",
+        "titulo": "Flotsam e Idle Champions",
+        "detalhe": "Epic · chega dia 05/11, a partir das 13h"
+       }
+      ],
+      "fonte": "Conferido em 03/11 às 1h · Epic Games Store, PlayStation Blog",
+      "cta": "Arraste →",
+      "alt": "Tudo grátis agora #3: Sorry We're Closed grátis na Epic até quinta, 05/11, às 13h; Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2 no PS Plus Essential desde hoje; Flotsam e Idle Champions chegam grátis na Epic em 05/11"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "PASSO A PASSO",
+      "chamada": "COMO RESGATAR",
+      "titulo": "Leva 1 minuto",
+      "texto": "Resgatou, é seu: o jogo fica na sua biblioteca mesmo depois que a promoção acaba.",
+      "topicos": [
+       "Entre na loja (Epic ou PlayStation Store) com a sua conta",
+       "Toque em \"Obter\" ou \"Adicionar à biblioteca\"",
+       "No PS Plus, precisa ter a assinatura ativa para jogar"
+      ],
+      "fonte": "",
+      "cta": "Salve e compartilhe",
+      "alt": "Como resgatar: entre na loja com a sua conta, toque em Obter ou Adicionar à biblioteca, e o jogo fica na sua biblioteca. No PS Plus, a assinatura precisa estar ativa para jogar."
+     }
+    ],
+    "legenda": "⏰ Você tem 47h para pegar o terror grátis da Epic!\n\n🎁 TUDO GRÁTIS AGORA #3\n👻 Sorry We're Closed · Epic Games · grátis até quinta, 05/11, às 13h\n🎮 PS Plus Essential de novembro, liberado hoje para assinantes:\n🧟 Dead Island 2 · PS5 e PS4\n🏺 Tomb Raider IV-VI Remastered · PS5 e PS4\n🚂 Monster Train 2 · PS5\n🔜 A partir de quinta, 05/11, às 13h: Flotsam e Idle Champions of the Forgotten Realms grátis na Epic\n\n📌 Salve para não perder o prazo\n📤 Mande para aquele amigo que adora jogo grátis\n\nQual você vai resgatar primeiro? 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\nFontes: Epic Games Store e PlayStation Blog.\n\n#jogosgratis #epicgames #psplus #playstation #deadisland2 #tombraider #games #gamer"
+   }
+  ]
+ }
+}
