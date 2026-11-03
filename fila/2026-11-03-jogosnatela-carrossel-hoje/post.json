@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-11-03T07:30:00-03:00",
-  "status": "aprovado",
+  "status": "erro",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -17,5 +17,8 @@
     "Jogos de terça, 03/11: Atlético de Madrid x Bayern às 17h (jogo do dia), Shakhtar x Sporting às 14h45, Barcelona x Aston Villa às 17h no SBT, Manchester United x Roma às 17h no YouTube da TNT, Chapecoense x Mirassol às 19h30 e Internacional x Coritiba às 21h30",
     "Siga @jogosnatela e ative as notificações para não perder os próximos posts"
   ],
-  "legenda": "⚽ Dia de Champions: Atlético de Madrid x Bayern é o jogo do dia, e tem Barcelona e Manchester United de graça!\n\n📊 Resultados de ontem (segunda, 02/11):\n🇧🇷 Bragantino 2x1 Santos · Brasileirão (gol contra de Rodinei, Coutinho empatou e Wallace Yan decidiu de cabeça)\n🇧🇷 Fortaleza 0x0 Atlético-GO · Série B (Maílton perdeu pênalti no fim)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle 0x1 Everton · Premier League (gol de Thierno Barry)\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 17h · Atlético de Madrid x Bayern · Champions · Space e HBO Max\n🏆 14h45 · Shakhtar x Sporting · Champions · TNT e HBO Max\n🆓 17h · Barcelona x Aston Villa · Champions · SBT, TNT e HBO Max\n🆓 17h · Manchester United x Roma · Champions · YouTube da TNT Sports e HBO Max\n🇧🇷 19h30 · Chapecoense x Mirassol · Brasileirão · Premiere\n🇧🇷 21h30 · Internacional x Coritiba · Brasileirão · Premiere\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual jogo você vai assistir hoje? 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #championsleague #brasileirao #barcelona #bayern #ondeassistir"
+  "legenda": "⚽ Dia de Champions: Atlético de Madrid x Bayern é o jogo do dia, e tem Barcelona e Manchester United de graça!\n\n📊 Resultados de ontem (segunda, 02/11):\n🇧🇷 Bragantino 2x1 Santos · Brasileirão (gol contra de Rodinei, Coutinho empatou e Wallace Yan decidiu de cabeça)\n🇧🇷 Fortaleza 0x0 Atlético-GO · Série B (Maílton perdeu pênalti no fim)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle 0x1 Everton · Premier League (gol de Thierno Barry)\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 17h · Atlético de Madrid x Bayern · Champions · Space e HBO Max\n🏆 14h45 · Shakhtar x Sporting · Champions · TNT e HBO Max\n🆓 17h · Barcelona x Aston Villa · Champions · SBT, TNT e HBO Max\n🆓 17h · Manchester United x Roma · Champions · YouTube da TNT Sports e HBO Max\n🇧🇷 19h30 · Chapecoense x Mirassol · Brasileirão · Premiere\n🇧🇷 21h30 · Internacional x Coritiba · Brasileirão · Premiere\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual jogo você vai assistir hoje? 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #championsleague #brasileirao #barcelona #bayern #ondeassistir",
+  "resultado": {},
+  "erro": "POST 17841436210817201/media_publish: Media ID is not available (código 9007)",
+  "tentativas": 1
 }
