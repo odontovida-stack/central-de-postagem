@@ -527,5 +527,29 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Newcastle": {
+  "sigla": "NEW",
+  "cores": [
+   "#241F20",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Everton": {
+  "sigla": "EVE",
+  "cores": [
+   "#003399",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Atlético-GO": {
+  "sigla": "ACG",
+  "cores": [
+   "#E30613",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
  }
 }
