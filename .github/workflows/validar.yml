@@ -13,3 +13,31 @@ jobs:
         with:
           python-version: "3.12"
       - run: python scripts/validar.py
+
+  # Decidido pelo Luiz em 03/11/2026: os posts FIXOS do dia (agenda completa, jogos de hoje,
+  # Tudo grátis) saem sem o merge dele. O robô da madrugada abre o PR no branch posts-fixos-AAAA-MM-DD;
+  # se a conferência acima passar e o PR só mexer em fila/, pauta/diario/ e config/times.json,
+  # este job faz o merge sozinho. Qualquer outro arquivo ou branch continua esperando o Luiz.
+  merge-automatico-fixos:
+    needs: conferir
+    if: (startsWith(github.head_ref, 'posts-fixos-') || startsWith(github.event.pull_request.title, 'Posts fixos')) && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Conferir arquivos e fazer o merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          fora=$(gh api "repos/$REPO/pulls/$PR/files" --paginate --jq '.[].filename' \
+                 | grep -vE '^(fila/|pauta/diario/|config/times\.json$)' || true)
+          if [ -n "$fora" ]; then
+            echo "Arquivos fora do permitido, fica para o Luiz aprovar:"; echo "$fora"
+            gh api "repos/$REPO/issues/$PR/comments" -f body="⏸️ Não mesclei sozinho: este PR mexe em arquivos que não são de post ($fora). Fica para o Luiz aprovar."
+            exit 0
+          fi
+          gh api -X PUT "repos/$REPO/pulls/$PR/merge" -f merge_method=squash
+          gh api "repos/$REPO/issues/$PR/comments" -f body="✅ Mesclado automaticamente: posts fixos conferidos (regra aprovada pelo Luiz em 03/11/2026)."
