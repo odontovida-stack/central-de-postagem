@@ -1,0 +1,120 @@
+{
+ "dia": "04/11/2026",
+ "apurado_em": "2026-11-04",
+ "contas": {
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-04T17:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "QUA 04/11",
+    "chamada": "JOGO DO DIA · HORÁRIO DE BRASÍLIA",
+    "grande": "21h30",
+    "titulo": "São Paulo x Corinthians",
+    "caixas": [
+     [
+      "Onde assistir",
+      "Globo, ge tv, Premiere"
+     ],
+     [
+      "Competição",
+      "Brasileirão · 34ª rodada"
+     ]
+    ],
+    "nota": "Clássico com o Corinthians na zona de rebaixamento.",
+    "fonte": "Conferido em 04/11 às 1h · Lance, Brasil 247, Mantos do Futebol",
+    "cta": "Mande para quem vai ver",
+    "alt": "Jogo do dia: São Paulo x Corinthians às 21h30, horário de Brasília, pela 34ª rodada do Brasileirão, na Globo, no ge tv e no Premiere",
+    "legenda": "🔥 Hoje tem Majestoso de graça na TV aberta!\n\n🇧🇷 São Paulo x Corinthians\n⏰ 21h30 (horário de Brasília)\n🏆 Brasileirão · 34ª rodada\n📉 O Corinthians chega na zona de rebaixamento\n📺 Globo (SP e parte da rede), ge tv no YouTube 🆓 e Premiere\n\n⚽ No mesmo horário: Botafogo x Atlético-MG. Às 19h30: Flamengo x Grêmio e Athletico-PR x Vasco.\n\n📌 Salve para não perder o horário.\n📤 Mande para quem vai ver o jogo com você.\n\nQuem leva o clássico? 👇\nSiga @jogosnatela para o jogo do dia, todo dia.\n\n#brasileirao #saopaulo #corinthians #majestoso #futebol #jogododia"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-04T18:30:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "PALPITE",
+    "chamada": "BRASILEIRÃO · HOJE ÀS 21H30",
+    "titulo": "São Paulo x Corinthians: quem vence?",
+    "contexto": "Clássico da 34ª rodada, com o Corinthians no Z4.",
+    "opcoes": [
+     "São Paulo",
+     "Empate",
+     "Corinthians"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: São Paulo x Corinthians, quem vence? A: São Paulo. B: Empate. C: Corinthians.",
+    "legenda": "🔴⚪⚫ São Paulo x Corinthians: quem vence o clássico de hoje?\n\nA) São Paulo\nB) Empate\nC) Corinthians\n\n⏰ Hoje, 21h30 (horário de Brasília) · Globo, ge tv e Premiere\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para aquele amigo que torce para o rival.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos grandes de todo dia.\n\n#brasileirao #saopaulo #corinthians #majestoso #futebol #palpite"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-04T13:00:00-03:00",
+    "pilula": "CAMPEÃ",
+    "chamada": "JUDÔ · JOGOS OLÍMPICOS DA JUVENTUDE",
+    "grande": "1º ouro",
+    "titulo": "Clarisse Vallim é ouro em Dakar",
+    "caixas": [
+     [
+      "Categoria",
+      "Até 78kg"
+     ],
+     [
+      "Na final",
+      "Venceu a russa Dobrovolskaia"
+     ]
+    ],
+    "nota": "É o primeiro ouro do Brasil nos Jogos Olímpicos da Juventude 2026.",
+    "fonte": "Conferido em 04/11 às 1h · Gazetaweb",
+    "cta": "Salve e compartilhe",
+    "alt": "Clarisse Vallim, do Flamengo, ganhou o primeiro ouro do Brasil nos Jogos Olímpicos da Juventude de Dakar 2026, no judô até 78kg",
+    "legenda": "🥇 Primeiro ouro do Brasil nos Jogos Olímpicos da Juventude!\n\n🥋 Clarisse Vallim, de 16 anos, do Flamengo, foi campeã no judô até 78kg em Dakar, no Senegal\n💪 Na final, venceu a russa Anastasiia Dobrovolskaia com uma imobilização nos últimos segundos\n⬆️ Ela costuma lutar até 70kg e subiu de categoria para o torneio\n🥉 Antes, o Brasil tinha o bronze de Ana Júlia Amaral nos 100m borboleta\n\n🏐 Hoje, às 9h, a dupla Bruno Fellipe e Gabriel disputa o bronze no vôlei de praia.\n\n📌 Salve para acompanhar a nova geração.\n📤 Mande para quem treina judô.\n\nManda os parabéns nos comentários 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFonte: Gazetaweb.\n\n#judo #jogosolimpicosdajuventude #dakar2026 #timebrasil #flamengo #esportes"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "vai-comprar",
+    "quando": "2026-11-04T20:00:00-03:00",
+    "pilula": "SAI AMANHÃ",
+    "chamada": "NINTENDO SWITCH 2 · 05/11",
+    "titulo": "Vai comprar Ocarina of Time no lançamento?",
+    "contexto": "O remake de The Legend of Zelda sai amanhã, 05/11, no Switch 2.",
+    "opcoes": [
+     "Sim, no dia 1",
+     "Vou esperar promoção",
+     "Não vou jogar"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Pergunta: vai comprar The Legend of Zelda: Ocarina of Time no lançamento? A: Sim, no dia 1. B: Vou esperar promoção. C: Não vou jogar.",
+    "legenda": "🗡️ Ocarina of Time está de volta amanhã: vai comprar no lançamento?\n\nA) Sim, no dia 1\nB) Vou esperar promoção\nC) Não vou jogar\n\n🎮 The Legend of Zelda: Ocarina of Time (remake) · Nintendo Switch 2\n📅 Quinta, 05/11\n💰 Preço em real: a confirmar na eShop\n\n📌 Salve para lembrar do lançamento.\n📤 Mande para quem jogou o original com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @lancamentosdegames para os lançamentos de toda semana.\n\nFontes: Nintendo, GamesRadar e GameOverdrive.\n\n#zelda #ocarinaoftime #nintendo #switch2 #lancamentos #games"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "enquete",
+    "quando": "2026-11-04T20:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "ENQUETE",
+    "chamada": "SHOWS CONFIRMADOS NO BRASIL",
+    "titulo": "Qual destes shows você mais quer ver?",
+    "contexto": "Todos com data marcada nos próximos meses.",
+    "opcoes": [
+     "Marisa Monte · 6 a 8/11",
+     "Opeth · 06/11",
+     "Hayley Williams · 12 e 13/11",
+     "The Jacksons · 30/01"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Enquete: qual destes shows você mais quer ver? A: Marisa Monte, de 6 a 8/11. B: Opeth, 06/11. C: Hayley Williams, 12 e 13/11. D: The Jacksons, 30/01.",
+    "legenda": "🎤 Qual destes shows você mais quer ver?\n\nA) Marisa Monte · 6 a 8/11 · Brava Arena Jockey\nB) Opeth · 06/11 · Espaço Unimed\nC) Hayley Williams · 12/11 (esgotado) e 13/11 · Espaço Unimed\nD) The Jacksons · 30/01/2027 · Espaço Unimed (pré-venda em 11/11)\n\n📌 Salve para não perder as datas.\n📤 Mande para quem vai ao show com você.\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @showsconfirmados para os shows confirmados no Brasil.\n\n#shows #showsnobrasil #marisamonte #opeth #hayleywilliams #thejacksons #showsconfirmados"
+   }
+  ]
+ }
+}
