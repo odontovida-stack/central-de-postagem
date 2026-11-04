@@ -20,7 +20,7 @@ jobs:
   # este job faz o merge sozinho. Qualquer outro arquivo ou branch continua esperando o Luiz.
   merge-automatico-fixos:
     needs: conferir
-    if: startsWith(github.head_ref, 'posts-fixos-') && github.event.pull_request.head.repo.full_name == github.repository
+    if: (startsWith(github.head_ref, 'posts-fixos-') || startsWith(github.event.pull_request.title, 'Posts fixos')) && github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     permissions:
       contents: write
