@@ -24,9 +24,20 @@ jobs:
           TOKEN_BRAZILONABUDGET: ${{ secrets.TOKEN_BRAZILONABUDGET }}
           TOKEN_LLSHOP: ${{ secrets.TOKEN_LLSHOP }}
         run: python scripts/coletar_metricas.py
+      - name: Coletar painel de operações (Instagram, Facebook, YouTube, robô)
+        env:
+          GRAPH_VERSION: ${{ vars.GRAPH_VERSION || 'v23.0' }}
+          TOKEN_BRASIL2359: ${{ secrets.TOKEN_BRASIL2359 }}
+          TOKEN_BRAZILONABUDGET: ${{ secrets.TOKEN_BRAZILONABUDGET }}
+          TOKEN_LLSHOP: ${{ secrets.TOKEN_LLSHOP }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN_TAF: ${{ secrets.YT_REFRESH_TOKEN_TAF }}
+          YT_REFRESH_TOKEN_BHC: ${{ secrets.YT_REFRESH_TOKEN_BHC }}
+        run: python scripts/coletar_painel.py || echo "painel: coleta parcial"
       - name: Gravar
         run: |
           git config user.name "central-de-postagem"
           git config user.email "actions@users.noreply.github.com"
           git add dados
-          git diff --cached --quiet || (git commit -m "Números de $(date -u +%F)" && git push)
+          git diff --cached --quiet || (git commit -m "Números de $(date -u +%F)" && (git push || (git pull --rebase && git push)))
