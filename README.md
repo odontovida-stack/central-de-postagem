@@ -209,7 +209,7 @@ Thumbnail personalizada só funciona em canal verificado por telefone (youtube.c
 ## Páginas de links da bio (afiliados)
 
 - Cada perfil tem uma página `links/<conta>.html` (ex.: `https://odontovida-stack.github.io/central-de-postagem/links/brazilonabudget.html`). Ela entra no lugar do link da bio. O GitHub Pages precisa estar ligado: Settings → Pages → main / root.
-- **Links fixos** (loja Payhip, guias, pacote): em `config/links.json`. Loja Payhip: https://payhip.com/QuickBudgetGuides (19 produtos EN/ES). Gumroad fica só com Carnaval 2027 ES e Camboriú ES.
+- **Links fixos** (loja Payhip, guias, pacote): em `config/links.json`. Loja Payhip: https://payhip.com/QuickBudgetGuides (19 produtos EN/ES). Desde 04/11 os 21 guias (EN e ES) estão no Payhip; o Gumroad continua no ar, mas os links apontam para o Payhip.
 - **Links de cada post** (afiliado do jogo grátis, do passeio, do produto): no card da pauta, campo `"links": [{"titulo": "Resgatar na Epic", "url": "https://..."}]`. O gerador copia para o `post.json`.
 - O workflow `links.yml` refaz as páginas sozinho a cada mudança na fila e mostra os 12 links mais recentes de cada perfil.
 - Toda página leva o aviso de link de afiliado, exigido pela lei americana (FTC) e pelas plataformas.
