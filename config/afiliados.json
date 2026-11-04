@@ -13,9 +13,9 @@
     ]
   },
   "amazon_us": {
-    "tag": "",
+    "tag": "historyfiles-20",
     "loja": "amazon.com",
-    "como_usar": "Quando o Luiz tiver a conta do Amazon Associates dos EUA, ponha a tag aqui (ex.: algo-20). O robô do YouTube passa a pôr a tag nos links de livros e o aviso obrigatório, e atualiza as descrições sozinho.",
+    "como_usar": "Tag do Amazon Associates dos EUA (Store ID historyfiles, criada pelo Luiz em 04/11/2026). O robô do YouTube põe a tag nos links dos livros recomendados e o aviso obrigatório.",
     "aviso_obrigatorio": "As an Amazon Associate I earn from qualifying purchases."
   }
 }
