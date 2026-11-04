@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-11-04T11:28:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,9 @@
     "Capa do destaque GOLPES"
   ],
   "legenda": "",
-  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Golpes'"
+  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Golpes'",
+  "publicado_em": "2026-11-04T14:33:19+00:00",
+  "resultado": {
+    "instagram": "18089499842291638"
+  }
 }
