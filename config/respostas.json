@@ -3,13 +3,19 @@
   "brazilonabudget": [
     {
       "ativo": true,
-      "palavras": ["GUIA", "GUIAS"],
+      "palavras": [
+        "GUIA",
+        "GUIAS"
+      ],
       "resposta": "¡Te mandé por DM! 📩",
       "dm": "¡Hola! 👋 Aquí están las guías de Brazil on a Budget, con precios reales y plan día por día: https://payhip.com/QuickBudgetGuides ✈️ Si tienes alguna duda, responde este mensaje."
     },
     {
       "ativo": true,
-      "palavras": ["GUIDE", "GUIDES"],
+      "palavras": [
+        "GUIDE",
+        "GUIDES"
+      ],
       "resposta": "Sent you a DM! 📩",
       "dm": "Hi! 👋 Here are the Brazil on a Budget guides, with real prices and a day-by-day plan: https://payhip.com/QuickBudgetGuides ✈️ Any questions, just reply to this message."
     }
@@ -17,9 +23,71 @@
   "esportesnatela": [
     {
       "ativo": true,
-      "palavras": ["AGENDA", "WHATSAPP", "ZAP"],
+      "palavras": [
+        "AGENDA",
+        "WHATSAPP",
+        "ZAP"
+      ],
       "resposta": "Te mandei no direct! 📲",
       "dm": "Opa! 👋 A agenda esportiva do dia sai todo dia às 7h no nosso canal do WhatsApp, com os jogos grátis marcados: https://whatsapp.com/channel/0029VbEifluBFLgRGCjIEd41 📺"
+    },
+    {
+      "ativo": true,
+      "palavras": [
+        "LINK",
+        "LINKS",
+        "ACHADOS"
+      ],
+      "resposta": "Te mandei no direct! 📩",
+      "dm": "Opa! 👋 Os links dos achados da semana estão aqui: https://odontovida-stack.github.io/central-de-postagem/links/esportesnatela.html 🛒 Como Associado da Amazon, ganho com compras qualificadas."
+    }
+  ],
+  "jogosnatela": [
+    {
+      "ativo": true,
+      "palavras": [
+        "LINK",
+        "LINKS",
+        "ACHADOS"
+      ],
+      "resposta": "Te mandei no direct! 📩",
+      "dm": "Opa! 👋 Os links dos achados da semana estão aqui: https://odontovida-stack.github.io/central-de-postagem/links/jogosnatela.html 🛒 Como Associado da Amazon, ganho com compras qualificadas."
+    }
+  ],
+  "tudooqueestreia": [
+    {
+      "ativo": true,
+      "palavras": [
+        "LINK",
+        "LINKS",
+        "ACHADOS"
+      ],
+      "resposta": "Te mandei no direct! 📩",
+      "dm": "Opa! 👋 Os links dos achados da semana estão aqui: https://odontovida-stack.github.io/central-de-postagem/links/tudooqueestreia.html 🛒 Como Associado da Amazon, ganho com compras qualificadas."
+    }
+  ],
+  "lancamentosdegames": [
+    {
+      "ativo": true,
+      "palavras": [
+        "LINK",
+        "LINKS",
+        "ACHADOS"
+      ],
+      "resposta": "Te mandei no direct! 📩",
+      "dm": "Opa! 👋 Os links dos achados da semana estão aqui: https://odontovida-stack.github.io/central-de-postagem/links/lancamentosdegames.html 🛒 Como Associado da Amazon, ganho com compras qualificadas."
+    }
+  ],
+  "showsconfirmados": [
+    {
+      "ativo": true,
+      "palavras": [
+        "LINK",
+        "LINKS",
+        "ACHADOS"
+      ],
+      "resposta": "Te mandei no direct! 📩",
+      "dm": "Opa! 👋 Os links dos achados da semana estão aqui: https://odontovida-stack.github.io/central-de-postagem/links/showsconfirmados.html 🛒 Como Associado da Amazon, ganho com compras qualificadas."
     }
   ]
 }
