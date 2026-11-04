@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-11-04T10:46:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,9 @@
     "Capa do destaque TENIS"
   ],
   "legenda": "",
-  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Tenis'"
+  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Tenis'",
+  "publicado_em": "2026-11-04T13:49:59+00:00",
+  "resultado": {
+    "instagram": "18115073207158714"
+  }
 }
