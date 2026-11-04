@@ -288,6 +288,22 @@ def seguir(conta, card=None):
     return moldura(miolo, card)
 
 
+
+LINHA_WHATSAPP = "📲 Quer a agenda no WhatsApp? Comente AGENDA que a gente te manda o link."
+
+
+def linha_whatsapp(conta, card):
+    """Agenda completa do @esportesnatela: põe a linha do canal de WhatsApp antes das hashtags (pedido do Luiz, 04/11/2026).
+    Quem comenta AGENDA recebe o link pelo robô de comentários (config/respostas.json)."""
+    legenda = card["legenda"]
+    if conta != "esportesnatela" or card.get("sufixo") != "agenda-completa" or "WhatsApp" in legenda:
+        return legenda
+    linhas = legenda.rstrip().split("\n")
+    i = len(linhas)
+    while i > 0 and linhas[i - 1].strip().startswith("#"):
+        i -= 1
+    return "\n".join(linhas[:i]).rstrip() + "\n" + LINHA_WHATSAPP + ("\n\n" + "\n".join(linhas[i:]) if i < len(linhas) else "")
+
 def renderizar(trabalhos):
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
@@ -345,7 +361,7 @@ def main():
                 posts.append((pasta, conta, card, midias, alts, creditos))
     renderizar(trabalhos)
     for pasta, conta, card, midias, alts, creditos in posts:
-        legenda = card["legenda"]
+        legenda = linha_whatsapp(conta, card)
         if creditos:
             legenda += "\n\n📷 " + " | ".join(creditos)
         post = {
