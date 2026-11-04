@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-11-04T15:40:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,9 @@
     "Capa do destaque PARATY"
   ],
   "legenda": "",
-  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Paraty'"
+  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Paraty'",
+  "publicado_em": "2026-11-04T18:44:18+00:00",
+  "resultado": {
+    "instagram": "17924907666221370"
+  }
 }
