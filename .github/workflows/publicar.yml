@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: publicar
@@ -53,3 +54,10 @@ jobs:
             [ "$i" -lt "$voltas" ] && sleep 300
           done
           exit $falhou
+      - name: Chamar a próxima execução (corrente sem buracos)
+        # Em 04/11 o agendamento do GitHub ficou mais de 1h sem disparar e as capas das 10h atrasaram.
+        # Agora cada execução, ao terminar (mesmo com erro), já chama a seguinte; o agendamento fica de reserva.
+        if: always() && !(github.event_name == 'workflow_dispatch' && inputs.simular)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run publicar.yml --repo "${{ github.repository }}" -f simular=false
