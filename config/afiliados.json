@@ -20,6 +20,29 @@
   },
   "travelpayouts": {
     "marker": "595928",
-    "como_usar": "Conta Travelpayouts do Luiz (04/11/2026). Programas: GetYourGuide e Viator (entrar em Programs > Join). O Drive está na página de links do BoB."
+    "sub_id": "pdfguias",
+    "como_usar": "Links curtos gerados no painel da Travelpayouts em 04/11/2026. Usados na última página (Book it the easy way / Reserva fácil) dos guias v2. GetYourGuide e Viator: aguardando a análise do projeto.",
+    "links": {
+      "klook": {
+        "rio": "https://klook.tpx.lu/Cm2EdUZa",
+        "foz": "https://klook.tpx.lu/Me4YnVPs",
+        "floripa": "https://klook.tpx.lu/9f5Wqbid",
+        "salvador": "https://klook.tpx.lu/No8O4gNU",
+        "sp": "https://klook.tpx.lu/yxUARXRi",
+        "paraty": "https://klook.tpx.lu/zddShyc7",
+        "lencois": "https://klook.tpx.lu/egUtcPWB",
+        "camboriu": "https://klook.tpx.lu/NTzzfjAn"
+      },
+      "tiqets": {
+        "rio": "https://tiqets.tpx.lu/LDjpTQOP",
+        "foz": "https://tiqets.tpx.lu/e3gsdx5s",
+        "sp": "https://tiqets.tpx.lu/aP235Qte",
+        "salvador": "https://tiqets.tpx.lu/yjw5ens9"
+      },
+      "transfer_gettransfer": "https://gettransfer.tpx.lu/0spKIxKh",
+      "carro_getrentacar": "https://getrentacar.tpx.lu/Hh7jnqny",
+      "esim_airalo": "https://airalo.tpx.lu/7leGh4Sn",
+      "bagagem_radicalstorage": "https://radicalstorage.tpx.lu/hgDEJ0kh"
+    }
   }
 }
