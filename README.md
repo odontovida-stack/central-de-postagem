@@ -215,3 +215,6 @@ Thumbnail personalizada só funciona em canal verificado por telefone (youtube.c
 - Toda página leva o aviso de link de afiliado, exigido pela lei americana (FTC) e pelas plataformas.
 - Os links de afiliado usam `rel="sponsored"`.
 - **Amazon Associados:** tag `llshop0d-20` (em `config/afiliados.json`). Link de produto: `https://www.amazon.com.br/dp/<ASIN>?tag=llshop0d-20`. Post com link da Amazon leva na legenda: "Como Associado da Amazon, ganho com compras qualificadas." Meta da Amazon: 3 vendas nos primeiros 180 dias.
+
+### Resposta automática a comentários
+Desde 04/11/2026, a cada 5 minutos (junto com a publicação), `scripts/responder.py` olha os comentários dos posts dos últimos 14 dias. Quando alguém comenta uma palavra-chave de `config/respostas.json` (ex.: GUÍA ou GUIDE no @brazil.onabudget, AGENDA no @esportesnatela), o robô manda a DM com o link e responde no comentário. Cada comentário só é respondido uma vez (`dados/respondidos.json`, guardado por 90 dias). Para mudar textos ou palavras, edite `config/respostas.json`; para desligar uma regra, ponha `"ativo": false`.
