@@ -1,0 +1,14 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>TikTok conectado · Central de Postagem</title>
+<style>body{font-family:system-ui,sans-serif;max-width:640px;margin:40px auto;padding:0 16px;line-height:1.55;background:#0F1115;color:#F4F4F5}code{display:block;word-break:break-all;background:#1c2129;padding:12px;border-radius:8px;font-size:15px}button{margin-top:10px;font:inherit;font-weight:700;padding:8px 14px;border-radius:8px;border:0;background:#4A9BFF;color:#08121f;cursor:pointer}.erro{color:#ff8a80}</style></head><body>
+<h1>TikTok · Central de Postagem</h1>
+<div id="ok" hidden><p>✅ Autorização recebida. Copie o código abaixo e cole na ação <b>Conectar TikTok</b> do GitHub, como o Craudio explicou. Ele vale por poucos minutos e só funciona uma vez.</p>
+<code id="codigo"></code><button id="copiar">Copiar código</button>
+<p>Conta: <b id="conta"></b></p></div>
+<p id="erro" class="erro" hidden></p>
+<p style="color:#9aa3af;font-size:14px">Private tool of the account owner. <a style="color:#7CC4FF" href="../legal/privacy.html">Privacy</a> · <a style="color:#7CC4FF" href="../legal/terms.html">Terms</a></p>
+<script>
+const q=new URLSearchParams(location.search);
+if(q.get('code')){document.getElementById('ok').hidden=false;document.getElementById('codigo').textContent=q.get('code');document.getElementById('conta').textContent=q.get('state')||'(sem nome)';
+document.getElementById('copiar').onclick=()=>{try{navigator.clipboard.writeText(q.get('code')).then(()=>{copiar.textContent='Copiado ✓'})}catch(e){}};}
+else{const e=document.getElementById('erro');e.hidden=false;e.textContent=q.get('error')?('O TikTok respondeu: '+(q.get('error_description')||q.get('error'))):'Esta página só serve para receber a autorização do TikTok.';}
+</script></body></html>
