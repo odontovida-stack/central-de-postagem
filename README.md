@@ -218,3 +218,11 @@ Thumbnail personalizada só funciona em canal verificado por telefone (youtube.c
 
 ### Resposta automática a comentários
 Desde 04/11/2026, a cada 5 minutos (junto com a publicação), `scripts/responder.py` olha os comentários dos posts dos últimos 14 dias. Quando alguém comenta uma palavra-chave de `config/respostas.json` (ex.: GUÍA ou GUIDE no @brazil.onabudget, AGENDA no @esportesnatela), o robô manda a DM com o link e responde no comentário. Cada comentário só é respondido uma vez (`dados/respondidos.json`, guardado por 90 dias). Para mudar textos ou palavras, edite `config/respostas.json`; para desligar uma regra, ponha `"ativo": false`.
+
+### TikTok: posts como rascunho
+Desde 04/11/2026, todo post com `"tiktok"` em `redes` vai como **rascunho** para a caixa de entrada da conta de TikTok da página (Content Posting API, modo MEDIA_UPLOAD). O Luiz abre o app, confere, escolhe a música e toca em Publicar. Stories não vão para o TikTok.
+- Contas e app: `config/tiktok.json` (a Client key é pública; o Client secret fica só no secret `TIKTOK_CLIENT_SECRET`).
+- Para conectar uma conta: abrir `https://odontovida-stack.github.io/central-de-postagem/tiktok/conectar.html`, autorizar e colar o código na ação **Conectar TikTok**.
+- As autorizações ficam em `dados/tiktok.enc`, trancadas com o secret `TIKTOK_CHAVE`.
+- Conta não conectada ou erro: o post não trava; fica marcado "MANUAL" no resultado.
+- As imagens são puxadas do GitHub Pages, que precisa estar verificado em **URL properties** no app do TikTok.

@@ -35,6 +35,9 @@ jobs:
           TOKEN_BRASIL2359: ${{ secrets.TOKEN_BRASIL2359 }}
           TOKEN_BRAZILONABUDGET: ${{ secrets.TOKEN_BRAZILONABUDGET }}
           TOKEN_LLSHOP: ${{ secrets.TOKEN_LLSHOP }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_CHAVE: ${{ secrets.TIKTOK_CHAVE }}
         run: |
           # O agendamento do GitHub atrasa horas em repositórios pequenos. Por isso cada execução
           # fica ligada e confere a fila a cada 5 minutos; a próxima execução agendada assume depois.
@@ -47,7 +50,7 @@ jobs:
             python scripts/validar.py || falhou=1
             python scripts/publicar.py || falhou=1
             python scripts/responder.py || echo "responder falhou nesta volta"
-            git add fila dados/respondidos.json 2>/dev/null || git add fila
+            git add fila dados/respondidos.json dados/tiktok.enc 2>/dev/null || git add fila dados/respondidos.json 2>/dev/null || git add fila
             if ! git diff --cached --quiet; then
               git commit -q -m "Resultado da publicação $(date -u +%FT%TZ)"
               git pull -q --rebase origin main && git push -q || echo "push falhou, tento na próxima volta"

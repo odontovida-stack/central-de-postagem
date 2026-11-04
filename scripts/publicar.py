@@ -110,8 +110,15 @@ def main():
                         raise meta.MetaError("falta token ou facebook_page_id da conta")
                     resultado[rede] = meta.fb_publish(cfg["facebook_page_id"], tok, p["tipo"], urls, p["legenda"])
                 elif rede == "tiktok":
-                    # A API do TikTok exige app auditado. Até lá, o post fica pronto para subir à mão.
-                    resultado[rede] = "MANUAL: suba as imagens pelo app do TikTok com a mesma legenda"
+                    # Conta conectada (scripts/tiktok.py): vai como RASCUNHO na caixa de entrada do TikTok.
+                    # Sem conexão ou com erro, o post não trava: fica marcado para subir à mão.
+                    manual = "MANUAL: suba as imagens pelo app do TikTok com a mesma legenda"
+                    try:
+                        import tiktok
+                        pid = tiktok.enviar_rascunho(p["conta"], pasta, p["midias"], p["legenda"]) if p["tipo"] != "story" else None
+                        resultado[rede] = f"RASCUNHO no TikTok ({pid}): abra o app, confira e toque em Publicar" if pid else manual
+                    except Exception as e:  # noqa: BLE001 - TikTok nunca derruba o Instagram/Facebook
+                        resultado[rede] = f"{manual} (o envio automático falhou: {str(e)[:150]})"
             if not simular:
                 p["status"] = "publicado"
                 p["publicado_em"] = agora.isoformat(timespec="seconds")
