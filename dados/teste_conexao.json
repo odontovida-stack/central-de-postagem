@@ -1,13 +1,14 @@
 {
-  "quando": "2026-10-29T20:33:01+00:00",
+  "quando": "2026-11-04T13:52:25+00:00",
   "contas": {
     "brasil2359": {
       "instagram_perfil": {
         "id": "17841414533433152",
         "followers_count": 0,
-        "media_count": 0,
+        "media_count": 4,
         "username": "brasil.2359"
       },
+      "instagram_preparar_imagem": "OK (preparada e descartada, nada foi publicado)",
       "facebook_token_da_pagina": "OK",
       "facebook_pagina": {
         "name": "Brasil 23:59",
@@ -18,7 +19,11 @@
         "business_management",
         "instagram_basic",
         "instagram_content_publish",
+        "instagram_manage_comments",
         "instagram_manage_insights",
+        "instagram_manage_messages",
+        "pages_manage_engagement",
+        "pages_manage_metadata",
         "pages_manage_posts",
         "pages_read_engagement",
         "pages_show_list",
@@ -29,7 +34,7 @@
       "instagram_perfil": {
         "id": "17841446955704566",
         "followers_count": 0,
-        "media_count": 0,
+        "media_count": 1,
         "username": "brazil.onabudget"
       },
       "instagram_preparar_imagem": "OK (preparada e descartada, nada foi publicado)",
@@ -43,7 +48,11 @@
         "business_management",
         "instagram_basic",
         "instagram_content_publish",
+        "instagram_manage_comments",
         "instagram_manage_insights",
+        "instagram_manage_messages",
+        "pages_manage_engagement",
+        "pages_manage_metadata",
         "pages_manage_posts",
         "pages_read_engagement",
         "pages_show_list",
@@ -54,9 +63,10 @@
       "instagram_perfil": {
         "id": "17841436210817201",
         "followers_count": 0,
-        "media_count": 8,
+        "media_count": 14,
         "username": "jogosnatela"
       },
+      "instagram_preparar_imagem": "OK (preparada e descartada, nada foi publicado)",
       "facebook_token_da_pagina": "OK",
       "facebook_pagina": {
         "name": "Jogos na Tela",
@@ -67,7 +77,11 @@
         "business_management",
         "instagram_basic",
         "instagram_content_publish",
+        "instagram_manage_comments",
         "instagram_manage_insights",
+        "instagram_manage_messages",
+        "pages_manage_engagement",
+        "pages_manage_metadata",
         "pages_manage_posts",
         "pages_read_engagement",
         "pages_show_list",
@@ -77,10 +91,11 @@
     "tudooqueestreia": {
       "instagram_perfil": {
         "id": "17841449271064646",
-        "followers_count": 1,
-        "media_count": 1,
+        "followers_count": 0,
+        "media_count": 4,
         "username": "tudooqueestreia"
       },
+      "instagram_preparar_imagem": "OK (preparada e descartada, nada foi publicado)",
       "facebook_token_da_pagina": "OK",
       "facebook_pagina": {
         "name": "Tudo o Que Estreia",
@@ -91,7 +106,11 @@
         "business_management",
         "instagram_basic",
         "instagram_content_publish",
+        "instagram_manage_comments",
         "instagram_manage_insights",
+        "instagram_manage_messages",
+        "pages_manage_engagement",
+        "pages_manage_metadata",
         "pages_manage_posts",
         "pages_read_engagement",
         "pages_show_list",
@@ -102,9 +121,10 @@
       "instagram_perfil": {
         "id": "17841434766378429",
         "followers_count": 0,
-        "media_count": 0,
+        "media_count": 11,
         "username": "esportesnatela"
       },
+      "instagram_preparar_imagem": "OK (preparada e descartada, nada foi publicado)",
       "facebook_token_da_pagina": "OK",
       "facebook_pagina": {
         "name": "Esportes na Tela",
@@ -115,7 +135,11 @@
         "business_management",
         "instagram_basic",
         "instagram_content_publish",
+        "instagram_manage_comments",
         "instagram_manage_insights",
+        "instagram_manage_messages",
+        "pages_manage_engagement",
+        "pages_manage_metadata",
         "pages_manage_posts",
         "pages_read_engagement",
         "pages_show_list",
@@ -126,9 +150,10 @@
       "instagram_perfil": {
         "id": "17841436201733983",
         "followers_count": 0,
-        "media_count": 0,
+        "media_count": 6,
         "username": "lancamentosdegames"
       },
+      "instagram_preparar_imagem": "OK (preparada e descartada, nada foi publicado)",
       "facebook_token_da_pagina": "OK",
       "facebook_pagina": {
         "name": "Lançamentos de Games",
@@ -139,7 +164,11 @@
         "business_management",
         "instagram_basic",
         "instagram_content_publish",
+        "instagram_manage_comments",
         "instagram_manage_insights",
+        "instagram_manage_messages",
+        "pages_manage_engagement",
+        "pages_manage_metadata",
         "pages_manage_posts",
         "pages_read_engagement",
         "pages_show_list",
@@ -150,9 +179,10 @@
       "instagram_perfil": {
         "id": "17841433990816363",
         "followers_count": 0,
-        "media_count": 0,
+        "media_count": 6,
         "username": "showsconfirmados"
       },
+      "instagram_preparar_imagem": "OK (preparada e descartada, nada foi publicado)",
       "facebook_token_da_pagina": "OK",
       "facebook_pagina": {
         "name": "Shows Confirmados",
@@ -163,7 +193,11 @@
         "business_management",
         "instagram_basic",
         "instagram_content_publish",
+        "instagram_manage_comments",
         "instagram_manage_insights",
+        "instagram_manage_messages",
+        "pages_manage_engagement",
+        "pages_manage_metadata",
         "pages_manage_posts",
         "pages_read_engagement",
         "pages_show_list",
