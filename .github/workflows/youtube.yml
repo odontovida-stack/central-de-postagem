@@ -3,7 +3,7 @@ name: Vídeos do YouTube (narra, monta e agenda)
 on:
   push:
     branches: [main]
-    paths: ["youtube/**"]
+    paths: ["youtube/**", "config/afiliados.json"]
   workflow_dispatch:
 
 permissions:
