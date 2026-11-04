@@ -1,11 +1,21 @@
 {
   "conta": "esportesnatela",
   "tipo": "story",
-  "redes": ["instagram"],
+  "redes": [
+    "instagram"
+  ],
   "quando": "2026-11-04T10:32:00-03:00",
-  "status": "aprovado",
-  "midias": ["01.jpg"],
-  "textos_alternativos": ["A agenda do dia no WhatsApp: canal grátis do Esportes na Tela, link na bio"],
+  "status": "publicado",
+  "midias": [
+    "01.jpg"
+  ],
+  "textos_alternativos": [
+    "A agenda do dia no WhatsApp: canal grátis do Esportes na Tela, link na bio"
+  ],
   "legenda": "",
-  "nota": "Divulga o canal de WhatsApp. A API não aceita figurinha de link: o story manda para o link da bio, que já tem o canal. Colocar no destaque Agenda."
+  "nota": "Divulga o canal de WhatsApp. A API não aceita figurinha de link: o story manda para o link da bio, que já tem o canal. Colocar no destaque Agenda.",
+  "publicado_em": "2026-11-04T13:33:38+00:00",
+  "resultado": {
+    "instagram": "18115541696107071"
+  }
 }
