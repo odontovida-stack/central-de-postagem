@@ -1,0 +1,286 @@
+{
+ "semana": "Comece por aqui · 05/11/2026",
+ "apurado_em": "2026-11-04",
+ "contas": {
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-05T09:30:00-03:00",
+    "sufixo": "comece-por-aqui",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "futebol-gramado",
+      "pilula": "COMECE POR AQUI",
+      "chamada": "JOGOS NA TELA",
+      "titulo": "Onde assistir cada jogo, todo dia",
+      "caixas": [
+       [
+        "Todo dia",
+        "07h30"
+       ],
+       [
+        "Horário",
+        "de Brasília"
+       ]
+      ],
+      "fonte": "",
+      "cta": "Arraste →",
+      "alt": "Comece por aqui: o Jogos na Tela posta todo dia às 7h30 os resultados de ontem e os jogos de hoje com onde assistir"
+     },
+     {
+      "chamada": "O QUE POSTAMOS",
+      "titulo": "Seu dia de futebol em 1 post",
+      "topicos": [
+       "07h30: resultados de ontem e jogos de hoje, com canal",
+       "17h: o JOGO DO DIA, quando tem jogo grande",
+       "Segunda 12h: a agenda da semana",
+       "Sexta 19h: o jogo do fim de semana, comentado"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     },
+     {
+      "chamada": "COMO LER",
+      "titulo": "Os selos dos cards",
+      "topicos": [
+       "🆓 GRÁTIS: passa em TV aberta, YouTube ou streaming grátis",
+       "★ JOGO DO DIA: o maior jogo de hoje",
+       "Horários sempre de Brasília e conferidos no dia",
+       "Brasileirão A e B, Copa do Brasil, Libertadores, Sul-Americana, Champions e Seleção"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     }
+    ],
+    "legenda": "📌 Comece por aqui: o que o @jogosnatela posta e quando\n\n⚽ Todo dia às 7h30: resultados de ontem e os jogos de hoje, com horário de Brasília e canal\n⭐ 17h: o JOGO DO DIA, quando tem jogo grande\n📅 Segunda 12h: a agenda da semana\n🗣️ Sexta 19h: o jogo do fim de semana, comentado\n🆓 Selo GRÁTIS quando o jogo passa em TV aberta, YouTube ou streaming grátis\n\n📌 Salve este post\n📤 Mande para quem vive perguntando onde vai passar o jogo\n\nQual time você acompanha? 👇\nSiga @jogosnatela para não perder os próximos.\n\n#futebol #brasileirao #ondeassistir #libertadores #copadobrasil #jogosdehoje"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-05T09:35:00-03:00",
+    "sufixo": "comece-por-aqui",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "pista-atletismo",
+      "pilula": "COMECE POR AQUI",
+      "chamada": "ESPORTES NA TELA",
+      "titulo": "A agenda de todos os esportes",
+      "caixas": [
+       [
+        "Todo dia",
+        "07h00"
+       ],
+       [
+        "Horário",
+        "de Brasília"
+       ]
+      ],
+      "fonte": "",
+      "cta": "Arraste →",
+      "alt": "Comece por aqui: o Esportes na Tela posta todo dia às 7h a agenda completa de todos os esportes; comente AGENDA para receber o canal do WhatsApp"
+     },
+     {
+      "chamada": "O QUE POSTAMOS",
+      "titulo": "Tudo o que passa hoje",
+      "topicos": [
+       "07h: a agenda completa do dia, todas as modalidades",
+       "11h: HOJE TEM, quando tem evento grande",
+       "Segunda 12h30: a agenda da semana",
+       "Sábado 10h: o evento da semana, comentado"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     },
+     {
+      "chamada": "NO WHATSAPP",
+      "titulo": "A agenda no seu celular",
+      "topicos": [
+       "Canal grátis no WhatsApp, sem conversa nem spam",
+       "Comente AGENDA aqui e receba o link no direct",
+       "🆓 marca as transmissões grátis",
+       "Vôlei, F1, NBA, UFC, tênis, atletismo, natação e mais"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     }
+    ],
+    "legenda": "📌 Comece por aqui: o que o @esportesnatela posta e quando\n\n📺 Todo dia às 7h: a agenda completa do dia, de todos os esportes, com horário de Brasília e canal\n🔥 11h: HOJE TEM, quando tem evento grande\n📅 Segunda 12h30: a agenda da semana\n🏆 Sábado 10h: o evento da semana, comentado\n🆓 Selo GRÁTIS nas transmissões grátis\n📲 Quer no WhatsApp? Comente AGENDA que a gente manda o link do canal no direct\n\n📌 Salve este post\n📤 Mande para quem assiste de tudo\n\nQual esporte você mais acompanha? 👇\nSiga @esportesnatela para não perder os próximos.\n\n#esportes #agendaesportiva #volei #formula1 #nba #ufc #tenis"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-05T09:40:00-03:00",
+    "sufixo": "comece-por-aqui",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "cinema-sala",
+      "pilula": "COMECE POR AQUI",
+      "chamada": "TUDO O QUE ESTREIA",
+      "titulo": "O que estreia e onde ver",
+      "caixas": [
+       [
+        "Toda sexta",
+        "09h00"
+       ],
+       [
+        "Cinema e",
+        "streaming"
+       ]
+      ],
+      "fonte": "",
+      "cta": "Arraste →",
+      "alt": "Comece por aqui: o Tudo o que Estreia posta toda sexta às 9h as estreias da semana de cinema e streaming, sem spoiler"
+     },
+     {
+      "chamada": "O QUE POSTAMOS",
+      "titulo": "Sua semana de filmes e séries",
+      "topicos": [
+       "Sexta 9h: todas as estreias da semana, plataforma por plataforma",
+       "12h: ESTREIA HOJE, quando sai algo grande",
+       "Quarta 20h: as estreias mais esperadas, comentadas",
+       "O Top 10 oficial da Netflix no Brasil"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     },
+     {
+      "chamada": "NOSSA REGRA",
+      "titulo": "Sem spoiler, nunca",
+      "topicos": [
+       "Netflix, Prime Video, Disney+, HBO Max, Globoplay, Apple TV e cinema",
+       "Data e horário de liberação, quando divulgados",
+       "Opinião é sempre marcada como opinião da página",
+       "Nos comentários também: sem spoiler"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     }
+    ],
+    "legenda": "📌 Comece por aqui: o que o @tudooqueestreia posta e quando\n\n🎬 Toda sexta às 9h: todas as estreias da semana, plataforma por plataforma\n🍿 12h: ESTREIA HOJE, quando sai algo grande\n⭐ Quarta 20h: as estreias mais esperadas, comentadas\n📊 O Top 10 oficial da Netflix no Brasil\n🚫 Sem spoiler, nunca\n\n📌 Salve este post\n📤 Mande para quem nunca sabe o que assistir\n\nQual streaming você mais usa? 👇\nSiga @tudooqueestreia para não perder as próximas estreias.\n\n#estreias #netflix #primevideo #disneyplus #hbomax #filmes #series"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-05T09:45:00-03:00",
+    "sufixo": "comece-por-aqui",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "game-controle",
+      "pilula": "COMECE POR AQUI",
+      "chamada": "LANÇAMENTOS DE GAMES",
+      "titulo": "Lançamentos, preços e jogos grátis",
+      "caixas": [
+       [
+        "Grátis",
+        "toda quinta"
+       ],
+       [
+        "Preços",
+        "em real"
+       ]
+      ],
+      "fonte": "",
+      "cta": "Arraste →",
+      "alt": "Comece por aqui: o Lançamentos de Games posta os lançamentos da semana, os jogos grátis com prazo e preços oficiais em real"
+     },
+     {
+      "chamada": "O QUE POSTAMOS",
+      "titulo": "Sua semana de games",
+      "topicos": [
+       "Segunda 9h: os lançamentos da semana",
+       "14h: TUDO GRÁTIS AGORA, com o prazo em horas",
+       "Terça 19h: o game da semana, com notas da crítica",
+       "Todo mês: o calendário de lançamentos"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     },
+     {
+      "chamada": "NOSSA REGRA",
+      "titulo": "Só preço e grátis oficiais",
+      "topicos": [
+       "Preço da loja oficial em real, com a data da consulta",
+       "Grátis da Epic toda quinta, Steam, GOG, PS Plus, Prime e Game Pass",
+       "Passo a passo para resgatar: o jogo fica seu para sempre",
+       "Console e PC"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     }
+    ],
+    "legenda": "📌 Comece por aqui: o que o @lancamentosdegames posta e quando\n\n🎮 Segunda 9h: os lançamentos da semana\n🎁 14h: TUDO GRÁTIS AGORA, com o prazo em horas\n⭐ Terça 19h: o game da semana, com as notas da crítica\n📅 Todo mês: o calendário de lançamentos\n💰 Preços da loja oficial em real\n\n📌 Salve este post\n📤 Mande para aquele amigo que só joga de graça\n\nVocê joga mais no console ou no PC? 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\n#games #jogosgratis #epicgames #playstation #xbox #pcgamer #lancamentos"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-05T09:50:00-03:00",
+    "sufixo": "comece-por-aqui",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "show-plateia",
+      "pilula": "COMECE POR AQUI",
+      "chamada": "SHOWS CONFIRMADOS",
+      "titulo": "Os shows que vêm para o Brasil",
+      "caixas": [
+       [
+        "Pré-venda",
+        "no dia"
+       ],
+       [
+        "Só link",
+        "oficial"
+       ]
+      ],
+      "fonte": "",
+      "cta": "Arraste →",
+      "alt": "Comece por aqui: o Shows Confirmados posta as pré-vendas no dia, atualizações e os shows da semana; só compre no site oficial"
+     },
+     {
+      "chamada": "O QUE POSTAMOS",
+      "titulo": "Para você não perder o ingresso",
+      "topicos": [
+       "08h: PRÉ-VENDA HOJE, sempre no mesmo formato",
+       "ATUALIZAÇÃO: quando muda data, esgota ou abre data extra",
+       "Segunda 19h: os shows da semana",
+       "Quinta 19h: o show da semana, com setlist e setores"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     },
+     {
+      "chamada": "CUIDADO COM GOLPE",
+      "titulo": "Só compre no site oficial",
+      "topicos": [
+       "Sempre dizemos qual é a tiqueteira oficial",
+       "Desconfie de revenda por DM e de preço muito baixo",
+       "Nunca pagamos nem vendemos ingresso",
+       "Na dúvida, confira no site do artista"
+      ],
+      "tipo": "texto",
+      "pilula": "COMECE POR AQUI",
+      "fonte": ""
+     }
+    ],
+    "legenda": "📌 Comece por aqui: o que o @showsconfirmados posta e quando\n\n🎟️ 08h: PRÉ-VENDA HOJE, sempre no mesmo formato: pré-venda, venda geral e cidades\n🔄 ATUALIZAÇÃO quando muda data, esgota ou abre data extra\n📅 Segunda 19h: os shows da semana\n🎤 Quinta 19h: o show da semana, com setlist e setores\n⚠️ Cuidado com golpe: só compre no site oficial que indicamos\n\n📌 Salve este post\n📤 Mande para quem sempre perde a pré-venda\n\nQual show você mais quer ver no Brasil? 👇\nSiga @showsconfirmados para saber primeiro.\n\n#shows #showsnobrasil #ingressos #prevenda #turne #musica"
+   }
+  ]
+ }
+}
