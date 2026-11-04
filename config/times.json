@@ -551,5 +551,45 @@
    "#111111"
   ],
   "texto": "#FFFFFF"
+ },
+ "Roma": {
+  "sigla": "ROM",
+  "cores": [
+   "#8E1F2F",
+   "#F0BC42"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Aston Villa": {
+  "sigla": "AVL",
+  "cores": [
+   "#670E36",
+   "#95BFE5"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Feyenoord": {
+  "sigla": "FEY",
+  "cores": [
+   "#E2001A",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Shakhtar": {
+  "sigla": "SHA",
+  "cores": [
+   "#F18A00",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Galatasaray": {
+  "sigla": "GAL",
+  "cores": [
+   "#A90432",
+   "#FDB912"
+  ],
+  "texto": "#FFFFFF"
  }
 }

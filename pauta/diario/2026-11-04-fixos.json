@@ -1,0 +1,417 @@
+{
+ "dia": "04/11/2026",
+ "apurado_em": "2026-11-04",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-04T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de quarta-feira, 04/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 04/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 2ª rodada",
+        "jogo": "Halys x Tiafoe",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "07h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · duplas",
+        "jogo": "Luz/Matos x Navone/Tabilo",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "07h00",
+        "esporte": "atletismo",
+        "competicao": "Aberto do Uzbequistão (para)",
+        "jogo": "Thalita Simplício · final 400m T11",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "07h10",
+        "esporte": "outros",
+        "competicao": "Mundial de Trampolim · sincronizado",
+        "jogo": "Alice Gomes/Arthur Ferreira",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "07h46",
+        "esporte": "natacao",
+        "competicao": "Jogos Olímpicos da Juventude",
+        "jogo": "Luiz Daniel Moura · 200m medley",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h02",
+        "esporte": "natacao",
+        "competicao": "Jogos Olímpicos da Juventude",
+        "jogo": "Ana Júlia Amaral · 50m borboleta",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h30",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 2ª rodada",
+        "jogo": "Tommy Paul x Daniel Merida",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "09h00",
+        "esporte": "volei",
+        "competicao": "Jogos da Juventude · praia · bronze",
+        "jogo": "Bruno Fellipe/Gabriel x Austrália",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h30",
+        "esporte": "tenis",
+        "competicao": "Masters Paris · depois: Djokovic x Hijikata",
+        "jogo": "Zverev x Musetti",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "13h00",
+        "esporte": "tenis",
+        "competicao": "WTA 125 Cali · oitavas",
+        "jogo": "Carol Meligeni x Léolia Jeanjean",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "13h00",
+        "esporte": "outros",
+        "competicao": "Handebol · Húngaro feminino",
+        "jogo": "Győr x Eszterházy",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "AEK Atenas x Real Madrid",
+        "canal": "TNT · HBO Max"
+       }
+      ],
+      "fonte": "Conferido em 04/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, Webvôlei, NBA, Hoops Brasil, emissoras",
+      "cta": "Arraste →",
+      "alt": "Agenda de quarta, 04/11, das 7h às 14h45: Masters 1000 de Paris com Zverev e Djokovic, brasileiros nos Jogos Olímpicos da Juventude e AEK x Real Madrid na Champions"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 04/11",
+      "linhas": [
+       {
+        "hora": "15h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 2ª rodada",
+        "jogo": "Alcaraz x Michelsen",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Costa do Sauípe (BA)",
+        "jogo": "Eduardo Ribeiro x Gonzalo Bueno",
+        "canal": "Challenger TV",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · 2ª rodada",
+        "jogo": "Fils x Machac",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "volei",
+        "competicao": "Italiano masculino",
+        "jogo": "Civitanova x Modena",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "basquete",
+        "competicao": "Euroleague",
+        "jogo": "Real Madrid x Panathinaikos",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "RB Leipzig x Manchester City",
+        "canal": "HBO Max"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "Borussia Dortmund x Betis",
+        "canal": "YouTube TNT · HBO Max",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League · 4ª rodada",
+        "jogo": "Slavia Praga x Arsenal",
+        "canal": "TNT · HBO Max"
+       },
+       {
+        "hora": "17h45",
+        "esporte": "volei",
+        "competicao": "Challenge Cup feminina",
+        "jogo": "Benfica x Olympiacos",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Costa do Sauípe (BA)",
+        "jogo": "Gustavo Heide x Prado Ángelo",
+        "canal": "Challenger TV",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "Athletico-PR x Vasco",
+        "canal": "Record · CazéTV · Premiere",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 04/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, Webvôlei, NBA, Hoops Brasil, emissoras",
+      "cta": "Arraste →",
+      "alt": "Agenda de quarta, 04/11, das 15h às 19h30: Alcaraz x Michelsen em Paris, Champions às 17h com Dortmund x Betis grátis no YouTube, Challenger da Costa do Sauípe e Athletico-PR x Vasco na Record"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 04/11",
+      "linhas": [
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "Flamengo x Grêmio",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Unifacisa x Paulistano",
+        "canal": "YouTube Rede Ita",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Mogi x Basquete Cearense",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "20h15",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Brasília x Flamengo",
+        "canal": "SporTV 2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "76ers x Pistons",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "São Paulo x Corinthians",
+        "canal": "Globo · ge tv · Premiere",
+        "gratis": true
+       },
+       {
+        "hora": "21h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "Botafogo x Atlético-MG",
+        "canal": "Globo (RJ/MG) · Premiere",
+        "gratis": true
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Bucks x Celtics",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "outros",
+        "competicao": "NHL",
+        "jogo": "Blackhawks x Panthers",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Cavaliers x Thunder",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Mavericks x Spurs",
+        "canal": "NBA League Pass"
+       }
+      ],
+      "fonte": "Conferido em 04/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, Webvôlei, NBA, Hoops Brasil, emissoras",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de quarta, 04/11, das 19h30 às 23h30: Flamengo x Grêmio, São Paulo x Corinthians na Globo, NBB grátis no YouTube e rodada da NBA"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de quarta-feira, 04/11 (horário de Brasília)\n\n🎾 9h30 e 15h · Zverev, Djokovic e Alcaraz no Masters de Paris, com vagas para Turim em jogo · ESPN e Disney+\n🇧🇷 7h46 a 9h · Brasil nos Jogos Olímpicos da Juventude: natação e disputa do bronze no vôlei de praia\n⚽ 17h · Champions com Leipzig x Manchester City e Dortmund x Betis (YouTube da TNT 🆓)\n⚽ 21h30 · Clássico São Paulo x Corinthians no Brasileirão (Globo e ge tv 🆓)\n🏀 19h30 a 23h30 · NBB grátis no YouTube 🆓 e a NBA de volta, com Cavaliers x Thunder às 22h\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #tenis #championsleague #nba #nbb #brasileirao"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-04T07:30:00-03:00",
+    "alt": "Resultados de terça, 03/11, e jogos de quarta, 04/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "TER 03/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Champions League",
+        "jogos": [
+         {
+          "casa": "Atlético de Madrid",
+          "gc": 0,
+          "fora": "Bayern",
+          "gf": 2
+         },
+         {
+          "casa": "Barcelona",
+          "gc": 3,
+          "fora": "Aston Villa",
+          "gf": 0
+         },
+         {
+          "casa": "Man. United",
+          "gc": 3,
+          "fora": "Roma",
+          "gf": 2
+         },
+         {
+          "casa": "Villarreal",
+          "gc": 0,
+          "fora": "PSG",
+          "gf": 6
+         }
+        ]
+       },
+       {
+        "competicao": "Brasileirão",
+        "jogos": [
+         {
+          "casa": "Chapecoense",
+          "gc": 1,
+          "fora": "Mirassol",
+          "gf": 2
+         },
+         {
+          "casa": "Internacional",
+          "gc": 1,
+          "fora": "Coritiba",
+          "gf": 0
+         }
+        ]
+       }
+      ],
+      "destaque": "Cunha faz 2 e United vira sobre a Roma",
+      "destaque_rotulo": "FATO DA NOITE",
+      "fonte": "Conferido em 04/11 às 1h · ESPN, Sky Sports, VAVEL, Lance",
+      "cta": "Arraste →",
+      "alt": "Resultados de terça, 03/11: Atlético de Madrid 0x2 Bayern, Barcelona 3x0 Aston Villa, Manchester United 3x2 Roma e Villarreal 0x6 PSG na Champions; Chapecoense 1x2 Mirassol e Internacional 1x0 Coritiba no Brasileirão"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUA 04/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "04/11",
+        "sub": "QUA · 21h30",
+        "titulo": "São Paulo x Corinthians",
+        "detalhe": "Brasileirão · Globo, ge tv, Premiere",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "04/11",
+        "sub": "QUA · 14h45",
+        "titulo": "AEK Atenas x Real Madrid",
+        "detalhe": "Champions · TNT, HBO Max"
+       },
+       {
+        "data": "04/11",
+        "sub": "QUA · 17h",
+        "titulo": "Leipzig x Man. City",
+        "detalhe": "Champions · HBO Max"
+       },
+       {
+        "data": "04/11",
+        "sub": "QUA · 17h",
+        "titulo": "Dortmund x Betis",
+        "detalhe": "Champions · YouTube TNT, HBO Max",
+        "gratis": true
+       },
+       {
+        "data": "04/11",
+        "sub": "QUA · 19h30",
+        "titulo": "Athletico-PR x Vasco",
+        "detalhe": "Brasileirão · Record, CazéTV, Premiere",
+        "gratis": true
+       },
+       {
+        "data": "04/11",
+        "sub": "QUA · 19h30",
+        "titulo": "Flamengo x Grêmio",
+        "detalhe": "Brasileirão · Premiere"
+       }
+      ],
+      "fonte": "Conferido em 04/11 às 1h · Portal da TV, Mantos do Futebol, Lance, Brasil 247",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de quarta, 04/11: São Paulo x Corinthians às 21h30 na Globo e no ge tv (jogo do dia), AEK Atenas x Real Madrid às 14h45, Leipzig x Manchester City às 17h, Dortmund x Betis às 17h no YouTube da TNT, Athletico-PR x Vasco às 19h30 na Record e na CazéTV, e Flamengo x Grêmio às 19h30 no Premiere"
+     }
+    ],
+    "legenda": "⚽ Tem clássico São Paulo x Corinthians de graça hoje, e a noite de Champions teve 6 a 0 e virada!\n\n📊 Resultados de ontem (terça, 03/11):\n🔥 Manchester United 3x2 Roma · Champions (a Roma abriu 2x0, e Matheus Cunha fez 2 na virada)\n🏆 Atlético de Madrid 0x2 Bayern · Champions\n🏆 Barcelona 3x0 Aston Villa · Champions (Raphinha fez 2)\n🏆 Villarreal 0x6 PSG · Champions\n🏆 Feyenoord 0x3 Inter · Champions\n🏆 Shakhtar 0x1 Sporting · Champions\n🇧🇷 Chapecoense 1x2 Mirassol · Brasileirão\n🇧🇷 Internacional 1x0 Coritiba · Brasileirão (gol de pênalti nos acréscimos)\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 21h30 · São Paulo x Corinthians · Brasileirão · Globo e ge tv 🆓, Premiere\n🏆 14h45 · AEK Atenas x Real Madrid · Champions · TNT e HBO Max\n🏆 17h · RB Leipzig x Manchester City · Champions · HBO Max\n🆓 17h · Borussia Dortmund x Betis · Champions · YouTube da TNT Sports e HBO Max\n🆓 19h30 · Athletico-PR x Vasco · Brasileirão · Record, CazéTV e Premiere\n🇧🇷 19h30 · Flamengo x Grêmio · Brasileirão · Premiere\n🇧🇷 21h30 · Botafogo x Atlético-MG · Brasileirão · Globo (RJ e MG) e Premiere\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual jogo você vai assistir hoje? 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #championsleague #brasileirao #saopaulo #corinthians #ondeassistir"
+   }
+  ]
+ }
+}
