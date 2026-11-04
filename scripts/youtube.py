@@ -132,10 +132,37 @@ def montar_short(pasta, out):
 def descricao(pasta):
     """descricao.txt + seção PHOTOS com os créditos das fotos de fundo usadas (até 5000 caracteres)."""
     desc = (pasta / "descricao.txt").read_text(encoding="utf-8")
-    desc = desc.replace(" (affiliate links: [ADD AMAZON ASSOCIATES LINKS])", "")  # sem afiliado nos EUA por enquanto
+    desc = livros_com_link(desc)
     desc = capitulos_reais(pasta, desc)
     return descricao_com_creditos(desc, creditos_do_video(pasta / "slides.json", pasta / "thumb.json"))
 
+
+
+def livros_com_link(desc):
+    """Seção RECOMMENDED READING: cada "- Autor, Título" ganha um link de busca na amazon.com.
+    Com a tag de Associado dos EUA em config/afiliados.json (amazon_us.tag), o link leva a tag e entra o aviso
+    obrigatório da Amazon; sem a tag, o link vai sem afiliado (decidido pelo Luiz em 04/11/2026)."""
+    from urllib.parse import quote_plus
+    cfg = json.loads((RAIZ / "config" / "afiliados.json").read_text(encoding="utf-8")).get("amazon_us", {})
+    tag = (cfg.get("tag") or "").strip()
+    linhas, saida, dentro = desc.split("\n"), [], False
+    for l in linhas:
+        if l.startswith("RECOMMENDED READING"):
+            dentro = True
+            saida.append("RECOMMENDED READING" + (" (affiliate links)" if tag else ""))
+            continue
+        if dentro and l.startswith("- ") and "amazon.com" not in l:
+            autor, _, titulo = l[2:].partition(", ")
+            busca = quote_plus(f"{titulo or autor} {autor if titulo else ''}".strip())
+            url = f"https://www.amazon.com/s?k={busca}" + (f"&tag={tag}" if tag else "")
+            saida.append(f"{l}: {url}")
+            continue
+        if dentro and not l.strip():
+            if tag:
+                saida.append(cfg.get("aviso_obrigatorio", "As an Amazon Associate I earn from qualifying purchases."))
+            dentro = False
+        saida.append(l)
+    return "\n".join(saida)
 
 def capitulos_reais(pasta, desc):
     """Se há um capítulo por PART e os áudios existem, troca os tempos estimados pelos tempos reais da narração."""

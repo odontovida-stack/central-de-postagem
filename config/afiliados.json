@@ -11,5 +11,11 @@
       "tudooqueestreia",
       "showsconfirmados"
     ]
+  },
+  "amazon_us": {
+    "tag": "",
+    "loja": "amazon.com",
+    "como_usar": "Quando o Luiz tiver a conta do Amazon Associates dos EUA, ponha a tag aqui (ex.: algo-20). O robô do YouTube passa a pôr a tag nos links de livros e o aviso obrigatório, e atualiza as descrições sozinho.",
+    "aviso_obrigatorio": "As an Amazon Associate I earn from qualifying purchases."
   }
 }
