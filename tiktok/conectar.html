@@ -1,0 +1,17 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Conectar TikTok · Central de Postagem</title>
+<style>body{font-family:system-ui,sans-serif;max-width:640px;margin:40px auto;padding:0 16px;line-height:1.55;background:#0F1115;color:#F4F4F5}a.b{display:block;margin:10px 0;padding:14px 16px;border-radius:10px;background:#1c2129;color:#F4F4F5;text-decoration:none;font-weight:700}a.b:hover{background:#26303c}small{color:#9aa3af}.erro{color:#ff8a80}</style></head><body>
+<h1>Conectar uma conta do TikTok</h1>
+<ol><li>No mesmo navegador, entre no <b>tiktok.com</b> com a conta da página que você vai conectar.</li>
+<li>Toque no botão da página abaixo e autorize.</li>
+<li>Copie o código que aparecer e cole na ação <b>Conectar TikTok</b> do GitHub.</li></ol>
+<div id="botoes"></div><p id="erro" class="erro" hidden></p>
+<p><small>Private tool of the account owner. <a style="color:#7CC4FF" href="../legal/privacy.html">Privacy</a> · <a style="color:#7CC4FF" href="../legal/terms.html">Terms</a></small></p>
+<script>
+fetch('../config/tiktok.json?'+Date.now()).then(r=>r.json()).then(c=>{
+ if(!c.client_key){const e=document.getElementById('erro');e.hidden=false;e.textContent='Falta a Client key em config/tiktok.json (o Craudio coloca).';return;}
+ const d=document.getElementById('botoes');
+ for(const [conta,user] of Object.entries(c.contas)){
+  const u='https://www.tiktok.com/v2/auth/authorize/?'+new URLSearchParams({client_key:c.client_key,scope:'user.info.basic,video.upload',response_type:'code',redirect_uri:c.redirect_uri,state:conta});
+  const a=document.createElement('a');a.className='b';a.href=u;a.textContent='Conectar @'+user+' ('+conta+')';d.appendChild(a);}
+});
+</script></body></html>
