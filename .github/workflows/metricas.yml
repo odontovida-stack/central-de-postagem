@@ -34,7 +34,7 @@ jobs:
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN_TAF: ${{ secrets.YT_REFRESH_TOKEN_TAF }}
           YT_REFRESH_TOKEN_BHC: ${{ secrets.YT_REFRESH_TOKEN_BHC }}
-        run: python scripts/coletar_painel.py || echo "painel: coleta parcial"
+        run: python scripts/coletar_painel.py || echo "painel - coleta parcial"
       - name: Gravar
         run: |
           git config user.name "central-de-postagem"
