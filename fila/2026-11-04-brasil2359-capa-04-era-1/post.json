@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-11-04T10:28:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,9 @@
     "Capa do destaque ERA 1"
   ],
   "legenda": "",
-  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Era 1'"
+  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Era 1'",
+  "publicado_em": "2026-11-04T13:28:05+00:00",
+  "resultado": {
+    "instagram": "18129712348882209"
+  }
 }
