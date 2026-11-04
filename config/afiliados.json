@@ -17,5 +17,9 @@
     "loja": "amazon.com",
     "como_usar": "Tag do Amazon Associates dos EUA (Store ID historyfiles, criada pelo Luiz em 04/11/2026). O robô do YouTube põe a tag nos links dos livros recomendados e o aviso obrigatório.",
     "aviso_obrigatorio": "As an Amazon Associate I earn from qualifying purchases."
+  },
+  "travelpayouts": {
+    "marker": "595928",
+    "como_usar": "Conta Travelpayouts do Luiz (04/11/2026). Programas: GetYourGuide e Viator (entrar em Programs > Join). O Drive está na página de links do BoB."
   }
 }

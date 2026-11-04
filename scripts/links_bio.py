@@ -18,6 +18,11 @@ AVISO = {"brazilonabudget": "Some links are affiliate links: if you book through
          "padrao": "Alguns links são de afiliado: se você comprar por eles, podemos ganhar uma pequena comissão, sem custo extra para você. Como Associado da Amazon, ganho com compras qualificadas."}
 
 
+# Travelpayouts Drive (conta do Luiz, marker 595928, 04/11/2026): só na página do Brazil on a Budget.
+# Transforma links de viagem em links de afiliado (GetYourGuide, Viator etc.).
+SCRIPTS_EXTRAS = {"brazilonabudget": """<script data-cmp-ab="2">(function () { var s = document.createElement("script"); s.async = 1;
+s.setAttribute("data-cmp-ab", "2"); s.src = "https://tpembars.com/NTk1OTI4.js?t=595928"; document.head.appendChild(s); })();</script>"""}
+
 def main():
     cfg_arq = RAIZ / "config" / "links.json"
     cfg = json.loads(cfg_arq.read_text(encoding="utf-8")) if cfg_arq.exists() else {}
@@ -39,7 +44,7 @@ def main():
 <title>@{conta} · links</title><style>body{{margin:0;font-family:system-ui,sans-serif;background:#0F1115;color:#F4F4F5}}
 main{{max-width:520px;margin:0 auto;padding:32px 16px;display:flex;flex-direction:column;gap:12px}}h1{{font-size:22px;margin:0 0 8px}}
 .l{{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:16px 18px;border-radius:14px;background:#181B21;color:#F4F4F5;text-decoration:none;border-left:6px solid {cor};font-weight:600}}
-.l small{{color:#B4B8C0;font-weight:400}}p{{color:#B4B8C0;font-size:13px;line-height:1.4}}</style></head><body><main>
+.l small{{color:#B4B8C0;font-weight:400}}p{{color:#B4B8C0;font-size:13px;line-height:1.4}}</style>{SCRIPTS_EXTRAS.get(conta, "")}</head><body><main>
 <h1>{html.escape(c.get("titulo", "@" + conta))}</h1>{lis or "<p>Em breve.</p>"}<p>{html.escape(AVISO.get(conta, AVISO["padrao"]))}</p>
 <p>Atualizado em {datetime.now().strftime("%d/%m/%Y")}</p></main></body></html>"""
         (saida / f"{conta}.html").write_text(doc, encoding="utf-8")
