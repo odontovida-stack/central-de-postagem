@@ -5,7 +5,7 @@
     "instagram"
   ],
   "quando": "2026-11-04T11:12:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
@@ -13,5 +13,9 @@
     "Capa do destaque SAI HOJE"
   ],
   "legenda": "",
-  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Sai Hoje'"
+  "nota": "Repostado em 04/11 (o arquivo de stories veio vazio). Destaque direto do story no ar, em até 24h: Destacar > Novo > nome 'Sai Hoje'",
+  "publicado_em": "2026-11-04T14:16:57+00:00",
+  "resultado": {
+    "instagram": "18028935638702352"
+  }
 }
