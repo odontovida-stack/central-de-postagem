@@ -1,0 +1,39 @@
+name: Testar B-roll
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar ffmpeg e Playwright
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install pillow playwright
+          python -m playwright install --with-deps chromium
+      - name: Montar o trecho de teste
+        env:
+          TEMA_SLIDES: bhc
+        run: |
+          mkdir -p saida-youtube/teste-broll
+          python gerador/youtube/broll.py gerador/youtube/teste-broll saida-youtube/teste-broll
+          mkdir -p previa/broll
+          cp saida-youtube/teste-broll/001.png previa/broll/teste-quadro.png
+          ffmpeg -y -loglevel error -i saida-youtube/teste-broll/001.mp4 -vf scale=960:540 -c:v libx264 -preset veryfast -crf 28 previa/broll/teste-540p.mp4
+          cp gerador/youtube/teste-broll/broll_creditos.json previa/broll/teste-creditos.json
+      - name: Gravar a prévia
+        run: |
+          git config user.name "central-de-postagem"
+          git config user.email "actions@users.noreply.github.com"
+          git add previa/broll
+          git commit -m "Prévia do teste de B-roll" || exit 0
+          for i in 1 2 3; do git push && exit 0; git pull --rebase; done

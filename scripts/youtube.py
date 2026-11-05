@@ -17,7 +17,8 @@ O que o robô faz com cada video.json de "status": "aprovado" que ainda não tem
   4. envia ao YouTube como privado e agendado para "quando" (secrets YT_CLIENT_ID, YT_CLIENT_SECRET,
      YT_REFRESH_TOKEN_<CANAL>), com "não é para crianças" e "conteúdo sintético" marcados, e põe a thumbnail;
   5. se houver short.json, monta e agenda o Short antes do vídeo longo ("short_antes_horas", padrão 24);
-     A descrição recebe no fim a seção PHOTOS com os créditos das fotos de fundo dos slides (campo "foto").
+     A descrição recebe no fim a seção PHOTOS com os créditos das fotos de fundo dos slides (campo "foto")
+     e a seção FOOTAGE com os trechos de vídeo (slides "tipo": "broll", gerador/youtube/broll.py).
   6. grava o resultado no video.json (status "agendado", ids) para não repetir.
 Sem os secrets do YouTube, ele para no passo 3 e deixa o MP4 como artefato da execução (para conferir).
 
@@ -85,6 +86,7 @@ def montar(pasta, cfg):
     os.environ["TEMA_SLIDES"] = cfg.get("tema", cfg["canal"])
     rodar(sys.executable, GER / "slides.py", pasta / "slides.json", out / "slides")
     rodar(sys.executable, GER / "animacao.py", pasta, out / "slides")  # cenas animadas (mapas, linhas do tempo)
+    rodar(sys.executable, GER / "broll.py", pasta, out / "slides")  # trechos de vídeo livres (Commons), sem pessoas
     fazer_thumb(pasta, out)
     blocos = json.loads((pasta / "narracao.json").read_text(encoding="utf-8"))
     aud = out / "audio-longo"
@@ -134,7 +136,18 @@ def descricao(pasta):
     desc = (pasta / "descricao.txt").read_text(encoding="utf-8")
     desc = livros_com_link(desc)
     desc = capitulos_reais(pasta, desc)
-    return descricao_com_creditos(desc, creditos_do_video(pasta / "slides.json", pasta / "thumb.json"))
+    desc = descricao_com_creditos(desc, creditos_do_video(pasta / "slides.json", pasta / "thumb.json"))
+    arq = pasta / "broll_creditos.json"
+    filmes = json.loads(arq.read_text(encoding="utf-8")) if arq.exists() else []
+    if filmes:  # seção FOOTAGE com os créditos dos trechos de vídeo, sem passar dos 5000 caracteres
+        bloco = "\n\nFOOTAGE (Wikimedia Commons)\n"
+        for c in filmes:
+            linha = c.replace("Footage: ", "").rsplit(" · ", 1)[0] + "\n"
+            if len(desc) + len(bloco) + len(linha) > 5000:
+                break
+            bloco += linha
+        desc = desc.rstrip() + bloco.rstrip()
+    return desc
 
 
 

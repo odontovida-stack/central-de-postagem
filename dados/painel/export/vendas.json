@@ -1,0 +1,46 @@
+[
+ {
+  "data": "2026-11-04",
+  "fonte": "Payhip (guias de viagem)",
+  "operacao": "Brazil on a Budget",
+  "itens": 21,
+  "visitas": 0,
+  "pedidos": 0,
+  "receita_usd": 0,
+  "situacao": "Loja no ar, 21 guias v2 com links de viagem",
+  "como_lido": "Painel do Payhip, Analytics deste mês"
+ },
+ {
+  "data": "2026-11-04",
+  "fonte": "Travelpayouts (passeios, eSIM, transfer)",
+  "operacao": "Brazil on a Budget",
+  "itens": 16,
+  "visitas": 0,
+  "pedidos": 0,
+  "receita_usd": 0,
+  "situacao": "Conta ativa, 16 links nos guias; GetYourGuide e Viator em fev/2027",
+  "como_lido": "Painel da Travelpayouts, este mês"
+ },
+ {
+  "data": "2026-11-04",
+  "fonte": "Amazon Associados BR",
+  "operacao": "LLShop",
+  "itens": null,
+  "visitas": null,
+  "pedidos": null,
+  "receita_usd": null,
+  "situacao": "Tag llshop0d-20 ativa; achados semanais às terças",
+  "como_lido": "Ainda não lido (o painel da Amazon não abre para leitura automática)"
+ },
+ {
+  "data": "2026-11-04",
+  "fonte": "Amazon Associates EUA",
+  "operacao": "YouTube",
+  "itens": null,
+  "visitas": null,
+  "pedidos": null,
+  "receita_usd": null,
+  "situacao": "Tag historyfiles-20 nos livros das descrições",
+  "como_lido": "Ainda não lido (o painel da Amazon não abre para leitura automática)"
+ }
+]
