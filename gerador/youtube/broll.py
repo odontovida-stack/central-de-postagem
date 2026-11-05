@@ -63,15 +63,18 @@ def sobreposicao(pg, legenda, credito, png, tema):
     rgb = {"taf": "192,57,43", "bhc": "201,162,39"}.get(tema, "192,57,43")
     css = "".join(f"@font-face{{font-family:'{a}';font-weight:{w};src:url('file://{F}/{n}')}}" for a, w, n in [
         ("S", 700, "source-serif-4-latin-700-normal.woff2"), ("M", 500, "ibm-plex-mono-latin-500-normal.woff2")])
-    pg.set_content(f"""<html><head><style>{css}html,body{{margin:0;background:transparent}}
+    pagina = png.with_suffix(".html")
+    pagina.write_text(f"""<html><head><style>{css}html,body{{margin:0;background:transparent}}
 #c{{width:1920px;height:1080px;position:relative;background:linear-gradient(180deg,rgba(0,0,0,0) 62%,rgba(0,0,0,.62) 100%)}}
 .l{{position:absolute;left:120px;bottom:118px;font:700 56px S;color:#F4EFE6;max-width:1500px;line-height:1.15;text-shadow:0 2px 18px rgba(0,0,0,.6)}}
 .b{{position:absolute;left:120px;bottom:96px;width:120px;height:5px;background:rgb({rgb})}}
 .k{{position:absolute;right:60px;bottom:40px;font:500 22px M;color:rgba(244,239,230,.75);max-width:1100px;text-align:right}}</style></head>
 <body><div id="c">{'<div class="l">' + html.escape(legenda) + '</div><div class="b"></div>' if legenda else ''}
-<div class="k">{html.escape(credito)}</div></div></body></html>""")
+<div class="k">{html.escape(credito)}</div></div></body></html>""", encoding="utf-8")
+    pg.goto(pagina.resolve().as_uri())  # arquivo local: as fontes file:// só carregam assim
     pg.evaluate("document.fonts.ready")
     pg.locator("#c").screenshot(path=str(png), omit_background=True)
+    pagina.unlink()
 
 
 def rodar(*a):
