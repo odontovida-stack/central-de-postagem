@@ -36,7 +36,11 @@ if any(c.exists() for c in clipes):
     with open(lista, 'w') as f:
         for k, (png, clip, d) in enumerate(zip(slides, clipes, duracoes)):
             seg = tdir / f'{k:03d}.mp4'
-            if clip.exists():
+            if clip.exists() and Path(png).with_suffix('.broll').exists():
+                # b-roll: o trecho de vídeo repete (sem acelerar) até cobrir o tempo do slide
+                cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-stream_loop', '-1', '-i', str(clip), '-t', f'{d:.3f}', '-an',
+                       '-vf', 'fps=30,format=yuv420p', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', str(seg)]
+            elif clip.exists():
                 D = dur(str(clip))
                 fator = max(d / D, 1 / 3) if d < D else 1.0  # slide curto: acelera a animação (até 3x) para ela terminar
                 extra = max(0.0, d - D * fator)
