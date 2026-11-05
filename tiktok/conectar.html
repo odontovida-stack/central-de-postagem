@@ -11,7 +11,7 @@ fetch('../config/tiktok.json?'+Date.now()).then(r=>r.json()).then(c=>{
  if(!c.client_key){const e=document.getElementById('erro');e.hidden=false;e.textContent='Falta a Client key em config/tiktok.json (o Craudio coloca).';return;}
  const d=document.getElementById('botoes');
  for(const [conta,user] of Object.entries(c.contas)){
-  const u='https://www.tiktok.com/v2/auth/authorize/?'+new URLSearchParams({client_key:c.client_key,scope:'user.info.basic,video.upload',response_type:'code',redirect_uri:c.redirect_uri,state:conta});
+  const u='https://www.tiktok.com/v2/auth/authorize/?'+new URLSearchParams({client_key:c.client_key,scope:'user.info.basic,user.info.profile,user.info.stats,video.upload',response_type:'code',redirect_uri:c.redirect_uri,state:conta});
   const a=document.createElement('a');a.className='b';a.href=u;a.textContent='Conectar @'+user+' ('+conta+')';d.appendChild(a);}
 });
 </script></body></html>
