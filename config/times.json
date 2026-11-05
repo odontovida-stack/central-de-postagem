@@ -591,5 +591,29 @@
    "#FDB912"
   ],
   "texto": "#FFFFFF"
+ },
+ "Fenerbahçe": {
+  "sigla": "FEN",
+  "cores": [
+   "#FFED00",
+   "#002D72"
+  ],
+  "texto": "#002D72"
+ },
+ "RB Leipzig": {
+  "sigla": "RBL",
+  "cores": [
+   "#FFFFFF",
+   "#DD0741"
+  ],
+  "texto": "#DD0741"
+ },
+ "Como": {
+  "sigla": "COM",
+  "cores": [
+   "#003DA5",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
