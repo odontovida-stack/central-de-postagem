@@ -170,7 +170,8 @@ def numeros():
                                          headers={"Authorization": f"Bearer {tok}"})
             with urllib.request.urlopen(req, timeout=60) as r:
                 u = json.loads(r.read().decode()).get("data", {}).get("user", {})
-            linhas.append({"conta": conta, "usuario": usuario, "seguidores": u.get("follower_count", 0),
+            print(f"{conta}: autorizada como '{u.get('display_name', '?')}' (open_id termina em {cofre[conta]['open_id'][-6:]})")
+            linhas.append({"conta": conta, "usuario": usuario, "nome_no_tiktok": u.get("display_name", ""), "seguidores": u.get("follower_count", 0),
                            "curtidas": u.get("likes_count", 0), "videos": u.get("video_count", 0)})
         except Exception as e:  # noqa: BLE001
             print(f"{conta}: sem números ({str(e)[:120]})")
