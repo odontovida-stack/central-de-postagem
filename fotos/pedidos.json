@@ -461,5 +461,9 @@
   {
     "nome": "judo-tatame",
     "busca": "judo tatami mat competition"
+  },
+  {
+    "nome": "ringue-lutas",
+    "busca": "empty boxing ring"
   }
 ]
