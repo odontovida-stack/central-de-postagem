@@ -1,0 +1,222 @@
+{
+ "dia": "05/11/2026",
+ "apurado_em": "2026-11-05",
+ "contas": {
+  "jogosnatela": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-05T12:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "SÃO PAULO 0x0 CORINTHIANS",
+    "titulo": "Quem saiu no lucro com o empate?",
+    "contexto": "Clássico sem gols, com Yuri Alberto expulso e o Corinthians ainda no Z4.",
+    "opcoes": [
+     "São Paulo",
+     "Corinthians",
+     "Ninguém"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Pergunta: depois do 0 a 0 entre São Paulo e Corinthians, quem saiu no lucro? A: São Paulo. B: Corinthians. C: Ninguém.",
+    "legenda": "🤔 São Paulo 0x0 Corinthians: quem saiu no lucro com o empate?\n\nA) São Paulo\nB) Corinthians\nC) Ninguém\n\n🟥 Yuri Alberto foi expulso no 2º tempo, depois da revisão do VAR\n🚫 Matheus Bidu fez gol, anulado por impedimento\n📉 O Corinthians segue em 17º, na zona de rebaixamento, com 37 pontos\n\n📌 Salve e volte no fim do campeonato.\n📤 Mande para aquele amigo que torce para o rival.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para a reta final do Brasileirão.\n\nFonte: Gazeta Esportiva.\n\n#brasileirao #saopaulo #corinthians #majestoso #futebol #enquete"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-05T11:00:00-03:00",
+    "pilula": "QUI 05/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "05/11",
+      "sub": "QUI · 15h",
+      "titulo": "Alcaraz x Berrettini",
+      "detalhe": "Tênis · oitavas do Masters de Paris · ESPN, Disney+"
+     },
+     {
+      "data": "05/11",
+      "sub": "QUI · 16h30",
+      "titulo": "Thiago Monteiro x Cecchinato",
+      "detalhe": "Tênis · Challenger da Costa do Sauípe · Challenger TV",
+      "gratis": true
+     },
+     {
+      "data": "05/11",
+      "sub": "QUI · 18h30",
+      "titulo": "Mackenzie x Minas",
+      "detalhe": "Vôlei · Superliga Feminina · sportv2"
+     },
+     {
+      "data": "05/11",
+      "sub": "QUI · 22h15",
+      "titulo": "Jaguars x Ravens",
+      "detalhe": "NFL · Thursday Night · sportv2, ge tv",
+      "gratis": true
+     }
+    ],
+    "fonte": "Conferido em 05/11 às 1h · ATP, Tenis News, Webvôlei, Lance",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: Alcaraz x Berrettini às 15h no Masters de Paris, Thiago Monteiro x Cecchinato às 16h30 na Costa do Sauípe, Mackenzie x Minas às 18h30 na Superliga Feminina e Jaguars x Ravens às 22h15 na NFL",
+    "legenda": "🎾🏐🏈 Quinta com Alcaraz em Paris, brasileiro em casa, Superliga e NFL de graça!\n\n⏰ Horário de Brasília:\n🎾 15h · Carlos Alcaraz x Matteo Berrettini · oitavas do Masters 1000 de Paris · ESPN e Disney+\n🇧🇷 16h30 · Thiago Monteiro x Marco Cecchinato · oitavas do Challenger da Costa do Sauípe · Challenger TV 🆓 (às 19h tem Thiago Wild)\n🏐 18h30 · Mackenzie x Minas · Superliga Feminina · sportv2\n🏈 22h15 · Jacksonville Jaguars x Baltimore Ravens · NFL · sportv2 e ge tv 🆓\n\n🆓 = transmissão grátis\n📌 Salve para não perder nada.\n📤 Mande para quem vai assistir com você.\n\nQual você não perde? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#esportes #tenis #alcaraz #superliga #volei #nfl #hojetem"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-05T13:00:00-03:00",
+    "foto": "quadra-tenis",
+    "pilula": "PALPITE",
+    "chamada": "MASTERS DE PARIS · HOJE, 15H",
+    "titulo": "Alcaraz x Berrettini: quem leva?",
+    "contexto": "Oitavas do Masters 1000 de Paris, a partir das 15h (horário de Brasília).",
+    "opcoes": [
+     "Alcaraz em 2 sets",
+     "Alcaraz em 3 sets",
+     "Berrettini"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Alcaraz x Berrettini, quem leva? A: Alcaraz em 2 sets. B: Alcaraz em 3 sets. C: Berrettini.",
+    "legenda": "🎾 Alcaraz x Berrettini: quem leva?\n\nA) Alcaraz em 2 sets\nB) Alcaraz em 3 sets\nC) Berrettini\n\n⏰ Hoje, a partir das 15h (horário de Brasília) · oitavas do Masters 1000 de Paris · ESPN e Disney+\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para quem acompanha tênis com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#tenis #alcaraz #berrettini #mastersparis #atp #palpite"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "destaque",
+    "sufixo": "sai-hoje",
+    "quando": "2026-11-05T10:00:00-03:00",
+    "pilula": "QUI 05/11",
+    "chamada": "SAI HOJE",
+    "grande": "05/11",
+    "titulo": "Zelda: Ocarina of Time",
+    "caixas": [
+     [
+      "Plataforma",
+      "Só Nintendo Switch 2"
+     ],
+     [
+      "Preço na eShop",
+      "R$ 329,90"
+     ]
+    ],
+    "nota": "Remake do clássico. Mídia física com preço sugerido de R$ 439,90.",
+    "fonte": "Conferido em 05/11 às 1h · Game Over Drive, Insider Gaming",
+    "cta": "Mande para quem vai jogar",
+    "alt": "Sai hoje: The Legend of Zelda: Ocarina of Time, remake só para Nintendo Switch 2, por R$ 329,90 na eShop",
+    "legenda": "🗡️ Chegou o dia: o remake de Ocarina of Time sai hoje!\n\n🎮 The Legend of Zelda: Ocarina of Time\n📅 Quinta, 05/11\n🕹️ Só no Nintendo Switch 2\n💰 R$ 329,90 na eShop · mídia física com preço sugerido de R$ 439,90\n\n📌 Salve para não esquecer.\n📤 Mande para quem jogou o original no Nintendo 64.\n\nVai jogar hoje? 👇\nSiga @lancamentosdegames para os lançamentos do dia.\n\nFontes: Game Over Drive e Insider Gaming.\n\n#zelda #ocarinaoftime #nintendo #nintendoswitch2 #games #lancamentos"
+   },
+   {
+    "tipo": "carrossel",
+    "sufixo": "gratis",
+    "quando": "2026-11-05T14:00:00-03:00",
+    "alt": "Tudo grátis agora #4: Flotsam e pacote de Idle Champions grátis na Epic até 12/11",
+    "cards": [
+     {
+      "tipo": "agenda",
+      "pilula": "SÉRIE #4",
+      "chamada": "TUDO GRÁTIS AGORA #4",
+      "titulo": "Resgate antes que acabe",
+      "itens": [
+       {
+        "data": "12/11",
+        "sub": "QUI · 13h",
+        "titulo": "Flotsam",
+        "detalhe": "Epic · acaba em 167h · qui 12/11, 13h"
+       },
+       {
+        "data": "12/11",
+        "sub": "QUI · 13h",
+        "titulo": "Idle Champions: pacote Morte",
+        "detalhe": "Epic · acaba em 167h · qui 12/11, 13h"
+       }
+      ],
+      "fonte": "Conferido em 05/11 às 1h · Worthplaying, Gaming Route",
+      "cta": "Arraste →",
+      "alt": "Tudo grátis agora #4: Flotsam e o pacote Morte's Champions of Renown de Idle Champions grátis na Epic até quinta, 12/11, às 13h"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "PASSO A PASSO",
+      "chamada": "COMO RESGATAR",
+      "titulo": "Leva 1 minuto",
+      "texto": "Resgatou, é seu: o jogo fica na sua biblioteca mesmo depois que a promoção acaba.",
+      "topicos": [
+       "Entre na Epic Games Store com a sua conta",
+       "Toque em \"Obter\" na página do jogo",
+       "Pronto: fica na sua biblioteca para sempre"
+      ],
+      "fonte": "",
+      "cta": "Salve e compartilhe",
+      "alt": "Como resgatar: entre na Epic Games Store com a sua conta, toque em Obter na página do jogo e ele fica na sua biblioteca para sempre."
+     }
+    ],
+    "legenda": "⏰ Você tem 167h para pegar o novo grátis da Epic (até quinta, 12/11, às 13h)!\n\n🎁 TUDO GRÁTIS AGORA #4\n🌊 Flotsam · construa uma cidade flutuante num mundo alagado · grátis na Epic\n🧙 Idle Champions of the Forgotten Realms · pacote Morte's Champions of Renown de graça (o jogo já é gratuito)\n\n📌 Salve para não perder o prazo\n📤 Mande para aquele amigo que adora jogo grátis\n\nVai resgatar? 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\nFontes: Worthplaying e Gaming Route.\n\n#jogosgratis #epicgames #flotsam #idlechampions #pcgamer #games #gamer"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-05T12:00:00-03:00",
+    "pilula": "QUI 05/11",
+    "chamada": "ESTREIA HOJE",
+    "titulo": "O que estreia hoje",
+    "itens": [
+     {
+      "data": "05/11",
+      "sub": "CINEMA",
+      "titulo": "Godzilla Minus Zero",
+      "detalhe": "Nos cinemas · com sessões IMAX"
+     },
+     {
+      "data": "05/11",
+      "sub": "CINEMA",
+      "titulo": "Os Farofeiros 3",
+      "detalhe": "Nos cinemas · Downtown Filmes"
+     },
+     {
+      "data": "05/11",
+      "sub": "NETFLIX",
+      "titulo": "Black Doves: 2ª temporada",
+      "detalhe": "Série · Netflix"
+     }
+    ],
+    "fonte": "Conferido em 05/11 às 1h · Omelete, Ingresso.com, Oficina da Net",
+    "cta": "Salve e compartilhe",
+    "alt": "Estreia hoje: Godzilla Minus Zero e Os Farofeiros 3 nos cinemas, e a 2ª temporada de Black Doves na Netflix",
+    "legenda": "🦖 Quinta de estreia: Godzilla volta aos cinemas hoje!\n\n🎬 Godzilla Minus Zero · nos cinemas, com sessões IMAX\n🏖️ Os Farofeiros 3 · nos cinemas\n🕊️ Black Doves · 2ª temporada · Netflix\n\n📌 Salve para escolher o programa do fim de semana.\n📤 Mande para quem vai ao cinema com você.\n\nQual você vai ver primeiro? 👇\nSiga @tudooqueestreia para saber o que estreia, toda semana.\n\nFontes: Omelete, Ingresso.com e Oficina da Net.\n\n#godzilla #godzillaminuszero #osfarofeiros3 #blackdoves #netflix #cinema #estreia"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-05T16:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "QUI 05/11",
+    "chamada": "HOJE TEM SHOW · SÃO PAULO",
+    "grande": "20h30",
+    "titulo": "Sepultura no Cine Joia",
+    "caixas": [
+     [
+      "Local",
+      "Cine Joia · Liberdade"
+     ],
+     [
+      "Ingressos",
+      "Ainda à venda · Shotgun"
+     ]
+    ],
+    "nota": "Um dos últimos shows da carreira. A despedida é no sábado, 07/11, em São Paulo.",
+    "fonte": "Conferido em 05/11 às 1h · Wikimetal, Billboard Brasil",
+    "cta": "Mande para quem vai",
+    "alt": "Hoje tem show: Sepultura no Cine Joia, na Liberdade, em São Paulo, às 20h30, com ingressos ainda à venda pela Shotgun",
+    "legenda": "🤘 Hoje tem Sepultura em São Paulo, num dos últimos shows da carreira!\n\n🎸 Sepultura\n📍 Cine Joia · Praça Carlos Gomes, 82, Liberdade, São Paulo\n⏰ 20h30 (horário de Brasília)\n🎟️ Ainda tem ingresso, a partir de R$ 200 (meia), só pela Shotgun\n🗓️ O último show da carreira é no sábado, 07/11, em São Paulo\n\n⚠️ Cuidado com golpe: compre só pelo link oficial.\n📌 Salve para ter o horário à mão.\n📤 Mande para quem vai com você.\n\nVai hoje ou só no sábado? 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\nFontes: Wikimetal e Billboard Brasil.\n\n#sepultura #metal #cinejoia #saopaulo #showsconfirmados #shows"
+   }
+  ]
+ }
+}
