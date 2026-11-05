@@ -91,10 +91,30 @@ def conectar(conta, codigo):
     res = _post(f"{API}/oauth/token/", {"client_key": ck, "client_secret": cs, "code": codigo.strip(),
                                          "grant_type": "authorization_code", "redirect_uri": CFG["redirect_uri"]}, form=True)
     cofre = ler_cofre()
+    for outra, dados in cofre.items():
+        if outra != conta and dados.get("open_id") == res["open_id"]:
+            raise TikTokError(f"essa autorização é da mesma conta TikTok já ligada a '{outra}'. Saia do TikTok no navegador "
+                              f"(ou use uma janela anônima), entre na conta certa de '{conta}' e gere um código novo.")
     cofre[conta] = {"open_id": res["open_id"], "refresh_token": res["refresh_token"], "scope": res.get("scope", ""),
                     "conectado_em": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
     gravar_cofre(cofre)
     print(f"{conta}: conectada (permissões: {res.get('scope', '?')})")
+
+
+def desconectar_duplicadas():
+    """Tira do cofre as contas autorizadas com o mesmo login TikTok de uma conta anterior (ordem de config/tiktok.json)."""
+    cofre = ler_cofre()
+    vistos = {}
+    for conta in CFG["contas"]:
+        oid = cofre.get(conta, {}).get("open_id")
+        if not oid:
+            continue
+        if oid in vistos:
+            del cofre[conta]
+            print(f"{conta}: desconectada (era o mesmo login de {vistos[oid]}); conecte de novo com a conta certa")
+        else:
+            vistos[oid] = conta
+    gravar_cofre(cofre)
 
 
 def _token(conta, cofre):
@@ -186,6 +206,8 @@ def numeros():
 if __name__ == "__main__":
     if len(sys.argv) >= 4 and sys.argv[1] == "conectar":
         conectar(sys.argv[2], sys.argv[3])
+    elif len(sys.argv) >= 2 and sys.argv[1] == "desconectar-duplicadas":
+        desconectar_duplicadas()
     elif len(sys.argv) >= 2 and sys.argv[1] == "reenviar":
         reenviar()
     elif len(sys.argv) >= 2 and sys.argv[1] == "numeros":

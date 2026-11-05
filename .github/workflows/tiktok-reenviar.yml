@@ -20,6 +20,7 @@ jobs:
           TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
           TIKTOK_CHAVE: ${{ secrets.TIKTOK_CHAVE }}
         run: |
+          python scripts/tiktok.py desconectar-duplicadas
           python scripts/tiktok.py reenviar
           python scripts/tiktok.py numeros
       - name: Gravar
