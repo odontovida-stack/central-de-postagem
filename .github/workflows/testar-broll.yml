@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "central-de-postagem"
           git config user.email "actions@users.noreply.github.com"
-          git add previa/broll
+          git add -f previa/broll
           git commit -m "Prévia do teste de B-roll" || exit 0
           for i in 1 2 3; do git push && exit 0; git pull --rebase; done
