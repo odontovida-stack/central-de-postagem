@@ -1,0 +1,711 @@
+{
+  "semana": "09 a 15 de novembro de 2026 (estreias: 06 a 12/11)",
+  "apurado_em": "2026-11-05",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-06T09:00:00-03:00",
+        "sufixo": "estreias-da-semana",
+        "alt": "Estreias da semana de 06 a 12 de novembro: 14 estreias, 9 filmes e 5 séries, por plataforma, e o Top 10 da Netflix no Brasil",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "cinema-sala",
+            "pilula": "06–12 NOV",
+            "chamada": "ESTREIAS DA SEMANA · 06 a 12/11",
+            "grande": "14",
+            "titulo": "estreias esta semana",
+            "caixas": [["Filmes", "9"], ["Séries", "5"]],
+            "nota": "Netflix, Prime Video, HBO Max e cinema",
+            "fonte": "Fontes: Ovício · Omelete · Ingresso.com · GameOverdrive",
+            "cta": "Arraste →",
+            "alt": "Capa: 14 estreias esta semana, de 06 a 12 de novembro: 9 filmes e 5 séries"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "06–12 NOV",
+            "chamada": "OS 4 DESTAQUES",
+            "titulo": "O mais esperado",
+            "itens": [
+              {"data": "11/11", "sub": "QUA", "titulo": "Os Anéis de Poder · 3ª temp.", "detalhe": "Prime Video · a guerra contra Sauron chega ao auge"},
+              {"data": "12/11", "sub": "QUI", "titulo": "Ebenezer e os Fantasmas do Natal", "detalhe": "Cinema · Johnny Depp num Conto de Natal sombrio"},
+              {"data": "11/11", "sub": "QUA", "titulo": "O Corpo", "detalhe": "Netflix · série de terror num colégio católico"},
+              {"data": "08/11", "sub": "DOM", "titulo": "Cidade de Deus: A Luta Não Para", "detalhe": "HBO Max · 2ª temporada, 1 episódio por semana"}
+            ],
+            "fonte": "Fontes: Omelete · AdoroCinema · GameOverdrive",
+            "cta": "Arraste →",
+            "alt": "Os 4 destaques: Os Anéis de Poder 3ª temporada (Prime Video, 11/11), Ebenezer e os Fantasmas do Natal (cinema, 12/11), O Corpo (Netflix, 11/11) e Cidade de Deus: A Luta Não Para 2ª temporada (HBO Max, 08/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "06–12 NOV",
+            "chamada": "NETFLIX",
+            "titulo": "Na Netflix",
+            "itens": [
+              {"data": "06/11", "sub": "SEX", "titulo": "Amor Possível", "detalhe": "filme · drama sul-coreano de Lee Chang-dong"},
+              {"data": "08/11", "sub": "DOM", "titulo": "Meu Sangue Ferve Por Você", "detalhe": "filme · brasileiro"},
+              {"data": "10/11", "sub": "TER", "titulo": "O Jogo do Diabo", "detalhe": "série · reality"},
+              {"data": "11/11", "sub": "QUA", "titulo": "O Corpo", "detalhe": "série · terror, 8 episódios"},
+              {"data": "12/11", "sub": "QUI", "titulo": "Ne Zha 2: O Renascer da Alma", "detalhe": "filme · animação chinesa"}
+            ],
+            "fonte": "Fontes: Ovício · Omelete · GameOverdrive",
+            "cta": "Arraste →",
+            "alt": "Netflix: Amor Possível (06/11), Meu Sangue Ferve Por Você (08/11), O Jogo do Diabo (10/11), O Corpo (11/11) e Ne Zha 2 (12/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "06–12 NOV",
+            "chamada": "PRIME VIDEO",
+            "titulo": "No Prime Video",
+            "itens": [
+              {"data": "09/11", "sub": "SEG", "titulo": "Todo Tempo Que Temos", "detalhe": "filme · chega ao streaming"},
+              {"data": "11/11", "sub": "QUA", "titulo": "Os Anéis de Poder · 3ª temporada", "detalhe": "série · 4 episódios de uma vez"}
+            ],
+            "fonte": "Fontes: Ovício · Omelete",
+            "cta": "Arraste →",
+            "alt": "Prime Video: Todo Tempo Que Temos (09/11) e Os Anéis de Poder, 3ª temporada (11/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "06–12 NOV",
+            "chamada": "HBO MAX",
+            "titulo": "Na HBO Max",
+            "itens": [
+              {"data": "08/11", "sub": "DOM", "titulo": "Cidade de Deus: A Luta Não Para", "detalhe": "série · 2ª temporada"},
+              {"data": "11/11", "sub": "QUA", "titulo": "Aeroporto: Área Restrita", "detalhe": "série · 8ª temporada"}
+            ],
+            "fonte": "Fontes: Ovício · GameOverdrive",
+            "cta": "Arraste →",
+            "alt": "HBO Max: Cidade de Deus: A Luta Não Para, 2ª temporada (08/11), e Aeroporto: Área Restrita, 8ª temporada (11/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "QUI 12/11",
+            "chamada": "CINEMA",
+            "titulo": "Nos cinemas",
+            "itens": [
+              {"data": "12/11", "sub": "QUI", "titulo": "Ebenezer e os Fantasmas do Natal", "detalhe": "filme · Paramount"},
+              {"data": "12/11", "sub": "QUI", "titulo": "Pinóquio: Maldição de Madeira", "detalhe": "filme · terror"},
+              {"data": "12/11", "sub": "QUI", "titulo": "Como Roubar um Banco", "detalhe": "filme · ação"},
+              {"data": "12/11", "sub": "QUI", "titulo": "Boiúna – Terror no Amazonas", "detalhe": "filme · terror brasileiro"},
+              {"data": "12/11", "sub": "QUI", "titulo": "Quatro Meninas", "detalhe": "filme · drama brasileiro"}
+            ],
+            "fonte": "Fontes: Ingresso.com · AdoroCinema",
+            "cta": "Arraste →",
+            "alt": "Cinema, quinta 12/11: Ebenezer e os Fantasmas do Natal, Pinóquio: Maldição de Madeira, Como Roubar um Banco, Boiúna e Quatro Meninas"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "26/10–01/11",
+            "chamada": "NETFLIX BRASIL · SEMANA PASSADA",
+            "titulo": "Top 10 da semana",
+            "topicos": [
+              "Séries: 1 Lupin P4 · 2 Dom de Iludir · 3 Lupin P1 · 4 Lupin P2 · 5 Lupin P3",
+              "6 Um Trabalho do Inferno · 7 A Noiva da Presilha Dourada · 8 Doctor X · 9 Aquele Sobre Matthew Perry · 10 Profundezas",
+              "Filmes: 1 Colisão Implacável · 2 Contra o Furacão · 3 Sede de Vingança · 4 Isto Não É Um Teste · 5 O Grande Mauricinho",
+              "6 Pequenos Invasores · 7 Anora · 8 O Atirador: A Última Bala · 9 Todos Menos Você · 10 Premonição 6"
+            ],
+            "fonte": "Fonte: Netflix Top 10 (Tudum) · nomes em português: Exame",
+            "cta": "Salve a lista",
+            "alt": "Top 10 da Netflix no Brasil de 26/10 a 01/11. Séries: Lupin Parte 4, Dom de Iludir, Lupin Partes 1, 2 e 3, Um Trabalho do Inferno, A Noiva da Presilha Dourada, Doctor X, Aquele Sobre Matthew Perry, Profundezas. Filmes: Colisão Implacável, Contra o Furacão, Sede de Vingança, Isto Não É Um Teste, O Grande Mauricinho, Pequenos Invasores, Anora, O Atirador: A Última Bala, Todos Menos Você, Premonição 6"
+          }
+        ],
+        "legenda": "🎬 14 estreias esta semana (06 a 12/11): 9 filmes e 5 séries\n\nOs 4 destaques:\n💍 Qua 11/11 · Os Anéis de Poder, 3ª temporada · Prime Video (4 episódios de uma vez)\n👻 Qui 12/11 · Ebenezer e os Fantasmas do Natal · cinema\n🕯️ Qua 11/11 · O Corpo · Netflix\n🔫 Dom 08/11 · Cidade de Deus: A Luta Não Para, 2ª temporada · HBO Max\n\n📺 Netflix: Amor Possível (06), Meu Sangue Ferve Por Você (08), O Jogo do Diabo (10), O Corpo (11) e Ne Zha 2 (12)\n📦 Prime Video: Todo Tempo Que Temos (09) e Os Anéis de Poder T3 (11)\n🎞️ HBO Max: Cidade de Deus T2 (08) e Aeroporto: Área Restrita T8 (11)\n🍿 Cinema, qui 12/11: Ebenezer, Pinóquio: Maldição de Madeira, Como Roubar um Banco, Boiúna e Quatro Meninas (os destaques entre 20 lançamentos)\n🏆 No último slide: o Top 10 da Netflix no Brasil da semana passada\n\n📌 Salve para escolher o que ver no fim de semana\n📤 Mande para quem divide o sofá com você\n\nQual vai ser o primeiro? Comenta aí 👇\nSiga @tudooqueestreia para saber tudo o que estreia, toda sexta.\n\nFontes: Ovício, Omelete, Ingresso.com, AdoroCinema, GameOverdrive, Netflix Top 10 e Exame.\n\n#estreias #netflix #primevideo #hbomax #cinema #series #filmes #aneisdepoder"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-06T15:30:00-03:00",
+        "sufixo": "quinzenal",
+        "foto": "streaming-sofa",
+        "pilula": "NOS PRÓXIMOS 15 DIAS",
+        "chamada": "O LANÇAMENTO DA QUINZENA",
+        "grande": "20/11",
+        "titulo": "Percy Jackson · 3ª temporada",
+        "caixas": [["Onde", "Disney+"], ["Episódios", "2 na estreia, 8 no total"]],
+        "nota": "Baseada em A Maldição do Titã. Os episódios saem em pares, até 11/12.",
+        "fonte": "Fontes: Omelete · GameOverdrive",
+        "cta": "Salve a data",
+        "alt": "Percy Jackson e os Olimpianos, 3ª temporada, estreia em 20 de novembro no Disney+ com 2 episódios",
+        "legenda": "⚡ Anote: Percy Jackson volta daqui a 2 semanas!\n\n📺 Percy Jackson e os Olimpianos, 3ª temporada\n📅 Sexta, 20/11, no Disney+\n🎬 2 episódios na estreia, depois em pares, até 11/12 (8 no total)\n📖 Baseada no livro A Maldição do Titã\n\n📌 Salve para não esquecer a data\n📤 Mande para quem leu os livros com você\n\nVocê já viu as duas primeiras temporadas? Sim ou não 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFontes: Omelete e GameOverdrive.\n\n#percyjackson #disneyplus #series #estreias #percyjacksoneosolimpianos"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-06T19:30:00-03:00",
+        "sufixo": "mensal",
+        "foto": "streaming-sofa",
+        "pilula": "O MAIS ESPERADO DE NOVEMBRO",
+        "chamada": "SÉRIE NOVA NO STREAMING",
+        "grande": "25/11",
+        "titulo": "Blade Runner 2099",
+        "caixas": [["Onde", "Prime Video"], ["Episódios", "Os 8 de uma vez"]],
+        "fonte": "Fonte: Amazon (anúncio oficial)",
+        "cta": "Salve a data",
+        "alt": "Blade Runner 2099 estreia em 25 de novembro no Prime Video, com os 8 episódios de uma vez",
+        "legenda": "🤖 A série mais esperada do resto de novembro já tem data!\n\n📺 Blade Runner 2099\n📅 Quarta, 25/11, no Prime Video\n🎬 Os 8 episódios de uma vez\n\n📌 Salve para não esquecer a data\n📤 Mande para quem é fã de ficção científica\n\nVai maratonar no dia? Sim ou não 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFonte: Amazon (anúncio oficial).\n\n#bladerunner #bladerunner2099 #primevideo #series #estreias #ficcaocientifica"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-11T20:00:00-03:00",
+        "sufixo": "estreias-mais-esperadas",
+        "alt": "As estreias mais esperadas da semana: Os Anéis de Poder, 3ª temporada, no Prime Video, e Ebenezer e os Fantasmas do Natal, nos cinemas",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "streaming-sofa",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "chamada": "STREAMING + CINEMA · 11 E 12/11",
+            "titulo": "As 2 estreias da semana",
+            "caixas": [["Prime Video · qua 11/11", "Os Anéis de Poder T3"], ["Cinema · qui 12/11", "Ebenezer"]],
+            "nota": "Sem spoiler. Arraste para saber se vale.",
+            "fonte": "Fontes: Omelete · AdoroCinema",
+            "cta": "Arraste →",
+            "alt": "Capa: as 2 estreias mais esperadas da semana: Os Anéis de Poder 3ª temporada (Prime Video, quarta 11/11) e Ebenezer e os Fantasmas do Natal (cinema, quinta 12/11)"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "NO STREAMING",
+            "chamada": "PRIME VIDEO · QUARTA, 11/11",
+            "titulo": "Os Anéis de Poder · 3ª temporada",
+            "texto": "Um salto no tempo leva a série ao auge da guerra entre os elfos e Sauron, que tenta forjar o Um Anel.",
+            "topicos": [
+              "Episódios 1 a 4 hoje, de uma vez",
+              "Episódios 5 e 6 em 18/11; 7 e 8 em 25/11",
+              "Classificação indicativa: confira no app"
+            ],
+            "fonte": "Fonte: Omelete",
+            "alt": "Os Anéis de Poder, 3ª temporada: um salto no tempo leva ao auge da guerra contra Sauron. Episódios 1 a 4 em 11/11, 5 e 6 em 18/11, 7 e 8 em 25/11"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "NO STREAMING",
+            "chamada": "ELENCO E POR QUE VER",
+            "titulo": "Vale a maratona?",
+            "topicos": [
+              "Voltam Charlie Vickers, Morfydd Clark, Robert Aramayo e Owain Arthur",
+              "Entram Jamie Campbell Bower e Eddie Marsan",
+              "As primeiras reações elogiam a escala e o Sauron de Vickers",
+              "Nossa visão: é a temporada em que a guerra finalmente chega"
+            ],
+            "fonte": "Fontes: Omelete · Legião dos Heróis · opinião da página",
+            "alt": "Elenco de Os Anéis de Poder: Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, com Jamie Campbell Bower e Eddie Marsan. Reações elogiam a escala"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "NO CINEMA",
+            "chamada": "CINEMAS · QUINTA, 12/11",
+            "titulo": "Ebenezer e os Fantasmas do Natal",
+            "texto": "Uma versão sombria de Um Conto de Natal: na véspera de Natal, o avarento Scrooge recebe a visita de fantasmas.",
+            "topicos": [
+              "Direção de Ti West, de X e Pearl",
+              "1h56 · distribuição da Paramount",
+              "Classificação indicativa: confira no cinema"
+            ],
+            "fonte": "Fontes: AdoroCinema · Ingresso.com",
+            "alt": "Ebenezer e os Fantasmas do Natal, nos cinemas em 12/11: versão sombria de Um Conto de Natal, dirigida por Ti West, 1h56"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "NO CINEMA",
+            "chamada": "ELENCO E POR QUE VER",
+            "titulo": "Por que vale o ingresso",
+            "topicos": [
+              "Johnny Depp como protagonista",
+              "Com Rupert Grint, Andrea Riseborough, Sam Claflin e Ian McKellen",
+              "Nossa visão: o clássico de Natal nas mãos de um diretor de terror é a aposta mais curiosa do mês"
+            ],
+            "fonte": "Fonte: AdoroCinema · opinião da página",
+            "alt": "Elenco de Ebenezer: Johnny Depp, Rupert Grint, Andrea Riseborough, Sam Claflin e Ian McKellen"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "cinema-sala",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você vai ver primeiro?",
+            "opcoes": ["Os Anéis de Poder", "Ebenezer", "Os dois", "Nenhum dos dois"],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🍿 Uma série gigante no streaming e um clássico de Natal com cara de terror no cinema. Qual vai primeiro?\n\n💍 Os Anéis de Poder, 3ª temporada · Prime Video\n📅 Quarta, 11/11: episódios 1 a 4 de uma vez · 5 e 6 em 18/11 · 7 e 8 em 25/11\n⚔️ O auge da guerra entre os elfos e Sauron, com Charlie Vickers e Morfydd Clark\n\n👻 Ebenezer e os Fantasmas do Natal · cinemas\n📅 Quinta, 12/11 · 1h56 · Paramount\n🎬 Johnny Depp, Rupert Grint e Ian McKellen, com direção de Ti West (X, Pearl)\n\nA opinião nos slides é da página. Sem spoiler.\n\n📌 Salve para escolher o programa da semana\n📤 Mande para quem vai ver com você\n\nQual você vai ver primeiro? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFontes: Omelete, Legião dos Heróis, AdoroCinema e Ingresso.com.\n\n#osaneisdepoder #senhordosaneis #primevideo #ebenezer #johnnydepp #cinema #estreias"
+      }
+    ],
+    "lancamentosdegames": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-09T09:00:00-03:00",
+        "sufixo": "semana",
+        "pilula": "09–15 NOV",
+        "chamada": "LANÇAMENTOS DA SEMANA · PREÇO EM 05/11",
+        "titulo": "O que jogar",
+        "itens": [
+          {"data": "10/11", "sub": "TER", "titulo": "Warhammer Survivors", "detalhe": "PC · PS5 · Xbox · Switch · Switch 2 · preço a confirmar"},
+          {"data": "12/11", "sub": "QUI", "titulo": "Metaphor: ReFantazio", "detalhe": "Switch 2 · R$ 167,90 na eShop"},
+          {"data": "12/11", "sub": "QUI", "titulo": "Sonic Pico Park", "detalhe": "PC · PS5 · Xbox · Switch 2 · R$ 36,95 na Xbox"},
+          {"data": "12/11", "sub": "QUI", "titulo": "Pikmin 4 · Switch 2 Edition", "detalhe": "Switch 2 · preço a confirmar"},
+          {"data": "12/11", "sub": "QUI", "titulo": "Moomin: Midsummer Madness", "detalhe": "PC · Switch · Switch 2 · preço a confirmar"}
+        ],
+        "fonte": "Fontes: Nintendo eShop · Xbox Store · Steam · Gematsu · Push Square",
+        "cta": "Qual você vai jogar?",
+        "alt": "Lançamentos de games de 09 a 15 de novembro: Warhammer Survivors (10/11), Metaphor: ReFantazio no Switch 2 por R$ 167,90, Sonic Pico Park por R$ 36,95, Pikmin 4 Switch 2 Edition e Moomin (12/11)",
+        "legenda": "🎮 5 lançamentos da semana, com preço em real (conferido em 05/11):\n\n⚔️ Ter 10/11 · Warhammer Survivors · PC, PS5, Xbox, Switch e Switch 2 · preço no Brasil a confirmar\n📖 Qui 12/11 · Metaphor: ReFantazio · Switch 2 · R$ 167,90 na eShop\n🦔 Qui 12/11 · Sonic Pico Park · PC, PS5, Xbox, Switch e Switch 2 · R$ 36,95 na Xbox Store\n🌱 Qui 12/11 · Pikmin 4 Nintendo Switch 2 Edition · preço a confirmar\n🌙 Qui 12/11 · Moomin: Midsummer Madness · PC, Switch e Switch 2 · preço a confirmar\n\n📌 Salve para não perder as datas\n📤 Mande para quem joga com você\n\nQual você vai jogar primeiro? 👇\nSiga @lancamentosdegames para os lançamentos e preços toda semana.\n\nFontes: Nintendo eShop, Xbox Store, Steam, Gematsu e Push Square.\n\n#games #lancamentos #nintendoswitch2 #metaphorrefantazio #sonic #pikmin #ps5 #xbox"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-10T19:00:00-03:00",
+        "sufixo": "game-da-semana",
+        "alt": "O game da semana: Metaphor: ReFantazio chega ao Switch 2 em 12/11 por R$ 167,90 na eShop",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "game-controle",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "SWITCH 2 · QUINTA, 12/11",
+            "titulo": "Metaphor: ReFantazio no Switch 2",
+            "caixas": [["Preço na eShop", "R$ 167,90"], ["Nota do original", "94 no OpenCritic"]],
+            "nota": "Preço em 05/11. Arraste para ver o que muda.",
+            "fonte": "Fontes: Nintendo eShop · OpenCritic",
+            "cta": "Arraste →",
+            "alt": "Capa: Metaphor: ReFantazio chega ao Switch 2 na quinta, 12/11, por R$ 167,90; o original tem 94 no OpenCritic"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "O ESSENCIAL",
+            "titulo": "O que é e quanto custa",
+            "topicos": [
+              "Sai quinta, 12/11, só no Switch 2",
+              "R$ 167,90 na eShop (preço em 05/11)",
+              "RPG da Atlus, do time de Persona, lançado em 2024 no PS5, Xbox e PC",
+              "Melhor RPG, Narrativa e Direção de Arte no The Game Awards 2024"
+            ],
+            "fonte": "Fontes: Nintendo eShop · Sega",
+            "alt": "Metaphor: ReFantazio sai em 12/11 no Switch 2 por R$ 167,90. É o RPG da Atlus de 2024, premiado no The Game Awards 2024"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "O QUE MUDA NO SWITCH 2",
+            "titulo": "O que tem de novo",
+            "topicos": [
+              "Suporte a tela de toque",
+              "Atlus 35th Anniversary Edition, com DLC, artbook e trilha sonora",
+              "Bônus de pré-venda: Archetype EXP Chest Set e Adventurer's Journey Pack",
+              "Ocupa cerca de 62 GB (estimativa da eShop)"
+            ],
+            "fonte": "Fontes: Nintendo eShop · RPG Site · Sega",
+            "alt": "No Switch 2: tela de toque, edição de 35 anos da Atlus, bônus de pré-venda e cerca de 62 GB"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "A VISÃO DA PÁGINA",
+            "titulo": "Vale a pena?",
+            "grande": "94",
+            "texto": "É a nota do original no OpenCritic e no Metacritic. Para nós, é um dos grandes RPGs da década. Só que uma prévia da RPG Site disse que o port ainda não chegou lá: vale esperar as primeiras análises da versão Switch 2.",
+            "fonte": "Fontes: OpenCritic · Metacritic · RPG Site · opinião da página",
+            "alt": "O original tem nota 94 no OpenCritic e no Metacritic. Uma prévia disse que o port ainda não chegou lá; a página recomenda esperar as análises"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "game-controle",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Vai comprar?",
+            "opcoes": ["Sim, no lançamento", "Vou esperar as análises", "Já joguei em outro console", "Não é meu estilo"],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "📖 Um dos RPGs mais premiados de 2024 chega ao Switch 2 na quinta. Vale comprar de novo?\n\n🎮 Metaphor: ReFantazio · Switch 2\n📅 Quinta, 12/11\n💰 R$ 167,90 na eShop (preço em 05/11)\n⭐ 94 no OpenCritic e no Metacritic (versão original de 2024)\n✨ Novidades: tela de toque e edição de 35 anos da Atlus, com DLC, artbook e trilha\n⚠️ As notas da versão Switch 2 ainda não saíram. Uma prévia disse que o port ainda não chegou lá. Na nossa visão, vale esperar as primeiras análises.\n\n📌 Salve para lembrar no dia\n📤 Mande para quem ama RPG\n\nVai comprar? Responda A, B, C ou D 👇\nSiga @lancamentosdegames para os lançamentos e preços toda semana.\n\nFontes: Nintendo eShop, Sega, OpenCritic, Metacritic e RPG Site.\n\n#metaphorrefantazio #atlus #nintendoswitch2 #rpg #games #lancamentos #gamedasemana"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-11T18:00:00-03:00",
+        "sufixo": "gta-preload",
+        "foto": "game-controle",
+        "pilula": "FALTAM 8 DIAS",
+        "chamada": "GTA VI · PRÉ-LOAD LIBERADO",
+        "grande": "212 GB",
+        "titulo": "Libere espaço para o GTA VI",
+        "caixas": [["Pré-load", "Já começou"], ["Lançamento", "19/11 à 0h"]],
+        "nota": "Para quem comprou a versão digital no PS5 ou no Xbox Series. O pré-load não libera o jogo antes.",
+        "fonte": "Fontes: Rockstar via VGC · Pure Xbox",
+        "cta": "Já baixou?",
+        "alt": "GTA VI: o pré-load já começou, o jogo pode ocupar até 212 GB e é liberado em 19/11 à meia-noite",
+        "legenda": "💾 O pré-load do GTA VI já começou: separe até 212 GB!\n\n🎮 GTA VI · PS5 e Xbox Series\n⬇️ Pré-load liberado desde 10/11 para quem comprou a versão digital\n📦 Até 212 GB, segundo a Rockstar (depende do aparelho)\n🕛 O jogo libera em 19/11, à meia-noite no horário local\n⚠️ O pré-load não dá acesso antecipado\n\n📌 Salve para não esquecer de liberar espaço\n📤 Mande para quem vai virar a noite jogando com você\n\nJá baixou? Sim ou não 👇\nSiga @lancamentosdegames para tudo sobre o lançamento.\n\nFontes: Rockstar (via VGC), Pure Xbox e Vice.\n\n#gta6 #gtavi #rockstargames #ps5 #xboxseriesx #games #lancamentos"
+      }
+    ],
+    "jogosnatela": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-09T12:00:00-03:00",
+        "sufixo": "semana",
+        "pilula": "09–15 NOV",
+        "chamada": "JOGOS DA SEMANA · HORÁRIO DE BRASÍLIA",
+        "titulo": "Semana de Seleção",
+        "itens": [
+          {"data": "12/11", "sub": "QUI · 16h45", "titulo": "Itália x França", "detalhe": "Liga das Nações · transmissão a confirmar"},
+          {"data": "14/11", "sub": "SÁB · 7h15", "titulo": "Japão x Brasil", "detalhe": "Amistoso em Singapura · transmissão a confirmar"},
+          {"data": "14/11", "sub": "SÁB · 16h45", "titulo": "Portugal x Dinamarca", "detalhe": "Liga das Nações · transmissão a confirmar"},
+          {"data": "14/11", "sub": "SÁB · 18h30", "titulo": "Mirassol x Atlético-MG", "detalhe": "Brasileirão, no Maião · transmissão a confirmar"},
+          {"data": "15/11", "sub": "DOM · 16h45", "titulo": "Espanha x Inglaterra", "detalhe": "Liga das Nações · transmissão a confirmar"}
+        ],
+        "fonte": "Fontes: CBF via Agência Brasil · UEFA · Metrópoles",
+        "cta": "Salve a agenda",
+        "alt": "Jogos de 09 a 15 de novembro, horário de Brasília: Itália x França (12/11, 16h45), Japão x Brasil (14/11, 7h15, em Singapura), Portugal x Dinamarca (14/11, 16h45), Mirassol x Atlético-MG (14/11, 18h30) e Espanha x Inglaterra (15/11, 16h45)",
+        "legenda": "⚽ Semana de data FIFA: o Brasileirão para (quase) todo e a Seleção joga no sábado de manhã!\n\n🌍 Qui 12/11, 16h45 · Itália x França · Liga das Nações\n🇧🇷 Sáb 14/11, 7h15 · Japão x Brasil · amistoso no Estádio Nacional de Singapura\n🌍 Sáb 14/11, 16h45 · Portugal x Dinamarca · Liga das Nações\n🇧🇷 Sáb 14/11, 18h30 · Mirassol x Atlético-MG · Brasileirão, no Maião (35ª rodada)\n🌍 Dom 15/11, 16h45 · Espanha x Inglaterra · Liga das Nações\n\n📺 As emissoras ainda não confirmaram as transmissões. A gente atualiza nos stories.\n\n📌 Salve para não perder o horário\n📤 Mande para quem acorda cedo para ver a Seleção com você\n\nVai acordar às 7h para ver o Brasil? Sim ou não 👇\nSiga @jogosnatela para a agenda toda semana.\n\nFontes: CBF (via Agência Brasil), UEFA e Metrópoles. Horários da UEFA convertidos para Brasília.\n\n#selecaobrasileira #japaoxbrasil #ligadasnacoes #brasileirao #atleticomg #mirassol #futebol #ondeassistir"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-10T18:00:00-03:00",
+        "sufixo": "final-sul-americana",
+        "foto": "estadio-maracana",
+        "pilula": "FINAL EM JOGO ÚNICO",
+        "chamada": "FINAL DA SUL-AMERICANA 2026",
+        "grande": "21/11",
+        "titulo": "Atlético-MG x Boca Juniors",
+        "caixas": [["Onde", "Barranquilla, Colômbia"], ["Onde assistir", "SBT · Paramount+ · Disney+"]],
+        "nota": "Sábado, às 19h30 (Brasília), no Estádio Metropolitano Roberto Meléndez.",
+        "fonte": "Fonte: Conmebol via Tribuna de Jundiaí",
+        "cta": "Ative o lembrete",
+        "alt": "Final da Sul-Americana 2026: Atlético-MG x Boca Juniors em 21 de novembro, às 19h30, em Barranquilla; transmissão do SBT, Paramount+ e Disney+",
+        "legenda": "🏆 O Galo está a um jogo do título da Sul-Americana!\n\nAtlético-MG x Boca Juniors · final em jogo único\n📅 Sábado, 21/11, às 19h30 (Brasília)\n📍 Estádio Metropolitano Roberto Meléndez, Barranquilla (Colômbia)\n📺 SBT (TV aberta, grátis), Paramount+ e Disney+\n\n📌 Salve para não esquecer\n📤 Mande para o atleticano da sua vida\n\nQuem leva a taça? Galo ou Boca? 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFonte: Conmebol (via Tribuna de Jundiaí).\n\n#sulamericana #atleticomg #galo #boca #bocajuniors #finaldasulamericana #futebol"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-13T19:00:00-03:00",
+        "sufixo": "jogo-da-semana",
+        "alt": "O jogo da semana: Japão x Brasil, amistoso no sábado 14/11 às 7h15 de Brasília, em Singapura",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "estadio-maracana",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "AMISTOSO · SÁBADO, 14/11",
+            "titulo": "Japão x Brasil: a revanche",
+            "caixas": [["Quando", "Sáb 14/11 · 7h15"], ["Onde", "Singapura"]],
+            "nota": "Horário de Brasília. Transmissão ainda a confirmar.",
+            "fonte": "Fontes: CBF via Agência Brasil",
+            "cta": "Arraste →",
+            "alt": "Capa: Japão x Brasil, amistoso no sábado 14/11, às 7h15 de Brasília, no Estádio Nacional de Singapura"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "O QUE ESTÁ EM JOGO",
+            "titulo": "O reencontro depois da Copa",
+            "topicos": [
+              "Na Copa, o Brasil virou para 2 x 1 nos 16 avos, em Houston",
+              "Em 2025, o Japão ganhou de 3 x 2 em Tóquio: a 1ª vitória deles no duelo",
+              "É o penúltimo jogo do Brasil em 2026",
+              "O último: Singapura x Brasil, terça 17/11, às 7h"
+            ],
+            "fonte": "Fontes: CBF · Gazeta Japan · Agência Brasil",
+            "alt": "O que está em jogo: na Copa, o Brasil venceu o Japão por 2 a 1; em 2025, o Japão ganhou por 3 a 2. É o penúltimo jogo do Brasil em 2026; o último é contra Singapura, em 17/11"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "TÉCNICOS E MOMENTO",
+            "titulo": "Quem comanda",
+            "topicos": [
+              "Brasil: Carlo Ancelotti, recomeçando depois da queda nas oitavas da Copa",
+              "Japão: Hajime Moriyasu, renovado até a Copa da Ásia de 2027",
+              "Brasil é o 6º do ranking da FIFA (outubro)"
+            ],
+            "fonte": "Fontes: Agência Brasil · CNN Brasil · Gazeta Esportiva · Torcedores.com",
+            "alt": "Técnicos: Carlo Ancelotti no Brasil e Hajime Moriyasu no Japão. O Brasil é o 6º do ranking da FIFA"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "FIQUE DE OLHO",
+            "titulo": "3 nomes para ver",
+            "topicos": [
+              "Estêvão (Chelsea): volta à Seleção depois de perder a Copa por lesão",
+              "Jonathan Jesus (Cruzeiro): novidade na lista",
+              "Marlon Gomes (Shakhtar): outra novidade de Ancelotti"
+            ],
+            "fonte": "Fontes: Agência Brasil · Bolavip",
+            "alt": "Fique de olho: Estêvão, do Chelsea, que volta depois de perder a Copa; Jonathan Jesus, do Cruzeiro, e Marlon Gomes, do Shakhtar, novidades na convocação"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "RETROSPECTO",
+            "titulo": "O histórico do duelo",
+            "grande": "12–2–1",
+            "texto": "Em 15 jogos, o Brasil tem 12 vitórias, 2 empates e 1 derrota. Em 2014, também em Singapura, fez 4 x 0 com quatro gols de Neymar. Na nossa visão, o favorito é o Brasil, mas o Japão já mostrou que sabe ganhar dele.",
+            "fonte": "Fontes: Gazeta Japan · CBF · opinião da página",
+            "alt": "Retrospecto: em 15 jogos, 12 vitórias do Brasil, 2 empates e 1 vitória do Japão. Em 2014, em Singapura, Brasil 4 x 0"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "estadio-maracana",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "SEU PALPITE",
+            "titulo": "Quem vence em Singapura?",
+            "opcoes": ["Japão", "Empate", "Brasil"],
+            "cta": "Responda A, B ou C"
+          }
+        ],
+        "legenda": "🇧🇷 O Japão ganhou do Brasil em 2025. O Brasil deu o troco na Copa. Sábado tem o desempate!\n\n⚽ Japão x Brasil · amistoso\n📅 Sábado, 14/11, às 7h15 (Brasília)\n📍 Estádio Nacional de Singapura\n🔙 2025: Japão 3 x 2 Brasil, em Tóquio · Copa 2026: Brasil 2 x 1 Japão, em Houston\n👀 Fique de olho: Estêvão, Jonathan Jesus e Marlon Gomes\n➡️ Depois: Singapura x Brasil, terça 17/11, às 7h\n📺 Transmissão ainda não confirmada. A gente avisa nos stories.\n\nO palpite no último slide é seu. A opinião nos slides é da página.\n\n📌 Salve para lembrar de acordar cedo\n📤 Mande para quem vê a Seleção com você\n\nQuem vence? Responda A, B ou C 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFontes: CBF, Agência Brasil, Gazeta Japan, Gazeta Esportiva, CNN Brasil, Torcedores.com e Bolavip.\n\n#selecaobrasileira #japaoxbrasil #ancelotti #estevao #amistoso #futebol #jogodasemana"
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-09T12:30:00-03:00",
+        "sufixo": "semana",
+        "pilula": "09–15 NOV",
+        "chamada": "ESPORTES DA SEMANA · HORÁRIO DE BRASÍLIA",
+        "titulo": "6 esportes, 1 semana",
+        "itens": [
+          {"data": "08–15", "sub": "NOV", "titulo": "WTA Finals: Luisa Stefani", "detalhe": "Tênis · duplas, cabeça de chave 1, Indian Wells"},
+          {"data": "12/11", "sub": "QUI · 21h", "titulo": "Flamengo x Fluminense", "detalhe": "Vôlei · Superliga Feminina · canal a confirmar"},
+          {"data": "14/11", "sub": "SÁB · 23h", "titulo": "UFC 334: Kayla x Amanda Nunes", "detalhe": "MMA · card principal · Paramount+"},
+          {"data": "15/11", "sub": "DOM · 11h30", "titulo": "Patriots x Lions, em Munique", "detalhe": "NFL · jogo internacional · canal a confirmar"},
+          {"data": "15/11", "sub": "DOM · 12h13", "titulo": "Corrida do Milhão", "detalhe": "Stock Car · Velopark (RS) · canal a confirmar"},
+          {"data": "15/11", "sub": "DOM", "titulo": "Começa o ATP Finals", "detalhe": "Tênis · Turim, até 22/11"}
+        ],
+        "fonte": "Fontes: WTA · CBV/O Tempo · UFC · Patriots · ABCdoABC",
+        "cta": "Salve a agenda",
+        "alt": "Esportes de 09 a 15 de novembro: WTA Finals com Luisa Stefani, Flamengo x Fluminense na Superliga Feminina, UFC 334, Patriots x Lions em Munique, Corrida do Milhão da Stock Car e início do ATP Finals",
+        "legenda": "🏆 Tênis, vôlei, MMA, NFL e Stock Car: a semana tem brasileiro em tudo (horário de Brasília):\n\n🎾 08 a 15/11 · WTA Finals, em Indian Wells · Luisa Stefani e Gabriela Dabrowski são as cabeças de chave 1 nas duplas\n🏐 Qui 12/11, 21h · Flamengo x Fluminense · Superliga Feminina · canal a confirmar\n🥊 Sáb 14/11, 23h · UFC 334: Kayla Harrison x Amanda Nunes, pelo cinturão · Paramount+\n🏈 Dom 15/11, 11h30 · Patriots x Lions, em Munique · NFL · canal a confirmar\n🏁 Dom 15/11, 12h13 · Corrida do Milhão da Stock Car, no Velopark (RS) · sprint no sábado, às 14h18\n🎾 Dom 15/11 · começa o ATP Finals, em Turim\n\n📌 Salve para não perder nada\n📤 Mande para quem torce com você\n\nQual você não perde? Comenta aí 👇\nSiga @esportesnatela para a agenda de todos os esportes, toda semana.\n\nFontes: WTA, O Tempo, UFC, New England Patriots, ABCdoABC e tennis-db.\n\n#esportes #ufc #luisastefani #wtafinals #superliga #volei #nfl #stockcar"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-12T18:00:00-03:00",
+        "sufixo": "gp-las-vegas",
+        "foto": "formula1-pista",
+        "pilula": "F1 · PRÓXIMA CORRIDA",
+        "chamada": "GP DE LAS VEGAS",
+        "grande": "22/11",
+        "titulo": "Largada à 1h da madrugada",
+        "caixas": [["Brasileiro", "Gabriel Bortoleto"], ["Onde assistir", "Globo · SporTV · F1 TV"]],
+        "nota": "Domingo, 1h (Brasília): sábado à noite em Las Vegas.",
+        "fonte": "Fontes: Formula 1 · O Povo",
+        "cta": "Vai virar a noite?",
+        "alt": "GP de Las Vegas de F1: largada no domingo, 22/11, à 1h de Brasília, com Gabriel Bortoleto; transmissão da Globo, SporTV e F1 TV",
+        "legenda": "🌃 A F1 corre na madrugada: o GP de Las Vegas larga à 1h de domingo (horário de Brasília)!\n\n🏎️ GP de Las Vegas\n📅 Domingo, 22/11, à 1h (sábado, 20h em Las Vegas)\n🇧🇷 Gabriel Bortoleto, pela Audi\n📺 Globo (TV aberta, grátis), SporTV, Globoplay e F1 TV\n\n📌 Salve para não perder a largada\n📤 Mande para quem vira a noite vendo F1 com você\n\nVai virar a noite? Sim ou não 👇\nSiga @esportesnatela para todos os esportes.\n\nFontes: Formula 1 e O Povo.\n\n#f1 #formula1 #lasvegasgp #bortoleto #automobilismo #esportes"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-14T10:00:00-03:00",
+        "sufixo": "evento-da-semana",
+        "alt": "O evento da semana: UFC 334, com Kayla Harrison x Amanda Nunes pelo cinturão do peso-galo, sábado 14/11, card principal às 23h no Paramount+",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "UFC 334 · HOJE · NOVA YORK",
+            "titulo": "A volta da Leoa",
+            "caixas": [["Pelo cinturão", "Kayla x Amanda Nunes"], ["Card principal", "23h · Paramount+"]],
+            "nota": "Horário de Brasília. 3 brasileiros no Madison Square Garden.",
+            "fonte": "Fontes: UFC · MMA Sucka · CNN Brasil",
+            "cta": "Arraste →",
+            "alt": "Capa: UFC 334 hoje em Nova York, Kayla Harrison x Amanda Nunes pelo cinturão; card principal às 23h no Paramount+"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "O ESSENCIAL",
+            "titulo": "Dois cinturões em jogo",
+            "topicos": [
+              "Co-principal: Kayla Harrison (campeã) x Amanda Nunes, peso-galo",
+              "Principal: Ciryl Gane x Josh Hokit, pelos pesados",
+              "Preliminares às 19h e 21h; card principal às 23h",
+              "Só no Paramount+ (sem TV aberta)"
+            ],
+            "fonte": "Fontes: MMA Sucka · CNN Brasil",
+            "alt": "O essencial: Kayla Harrison x Amanda Nunes pelo cinturão do peso-galo e Ciryl Gane x Josh Hokit pelos pesados. Preliminares às 19h e 21h, card principal às 23h, só no Paramount+"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "A DESAFIANTE",
+            "titulo": "Quem é Amanda Nunes",
+            "topicos": [
+              "Baiana de Pojuca, cartel de 23 vitórias e 5 derrotas",
+              "1ª mulher campeã de duas categorias ao mesmo tempo no UFC",
+              "Está no Hall da Fama do UFC",
+              "Parou em 2023, depois de vencer Irene Aldana"
+            ],
+            "fonte": "Fontes: Bahia Notícias · CBS Sports · Cageside Press",
+            "alt": "Amanda Nunes: baiana de Pojuca, 23-5, primeira campeã de duas categorias ao mesmo tempo no UFC, Hall da Fama, aposentada desde 2023"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "A CAMPEÃ",
+            "titulo": "Quem é Kayla Harrison",
+            "topicos": [
+              "Bicampeã olímpica de judô e bicampeã da PFL",
+              "Cartel de 19 vitórias e 1 derrota",
+              "Tirou o cinturão de Julianna Peña no UFC 316",
+              "A luta já foi adiada uma vez, por lesão de Kayla"
+            ],
+            "fonte": "Fontes: theScore · Cageside Press",
+            "alt": "Kayla Harrison: bicampeã olímpica de judô, 19-1, campeã desde o UFC 316; a luta já foi adiada uma vez por lesão dela"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "MAIS BRASIL NO CARD",
+            "titulo": "Fique de olho",
+            "topicos": [
+              "Caio Borralho x Yousri Belgaroui, no card principal",
+              "Bia Mesquita x Macy Chiasson, nas preliminares",
+              "Nossa visão: Amanda precisa manter a luta em pé, longe do judô de Kayla"
+            ],
+            "fonte": "Fontes: MMA Sucka · opinião da página",
+            "alt": "Outros brasileiros: Caio Borralho x Yousri Belgaroui e Bia Mesquita x Macy Chiasson. Na visão da página, Amanda precisa manter a luta em pé"
+          },
+          {
+            "tipo": "pergunta",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "SEU PALPITE",
+            "titulo": "Quem leva o cinturão?",
+            "opcoes": ["Amanda Nunes", "Kayla Harrison"],
+            "cta": "Responda A ou B"
+          }
+        ],
+        "legenda": "🥊 A Leoa voltou. Hoje à noite, Amanda Nunes tenta tomar o cinturão de Kayla Harrison no Madison Square Garden.\n\n🏆 UFC 334 · sábado, 14/11 · Nova York\n🥇 Co-principal: Kayla Harrison (campeã, 19-1) x Amanda Nunes (23-5), peso-galo\n🥇 Principal: Ciryl Gane x Josh Hokit, pelos pesados\n🇧🇷 Também lutam Caio Borralho e Bia Mesquita\n⏰ Preliminares às 19h e 21h · card principal às 23h (Brasília)\n📺 Só no Paramount+\n\nA análise nos slides é a visão da página.\n\n📌 Salve para não perder o horário\n📤 Mande para quem vê UFC com você\n\nQuem leva? Responda A ou B 👇\nSiga @esportesnatela para todos os esportes.\n\nFontes: UFC, MMA Sucka, CNN Brasil, CBS Sports, Bahia Notícias, theScore e Cageside Press.\n\n#ufc #ufc334 #amandanunes #kaylaharrison #mma #caioborralho #esportes"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-09T19:00:00-03:00",
+        "sufixo": "semana",
+        "pilula": "09–15 NOV",
+        "chamada": "SHOWS DA SEMANA",
+        "titulo": "Onde tem show",
+        "itens": [
+          {"data": "09–13", "sub": "NOV", "titulo": "Hayley Williams", "detalhe": "Rio (09) · São Paulo (12 e 13) · Eventim"},
+          {"data": "14/11", "sub": "SÁB", "titulo": "Marisa Monte & Orquestra", "detalhe": "Nubank Parque, SP · fim da turnê · Ticket For Fun"},
+          {"data": "14/11", "sub": "SÁB", "titulo": "Zeca, Alcione e Jorge Aragão", "detalhe": "Beira-Rio, Porto Alegre · Eventim"},
+          {"data": "14/11", "sub": "SÁB", "titulo": "Xuxa: O Último Voo da Nave", "detalhe": "Arena MRV, Belo Horizonte"},
+          {"data": "14/11", "sub": "SÁB", "titulo": "Blitz", "detalhe": "Multiplan Hall, Ribeirão Preto"}
+        ],
+        "fonte": "Fontes: Vagalume · TMC · Correio da Manhã · Billboard Brasil",
+        "cta": "Marque quem vai",
+        "alt": "Shows de 09 a 15 de novembro: Hayley Williams no Rio e em SP, Marisa Monte em SP, Zeca Pagodinho, Alcione e Jorge Aragão em Porto Alegre, Xuxa em BH e Blitz em Ribeirão Preto",
+        "legenda": "🎤 5 shows grandes nesta semana, de Porto Alegre a BH:\n\n🎸 Hayley Williams · Rio 09/11 (Qualistage) · São Paulo 12 e 13/11 (Espaço Unimed) · Eventim\n🎻 Marisa Monte & Orquestra · sáb 14/11 · Nubank Parque, SP · show que encerra a turnê Phonica · Ticket For Fun\n🥁 Zeca Pagodinho, Alcione e Jorge Aragão · sáb 14/11 · Beira-Rio, Porto Alegre · Eventim\n🚀 Xuxa: O Último Voo da Nave · sáb 14/11 · Arena MRV, BH\n📻 Blitz · sáb 14/11 · Multiplan Hall Ribeirão Shopping, Ribeirão Preto\n\n⚠️ Compre só na vendedora oficial. Desconfie de revenda e de Pix para desconhecidos.\n\n📌 Salve para não esquecer\n📤 Mande para quem vai com você\n\nVai em qual? Comenta aí 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Vagalume, TMC, Correio da Manhã, Billboard Brasil e Songkick.\n\n#shows #showsnobrasil #marisamonte #hayleywilliams #zecapagodinho #xuxa #agendadeshows"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-11T18:00:00-03:00",
+        "sufixo": "interior-sp",
+        "foto": "show-plateia",
+        "pilula": "INTERIOR DE SP",
+        "chamada": "SHOWS CONFIRMADOS FORA DA CAPITAL",
+        "grande": "3",
+        "titulo": "grandes shows no interior",
+        "linhas": [
+          ["28/11", "Ribeirão Preto", "Ivete Sangalo · Estádio do Comercial"],
+          ["05/12", "São José dos Campos", "Daniel · Farma Conde Arena"],
+          ["12/12", "Campinas", "Ivete Sangalo · Ivete Clareou"]
+        ],
+        "nota": "Ivete: ingressos na Ingresse.",
+        "fonte": "Fontes: Billboard Brasil · Songkick · Informa",
+        "cta": "Marque quem vai",
+        "alt": "Shows no interior de SP: Ivete Sangalo em Ribeirão Preto (28/11) e Campinas (12/12) e Daniel em São José dos Campos (05/12)",
+        "legenda": "📍 Quem mora no interior de SP não precisa ir à capital: 3 shows grandes confirmados!\n\n🎉 28/11 · Ribeirão Preto · Ivete Sangalo (Ivete Clareou) · Estádio do Comercial · Ingresse\n🎶 05/12 · São José dos Campos · Daniel · Farma Conde Arena\n🎉 12/12 · Campinas · Ivete Sangalo (Ivete Clareou) · Ingresse\n\n⚠️ Compre só na vendedora oficial. Desconfie de perfil vendendo ingresso por Pix.\n\n📌 Salve para não esquecer\n📤 Mande para quem é da sua cidade\n\nDe qual cidade você é? Comenta aí 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Billboard Brasil, Songkick e Informa.\n\n#shows #interiordesp #ivetesangalo #ribeiraopreto #campinas #saojosedoscampos #daniel"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-12T19:00:00-03:00",
+        "sufixo": "show-da-semana",
+        "alt": "O show da semana: Best of Blues and Rock 2026, com Eddie Vedder (20 e 22/11, esgotados) e Roger Daltrey (21/11) no Parque Ibirapuera, em São Paulo",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "show-plateia",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "BEST OF BLUES AND ROCK · SÃO PAULO",
+            "titulo": "Eddie Vedder e Roger Daltrey no Ibirapuera",
+            "caixas": [["Datas", "20, 21 e 22/11"], ["Ingressos", "Só o dia 21 tem"]],
+            "nota": "Os dias de Vedder (20 e 22) estão esgotados. Venda oficial: Ticketmaster.",
+            "fonte": "Fontes: Igor Miranda · Guitarload",
+            "cta": "Arraste →",
+            "alt": "Capa: Best of Blues and Rock com Eddie Vedder e Roger Daltrey no Ibirapuera, 20 a 22/11; só o dia 21 ainda tem ingresso"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "QUEM TOCA EM CADA DIA",
+            "titulo": "A escalação",
+            "topicos": [
+              "20/11: Eddie Vedder, Simon Townshend, Linka Moja e Samuel Rosa",
+              "21/11: Roger Daltrey, Chris Isaak, Kingfish Ingram e Artur Menezes",
+              "22/11: Eddie Vedder, Simon Townshend, Linka Moja e Vitor Kley",
+              "Portões às 13h30, shows a partir das 15h30 · 16 anos"
+            ],
+            "fonte": "Fontes: Igor Miranda · Guitarload",
+            "alt": "Escalação: dia 20 Eddie Vedder, Simon Townshend, Linka Moja e Samuel Rosa; dia 21 Roger Daltrey, Chris Isaak, Kingfish Ingram e Artur Menezes; dia 22 Eddie Vedder, Simon Townshend, Linka Moja e Vitor Kley"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "O QUE ESPERAR · EDDIE VEDDER",
+            "titulo": "Pearl Jam no violão",
+            "texto": "Vedder vem da primeira turnê solo desde 2019. Nos shows de abril, no Japão, misturou Pearl Jam, a trilha de Na Natureza Selvagem e covers como Wildflowers, de Tom Petty.",
+            "topicos": [
+              "Just Breathe · Better Man · Corduroy · Porch",
+              "Society · Guaranteed · Rise · Far Behind"
+            ],
+            "fonte": "Fontes: setlist.fm · JamBase",
+            "alt": "O que esperar de Eddie Vedder: setlist com Just Breathe, Better Man, Corduroy, Porch, Society, Guaranteed, Rise e Far Behind"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "O QUE ESPERAR · ROGER DALTREY",
+            "titulo": "A voz do The Who",
+            "texto": "Daltrey vem da turnê solo A Great Night Out, que rodou os EUA entre agosto e outubro, com os clássicos do The Who no repertório.",
+            "topicos": [
+              "Who Are You · Baba O'Riley",
+              "Won't Get Fooled Again · The Kids Are Alright"
+            ],
+            "fonte": "Fonte: Ultimate Classic Rock",
+            "alt": "O que esperar de Roger Daltrey: Who Are You, Baba O'Riley, Won't Get Fooled Again e The Kids Are Alright"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "INGRESSOS E SETORES",
+            "titulo": "Quanto custa",
+            "topicos": [
+              "Setor único: Plateia Externa",
+              "1º lote: R$ 1.008 (inteira) · R$ 504 (meia)",
+              "2º lote: R$ 1.232 (inteira) · R$ 616 (meia)",
+              "Bilheteria sem taxa: Shopping Ibirapuera, piso Jurupis"
+            ],
+            "fonte": "Fonte: Guitarload · lote atual: confira na Ticketmaster",
+            "alt": "Ingressos: setor único Plateia Externa; 1º lote R$ 1.008 inteira e R$ 504 meia; 2º lote R$ 1.232 inteira e R$ 616 meia; bilheteria sem taxa no Shopping Ibirapuera"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "ALERTA DE GOLPE",
+            "titulo": "Esgotou? Cuidado",
+            "texto": "Com os dias 20 e 22 esgotados, vai aparecer gente vendendo ingresso em rede social. Não pague por Pix a desconhecidos. Compre só na Ticketmaster ou na bilheteria oficial.",
+            "fonte": "Fonte: Ticketmaster (vendedora oficial)",
+            "alt": "Alerta de golpe: com os dias 20 e 22 esgotados, desconfie de revenda em rede social e compre só na Ticketmaster ou na bilheteria oficial"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "show-plateia",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Você vai?",
+            "opcoes": ["Dia 20 (Vedder)", "Dia 21 (Daltrey)", "Dia 22 (Vedder)", "Dessa vez não"],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🎸 Eddie Vedder esgotou duas noites em São Paulo. Mas ainda dá para ver o Roger Daltrey.\n\n🎤 Best of Blues and Rock 2026 · Parque Ibirapuera, SP\n📅 20/11 e 22/11 · Eddie Vedder (esgotados)\n📅 21/11 · Roger Daltrey e Chris Isaak (ainda tem ingresso)\n💿 Vedder vem da 1ª turnê solo desde 2019; Daltrey, da turnê A Great Night Out\n🎟️ Setor único, Plateia Externa: 1º lote R$ 1.008 (inteira) / R$ 504 (meia) · 2º lote R$ 1.232 / R$ 616. Confira o lote atual na Ticketmaster.\n⚠️ Compre só na Ticketmaster ou na bilheteria do Shopping Ibirapuera. Revenda em rede social e Pix para desconhecidos é risco de golpe.\n\n📌 Salve para não esquecer a data\n📤 Mande para quem vai com você\n\nVocê vai? Responda A, B, C ou D 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Igor Miranda, Guitarload, setlist.fm, JamBase e Ultimate Classic Rock.\n\n#bestofbluesandrock #eddievedder #rogerdaltrey #pearljam #thewho #shows #ibirapuera"
+      }
+    ]
+  }
+}
