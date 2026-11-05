@@ -1,6 +1,6 @@
 {
   "_como_usar": "Robô do TikTok (pedido do Luiz em 04/11/2026). Cada conta conectada recebe os posts com \"tiktok\" em redes como RASCUNHO (caixa de entrada do TikTok): o Luiz abre o app, confere e toca em Publicar. As autorizações ficam trancadas em dados/tiktok.enc com a chave TIKTOK_CHAVE (GitHub Secrets). Para conectar uma conta: tiktok/conectar.html.",
-  "client_key": "",
+  "client_key": "sbawft2jv0tonz6ymd",
   "redirect_uri": "https://odontovida-stack.github.io/central-de-postagem/tiktok/callback.html",
   "midia_base": "https://odontovida-stack.github.io/central-de-postagem/",
   "contas": {
