@@ -157,6 +157,12 @@ def main():
         linhas += ig(nome, cfg, dia - timedelta(days=1))
     yl, videos = youtube(dia)
     linhas += yl
+    tk = OUT / "tiktok.json"  # gravado antes por scripts/tiktok.py numeros
+    nomes = {k: v.get("nome", k) for k, v in contas.items()}
+    for t in (json.loads(tk.read_text(encoding="utf-8")) if tk.exists() else []):
+        linhas.append({"operacao": OPERACAO.get(t["conta"], "LLShop"), "canal": nomes.get(t["conta"], t["conta"]),
+                       "plataforma": "TikTok", "seguidores": int(t.get("seguidores", 0)), "posts_total": int(t.get("videos", 0)),
+                       "interacoes_dia": None})
     for l in linhas:
         l["data"] = dia.isoformat()  # a foto é de hoje; alcance/interações/cliques são do dia anterior
     hist_f = OUT / "historico.json"

@@ -4,6 +4,8 @@ As autorizações (refresh_token e open_id de cada conta) ficam em dados/tiktok.
 openssl (AES-256, chave no secret TIKTOK_CHAVE). Nada de token é impresso.
 Uso:  python scripts/tiktok.py conectar <conta> <codigo>   (pela ação "Conectar TikTok")
       python scripts/tiktok.py status                      (mostra quais contas estão conectadas)
+      python scripts/tiktok.py reenviar                    (manda como rascunho os posts já publicados que ficaram "MANUAL" no TikTok)
+      python scripts/tiktok.py numeros                     (seguidores, curtidas e vídeos de cada conta conectada, em dados/painel/tiktok.json)
 """
 import json
 import os
@@ -129,9 +131,64 @@ def enviar_rascunho(conta, pasta, midias, legenda):
     return res.get("data", {}).get("publish_id")
 
 
+def reenviar():
+    """Posts publicados no Instagram que ficaram como "MANUAL" no TikTok vão agora para o rascunho da conta, se ela estiver conectada."""
+    cofre = ler_cofre()
+    feitos = 0
+    for arq in sorted((RAIZ / "fila").glob("*/post.json")):
+        p = json.loads(arq.read_text(encoding="utf-8"))
+        res = p.get("resultado") or {}
+        if p.get("status") != "publicado" or not str(res.get("tiktok", "")).startswith("MANUAL") or p["conta"] not in cofre:
+            continue
+        if p.get("tipo") not in ("carrossel", "imagem"):
+            continue
+        try:
+            pid = enviar_rascunho(p["conta"], arq.parent, p["midias"], p.get("legenda", ""))
+            res["tiktok"] = f"rascunho {pid}"
+            feitos += 1
+            print(f"{arq.parent.name}: rascunho enviado")
+        except TikTokError as e:
+            res["tiktok"] = f"MANUAL (rascunho falhou: {str(e)[:120]})"
+            print(f"{arq.parent.name}: falhou ({str(e)[:120]})")
+        p["resultado"] = res
+        arq.write_text(json.dumps(p, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        time.sleep(3)
+    print(f"{feitos} rascunho(s) enviado(s)")
+
+
+def numeros():
+    """Seguidores, curtidas e vídeos de cada conta conectada (escopo user.info.stats), para o Painel de Operações."""
+    cofre = ler_cofre()
+    antes = json.dumps(cofre, sort_keys=True)
+    linhas = []
+    for conta, usuario in CFG["contas"].items():
+        try:
+            tok = _token(conta, cofre)
+            if not tok:
+                continue
+            req = urllib.request.Request(f"{API}/user/info/?fields=display_name,follower_count,likes_count,video_count",
+                                         headers={"Authorization": f"Bearer {tok}"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                u = json.loads(r.read().decode()).get("data", {}).get("user", {})
+            linhas.append({"conta": conta, "usuario": usuario, "seguidores": u.get("follower_count", 0),
+                           "curtidas": u.get("likes_count", 0), "videos": u.get("video_count", 0)})
+        except Exception as e:  # noqa: BLE001
+            print(f"{conta}: sem números ({str(e)[:120]})")
+    if json.dumps(cofre, sort_keys=True) != antes:
+        gravar_cofre(cofre)
+    out = RAIZ / "dados" / "painel" / "tiktok.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(linhas, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"{len(linhas)} conta(s) com números")
+
+
 if __name__ == "__main__":
     if len(sys.argv) >= 4 and sys.argv[1] == "conectar":
         conectar(sys.argv[2], sys.argv[3])
+    elif len(sys.argv) >= 2 and sys.argv[1] == "reenviar":
+        reenviar()
+    elif len(sys.argv) >= 2 and sys.argv[1] == "numeros":
+        numeros()
     elif len(sys.argv) >= 2 and sys.argv[1] == "status":
         c = ler_cofre()
         for k in CFG["contas"]:
