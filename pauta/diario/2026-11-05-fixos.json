@@ -1,0 +1,425 @@
+{
+ "dia": "05/11/2026",
+ "apurado_em": "2026-11-05",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-05T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de quinta-feira, 05/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 05/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · oitavas",
+        "jogo": "Tommy Paul x Quentin Halys",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "07h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · duplas",
+        "jogo": "Luz/Matos x Miedler/Oberleitner",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "07h15",
+        "esporte": "outros",
+        "competicao": "Tiro esportivo · Mundial de Doha",
+        "jogo": "Felipe Wu · pistola de ar",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "07h30",
+        "esporte": "outros",
+        "competicao": "Trampolim · Mundial",
+        "jogo": "Arthur Ferreira e Júlia Rocha",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h00",
+        "esporte": "outros",
+        "competicao": "Halterofilismo · Mundial",
+        "jogo": "Laura Amaro · até 77kg",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h00",
+        "esporte": "volei",
+        "competicao": "Turco feminino",
+        "jogo": "Fenerbahçe x Afyon",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h45",
+        "esporte": "outros",
+        "competicao": "Skate · Jogos da Juventude",
+        "jogo": "Duda Ribeiro · street",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · oitavas",
+        "jogo": "Hijikata x Etcheverry",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "10h10",
+        "esporte": "outros",
+        "competicao": "Tênis de mesa · WTT Frankfurt",
+        "jogo": "Hugo Calderano x Liang Jingkun",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h25",
+        "esporte": "futebol",
+        "competicao": "Campeonato Saudita",
+        "jogo": "Al Kholood x Al Khaleej",
+        "canal": "GOAT",
+        "gratis": true
+       },
+       {
+        "hora": "13h30",
+        "esporte": "volei",
+        "competicao": "Polonês feminino",
+        "jogo": "Radomka x BKS Bielsko-Biala",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "14h15",
+        "esporte": "basquete",
+        "competicao": "Euroleague",
+        "jogo": "Anadolu Efes x Paris",
+        "canal": "a confirmar"
+       }
+      ],
+      "fonte": "Conferido em 05/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, Webvôlei, Euroleague, NBA, UEFA, O Tempo, Lance",
+      "cta": "Arraste →",
+      "alt": "Agenda de quinta, 05/11, das 7h às 14h15: oitavas do Masters 1000 de Paris, brasileiros no tiro, trampolim, halterofilismo e skate, Calderano no tênis de mesa e Euroleague"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 05/11",
+      "linhas": [
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Europa League",
+        "jogo": "Milan x Ferencváros",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Europa League",
+        "jogo": "Crystal Palace x Hoffenheim",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Conference League",
+        "jogo": "Atalanta x Kairat",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "15h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · oitavas",
+        "jogo": "Alcaraz x Berrettini",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "basquete",
+        "competicao": "Euroleague",
+        "jogo": "Fenerbahçe x Baskonia",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "15h45",
+        "esporte": "basquete",
+        "competicao": "Euroleague",
+        "jogo": "Hapoel Tel Aviv x Barcelona",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · oitavas",
+        "jogo": "Arthur Fils x Taylor Fritz",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "Challenger Sauípe · oitavas",
+        "jogo": "Thiago Monteiro x Cecchinato",
+        "canal": "Challenger TV",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "volei",
+        "competicao": "Polonês masculino",
+        "jogo": "Projekt Varsóvia x Slepsk",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Europa League",
+        "jogo": "AZ x Juventus",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Europa League",
+        "jogo": "Leverkusen x Marseille",
+        "canal": "YouTube CNN",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "basquete",
+        "competicao": "EuroCup",
+        "jogo": "Tenerife x Cluj-Napoca",
+        "canal": "a confirmar"
+       }
+      ],
+      "fonte": "Conferido em 05/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, Webvôlei, Euroleague, NBA, UEFA, O Tempo, Lance",
+      "cta": "Arraste →",
+      "alt": "Agenda de quinta, 05/11, das 14h45 às 17h: Europa League e Conference grátis na CazéTV, Alcaraz x Berrettini e Fils x Fritz em Paris, Thiago Monteiro na Costa do Sauípe e Euroleague"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 05/11",
+      "linhas": [
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina · 4ª rodada",
+        "jogo": "Mackenzie x Minas",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Sauípe · oitavas",
+        "jogo": "Thiago Wild x Roncadelli",
+        "canal": "Challenger TV",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "Palmeiras x Remo",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Bauru x Minas",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Sesi Franca x Cruzeiro",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "outros",
+        "competicao": "Hóquei · NHL",
+        "jogo": "Flyers x Rangers",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "Cruzeiro x Bahia",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "22h15",
+        "esporte": "nfl",
+        "competicao": "Thursday Night · semana 9",
+        "jogo": "Jaguars x Ravens",
+        "canal": "sportv2 · ge tv",
+        "gratis": true
+       },
+       {
+        "hora": "23h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Magic x Suns",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "00h00",
+        "esporte": "basquete",
+        "competicao": "NBA · madrugada de sexta",
+        "jogo": "Heat x Warriors",
+        "canal": "NBA League Pass"
+       }
+      ],
+      "fonte": "Conferido em 05/11 às 1h · ATP, Tenis News, Olimpíada Todo Dia, Webvôlei, Euroleague, NBA, UEFA, O Tempo, Lance",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de quinta, 05/11, das 18h30 à 0h: Superliga Feminina, Thiago Wild na Costa do Sauípe, Palmeiras x Remo e Cruzeiro x Bahia no Brasileirão, NBB, NHL, NFL grátis no ge tv e NBA"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de quinta-feira, 05/11 (horário de Brasília)\n\n🎾 15h · Alcaraz x Berrettini nas oitavas do Masters de Paris · ESPN e Disney+\n🇧🇷 16h30 e 19h · Thiago Monteiro e Thiago Wild nas oitavas do Challenger da Costa do Sauípe · Challenger TV 🆓\n⚽ 14h45 e 17h · Europa League com Milan e Juventus · CazéTV 🆓\n🏐 18h30 · Mackenzie x Minas na Superliga Feminina · sportv2\n🏈 22h15 · NFL: Jaguars x Ravens · sportv2 e ge tv 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #tenis #europaleague #nfl #superliga #volei"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-05T07:30:00-03:00",
+    "alt": "Resultados de quarta, 04/11, e jogos de quinta, 05/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "QUA 04/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão",
+        "jogos": [
+         {
+          "casa": "Flamengo",
+          "gc": 3,
+          "fora": "Grêmio",
+          "gf": 1
+         },
+         {
+          "casa": "São Paulo",
+          "gc": 0,
+          "fora": "Corinthians",
+          "gf": 0
+         },
+         {
+          "casa": "Athletico-PR",
+          "gc": 1,
+          "fora": "Vasco",
+          "gf": 3
+         }
+        ]
+       },
+       {
+        "competicao": "Champions League",
+        "jogos": [
+         {
+          "casa": "AEK Atenas",
+          "gc": 2,
+          "fora": "Real Madrid",
+          "gf": 3
+         },
+         {
+          "casa": "Fenerbahçe",
+          "gc": 3,
+          "fora": "Liverpool",
+          "gf": 2
+         },
+         {
+          "casa": "RB Leipzig",
+          "gc": 2,
+          "fora": "Man. City",
+          "gf": 3
+         },
+         {
+          "casa": "Lens",
+          "gc": 1,
+          "fora": "Como",
+          "gf": 9
+         }
+        ]
+       }
+      ],
+      "destaque": "Valverde vira o jogo do Real nos acréscimos",
+      "destaque_rotulo": "FATO DA NOITE",
+      "fonte": "Conferido em 05/11 às 1h · Gazeta Esportiva, Terra, CNN, ESPN",
+      "cta": "Arraste →",
+      "alt": "Resultados de quarta, 04/11: no Brasileirão, Flamengo 3x1 Grêmio, São Paulo 0x0 Corinthians e Athletico-PR 1x3 Vasco; na Champions, AEK Atenas 2x3 Real Madrid, Fenerbahçe 3x2 Liverpool, RB Leipzig 2x3 Manchester City e Lens 1x9 Como"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUI 05/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "05/11",
+        "sub": "QUI · 19h30",
+        "titulo": "Palmeiras x Remo",
+        "detalhe": "Brasileirão · Premiere",
+        "destaque": true
+       },
+       {
+        "data": "05/11",
+        "sub": "QUI · 14h45",
+        "titulo": "Milan x Ferencváros",
+        "detalhe": "Europa League · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "05/11",
+        "sub": "QUI · 14h45",
+        "titulo": "Crystal Palace x Hoffenheim",
+        "detalhe": "Europa League · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "05/11",
+        "sub": "QUI · 17h",
+        "titulo": "AZ x Juventus",
+        "detalhe": "Europa League · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "05/11",
+        "sub": "QUI · 17h",
+        "titulo": "Leverkusen x Marseille",
+        "detalhe": "Europa League · YouTube CNN Esportes",
+        "gratis": true
+       },
+       {
+        "data": "05/11",
+        "sub": "QUI · 21h30",
+        "titulo": "Cruzeiro x Bahia",
+        "detalhe": "Brasileirão · Prime Video"
+       }
+      ],
+      "fonte": "Conferido em 05/11 às 1h · UEFA, O Tempo, Lance, Gazeta Esportiva, CNN Brasil",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de quinta, 05/11: Palmeiras x Remo às 19h30 no Premiere (jogo do dia), Milan x Ferencváros e Crystal Palace x Hoffenheim às 14h45 na CazéTV, AZ x Juventus às 17h na CazéTV, Leverkusen x Marseille às 17h no YouTube da CNN Esportes e Cruzeiro x Bahia às 21h30 no Prime Video"
+     }
+    ],
+    "legenda": "⚽ Real Madrid virou nos acréscimos, o Como fez 9 na França e o Flamengo abriu 6 pontos. Hoje tem Palmeiras e Europa League de graça!\n\n📊 Resultados de ontem (quarta, 04/11):\n🔥 AEK Atenas 2x3 Real Madrid · Champions (Valverde fez o da virada nos acréscimos)\n🤯 Lens 1x9 Como · Champions (hat-trick de Douvikas)\n🏆 Fenerbahçe 3x2 Liverpool · Champions\n🏆 RB Leipzig 2x3 Manchester City · Champions (gol da vitória de Haaland)\n🇧🇷 Flamengo 3x1 Grêmio · Brasileirão (Pedro fez 2)\n🇧🇷 São Paulo 0x0 Corinthians · Brasileirão\n🇧🇷 Athletico-PR 1x3 Vasco · Brasileirão\n🇧🇷 Botafogo 1x0 Atlético-MG · Brasileirão\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 19h30 · Palmeiras x Remo · Brasileirão · Premiere\n🆓 14h45 · Milan x Ferencváros · Europa League · CazéTV\n🆓 14h45 · Crystal Palace x Hoffenheim · Europa League · CazéTV\n🆓 17h · AZ x Juventus · Europa League · CazéTV\n🆓 17h · Leverkusen x Olympique de Marseille · Europa League · YouTube da CNN Esportes\n🇧🇷 21h30 · Cruzeiro x Bahia · Brasileirão · Prime Video\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual jogo você vai assistir hoje? 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #championsleague #europaleague #brasileirao #palmeiras #flamengo #ondeassistir"
+   }
+  ]
+ }
+}
