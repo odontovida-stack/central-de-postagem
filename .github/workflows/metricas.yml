@@ -24,6 +24,12 @@ jobs:
           TOKEN_BRAZILONABUDGET: ${{ secrets.TOKEN_BRAZILONABUDGET }}
           TOKEN_LLSHOP: ${{ secrets.TOKEN_LLSHOP }}
         run: python scripts/coletar_metricas.py
+      - name: Coletar números do TikTok
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_CHAVE: ${{ secrets.TIKTOK_CHAVE }}
+        run: python scripts/tiktok.py numeros || echo "tiktok - sem números"
       - name: Coletar painel de operações (Instagram, Facebook, YouTube, robô)
         env:
           GRAPH_VERSION: ${{ vars.GRAPH_VERSION || 'v23.0' }}

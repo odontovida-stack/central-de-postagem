@@ -1,0 +1,32 @@
+name: TikTok - mandar posts antigos como rascunho
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reenviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Mandar rascunhos e ler os números
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_CHAVE: ${{ secrets.TIKTOK_CHAVE }}
+        run: |
+          python scripts/tiktok.py reenviar
+          python scripts/tiktok.py numeros
+      - name: Gravar
+        run: |
+          git config user.name "central-de-postagem"
+          git config user.email "actions@users.noreply.github.com"
+          git add fila dados/tiktok.enc dados/painel/tiktok.json
+          git diff --cached --quiet && exit 0
+          git commit -m "TikTok: rascunhos dos posts antigos"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
