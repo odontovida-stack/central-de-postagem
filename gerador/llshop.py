@@ -30,7 +30,7 @@ BG, CARD, FG, MUTED, LINE = "#0F1115", "#181B21", "#F4F4F5", "#B4B8C0", "#2A2E36
 
 
 # Páginas cujos posts também vão para o TikTok como rascunho (pedido do Luiz em 06/11/2026).
-TIKTOK_AUTO = {"jogosnatela"}
+TIKTOK_AUTO = {"jogosnatela", "tudooqueestreia"}
 
 def e(s):
     return html.escape(str(s or ""), quote=False)
