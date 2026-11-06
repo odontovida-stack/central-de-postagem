@@ -1,73 +1,98 @@
 {
-  "brazilonabudget": {
-    "titulo": "Brazil on a Budget · travel guides",
-    "fixos": [
-      {
-        "titulo": "NEW · Rio Carnival 2027 – PDF guide (EN)",
-        "url": "https://payhip.com/b/zSt9f"
-      },
-      {
-        "titulo": "NEW · Carnaval de Río 2027 – guía PDF (ES)",
-        "url": "https://payhip.com/b/r53gK"
-      },
-      {
-        "titulo": "NEW · Balneário Camboriú – PDF guide (EN)",
-        "url": "https://payhip.com/b/DfFRG"
-      },
-      {
-        "titulo": "NEW · Camboriú 2026/27 – guía PDF (ES)",
-        "url": "https://payhip.com/b/5F947"
-      },
-      {
-        "titulo": "Brazil: all 7 guides – bundle (EN)",
-        "url": "https://payhip.com/b/VejO0"
-      },
-      {
-        "titulo": "Brasil: las 7 guías – pack (ES)",
-        "url": "https://payhip.com/b/Iht2Y"
-      },
-      {
-        "titulo": "Pack Sur: Florianópolis + Iguazú (ES)",
-        "url": "https://payhip.com/b/v5wji"
-      },
-      {
-        "titulo": "All guides · Todas las guías",
-        "url": "https://payhip.com/QuickBudgetGuides"
-      }
-    ]
-  },
-  "jogosnatela": {
-    "titulo": "@jogosnatela · links",
-    "fixos": []
-  },
-  "esportesnatela": {
-    "titulo": "@esportesnatela · links",
-    "fixos": [
-      {
-        "titulo": "📲 Agenda do dia no WhatsApp (grátis)",
-        "url": "https://whatsapp.com/channel/0029VbEifluBFLgRGCjIEd41"
-      }
-    ]
-  },
-  "tudooqueestreia": {
-    "titulo": "@tudooqueestreia · links",
-    "fixos": []
-  },
-  "lancamentosdegames": {
-    "titulo": "@lancamentosdegames · links",
-    "fixos": []
-  },
-  "showsconfirmados": {
-    "titulo": "@showsconfirmados · links",
-    "fixos": []
-  },
-  "brasil2359": {
-    "titulo": "Brasil 23:59 · links",
-    "fixos": [
-      {
-        "titulo": "Fontes e regulamento do relógio",
-        "url": "https://claude.ai/artifact/YWsaZ9GeGDNo1Ls14UxWGN"
-      }
-    ]
+ "brazilonabudget": {
+  "titulo": "Brazil on a Budget · travel guides",
+  "fixos": [
+   {
+    "titulo": "NEW · Rio Carnival 2027 – PDF guide (EN)",
+    "url": "https://payhip.com/b/zSt9f"
+   },
+   {
+    "titulo": "NEW · Carnaval de Río 2027 – guía PDF (ES)",
+    "url": "https://go.hotmart.com/O108357924I"
+   },
+   {
+    "titulo": "NEW · Balneário Camboriú – PDF guide (EN)",
+    "url": "https://payhip.com/b/DfFRG"
+   },
+   {
+    "titulo": "NEW · Camboriú 2026/27 – guía PDF (ES)",
+    "url": "https://go.hotmart.com/W108357905H"
+   },
+   {
+    "titulo": "Brazil: all 7 guides – bundle (EN)",
+    "url": "https://payhip.com/b/VejO0"
+   },
+   {
+    "titulo": "Brasil: las 7 guías – pack (ES)",
+    "url": "https://go.hotmart.com/G108357952O"
+   },
+   {
+    "titulo": "Pack Sur: Florianópolis + Iguazú (ES)",
+    "url": "https://go.hotmart.com/X108357996B"
+   },
+   {
+    "titulo": "Río de Janeiro en 5 días – guía PDF (ES)",
+    "url": "https://go.hotmart.com/O108357619S"
+   },
+   {
+    "titulo": "Cataratas del Iguazú en 4 días – guía PDF (ES)",
+    "url": "https://go.hotmart.com/R108357682E"
+   },
+   {
+    "titulo": "Florianópolis en 5 días – guía PDF (ES)",
+    "url": "https://go.hotmart.com/O108357714M"
+   },
+   {
+    "titulo": "All guides (English)",
+    "url": "https://payhip.com/QuickBudgetGuides"
+   }
+  ],
+  "hotmart_es": {
+   "rio": "https://go.hotmart.com/O108357619S",
+   "foz": "https://go.hotmart.com/R108357682E",
+   "floripa": "https://go.hotmart.com/O108357714M",
+   "salvador": "https://go.hotmart.com/X108357766O",
+   "sp": "https://go.hotmart.com/A108357810D",
+   "paraty": "https://go.hotmart.com/G108357845G",
+   "lencois": "https://go.hotmart.com/O108357877P",
+   "camboriu": "https://go.hotmart.com/W108357905H",
+   "carnaval": "https://go.hotmart.com/O108357924I",
+   "pack7": "https://go.hotmart.com/G108357952O",
+   "packsur": "https://go.hotmart.com/X108357996B"
   }
+ },
+ "jogosnatela": {
+  "titulo": "@jogosnatela · links",
+  "fixos": []
+ },
+ "esportesnatela": {
+  "titulo": "@esportesnatela · links",
+  "fixos": [
+   {
+    "titulo": "📲 Agenda do dia no WhatsApp (grátis)",
+    "url": "https://whatsapp.com/channel/0029VbEifluBFLgRGCjIEd41"
+   }
+  ]
+ },
+ "tudooqueestreia": {
+  "titulo": "@tudooqueestreia · links",
+  "fixos": []
+ },
+ "lancamentosdegames": {
+  "titulo": "@lancamentosdegames · links",
+  "fixos": []
+ },
+ "showsconfirmados": {
+  "titulo": "@showsconfirmados · links",
+  "fixos": []
+ },
+ "brasil2359": {
+  "titulo": "Brasil 23:59 · links",
+  "fixos": [
+   {
+    "titulo": "Fontes e regulamento do relógio",
+    "url": "https://claude.ai/artifact/YWsaZ9GeGDNo1Ls14UxWGN"
+   }
+  ]
+ }
 }
