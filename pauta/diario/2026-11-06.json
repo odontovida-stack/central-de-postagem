@@ -1,0 +1,85 @@
+{
+ "dia": "06/11/2026",
+ "apurado_em": "2026-11-06",
+ "contas": {
+  "jogosnatela": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-06T12:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "PALMEIRAS 6x1 REMO",
+    "titulo": "Depois do 6 a 1, quem fica com o título?",
+    "contexto": "Flamengo lidera com 76 pontos, Palmeiras tem 73. Faltam 4 rodadas.",
+    "opcoes": [
+     "Flamengo",
+     "Palmeiras"
+    ],
+    "fonte": "",
+    "cta": "Responda A ou B",
+    "alt": "Pergunta: depois do 6 a 1 do Palmeiras sobre o Remo, quem fica com o título do Brasileirão? A: Flamengo. B: Palmeiras.",
+    "legenda": "🤔 Depois do 6 a 1 no Remo, quem fica com o título do Brasileirão?\n\nA) Flamengo\nB) Palmeiras\n\n🔥 Palmeiras 6x1 Remo foi a maior goleada do Brasileirão 2026 (Jhon Arias fez 2)\n📊 Flamengo lidera com 76 pontos, o Palmeiras tem 73\n⏳ Faltam 4 rodadas\n\n📌 Salve e volte no fim do campeonato.\n📤 Mande para aquele amigo que torce para o rival.\n\nResponda só com a letra: A ou B 👇\nSiga @jogosnatela para a reta final do Brasileirão.\n\nFontes: Gazeta Esportiva e Metrópoles.\n\n#brasileirao #palmeiras #flamengo #titulo #futebol #enquete"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-06T11:00:00-03:00",
+    "pilula": "SEX 06/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "06/11",
+      "sub": "SEX · 12h30",
+      "titulo": "Treinos da F1 em Interlagos",
+      "detalhe": "F1 · GP de São Paulo · 2º treino às 16h · SporTV 3"
+     },
+     {
+      "data": "06/11",
+      "sub": "SEX · 15h",
+      "titulo": "Fritz x Alcaraz",
+      "detalhe": "Tênis · quartas do Masters de Paris · ESPN 2, Disney+"
+     },
+     {
+      "data": "06/11",
+      "sub": "SEX · 19h",
+      "titulo": "Thiago Wild x João Lucas Reis",
+      "detalhe": "Tênis · quartas do Challenger da Costa do Sauípe · ESPN 3"
+     },
+     {
+      "data": "06/11",
+      "sub": "SEX · 21h30",
+      "titulo": "Brasil x Argentina",
+      "detalhe": "Futsal · semifinal da Finalíssima · CazéTV, UOL",
+      "gratis": true
+     }
+    ],
+    "fonte": "Conferido em 06/11 às 1h · F1, ATP, Tenis News, LNF",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: treinos da F1 em Interlagos às 12h30 e 16h no SporTV 3, Fritz x Alcaraz às 15h no Masters de Paris, Thiago Wild x João Lucas Reis às 19h na Costa do Sauípe e Brasil x Argentina no futsal às 21h30, grátis na CazéTV",
+    "legenda": "🏎️🎾⚽ Sexta com F1 em Interlagos, Alcaraz em Paris, duelo brasileiro no tênis e Brasil x Argentina de graça!\n\n⏰ Horário de Brasília:\n🏎️ 12h30 e 16h · Treinos livres do GP de São Paulo, em Interlagos · SporTV 3\n🎾 15h · Taylor Fritz x Carlos Alcaraz · quartas do Masters 1000 de Paris · ESPN 2 e Disney+\n🇧🇷 19h · Thiago Wild x João Lucas Reis · quartas do Challenger da Costa do Sauípe · ESPN 3 e Disney+\n⚽ 21h30 · Brasil x Argentina · futsal, semifinal da Finalíssima, em Niterói · CazéTV e UOL 🆓\n\n🆓 = transmissão grátis\n📌 Salve para não perder nada.\n📤 Mande para quem vai assistir com você.\n\nQual você não perde? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#esportes #f1 #gpsaopaulo #interlagos #alcaraz #futsal #hojetem"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-06T19:30:00-03:00",
+    "pilula": "PALPITE",
+    "chamada": "FUTSAL · HOJE, 21H30",
+    "titulo": "Brasil x Argentina: quem leva?",
+    "contexto": "Semifinal da Finalíssima de futsal, em Niterói, grátis na CazéTV.",
+    "opcoes": [
+     "Brasil no tempo normal",
+     "Argentina no tempo normal",
+     "Prorrogação ou pênaltis"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Brasil x Argentina no futsal, quem leva? A: Brasil no tempo normal. B: Argentina no tempo normal. C: Prorrogação ou pênaltis.",
+    "legenda": "⚽ Brasil x Argentina no futsal: quem leva?\n\nA) Brasil no tempo normal\nB) Argentina no tempo normal\nC) Prorrogação ou pênaltis\n\n⏰ Hoje, 21h30 (horário de Brasília) · semifinal da Finalíssima, na Arena Niterói · CazéTV e UOL 🆓\n🏆 Quem vencer joga a final no domingo\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para quem torce com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFonte: LNF.\n\n#futsal #brasilxargentina #finalissima #selecaobrasileira #esportes #palpite"
+   }
+  ]
+ }
+}

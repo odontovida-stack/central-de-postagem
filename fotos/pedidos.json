@@ -465,5 +465,9 @@
   {
     "nome": "ringue-lutas",
     "busca": "empty boxing ring"
+  },
+  {
+    "nome": "quadra-futsal",
+    "busca": "futsal court indoor"
   }
 ]
