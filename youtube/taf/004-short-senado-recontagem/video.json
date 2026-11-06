@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "The closest Senate race in history came down to 2 votes #shorts",
   "quando": "2026-11-06T12:00:00-03:00",
   "tags": [
@@ -26,5 +26,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso (sem vídeo longo), pedido do Luiz em 05/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso (sem vídeo longo), pedido do Luiz em 05/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "0w_ZLF8cuf0",
+  "short_id": "0w_ZLF8cuf0",
+  "meta_hash": "d7b0d4c0ec849f9a"
 }
