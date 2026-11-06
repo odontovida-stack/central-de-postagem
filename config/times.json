@@ -615,5 +615,53 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Marseille": {
+  "sigla": "OM",
+  "cores": [
+   "#2FAEE0",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Leverkusen": {
+  "sigla": "B04",
+  "cores": [
+   "#E32221",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Atalanta": {
+  "sigla": "ATA",
+  "cores": [
+   "#1E71B8",
+   "#111111"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Crystal Palace": {
+  "sigla": "CRY",
+  "cores": [
+   "#1B458F",
+   "#C4122E"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "AZ": {
+  "sigla": "AZ",
+  "cores": [
+   "#DB0021",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Ferencváros": {
+  "sigla": "FER",
+  "cores": [
+   "#007A33",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
