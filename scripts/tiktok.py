@@ -199,9 +199,14 @@ def situacao():
     for arq in sorted((RAIZ / "fila").glob("*/post.json")):
         p = json.loads(arq.read_text(encoding="utf-8"))
         r = str((p.get("resultado") or {}).get("tiktok", ""))
-        if not r.startswith("rascunho ") or p["conta"] not in cofre:
+        if r.startswith("rascunho "):
+            pid = r.split(" ", 1)[1].strip()
+        elif r.startswith("RASCUNHO no TikTok ("):
+            pid = r.split("(", 1)[1].split(")", 1)[0]
+        else:
             continue
-        pid = r.split(" ", 1)[1].strip()
+        if p["conta"] not in cofre:
+            continue
         try:
             if p["conta"] not in toks:
                 toks[p["conta"]] = _token(p["conta"], cofre)
