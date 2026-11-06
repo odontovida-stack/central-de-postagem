@@ -28,6 +28,10 @@ PAGINAS = {
 BG, CARD, FG, MUTED, LINE = "#0F1115", "#181B21", "#F4F4F5", "#B4B8C0", "#2A2E36"
 
 
+
+# Páginas cujos posts também vão para o TikTok como rascunho (pedido do Luiz em 06/11/2026).
+TIKTOK_AUTO = {"jogosnatela"}
+
 def e(s):
     return html.escape(str(s or ""), quote=False)
 
@@ -367,7 +371,7 @@ def main():
         post = {
             "conta": conta,
             "tipo": "carrossel" if len(midias) > 1 else "imagem",
-            "redes": card.get("redes", ["instagram", "facebook"]),
+            "redes": card.get("redes", ["instagram", "facebook"] + (["tiktok"] if conta in TIKTOK_AUTO else [])),
             "quando": card["quando"],
             "status": "aprovado",
             "midias": midias,
