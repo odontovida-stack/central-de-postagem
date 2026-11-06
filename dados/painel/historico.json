@@ -345,7 +345,7 @@
   "canal": "@jogosnatela",
   "plataforma": "Instagram",
   "seguidores": 0,
-  "posts_total": 19,
+  "posts_total": 21,
   "alcance_dia": 0,
   "visualizacoes_dia": 0,
   "interacoes_dia": 0,
@@ -364,7 +364,7 @@
   "canal": "@tudooqueestreia",
   "plataforma": "Instagram",
   "seguidores": 0,
-  "posts_total": 8,
+  "posts_total": 9,
   "alcance_dia": 0,
   "visualizacoes_dia": 0,
   "interacoes_dia": 0,
@@ -383,7 +383,7 @@
   "canal": "@esportesnatela",
   "plataforma": "Instagram",
   "seguidores": 0,
-  "posts_total": 16,
+  "posts_total": 18,
   "alcance_dia": 0,
   "visualizacoes_dia": 0,
   "interacoes_dia": 0,
@@ -439,8 +439,8 @@
   "operacao": "YouTube",
   "canal": "The American File",
   "plataforma": "YouTube",
-  "seguidores": 1,
-  "posts_total": 2,
+  "seguidores": 2,
+  "posts_total": 3,
   "visualizacoes_total": 149
  },
  {
@@ -457,7 +457,16 @@
   "canal": "Brasil 23:59",
   "plataforma": "TikTok",
   "seguidores": 0,
-  "posts_total": 0,
+  "posts_total": 4,
+  "interacoes_dia": null,
+  "data": "2026-11-06"
+ },
+ {
+  "operacao": "Brazil on a Budget",
+  "canal": "Brazil on a Budget",
+  "plataforma": "TikTok",
+  "seguidores": 0,
+  "posts_total": 1,
   "interacoes_dia": null,
   "data": "2026-11-06"
  }
