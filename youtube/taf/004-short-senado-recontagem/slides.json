@@ -1,0 +1,94 @@
+[
+  {
+    "tipo": "capa",
+    "titulo": "Too close to call",
+    "sub": "A U.S. Senate race, November 2026",
+    "file": "004",
+    "stamp": "FILE #004",
+    "stamp_top": 150
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MISSISSIPPI · U.S. SENATE · NOVEMBER 2026",
+    "valor": "≈ 1,000 votes",
+    "px": 200,
+    "texto": "out of nearly a million cast",
+    "fonte": "Unofficial count, Nov. 5, 2026",
+    "file": "004"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "SOUNDS TIGHT?",
+    "titulo": "History has seen much worse.",
+    "file": "004"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "New Hampshire, 1974",
+    "marcos": [
+      [
+        "ELECTION NIGHT",
+        "Wyman by 355"
+      ],
+      [
+        "1ST RECOUNT",
+        "Durkin by 10"
+      ],
+      [
+        "2ND RECOUNT",
+        "Wyman by 2"
+      ]
+    ],
+    "file": "004"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "NEW HAMPSHIRE · 1974 · BALLOT LAW COMMISSION",
+    "valor": "2 votes",
+    "px": 260,
+    "texto": "The closest election in Senate history",
+    "fonte": "U.S. Senate Historical Office",
+    "file": "004"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "U.S. SENATE · 1975",
+    "valor": "6 weeks",
+    "px": 220,
+    "texto": "of debate. Six cloture votes. No decision.",
+    "fonte": "senate.gov",
+    "file": "004"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "SO THEY DID SOMETHING RARE",
+    "titulo": "They declared the seat vacant and voted again.",
+    "file": "004",
+    "stamp": "VACANT",
+    "stamp_top": 150
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "SPECIAL ELECTION · SEPTEMBER 16, 1975",
+    "valor": "27,000",
+    "px": 240,
+    "texto": "Durkin's margin in the do-over",
+    "fonte": "U.S. Senate Historical Office",
+    "file": "004"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MINNESOTA · 2008",
+    "valor": "312 votes",
+    "px": 230,
+    "texto": "after 8 months of recounts and court fights",
+    "fonte": "Minnesota Supreme Court, June 30, 2009",
+    "file": "004"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "THE AMERICAN FILE",
+    "titulo": "Whatever happens next, it has happened before.",
+    "file": "004"
+  }
+]
