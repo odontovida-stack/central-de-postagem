@@ -22,6 +22,7 @@ jobs:
         run: |
           python scripts/tiktok.py desconectar-duplicadas
           python scripts/tiktok.py reenviar
+          python scripts/tiktok.py situacao
           python scripts/tiktok.py numeros
       - name: Gravar
         run: |

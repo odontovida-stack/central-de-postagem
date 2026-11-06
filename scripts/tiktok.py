@@ -5,6 +5,7 @@ openssl (AES-256, chave no secret TIKTOK_CHAVE). Nada de token é impresso.
 Uso:  python scripts/tiktok.py conectar <conta> <codigo>   (pela ação "Conectar TikTok")
       python scripts/tiktok.py status                      (mostra quais contas estão conectadas)
       python scripts/tiktok.py reenviar                    (manda como rascunho os posts já publicados que ficaram "MANUAL" no TikTok)
+      python scripts/tiktok.py situacao                    (pergunta ao TikTok o que aconteceu com cada rascunho enviado)
       python scripts/tiktok.py numeros                     (seguidores, curtidas e vídeos de cada conta conectada, em dados/painel/tiktok.json)
 """
 import json
@@ -176,6 +177,29 @@ def reenviar():
     print(f"{feitos} rascunho(s) enviado(s)")
 
 
+def situacao():
+    """Pergunta ao TikTok a situação de cada rascunho enviado (chegou na caixa de entrada, falhou, ainda processando)."""
+    cofre = ler_cofre()
+    antes = json.dumps(cofre, sort_keys=True)
+    toks = {}
+    for arq in sorted((RAIZ / "fila").glob("*/post.json")):
+        p = json.loads(arq.read_text(encoding="utf-8"))
+        r = str((p.get("resultado") or {}).get("tiktok", ""))
+        if not r.startswith("rascunho ") or p["conta"] not in cofre:
+            continue
+        pid = r.split(" ", 1)[1].strip()
+        try:
+            if p["conta"] not in toks:
+                toks[p["conta"]] = _token(p["conta"], cofre)
+            res = _post(f"{API}/post/publish/status/fetch/", {"publish_id": pid}, token=toks[p["conta"]])
+            d = res.get("data", {})
+            print(f"{arq.parent.name} ({p['conta']}): {d.get('status', '?')}" + (f" - motivo: {d['fail_reason']}" if d.get("fail_reason") else ""))
+        except TikTokError as e:
+            print(f"{arq.parent.name} ({p['conta']}): não consegui consultar ({str(e)[:120]})")
+    if json.dumps(cofre, sort_keys=True) != antes:
+        gravar_cofre(cofre)
+
+
 def numeros():
     """Seguidores, curtidas e vídeos de cada conta conectada (escopo user.info.stats), para o Painel de Operações."""
     cofre = ler_cofre()
@@ -210,6 +234,8 @@ if __name__ == "__main__":
         desconectar_duplicadas()
     elif len(sys.argv) >= 2 and sys.argv[1] == "reenviar":
         reenviar()
+    elif len(sys.argv) >= 2 and sys.argv[1] == "situacao":
+        situacao()
     elif len(sys.argv) >= 2 and sys.argv[1] == "numeros":
         numeros()
     elif len(sys.argv) >= 2 and sys.argv[1] == "status":
