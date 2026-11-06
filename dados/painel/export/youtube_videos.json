@@ -1,6 +1,17 @@
 [
  {
   "canal": "The American File",
+  "titulo": "The closest Senate race in history came down to 2 votes #shorts",
+  "publicado": "2026-11-06",
+  "status": "private",
+  "agendado": "2026-11-06T15:00",
+  "views": 0,
+  "likes": 0,
+  "comentarios": 0,
+  "id": "0w_ZLF8cuf0"
+ },
+ {
+  "canal": "The American File",
   "titulo": "The US Military Budget: $1 Trillion a Year — More Than the Next 6 Countries Combined",
   "publicado": "2026-11-03",
   "status": "public",
@@ -64,6 +75,17 @@
   "likes": 0,
   "comentarios": 0,
   "id": "Mqz-yolkDGw"
+ },
+ {
+  "canal": "Before History Changed",
+  "titulo": "The Letter Einstein Regretted — and Why It Almost Didn't Matter (1939)",
+  "publicado": "2026-11-05",
+  "status": "public",
+  "agendado": "",
+  "views": 0,
+  "likes": 0,
+  "comentarios": 0,
+  "id": "dQqvPX5_p3E"
  },
  {
   "canal": "Before History Changed",
@@ -141,16 +163,5 @@
   "likes": 0,
   "comentarios": 0,
   "id": "LMfD6KURISQ"
- },
- {
-  "canal": "Before History Changed",
-  "titulo": "The Letter Einstein Regretted — and Why It Almost Didn't Matter (1939)",
-  "publicado": "2026-11-02",
-  "status": "private",
-  "agendado": "2026-11-05T19:00",
-  "views": 0,
-  "likes": 0,
-  "comentarios": 0,
-  "id": "dQqvPX5_p3E"
  }
 ]
