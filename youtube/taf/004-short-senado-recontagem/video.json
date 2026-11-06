@@ -1,0 +1,30 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "The closest Senate race in history came down to 2 votes #shorts",
+  "quando": "2026-11-06T12:00:00-03:00",
+  "tags": [
+    "senate",
+    "election",
+    "recount",
+    "closest election",
+    "new hampshire 1974",
+    "durkin wyman",
+    "minnesota 2008",
+    "mississippi senate 2026",
+    "american history",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso (sem vídeo longo), pedido do Luiz em 05/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}

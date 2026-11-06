@@ -10,6 +10,9 @@ Cada vídeo é uma pasta youtube/<canal>/<nome>/ com:
   short.json      opcional: o Short de chamada {"slides": [números dos slides], "texto": "...", "titulo": "..."}
   audio/          opcional: MP3 já gravados (se existirem, a narração automática é pulada)
 
+Short avulso (sem vídeo longo): no video.json, "formato": "short". Aí só short.json, slides.json, descricao.txt e
+narracao.json (pode ser []) contam: o Short é montado com os slides de short.json e agendado para "quando".
+
 O que o robô faz com cada video.json de "status": "aprovado" que ainda não tem "video_id":
   1. narra os blocos que faltam em audio/ pela API do ElevenLabs (secret ELEVENLABS_API_KEY);
   2. gera os slides e a thumbnail;
@@ -258,6 +261,9 @@ def main():
         if cfg.get("status") != "aprovado" or cfg.get("video_id"):
             continue
         print(f"== {pasta.relative_to(RAIZ)}")
+        if cfg.get("formato") == "short":
+            enviar_short_avulso(pasta, arq, cfg, sem_envio)
+            continue
         narrar(pasta, cfg)
         out = montar(pasta, cfg)
         (out / "descricao.txt").write_text(descricao(pasta), encoding="utf-8")  # a descrição final, para conferir
@@ -279,6 +285,31 @@ def main():
                                      cfg.get("tags", [])[:10], q, cfg)
         cfg["status"] = "agendado"
         arq.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def enviar_short_avulso(pasta, arq, cfg, sem_envio):
+    """Short que não acompanha vídeo longo (assunto do momento): narra short.json, monta e agenda."""
+    narrar(pasta, cfg)
+    out = SAIDA / pasta.parent.name / pasta.name
+    out.mkdir(parents=True, exist_ok=True)
+    os.environ["TEMA_SLIDES"] = cfg.get("tema", cfg["canal"])
+    rodar(sys.executable, GER / "slides.py", pasta / "slides.json", out / "slides")
+    rodar(sys.executable, GER / "animacao.py", pasta, out / "slides")
+    rodar(sys.executable, GER / "broll.py", pasta, out / "slides")
+    montar_short(pasta, out)
+    desc = descricao(pasta)
+    (out / "descricao.txt").write_text(desc, encoding="utf-8")
+    token = None if sem_envio else token_youtube(cfg["canal"])
+    if not token or not (out / "short.mp4").exists():
+        cfg["status_montagem"] = "Short montado, aguardando chaves do YouTube" if (out / "short.mp4").exists() else "Short sem áudio"
+        arq.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        return
+    s = json.loads((pasta / "short.json").read_text(encoding="utf-8"))
+    vid = enviar(token, out / "short.mp4", s["titulo"], desc, cfg.get("tags", []), no_futuro(datetime.fromisoformat(cfg["quando"])), cfg)
+    cfg["video_id"] = cfg["short_id"] = vid
+    cfg["status"] = "agendado"
+    arq.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print("Short avulso agendado:", vid)
 
 
 def sincronizar_metadados(sem_envio=False):
