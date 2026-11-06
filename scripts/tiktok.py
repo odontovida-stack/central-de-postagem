@@ -133,6 +133,19 @@ def url_midia(pasta, arquivo):
     return CFG["midia_base"].rstrip("/") + "/" + urllib.parse.quote(rel)
 
 
+def limitar_hashtags(texto, maximo=5):
+    """O TikTok recusa legendas com mais de 5 hashtags: mantém as 5 primeiras e tira o resto."""
+    import re
+    vistos = []
+
+    def troca(m):
+        vistos.append(m.group(0))
+        return m.group(0) if len(vistos) <= maximo else ""
+    novo = re.sub(r"#[\w\u00C0-\u017F]+", troca, texto)
+    novo = re.sub(r"[ \t]{2,}", " ", novo)
+    return "\n".join(l.rstrip() for l in novo.split("\n")).strip()
+
+
 def enviar_rascunho(conta, pasta, midias, legenda):
     """Manda as fotos para a caixa de entrada (rascunho) da conta. Devolve o publish_id, ou None se a conta não está conectada."""
     cofre = ler_cofre()
@@ -142,6 +155,7 @@ def enviar_rascunho(conta, pasta, midias, legenda):
         return None
     if json.dumps(cofre, sort_keys=True) != antes:
         gravar_cofre(cofre)  # o TikTok pode trocar o refresh_token na renovação
+    legenda = limitar_hashtags(legenda)
     linhas = [l for l in legenda.strip().split("\n") if l.strip()]
     titulo = (linhas[0] if linhas else "")[:89]
     corpo = {"post_info": {"title": titulo, "description": legenda.strip()[:3990]},
