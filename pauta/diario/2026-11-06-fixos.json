@@ -1,0 +1,427 @@
+{
+ "dia": "06/11/2026",
+ "apurado_em": "2026-11-06",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-06T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de sexta-feira, 06/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 06/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP do Catar",
+        "jogo": "Moto3 · treino livre 1",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "07h49",
+        "esporte": "natacao",
+        "competicao": "Jogos da Juventude · eliminatória",
+        "jogo": "Luiz Daniel Moura · 200m borboleta",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h45",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP do Catar",
+        "jogo": "MotoGP · treino livre 1",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "09h30",
+        "esporte": "outros",
+        "competicao": "Bocha paralímpica · Copa do Mundo",
+        "jogo": "Etapa de São Paulo · com brasileiros",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · quartas",
+        "jogo": "Ben Shelton x Tommy Paul",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "10h10",
+        "esporte": "outros",
+        "competicao": "Tênis de mesa · WTT Frankfurt",
+        "jogo": "Bruna Takahashi x Chen Xingtong",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "11h00",
+        "esporte": "natacao",
+        "competicao": "Maratona aquática · Cancún",
+        "jogo": "10 km masculino · Arthur Aguiar",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h55",
+        "esporte": "outros",
+        "competicao": "Tênis de mesa · WTT Frankfurt",
+        "jogo": "Hugo Calderano x Wim Verdonschot",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "12h00",
+        "esporte": "futebol",
+        "competicao": "Campeonato Saudita",
+        "jogo": "Al Hazem x Al Nassr",
+        "canal": "Band · GOAT",
+        "gratis": true
+       },
+       {
+        "hora": "12h30",
+        "esporte": "f1",
+        "competicao": "GP de São Paulo",
+        "jogo": "Treino livre 1 em Interlagos",
+        "canal": "SporTV 3"
+       },
+       {
+        "hora": "13h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP do Catar",
+        "jogo": "MotoGP · treino (vaga no Q2)",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "13h02",
+        "esporte": "natacao",
+        "competicao": "Jogos da Juventude · final",
+        "jogo": "Ana Júlia Amaral · 200m borboleta",
+        "canal": "a confirmar"
+       }
+      ],
+      "fonte": "Conferido em 06/11 às 1h · F1, ATP, Grande Prêmio, Lance, Webvôlei, Observo",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta, 06/11, das 7h às 13h02: treinos da MotoGP no Catar, Jogos da Juventude, quartas do Masters de Paris, Calderano e Bruna Takahashi no tênis de mesa grátis, Al Nassr e o 1º treino da F1 em Interlagos"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 06/11",
+      "linhas": [
+       {
+        "hora": "14h00",
+        "esporte": "natacao",
+        "competicao": "Maratona aquática · Cancún",
+        "jogo": "10 km feminino · Cibelle e Lizian",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "futebol",
+        "competicao": "Campeonato Saudita",
+        "jogo": "Al Ittihad x Neom",
+        "canal": "Band · GOAT",
+        "gratis": true
+       },
+       {
+        "hora": "15h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · quartas",
+        "jogo": "Taylor Fritz x Carlos Alcaraz",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "15h30",
+        "esporte": "volei",
+        "competicao": "Francês masculino",
+        "jogo": "Nice x Chaumont",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "f1",
+        "competicao": "GP de São Paulo",
+        "jogo": "Treino livre 2 em Interlagos",
+        "canal": "SporTV 3"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "futebol",
+        "competicao": "Bundesliga",
+        "jogo": "Hamburgo x Gladbach",
+        "canal": "GOAT",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · quartas",
+        "jogo": "Casper Ruud x Nuno Borges",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Campeonato Francês",
+        "jogo": "Toulouse x Strasbourg",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Campeonato Espanhol",
+        "jogo": "Sevilla x Alavés",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Everton x Coventry",
+        "canal": "ESPN"
+       },
+       {
+        "hora": "18h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Sauípe · semi de duplas",
+        "jogo": "Ribeiro/Rodrigues x Kolář/Taverna",
+        "canal": "Disney+"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "outros",
+        "competicao": "Futsal · Finalíssima · semifinal",
+        "jogo": "Espanha x Portugal",
+        "canal": "CazéTV · UOL",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 06/11 às 1h · F1, ATP, Grande Prêmio, Lance, Webvôlei, Observo",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta, 06/11, das 14h às 18h30: maratona aquática, Alcaraz x Fritz em Paris, 2º treino da F1 em Interlagos, Bundesliga, Francês e Espanhol grátis, Premier League e futsal Espanha x Portugal grátis"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 06/11",
+      "linhas": [
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Londrina x Sesc Flamengo",
+        "canal": "ge tv · Globoplay"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Sauípe · quartas",
+        "jogo": "Thiago Wild x João Lucas Reis",
+        "canal": "ESPN 3 · Disney+"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Série B",
+        "jogo": "Operário-PR x Sport",
+        "canal": "ESPN · SportyNet",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 34ª rodada",
+        "jogo": "Vitória x Fluminense",
+        "canal": "sportv · Premiere"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Unifacisa x Corinthians",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Fluminense x Osasco",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Celtics x Hornets",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "outros",
+        "competicao": "Futsal · Finalíssima · semifinal",
+        "jogo": "Brasil x Argentina",
+        "canal": "CazéTV · UOL",
+        "gratis": true
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "76ers x Cavaliers",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Thunder x Grizzlies",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h00",
+        "esporte": "lutas",
+        "competicao": "ONE Fight Night 49",
+        "jogo": "Lucas Gabriel x Magomedov",
+        "canal": "Combate"
+       }
+      ],
+      "fonte": "Conferido em 06/11 às 1h · F1, ATP, Grande Prêmio, Lance, Webvôlei, Observo",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de sexta, 06/11, das 18h30 às 23h: Superliga Feminina, Thiago Wild x João Lucas Reis, Série B, Vitória x Fluminense, NBB, NBA Cup, futsal Brasil x Argentina grátis na CazéTV e ONE Fight Night"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de sexta-feira, 06/11 (horário de Brasília)\n\n🏎️ 12h30 e 16h · Treinos da F1 em Interlagos, GP de São Paulo · SporTV 3\n🎾 15h · Fritz x Alcaraz nas quartas do Masters de Paris · ESPN 2 e Disney+\n🇧🇷 19h · Thiago Wild x João Lucas Reis nas quartas do Challenger da Costa do Sauípe · ESPN 3 e Disney+\n🏓 11h55 · Calderano nas oitavas do WTT Frankfurt · CazéTV 🆓\n⚽ 21h30 · Futsal: Brasil x Argentina na semifinal da Finalíssima · CazéTV e UOL 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #f1 #gpsaopaulo #tenis #futsal #superliga"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-06T07:30:00-03:00",
+    "alt": "Resultados de quinta, 05/11, e jogos de sexta, 06/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "QUI 05/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão",
+        "jogos": [
+         {
+          "casa": "Palmeiras",
+          "gc": 6,
+          "fora": "Remo",
+          "gf": 1
+         },
+         {
+          "casa": "Cruzeiro",
+          "gc": 3,
+          "fora": "Bahia",
+          "gf": 2
+         }
+        ]
+       },
+       {
+        "competicao": "Europa League",
+        "jogos": [
+         {
+          "casa": "Milan",
+          "gc": 0,
+          "fora": "Ferencváros",
+          "gf": 2
+         },
+         {
+          "casa": "AZ",
+          "gc": 1,
+          "fora": "Juventus",
+          "gf": 2
+         },
+         {
+          "casa": "Leverkusen",
+          "gc": 0,
+          "fora": "Marseille",
+          "gf": 1
+         },
+         {
+          "casa": "Crystal Palace",
+          "gc": 1,
+          "fora": "Hoffenheim",
+          "gf": 1
+         }
+        ]
+       }
+      ],
+      "destaque": "6 × 1 do Palmeiras: maior goleada do ano",
+      "destaque_rotulo": "FATO DA NOITE",
+      "fonte": "Conferido em 06/11 às 1h · Gazeta Esportiva, ESPN, Record",
+      "cta": "Arraste →",
+      "alt": "Resultados de quinta, 05/11: no Brasileirão, Palmeiras 6x1 Remo e Cruzeiro 3x2 Bahia; na Europa League, Milan 0x2 Ferencváros, AZ 1x2 Juventus, Leverkusen 0x1 Marseille e Crystal Palace 1x1 Hoffenheim"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SEX 06/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "06/11",
+        "sub": "SEX · 20h",
+        "titulo": "Vitória x Fluminense",
+        "detalhe": "Brasileirão · sportv, Premiere",
+        "destaque": true
+       },
+       {
+        "data": "06/11",
+        "sub": "SEX · 12h",
+        "titulo": "Al Hazem x Al Nassr",
+        "detalhe": "Saudita · YouTube Esporte na Band, GOAT",
+        "gratis": true
+       },
+       {
+        "data": "06/11",
+        "sub": "SEX · 16h30",
+        "titulo": "Hamburgo x Gladbach",
+        "detalhe": "Bundesliga · GOAT",
+        "gratis": true
+       },
+       {
+        "data": "06/11",
+        "sub": "SEX · 17h",
+        "titulo": "Sevilla x Alavés",
+        "detalhe": "Espanhol · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "06/11",
+        "sub": "SEX · 17h",
+        "titulo": "Everton x Coventry",
+        "detalhe": "Premier League · ESPN"
+       },
+       {
+        "data": "06/11",
+        "sub": "SEX · 19h30",
+        "titulo": "Operário-PR x Sport",
+        "detalhe": "Série B · ESPN, SportyNet no YouTube",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 06/11 às 1h · Observo, Diário do Rio, Lance",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de sexta, 06/11: Vitória x Fluminense às 20h no sportv e Premiere (jogo do dia), Al Hazem x Al Nassr às 12h grátis no YouTube do Esporte na Band e no GOAT, Hamburgo x Gladbach às 16h30 grátis no GOAT, Sevilla x Alavés às 17h grátis na CazéTV, Everton x Coventry às 17h na ESPN e Operário-PR x Sport às 19h30 na ESPN e grátis na SportyNet"
+     }
+    ],
+    "legenda": "⚽ O Palmeiras fez 6 no Remo e segue 3 pontos atrás do Flamengo. Hoje fecha a rodada com Vitória x Fluminense!\n\n📊 Resultados de ontem (quinta, 05/11):\n🔥 Palmeiras 6x1 Remo · Brasileirão (maior goleada do campeonato, Arias fez 2)\n🇧🇷 Cruzeiro 3x2 Bahia · Brasileirão (Kaio Jorge fez 2, 4ª vitória seguida)\n😱 Milan 0x2 Ferencváros · Europa League\n🏆 AZ 1x2 Juventus · Europa League\n🏆 Leverkusen 0x1 Olympique de Marseille · Europa League\n🤝 Crystal Palace 1x1 Hoffenheim · Europa League\n🤝 Atalanta 1x1 Kairat · Conference League\n🏆 Getafe 0x1 Brighton · Conference League\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 20h · Vitória x Fluminense · Brasileirão · sportv e Premiere\n🆓 12h · Al Hazem x Al Nassr · Saudita · YouTube do Esporte na Band e GOAT\n🆓 16h30 · Hamburgo x Gladbach · Bundesliga · GOAT\n🆓 17h · Sevilla x Alavés · Espanhol · CazéTV\n⚽ 17h · Everton x Coventry · Premier League · ESPN\n🆓 19h30 · Operário-PR x Sport · Série B · ESPN e SportyNet no YouTube\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual jogo você vai assistir hoje? 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #brasileirao #palmeiras #fluminense #europaleague #ondeassistir"
+   }
+  ]
+ }
+}
