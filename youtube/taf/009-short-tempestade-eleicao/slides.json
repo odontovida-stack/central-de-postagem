@@ -30,7 +30,7 @@
  {
   "tipo": "capitulo",
   "numero": "IT'S HAPPENED BEFORE",
-  "titulo": "Hurricane Sandy, 2012.",
+  "titulo": "Superstorm Sandy, 2012.",
   "file": "009"
  },
  {
@@ -55,7 +55,7 @@
  },
  {
   "tipo": "numero",
-  "rotulo": "HURRICANE SANDY · 2012",
+  "rotulo": "SUPERSTORM SANDY · 2012",
   "valor": "8 days",
   "px": 240,
   "texto": "between landfall in New Jersey and the presidential election",
@@ -74,7 +74,7 @@
    [
     "NEW YORK",
     "Any polling site",
-    "affidavit ballots for affected voters"
+    "affidavit ballots for president and statewide races"
    ]
   ],
   "px": 80,
@@ -83,11 +83,11 @@
  },
  {
   "tipo": "numero",
-  "rotulo": "FEDERAL LAW · 2 U.S.C. § 7",
+  "rotulo": "FEDERAL LAW · 2 U.S.C. § 7 · 3 U.S.C. § 1",
   "valor": "Fixed date",
   "px": 220,
   "texto": "Election Day: the Tuesday after the first Monday in November",
-  "fonte": "U.S. Code, Title 2, Section 7",
+  "fonte": "U.S. Code, Title 2, Sec. 7; Title 3, Sec. 1",
   "file": "009"
  },
  {

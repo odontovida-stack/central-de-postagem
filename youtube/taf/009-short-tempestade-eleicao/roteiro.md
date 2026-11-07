@@ -14,12 +14,12 @@ On Election Day this year, rain and flooding forced Florida to move more than tw
 
 It's not the first time the weather crashed an election.
 
-October 2012: Hurricane Sandy slammed into New Jersey about a week before the presidential election.
+October 2012: Superstorm Sandy slammed into New Jersey about a week before the presidential election.
 
 Homes flooded, power went out, and many residents were forced to leave.
 
-So New Jersey did something unusual. It let voters displaced by the storm vote by email or fax, an option normally used by overseas and military voters.
+So New Jersey did something unusual. It let voters displaced by the storm vote by email or fax, treating them like overseas voters.
 
-New York let affected voters cast an affidavit ballot at any polling site in the state.
+New York let voters cast an affidavit ballot for president and statewide offices at any polling site in the state.
 
 Election Day is fixed by federal law. The weather never got the memo. The American File.
