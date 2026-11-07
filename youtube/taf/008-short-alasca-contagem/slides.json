@@ -42,7 +42,7 @@
     "Murkowski loses her party's primary"
    ],
    [
-    "SEPT.",
+    "SEPT. 17",
     "Launches a write-in campaign"
    ],
    [
@@ -51,10 +51,10 @@
    ],
    [
     "NOV. 17",
-    "Race called"
+    "Victory becomes clear"
    ]
   ],
-  "fonte": "AP; Anchorage Daily News",
+  "fonte": "AP, Nov. 17 and Dec. 30, 2010",
   "file": "008"
  },
  {
@@ -62,14 +62,14 @@
   "rotulo": "ALASKA · NOVEMBER 2010",
   "valor": "100,000+",
   "px": 230,
-  "texto": "write-in ballots reviewed by hand, one by one",
-  "fonte": "AP; Anchorage Daily News",
+  "texto": "ballots bearing her name, handwriting checked by counters and observers",
+  "fonte": "AP via CBS News, Nov. 17, 2010",
   "file": "008"
  },
  {
   "tipo": "numero",
-  "rotulo": "FINAL MARGIN · 2010",
-  "valor": "≈ 10,000",
+  "rotulo": "OFFICIAL MARGIN · 2010",
+  "valor": "10,000+",
   "px": 230,
   "texto": "votes: Murkowski's write-in victory",
   "fonte": "AP, Dec. 30, 2010",
@@ -81,7 +81,7 @@
   "valor": "1954",
   "px": 260,
   "texto": "Strom Thurmond, South Carolina",
-  "fonte": "AP; Christian Science Monitor, Nov. 2010",
+  "fonte": "AP, Nov. 17, 2010",
   "file": "008"
  },
  {
@@ -89,7 +89,7 @@
   "rotulo": "RESULT CERTIFIED",
   "valor": "Dec. 30, 2010",
   "px": 180,
-  "texto": "almost two months after Election Day",
+  "texto": "58 days after Election Day",
   "fonte": "AP, Dec. 30, 2010",
   "file": "008"
  },
