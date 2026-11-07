@@ -1,0 +1,29 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "America's gas crisis: 1973 vs. 2026 #shorts",
+  "quando": "2026-11-12T12:00:00-03:00",
+  "tags": [
+    "1973 oil crisis",
+    "oil embargo",
+    "gas lines",
+    "gas prices",
+    "1979 oil crisis",
+    "energy crisis",
+    "american history",
+    "inflation",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso (sem vídeo longo), pedido do Luiz em 07/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}
