@@ -1,0 +1,29 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "When storms hit Election Day: Florida 2026 vs. Sandy 2012 #shorts",
+  "quando": "2026-11-14T12:00:00-03:00",
+  "tags": [
+    "election day",
+    "florida flooding",
+    "polling places",
+    "hurricane sandy",
+    "2012 election",
+    "new jersey",
+    "voting",
+    "american history",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso (sem vídeo longo), pauta semanal 'notícia + paralelo histórico' montada pelo Craudio em 07/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}

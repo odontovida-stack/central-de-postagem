@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "When storms hit Election Day",
+  "sub": "Florida 2026 · New Jersey 2012",
+  "stamp": "FILE #009",
+  "stamp_top": 150,
+  "file": "009"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FLORIDA · ELECTION DAY · NOV. 3, 2026",
+  "valor": "21 polling places",
+  "px": 160,
+  "texto": "moved because of rain and flooding",
+  "fonte": "AP, Nov. 3, 2026",
+  "file": "009"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "How voters were told",
+  "itens": [
+   "Text messages",
+   "Emails",
+   "Signs at the old locations"
+  ],
+  "fonte": "AP, Nov. 3, 2026",
+  "file": "009"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "IT'S HAPPENED BEFORE",
+  "titulo": "Hurricane Sandy, 2012.",
+  "file": "009"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "New Jersey, 2012",
+  "marcos": [
+   [
+    "OCT. 29",
+    "Sandy makes landfall"
+   ],
+   [
+    "DAYS LATER",
+    "State extends email & fax voting"
+   ],
+   [
+    "NOV. 6",
+    "Election Day"
+   ]
+  ],
+  "fonte": "National Hurricane Center; Stateline (Pew)",
+  "file": "009"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "HURRICANE SANDY · 2012",
+  "valor": "8 days",
+  "px": 240,
+  "texto": "between landfall in New Jersey and the presidential election",
+  "fonte": "National Hurricane Center",
+  "file": "009"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Emergency voting rules, 2012",
+  "itens": [
+   [
+    "NEW JERSEY",
+    "Email & fax",
+    "for voters displaced by the storm"
+   ],
+   [
+    "NEW YORK",
+    "Any polling site",
+    "affidavit ballots for affected voters"
+   ]
+  ],
+  "px": 80,
+  "fonte": "Stateline (Pew), Nov. 5, 2012; AP, Nov. 6, 2012",
+  "file": "009"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FEDERAL LAW · 2 U.S.C. § 7",
+  "valor": "Fixed date",
+  "px": 220,
+  "texto": "Election Day: the Tuesday after the first Monday in November",
+  "fonte": "U.S. Code, Title 2, Section 7",
+  "file": "009"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "When weather hits, officials can",
+  "itens": [
+   "Move polling places",
+   "Extend remote voting options",
+   "Issue emergency orders"
+  ],
+  "fonte": "AP, 2026; Stateline (Pew), 2012",
+  "file": "009"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "Election Day is fixed by law. The weather never got the memo.",
+  "file": "009"
+ }
+]
