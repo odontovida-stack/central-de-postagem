@@ -6,7 +6,7 @@ Ver short.json (narração) e slides.json. Sem vídeo longo. Pauta semanal "not�
 Nas eleições de meio de mandato de 3/11/2026, os democratas conquistaram a maioria na Câmara e no Senado (AP/Reuters, 4/11).
 
 ## Paralelo histórico
-2006 (democratas viram as duas casas: +31 deputados, +6 senadores) e 1994 (republicanos: +54 e +8, primeira maioria na Câmara em 40 anos). Desde 1934, o partido do presidente só ganhou cadeiras na Câmara em 3 midterms (1934, 1998, 2002).
+2006 (democratas viram as duas casas: +31 deputados, 6 cadeiras republicanas viradas no Senado) e 1994 (republicanos: +54 e +8, primeira maioria na Câmara em 40 anos). Desde 1934, o partido do presidente só ganhou cadeiras na Câmara em 3 midterms (1934, 1998, 2002).
 
 ## Narração (116 palavras)
 
@@ -14,7 +14,7 @@ This week, control of both the House and the Senate changed hands in a single mi
 
 It sounds rare. It isn't.
 
-In 2006, Democrats gained thirty-one House seats and six Senate seats, and took both chambers.
+In 2006, Democrats gained thirty-one House seats and flipped six Republican Senate seats, and took both chambers.
 
 In 1994, it went the other way. Republicans gained fifty-four House seats and eight in the Senate, and won the House for the first time in forty years.
 
