@@ -1,0 +1,114 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "America's gas crisis: 1973 vs. 2026",
+  "sub": "Same shock. A different story.",
+  "file": "006",
+  "stamp": "FILE #006",
+  "stamp_top": 150
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. REGULAR GASOLINE · JANUARY → MAY 2026",
+  "valor": "+59%",
+  "px": 240,
+  "texto": "in about four months",
+  "fonte": "U.S. EIA data, via Randal Olson (June 2026)",
+  "file": "006"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "AMERICA HAS BEEN HERE BEFORE",
+  "titulo": "October 1973.",
+  "file": "006"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ARAB OPEC MEMBERS · OCTOBER 1973",
+  "valor": "Oil embargo",
+  "px": 180,
+  "texto": "Oil shipments to the United States are cut off",
+  "fonte": "U.S. Department of State, Office of the Historian",
+  "file": "006"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Crude oil, per barrel",
+  "itens": [
+   [
+    "1973",
+    "$2.90",
+    "before the embargo"
+   ],
+   [
+    "JANUARY 1974",
+    "$11.65",
+    "about four times higher"
+   ]
+  ],
+  "fonte": "History.com",
+  "file": "006"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "U.S. gasoline, per gallon",
+  "itens": [
+   [
+    "1973",
+    "39¢",
+    "annual average"
+   ],
+   [
+    "1974",
+    "53¢",
+    "+36%"
+   ]
+  ],
+  "fonte": "History.com",
+  "file": "006"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "What came next",
+  "itens": [
+   "Price controls kept the pump price down",
+   "Supplies ran short: hours-long lines",
+   "A national speed limit: 55 mph"
+  ],
+  "fonte": "History.com",
+  "file": "006"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SECOND OIL SHOCK · 1979 → 1981",
+  "valor": "3.5×",
+  "px": 240,
+  "texto": "By 1981, gas cost three and a half times its 1973 price",
+  "fonte": "History.com ($1.38 a gallon in 1981)",
+  "file": "006"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "A gallon of gas, in today's dollars",
+  "itens": [
+   [
+    "MARCH 1981",
+    "$5.32",
+    "adjusted for inflation"
+   ],
+   [
+    "NOVEMBER 2026",
+    "≈ $4",
+    "U.S. average now"
+   ]
+  ],
+  "fonte": "EIA + BLS CPI via Randal Olson (April 2026 dollars); AAA",
+  "file": "006"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "No price controls. No lines. Just the bill.",
+  "file": "006"
+ }
+]
