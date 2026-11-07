@@ -1,0 +1,186 @@
+{
+ "dia": "07/11/2026",
+ "apurado_em": "2026-11-07",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-07T08:00:00-03:00",
+    "pilula": "SÁB 07/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "07/11",
+      "sub": "SÁB · 10h30",
+      "titulo": "Semifinais do Masters de Paris",
+      "detalhe": "Tênis · 2ª semi a partir das 13h · ESPN 2, Disney+"
+     },
+     {
+      "data": "07/11",
+      "sub": "SÁB · 12h30",
+      "titulo": "Sprint da MotoGP no Catar",
+      "detalhe": "Motovelocidade · ESPN 4, Disney+"
+     },
+     {
+      "data": "07/11",
+      "sub": "SÁB · 15h",
+      "titulo": "Classificação da F1 em Interlagos",
+      "detalhe": "F1 · GP de São Paulo · Globo, SporTV 3",
+      "gratis": true
+     },
+     {
+      "data": "07/11",
+      "sub": "SÁB · 19h",
+      "titulo": "Pato x Flamengo",
+      "detalhe": "Basquete · NBB · Flamengo TV no YouTube",
+      "gratis": true
+     },
+     {
+      "data": "07/11",
+      "sub": "SÁB · 22h",
+      "titulo": "UFC com Johnny Walker",
+      "detalhe": "Lutas · card principal · Paramount+"
+     }
+    ],
+    "fonte": "Conferido em 07/11 às 1h · F1, ATP, UFC, Auvaro Maia",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: semifinais do Masters de Paris a partir das 10h30, sprint da MotoGP às 12h30, classificação da F1 em Interlagos às 15h grátis na Globo, Pato x Flamengo no NBB às 19h grátis no YouTube e UFC com Johnny Walker a partir das 22h no Paramount+",
+    "legenda": "🏎️🥊🎾 Sábado com classificação da F1 em Interlagos de graça e brasileiro na luta principal do UFC!\n\n⏰ Horário de Brasília:\n🎾 10h30 e 13h · Semifinais do Masters 1000 de Paris · ESPN 2 e Disney+\n🏍️ 12h30 · Corrida sprint da MotoGP no Catar · ESPN 4 e Disney+\n🏎️ 15h · Classificação do GP de São Paulo de F1, em Interlagos · Globo 🆓 e SporTV 3\n🏀 19h · Pato x Flamengo pelo NBB · Flamengo TV no YouTube 🆓\n🥊 22h · Card principal do UFC Vegas 124, com Johnny Walker x Waldo Cortes Acosta na luta principal · Paramount+\n\n🆓 = transmissão grátis\n📌 Salve para não perder nada.\n📤 Mande para quem vai assistir com você.\n\nQual você não perde? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#esportes #f1 #gpsaopaulo #interlagos #ufc #motogp #hojetem"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-07T12:00:00-03:00",
+    "foto": "quadra-futsal",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "FUTSAL · FINALÍSSIMA",
+    "titulo": "Brasil na final: dá para bater a Espanha?",
+    "contexto": "Brasil 1 x 1 Argentina, 5 a 4 nos pênaltis. Final no domingo, 17h30.",
+    "opcoes": [
+     "Brasil campeão no tempo normal",
+     "Brasil campeão nos pênaltis",
+     "Espanha campeã"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Pergunta: depois de passar pela Argentina nos pênaltis, o Brasil bate a Espanha na final da Finalíssima de futsal? A: Brasil campeão no tempo normal. B: Brasil campeão nos pênaltis. C: Espanha campeã.",
+    "legenda": "🤔 O Brasil passou pela Argentina nos pênaltis. Dá para bater a Espanha na final?\n\nA) Brasil campeão no tempo normal\nB) Brasil campeão nos pênaltis\nC) Espanha campeã\n\n⚽ Semifinal de ontem: Brasil 1 x 1 Argentina, 5 a 4 nos pênaltis, na Arena Niterói\n🏆 Final: Brasil x Espanha, domingo (08/11), às 17h30 (Brasília) · CazéTV e UOL 🆓\n\n📌 Salve e volte depois da final.\n📤 Mande para quem torce com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Super Rádio Tupi e Cidade de Niterói.\n\n#futsal #finalissima #selecaobrasileira #brasilxespanha #esportes #enquete"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-07T20:00:00-03:00",
+    "pilula": "PALPITE",
+    "chamada": "UFC · HOJE À NOITE",
+    "titulo": "Johnny Walker x Cortes Acosta: quem vence?",
+    "contexto": "Luta principal do UFC Vegas 124, nos pesados. Card principal a partir das 22h.",
+    "opcoes": [
+     "Johnny Walker por nocaute",
+     "Johnny Walker por decisão ou finalização",
+     "Cortes Acosta"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Johnny Walker x Waldo Cortes Acosta, quem vence a luta principal do UFC Vegas 124? A: Johnny Walker por nocaute. B: Johnny Walker por decisão ou finalização. C: Cortes Acosta.",
+    "legenda": "🥊 Brasileiro na luta principal do UFC hoje! Quem vence?\n\nA) Johnny Walker por nocaute\nB) Johnny Walker por decisão ou finalização\nC) Waldo Cortes Acosta\n\n🇧🇷 Johnny Walker x Waldo Cortes Acosta · peso pesado, 5 rounds\n⏰ Card principal a partir das 22h (Brasília) · preliminares às 19h\n🇧🇷 No card também: Virna Jandiroba x Tatiana Suarez e Priscila Cachoeira\n📺 Paramount+\n\n📌 Salve e volte depois da luta para ver se acertou.\n📤 Mande para quem vê UFC com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: UFCalendar e Agent MMA.\n\n#ufc #johnnywalker #mma #ufcvegas #lutas #palpite"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-07T14:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "SÁB 07/11",
+    "chamada": "JOGO DO DIA · HORÁRIO DE BRASÍLIA",
+    "grande": "18h",
+    "titulo": "Atlético-MG x Grêmio",
+    "caixas": [
+     [
+      "Onde assistir",
+      "sportv, Premiere, Prime Video"
+     ],
+     [
+      "Competição",
+      "Copa do Brasil · semifinal (volta)"
+     ]
+    ],
+    "nota": "Ida: Grêmio 2 x 0. O Galo precisa vencer por 3 gols; por 2, pênaltis.",
+    "fonte": "Conferido em 07/11 às 1h · O Tempo, Brasil 247, Mantos do Futebol",
+    "cta": "Mande para quem vai ver",
+    "alt": "Jogo do dia: Atlético-MG x Grêmio às 18h, horário de Brasília, na volta da semifinal da Copa do Brasil, no sportv, no Premiere e no Prime Video. Na ida, o Grêmio venceu por 2 a 0",
+    "legenda": "🔥 Hoje o Galo precisa de 3 gols para ir à final da Copa do Brasil!\n\n⚽ Atlético-MG x Grêmio\n⏰ 18h (horário de Brasília) · Arena MRV, em BH\n🏆 Copa do Brasil · semifinal, jogo de volta\n🔙 Ida: Grêmio 2 x 0 (Carlos Vinicius e Erick Noriega)\n✅ Vitória do Galo por 3 gols leva à final; por 2 gols, pênaltis. O Grêmio passa com empate ou até perdendo por 1\n📺 sportv, Premiere e Prime Video\n\n🗓️ Amanhã, 17h: Vasco x Palmeiras, na Globo. A final é em 06/12.\n\n📌 Salve para não perder o horário.\n📤 Mande para quem vai ver o jogo com você.\n\nO Galo vira? 👇\nSiga @jogosnatela para o jogo do dia, todo dia.\n\n#copadobrasil #atleticomg #gremio #galo #futebol #jogododia"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-07T16:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "PALPITE",
+    "chamada": "COPA DO BRASIL · HOJE, 18H",
+    "titulo": "Atlético-MG x Grêmio: quem vai à final?",
+    "contexto": "Na ida, o Grêmio venceu por 2 a 0. O Galo precisa de 3 gols de diferença.",
+    "opcoes": [
+     "Atlético-MG",
+     "Grêmio",
+     "Pênaltis"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Atlético-MG x Grêmio, quem vai à final da Copa do Brasil? A: Atlético-MG. B: Grêmio. C: Pênaltis.",
+    "legenda": "⚽ Atlético-MG x Grêmio: quem vai à final da Copa do Brasil?\n\nA) Atlético-MG\nB) Grêmio\nC) Pênaltis\n\n⏰ Hoje, 18h (horário de Brasília) · Arena MRV · sportv, Premiere e Prime Video\n🔙 Ida: Grêmio 2 x 0. O Galo precisa vencer por 3 gols; por 2, vai para os pênaltis\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para quem torce com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFontes: O Tempo e Brasil 247.\n\n#copadobrasil #atleticomg #gremio #semifinal #futebol #palpite"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-07T16:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "SÁB 07/11",
+    "chamada": "HOJE TEM SHOW · SÃO PAULO",
+    "grande": "21h",
+    "titulo": "Sepultura: o último show",
+    "caixas": [
+     [
+      "Local",
+      "Suhai Music Hall · Jurubatuba"
+     ],
+     [
+      "Ingressos",
+      "Esgotados"
+     ]
+    ],
+    "nota": "A despedida dos palcos encerra a turnê Celebrating Life Through Death.",
+    "fonte": "Conferido em 07/11 às 1h · CNN Brasil, Times Brasil",
+    "cta": "Mande para quem vai",
+    "alt": "Hoje tem show: o último show do Sepultura, às 21h, no Suhai Music Hall, em Jurubatuba, São Paulo, com ingressos esgotados",
+    "legenda": "🤘 Hoje é o último show da carreira do Sepultura!\n\n🎸 Sepultura · show de despedida\n📍 Suhai Music Hall · Av. das Nações Unidas, 22.540, Jurubatuba, São Paulo\n⏰ 21h (horário de Brasília)\n🎟️ Ingressos esgotados\n🎤 Encerra a turnê Celebrating Life Through Death\n\n⚠️ Cuidado com golpe: não compre ingresso de desconhecidos nem pague Pix para revendedor.\n📌 Salve para ter o horário à mão.\n📤 Mande para quem vai se despedir com você.\n\nQual música não pode faltar? 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\nFontes: CNN Brasil e Times Brasil.\n\n#sepultura #metal #saopaulo #showsconfirmados #shows #despedida"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "enquete",
+    "quando": "2026-11-07T20:00:00-03:00",
+    "foto": "streaming-sofa",
+    "pilula": "ENQUETE",
+    "chamada": "FIM DE SEMANA",
+    "titulo": "O que você vai assistir neste fim de semana?",
+    "contexto": "As estreias da semana no streaming.",
+    "opcoes": [
+     "Cidade de Deus T2 (HBO Max, dom)",
+     "Meu Sangue Ferve Por Você (Netflix, dom)",
+     "Amor Possível (Netflix)",
+     "Outra coisa"
+    ],
+    "fonte": "Sem spoiler nos comentários!",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Enquete: o que você vai assistir neste fim de semana? A: Cidade de Deus, 2ª temporada, na HBO Max, no domingo. B: Meu Sangue Ferve Por Você, na Netflix, no domingo. C: Amor Possível, na Netflix. D: Outra coisa.",
+    "legenda": "🍿 O que você vai assistir neste fim de semana?\n\nA) Cidade de Deus: A Luta Não Para, 2ª temporada · HBO Max, domingo (08/11)\nB) Meu Sangue Ferve Por Você · Netflix, domingo (08/11)\nC) Amor Possível · Netflix, desde sexta (06/11)\nD) Outra coisa (conta qual!)\n\n📌 Salve para escolher depois.\n📤 Mande para quem divide o sofá com você.\n\nResponda A, B, C ou D 👇 (sem spoiler!)\nSiga @tudooqueestreia para saber tudo o que estreia.\n\n#estreias #streaming #netflix #hbomax #cidadededeus #fimdesemana #enquete"
+   }
+  ]
+ }
+}
