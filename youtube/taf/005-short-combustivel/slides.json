@@ -1,0 +1,96 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "The strait reopened. Gas prices didn't.",
+  "sub": "U.S. fuel prices, November 2026",
+  "file": "005",
+  "stamp": "FILE #005",
+  "stamp_top": 150
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "PERSIAN GULF · OIL SUPPLY (EXCLUDING IRAN)",
+  "valor": "Back to pre-war",
+  "px": 150,
+  "texto": "Tanker traffic through the Strait of Hormuz has recovered",
+  "fonte": "Kpler, via ABC News, Oct. 8, 2026",
+  "file": "005"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. AVERAGE · REGULAR GASOLINE",
+  "valor": "≈ $4 / gal",
+  "px": 200,
+  "texto": "and Americans are still paying it",
+  "fonte": "AAA, Nov. 6, 2026",
+  "file": "005"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Regular gasoline, U.S. average",
+  "itens": [
+   [
+    "NOV 2025",
+    "$3.02",
+    "per gallon"
+   ],
+   [
+    "NOV 2026",
+    "$4.15",
+    "+$1.13 in one year"
+   ]
+  ],
+  "fonte": "U.S. EIA, week of Nov. 2, 2026",
+  "file": "005"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. AVERAGE · DIESEL",
+  "valor": "$6.29",
+  "px": 230,
+  "texto": "About $2.50 more than a year ago, after an all-time record in September",
+  "fonte": "U.S. EIA, week of Nov. 2, 2026; CNBC",
+  "file": "005"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CALIFORNIA · DIESEL",
+  "valor": "$8.08",
+  "px": 230,
+  "texto": "Regular gasoline there: $5.75 a gallon",
+  "fonte": "U.S. EIA, week of Nov. 2, 2026",
+  "file": "005"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "HERE'S THE CATCH",
+  "titulo": "Pump prices fall much slower than they rise.",
+  "file": "005"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Why gas is still expensive",
+  "itens": [
+   "Stations still sell fuel bought at higher prices",
+   "Tankers pay for safer, costlier routes",
+   "Traders price in the fear of new attacks"
+  ],
+  "fonte": "ABC News, Oct. 8, 2026",
+  "file": "005"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. CRUDE OIL (WTI) · EARLY OCTOBER 2026",
+  "valor": "+40%",
+  "px": 240,
+  "texto": "still above pre-war levels",
+  "fonte": "ABC News, Oct. 8, 2026",
+  "file": "005"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "The strait reopened. Your gas bill hasn't caught up yet.",
+  "file": "005"
+ }
+]
