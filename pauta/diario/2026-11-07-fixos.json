@@ -1,0 +1,412 @@
+{
+ "dia": "07/11/2026",
+ "apurado_em": "2026-11-07",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-07T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de sábado, 07/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 07/11",
+      "linhas": [
+       {
+        "hora": "07h55",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP do Catar",
+        "jogo": "MotoGP · treino livre",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "08h35",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP do Catar",
+        "jogo": "MotoGP · classificação",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "09h00",
+        "esporte": "surfe",
+        "competicao": "ISA Games",
+        "jogo": "Disputas do dia",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "09h30",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Leeds x Tottenham",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "automobilismo",
+        "competicao": "Fórmula 4 Brasil · Interlagos",
+        "jogo": "Corrida 1",
+        "canal": "BandSports"
+       },
+       {
+        "hora": "10h30",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · semifinal",
+        "jogo": "1ª semifinal de simples",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "10h40",
+        "esporte": "automobilismo",
+        "competicao": "Moto3 · GP do Catar",
+        "jogo": "Classificação",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "f1",
+        "competicao": "GP de São Paulo",
+        "jogo": "Treino livre 3 em Interlagos",
+        "canal": "SporTV 3"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "futebol",
+        "competicao": "Bundesliga",
+        "jogo": "Mainz x Bayern",
+        "canal": "SportyNet no YouTube · sportv",
+        "gratis": true
+       },
+       {
+        "hora": "11h35",
+        "esporte": "automobilismo",
+        "competicao": "Moto2 · GP do Catar",
+        "jogo": "Classificação",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "12h00",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Arsenal x Hull City",
+        "canal": "ESPN · Disney+"
+       }
+      ],
+      "fonte": "Conferido em 07/11 às 1h · F1, ATP, CBF, Auvaro Maia, Mantos do Futebol",
+      "cta": "Arraste →",
+      "alt": "Agenda de sábado, 07/11, das 7h55 às 12h: MotoGP no Catar, surfe nos ISA Games grátis na CazéTV, Leeds x Tottenham, semifinal do Masters de Paris, 3º treino da F1 em Interlagos, Mainz x Bayern grátis e Arsenal x Hull"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 07/11",
+      "linhas": [
+       {
+        "hora": "12h30",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP do Catar",
+        "jogo": "Corrida sprint",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "13h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · semifinal",
+        "jogo": "2ª semifinal de simples",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "13h20",
+        "esporte": "automobilismo",
+        "competicao": "Porsche Cup · Interlagos",
+        "jogo": "Corrida 1",
+        "canal": "Band · YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "14h30",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Nottingham Forest x Man. City",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "outros",
+        "competicao": "Libertadores Feminina de futsal",
+        "jogo": "Stein Cascavel x U. de Chile",
+        "canal": "Canal GOL BR · sportv"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "f1",
+        "competicao": "GP de São Paulo",
+        "jogo": "Classificação em Interlagos",
+        "canal": "Globo · SporTV 3 · ge",
+        "gratis": true
+       },
+       {
+        "hora": "15h00",
+        "esporte": "lutas",
+        "competicao": "Boxe · Zuffa Boxing 12",
+        "jogo": "Billam-Smith x Chev Clarke",
+        "canal": "Paramount+"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Pinheiros x São José",
+        "canal": "YouTube do NBB",
+        "gratis": true
+       },
+       {
+        "hora": "16h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Basquete Cearense x Paulistano",
+        "canal": "YouTube do NBB",
+        "gratis": true
+       },
+       {
+        "hora": "16h10",
+        "esporte": "futebol",
+        "competicao": "Série B",
+        "jogo": "Novorizontino x Fortaleza",
+        "canal": "RedeTV · GOAT · ESPN 4",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Caxias x Brasília",
+        "canal": "YouTube do NBB",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 07/11 às 1h · F1, ATP, CBF, Auvaro Maia, Mantos do Futebol",
+      "cta": "Arraste →",
+      "alt": "Agenda de sábado, 07/11, das 12h30 às 17h: sprint da MotoGP, Porsche Cup grátis na Band, Forest x Manchester City, classificação da F1 em Interlagos grátis na Globo, boxe e jogos do NBB grátis no YouTube"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 07/11",
+      "linhas": [
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "LaLiga",
+        "jogo": "Valencia x Real Madrid",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "17h05",
+        "esporte": "futebol",
+        "competicao": "Ligue 1",
+        "jogo": "PSG x Troyes",
+        "canal": "CazéTV · Xsports",
+        "gratis": true
+       },
+       {
+        "hora": "18h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Brasil · semifinal",
+        "jogo": "Atlético-MG x Grêmio",
+        "canal": "sportv · Premiere · Prime Video"
+       },
+       {
+        "hora": "18h00",
+        "esporte": "automobilismo",
+        "competicao": "NASCAR O'Reilly · Homestead",
+        "jogo": "Corrida",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Brasília x Praia Clube",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "lutas",
+        "competicao": "UFC Vegas 124",
+        "jogo": "Preliminares · Karine Silva e mais",
+        "canal": "Paramount+"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Pato x Flamengo",
+        "canal": "Flamengo TV no YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "19h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Costa do Sauípe",
+        "jogo": "Semifinal com Thiago Wild",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Bauru x Pinheiros",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Brooklyn Nets x Atlanta Hawks",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "lutas",
+        "competicao": "UFC Vegas 124 · card principal",
+        "jogo": "Card principal com Johnny Walker",
+        "canal": "Paramount+"
+       }
+      ],
+      "fonte": "Conferido em 07/11 às 1h · F1, ATP, CBF, Auvaro Maia, Mantos do Futebol",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de sábado, 07/11, das 17h às 22h: Valencia x Real Madrid e PSG x Troyes grátis na CazéTV, Atlético-MG x Grêmio pela Copa do Brasil, Superliga Feminina, Pato x Flamengo grátis, Thiago Wild na Costa do Sauípe, NBA e UFC com Johnny Walker"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de sábado, 07/11 (horário de Brasília)\n\n🏎️ 15h · Classificação do GP de São Paulo de F1, em Interlagos · Globo e SporTV 3 🆓\n⚽ 18h · Atlético-MG x Grêmio, semifinal da Copa do Brasil · sportv, Premiere e Prime Video\n⚽ 17h · Valencia x Real Madrid · CazéTV 🆓\n🏍️ 12h30 · Sprint da MotoGP no Catar · ESPN 4 e Disney+\n🥊 22h · UFC Vegas 124 com Johnny Walker na luta principal · Paramount+\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #f1 #gpsaopaulo #copadobrasil #ufc #nbb"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-07T07:30:00-03:00",
+    "alt": "Resultados de sexta, 06/11, e jogos de sábado, 07/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "SEX 06/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão",
+        "jogos": [
+         {
+          "casa": "Vitória",
+          "gc": 0,
+          "fora": "Fluminense",
+          "gf": 3
+         }
+        ]
+       },
+       {
+        "competicao": "Série B",
+        "jogos": [
+         {
+          "casa": "Operário-PR",
+          "gc": 3,
+          "fora": "Sport",
+          "gf": 2
+         }
+        ]
+       },
+       {
+        "competicao": "Bundesliga",
+        "jogos": [
+         {
+          "casa": "Hamburgo",
+          "gc": 3,
+          "fora": "Gladbach",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "LaLiga",
+        "jogos": [
+         {
+          "casa": "Sevilla",
+          "gc": 0,
+          "fora": "Alavés",
+          "gf": 0
+         }
+        ]
+       }
+      ],
+      "destaque": "Fluminense 3 × 0 Vitória, no Barradão",
+      "destaque_rotulo": "FATO DA NOITE",
+      "fonte": "Conferido em 07/11 às 1h · Fluminense, Terra, CBF, HSV",
+      "cta": "Arraste →",
+      "alt": "Resultados de sexta, 06/11: Vitória 0x3 Fluminense no Brasileirão, Operário-PR 3x2 Sport na Série B, Hamburgo 3x1 Gladbach na Bundesliga e Sevilla 0x0 Alavés na LaLiga"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SÁB 07/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "07/11",
+        "sub": "SÁB · 18h",
+        "titulo": "Atlético-MG x Grêmio",
+        "detalhe": "Copa do Brasil · sportv, Premiere, Prime Video",
+        "destaque": true
+       },
+       {
+        "data": "07/11",
+        "sub": "SÁB · 11h30",
+        "titulo": "Mainz x Bayern",
+        "detalhe": "Bundesliga · SportyNet no YouTube, sportv",
+        "gratis": true
+       },
+       {
+        "data": "07/11",
+        "sub": "SÁB · 14h30",
+        "titulo": "Nottingham Forest x Man. City",
+        "detalhe": "Premier League · ESPN, Disney+"
+       },
+       {
+        "data": "07/11",
+        "sub": "SÁB · 16h10",
+        "titulo": "Novorizontino x Fortaleza",
+        "detalhe": "Série B · RedeTV, GOAT, ESPN 4",
+        "gratis": true
+       },
+       {
+        "data": "07/11",
+        "sub": "SÁB · 17h",
+        "titulo": "Valencia x Real Madrid",
+        "detalhe": "LaLiga · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "07/11",
+        "sub": "SÁB · 17h05",
+        "titulo": "PSG x Troyes",
+        "detalhe": "Ligue 1 · CazéTV, Xsports",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 07/11 às 1h · O Tempo, CBF, PSG, Mantos do Futebol",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de sábado, 07/11: Atlético-MG x Grêmio às 18h pela semifinal da Copa do Brasil no sportv, Premiere e Prime Video (jogo do dia); Mainz x Bayern às 11h30 grátis na SportyNet; Nottingham Forest x Manchester City às 14h30 na ESPN; Novorizontino x Fortaleza às 16h10 grátis na RedeTV e no GOAT; Valencia x Real Madrid às 17h e PSG x Troyes às 17h05, grátis na CazéTV"
+     }
+    ],
+    "legenda": "⚽ O Fluminense fez 3 no Barradão. E hoje o Galo precisa de 3 gols contra o Grêmio para ir à final!\n\n📊 Resultados de ontem (sexta, 06/11):\n🇧🇷 Vitória 0x3 Fluminense · Brasileirão (Savarino, Canobbio e Castillo; o Flu segue no G-4)\n🔄 Operário-PR 3x2 Sport · Série B (virada depois de 0 a 2)\n🇩🇪 Hamburgo 3x1 Gladbach · Bundesliga\n🇪🇸 Sevilla 0x0 Alavés · LaLiga\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 18h · Atlético-MG x Grêmio · semifinal da Copa do Brasil · sportv, Premiere e Prime Video (ida: Grêmio 2x0)\n⚽ 11h30 · Mainz x Bayern · SportyNet no YouTube 🆓 e sportv\n⚽ 14h30 · Nottingham Forest x Manchester City · ESPN e Disney+\n⚽ 16h10 · Novorizontino x Fortaleza · RedeTV e GOAT 🆓\n⚽ 17h · Valencia x Real Madrid · CazéTV 🆓\n⚽ 17h05 · PSG x Troyes · CazéTV 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê futebol com você\n\nO Galo vira? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#futebol #copadobrasil #atleticomg #gremio #fluminense #brasileirao #ondeassistir #jogosdehoje"
+   }
+  ]
+ }
+}
