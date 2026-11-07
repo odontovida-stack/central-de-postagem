@@ -1,0 +1,29 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "Congress just flipped. When did this last happen? #shorts",
+  "quando": "2026-11-11T12:00:00-03:00",
+  "tags": [
+    "midterm elections",
+    "2026 midterms",
+    "congress",
+    "house of representatives",
+    "senate",
+    "1994 election",
+    "2006 election",
+    "american history",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso (sem vídeo longo), pauta semanal 'notícia + paralelo histórico' montada pelo Craudio em 07/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}

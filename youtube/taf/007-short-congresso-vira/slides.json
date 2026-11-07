@@ -1,0 +1,114 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "Congress just flipped.",
+  "sub": "Both chambers, one midterm. November 2026",
+  "stamp": "FILE #007",
+  "stamp_top": 150,
+  "file": "007"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. MIDTERMS · NOVEMBER 3, 2026",
+  "valor": "House + Senate",
+  "px": 170,
+  "texto": "Democrats won majorities in both chambers",
+  "fonte": "AP; Reuters, Nov. 4, 2026",
+  "file": "007"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "SOUNDS RARE?",
+  "titulo": "It isn't.",
+  "file": "007"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "2006: both chambers flip",
+  "itens": [
+   [
+    "HOUSE",
+    "+31",
+    "Democratic seats gained"
+   ],
+   [
+    "SENATE",
+    "6",
+    "Republican-held seats flipped"
+   ]
+  ],
+  "fonte": "U.S. House Office of the Historian; U.S. Senate Historical Office",
+  "file": "007"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "1994: both chambers flip",
+  "itens": [
+   [
+    "HOUSE",
+    "+54",
+    "Republican seats gained"
+   ],
+   [
+    "SENATE",
+    "+8",
+    "Republican seats gained"
+   ]
+  ],
+  "fonte": "U.S. House Office of the Historian; U.S. Senate Historical Office",
+  "file": "007"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. HOUSE · 1955–1995",
+  "valor": "40 years",
+  "px": 230,
+  "texto": "of Democratic House majorities ended in the 1994 midterm",
+  "fonte": "U.S. House Office of the Historian",
+  "file": "007"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Midterms when the president's party GAINED House seats",
+  "marcos": [
+   [
+    "1934",
+    "Franklin D. Roosevelt"
+   ],
+   [
+    "1998",
+    "Bill Clinton"
+   ],
+   [
+    "2002",
+    "George W. Bush"
+   ]
+  ],
+  "fonte": "The American Presidency Project, UC Santa Barbara",
+  "file": "007"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SINCE 1934",
+  "valor": "Only 3 times",
+  "px": 200,
+  "texto": "In all the others, the president's party lost House seats",
+  "fonte": "The American Presidency Project, UC Santa Barbara",
+  "file": "007"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NEW CONGRESS · U.S. CONSTITUTION, 20TH AMENDMENT",
+  "valor": "January 3",
+  "px": 220,
+  "texto": "The day a new Congress is sworn in",
+  "fonte": "U.S. Constitution, 20th Amendment",
+  "file": "007"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "Different decades. Different parties. Same midterm pattern.",
+  "file": "007"
+ }
+]
