@@ -1,0 +1,29 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "Why Alaska takes weeks to count its votes #shorts",
+  "quando": "2026-11-13T12:00:00-03:00",
+  "tags": [
+    "alaska",
+    "alaska senate race",
+    "vote count",
+    "ranked choice voting",
+    "lisa murkowski",
+    "write-in",
+    "2010 election",
+    "2026 midterms",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso (sem vídeo longo), pauta semanal 'notícia + paralelo histórico' montada pelo Craudio em 07/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}

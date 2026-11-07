@@ -1,0 +1,102 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "Still counting in Alaska",
+  "sub": "U.S. Senate, November 2026",
+  "stamp": "FILE #008",
+  "stamp_top": 150,
+  "file": "008"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ALASKA · U.S. SENATE · NOV. 6, 2026",
+  "valor": "< 700 votes",
+  "px": 220,
+  "texto": "between the top two candidates, with 74% of ballots counted",
+  "fonte": "Gray DC, Nov. 6, 2026",
+  "file": "008"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Why Alaska counts slowly",
+  "itens": [
+   "Ballots flown or mailed in from remote areas",
+   "Ranked-choice voting",
+   "Final tabulation not before Nov. 18"
+  ],
+  "fonte": "Gray DC, Nov. 6, 2026; Alaska Beacon",
+  "file": "008"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "ALASKA HAS DONE THIS BEFORE",
+  "titulo": "2010: the write-in senator.",
+  "file": "008"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Alaska, 2010",
+  "marcos": [
+   [
+    "AUG.",
+    "Murkowski loses her party's primary"
+   ],
+   [
+    "SEPT.",
+    "Launches a write-in campaign"
+   ],
+   [
+    "NOV. 2",
+    "Election Day"
+   ],
+   [
+    "NOV. 17",
+    "Race called"
+   ]
+  ],
+  "fonte": "AP; Anchorage Daily News",
+  "file": "008"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ALASKA · NOVEMBER 2010",
+  "valor": "100,000+",
+  "px": 230,
+  "texto": "write-in ballots reviewed by hand, one by one",
+  "fonte": "AP; Anchorage Daily News",
+  "file": "008"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FINAL MARGIN · 2010",
+  "valor": "≈ 10,000",
+  "px": 230,
+  "texto": "votes: Murkowski's write-in victory",
+  "fonte": "AP, Dec. 30, 2010",
+  "file": "008"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "LAST SENATOR ELECTED BY WRITE-IN BEFORE THAT",
+  "valor": "1954",
+  "px": 260,
+  "texto": "Strom Thurmond, South Carolina",
+  "fonte": "AP; Christian Science Monitor, Nov. 2010",
+  "file": "008"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "RESULT CERTIFIED",
+  "valor": "Dec. 30, 2010",
+  "px": 180,
+  "texto": "almost two months after Election Day",
+  "fonte": "AP, Dec. 30, 2010",
+  "file": "008"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "In Alaska, patience is part of the ballot.",
+  "file": "008"
+ }
+]
