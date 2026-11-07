@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Congress just flipped. When did this last happen? #shorts",
   "quando": "2026-11-11T12:00:00-03:00",
   "tags": [
@@ -25,5 +25,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso (sem vídeo longo), pauta semanal 'notícia + paralelo histórico' montada pelo Craudio em 07/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso (sem vídeo longo), pauta semanal 'notícia + paralelo histórico' montada pelo Craudio em 07/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "P9cdaRE60s8",
+  "short_id": "P9cdaRE60s8",
+  "meta_hash": "026d13a82d82edc3"
 }

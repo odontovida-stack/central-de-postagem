@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Why Alaska takes weeks to count its votes #shorts",
   "quando": "2026-11-13T12:00:00-03:00",
   "tags": [
@@ -25,5 +25,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso (sem vídeo longo), pauta semanal 'notícia + paralelo histórico' montada pelo Craudio em 07/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso (sem vídeo longo), pauta semanal 'notícia + paralelo histórico' montada pelo Craudio em 07/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "B-3uKvRuhGI",
+  "short_id": "B-3uKvRuhGI",
+  "meta_hash": "1f1743497c4b6b31"
 }
