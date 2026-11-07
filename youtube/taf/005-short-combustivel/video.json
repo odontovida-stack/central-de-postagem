@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Why is gas still $4 if the Strait of Hormuz reopened? #shorts",
   "quando": "2026-11-09T12:00:00-03:00",
   "tags": [
@@ -25,5 +25,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso (sem vídeo longo), pedido do Luiz em 06/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso (sem vídeo longo), pedido do Luiz em 06/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "nT4I_R-EZn4",
+  "short_id": "nT4I_R-EZn4",
+  "meta_hash": "dc95c024a4c178f2"
 }
