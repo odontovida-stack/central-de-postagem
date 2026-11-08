@@ -1,0 +1,415 @@
+{
+ "dia": "08/11/2026",
+ "apurado_em": "2026-11-08",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-08T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de domingo, 08/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Domingo, 08/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "outros",
+        "competicao": "Jogos Olímpicos da Juventude",
+        "jogo": "Ginástica · classificação feminina",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h30",
+        "esporte": "futebol",
+        "competicao": "Serie A",
+        "jogo": "Napoli x Lazio",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "09h00",
+        "esporte": "outros",
+        "competicao": "Sul-Americano de canoagem",
+        "jogo": "Finais de 200 m com brasileiros",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h30",
+        "esporte": "outros",
+        "competicao": "Copa do Mundo de bocha paralímpica",
+        "jogo": "Quartas de final em São Paulo",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h50",
+        "esporte": "automobilismo",
+        "competicao": "Porsche Sprint Challenge · Interlagos",
+        "jogo": "Corrida 2",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "automobilismo",
+        "competicao": "Moto3 · GP do Catar",
+        "jogo": "Corrida",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "10h50",
+        "esporte": "automobilismo",
+        "competicao": "Porsche Carrera Cup · Interlagos",
+        "jogo": "Corrida 2",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "tenis",
+        "competicao": "Masters 1000 Paris · FINAL",
+        "jogo": "Alcaraz x Shelton",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Barueri x Brusque",
+        "canal": "ge tv no YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "11h00",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Crystal Palace x Liverpool",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "11h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Brasil Feminina · semi",
+        "jogo": "Bragantino x Internacional",
+        "canal": "sportv · Lance! no YouTube",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 08/11 à 1h · Terra, Interlagos, Itatiaia, Cidade de Niterói, goal.com, DGABC",
+      "cta": "Arraste →",
+      "alt": "Agenda de domingo, 08/11, das 7h às 11h: Jogos da Juventude, Napoli x Lazio, canoagem, bocha paralímpica, Porsche em Interlagos, Moto3 no Catar, final do Masters de Paris com Alcaraz x Shelton, Barueri x Brusque grátis no YouTube, Crystal Palace x Liverpool grátis na CazéTV e Bragantino x Internacional na Copa do Brasil Feminina"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Domingo, 08/11",
+      "linhas": [
+       {
+        "hora": "11h00",
+        "esporte": "atletismo",
+        "competicao": "Jogos Olímpicos da Juventude",
+        "jogo": "Final do martelo masculino",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h15",
+        "esporte": "automobilismo",
+        "competicao": "Moto2 · GP do Catar",
+        "jogo": "Corrida",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "nfl",
+        "competicao": "NFL · jogo em Madri",
+        "jogo": "Bengals x Falcons",
+        "canal": "SporTV 2 · GETV no YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "12h00",
+        "esporte": "volei",
+        "competicao": "Liga Italiana Feminina",
+        "jogo": "Conegliano x Macerata",
+        "canal": "YouTube da liga",
+        "gratis": true
+       },
+       {
+        "hora": "13h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP do Catar",
+        "jogo": "Corrida",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "13h30",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Man. United x Aston Villa",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "f1",
+        "competicao": "GP de São Paulo",
+        "jogo": "CORRIDA em Interlagos",
+        "canal": "Globo · SporTV · Globoplay",
+        "gratis": true
+       },
+       {
+        "hora": "14h00",
+        "esporte": "futebol",
+        "competicao": "Serie A",
+        "jogo": "Inter x Como",
+        "canal": "CazéTV · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "14h00",
+        "esporte": "volei",
+        "competicao": "Liga Italiana Masculina",
+        "jogo": "Trentino x Perugia",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "outros",
+        "competicao": "Finalíssima de futsal",
+        "jogo": "Argentina x Portugal · 3º lugar",
+        "canal": "CazéTV · UOL",
+        "gratis": true
+       },
+       {
+        "hora": "15h00",
+        "esporte": "nfl",
+        "competicao": "NFL · temporada regular",
+        "jogo": "Broncos x Panthers",
+        "canal": "ESPN 2 · Disney+"
+       }
+      ],
+      "fonte": "Conferido em 08/11 à 1h · Terra, Interlagos, Itatiaia, Cidade de Niterói, goal.com, DGABC",
+      "cta": "Arraste →",
+      "alt": "Agenda de domingo, 08/11, das 11h às 15h: atletismo nos Jogos da Juventude, Moto2, Bengals x Falcons grátis no GETV, vôlei italiano, corrida da MotoGP, Manchester United x Aston Villa, corrida da F1 em Interlagos às 14h grátis na Globo, Inter x Como grátis na CazéTV, disputa do 3º lugar da Finalíssima de futsal e NFL"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Domingo, 08/11",
+      "linhas": [
+       {
+        "hora": "15h00",
+        "esporte": "nfl",
+        "competicao": "NFL · temporada regular",
+        "jogo": "Jets x Chiefs",
+        "canal": "SporTV 2"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Costa do Sauípe · final",
+        "jogo": "Thiago Wild x Ugo Carabelli",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Serie A",
+        "jogo": "Fiorentina x Juventus",
+        "canal": "SportyNet no YouTube · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Brasil · semifinal",
+        "jogo": "Vasco x Palmeiras",
+        "canal": "Globo · ge tv · Premiere",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "LaLiga",
+        "jogo": "Atlético de Madrid x Barcelona",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "tenis",
+        "competicao": "WTA Finals",
+        "jogo": "Rybakina x Noskova",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "automobilismo",
+        "competicao": "NASCAR Cup · final em Homestead",
+        "jogo": "Corrida do título",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "17h30",
+        "esporte": "outros",
+        "competicao": "Finalíssima de futsal · FINAL",
+        "jogo": "Brasil x Espanha",
+        "canal": "CazéTV · UOL",
+        "gratis": true
+       },
+       {
+        "hora": "18h25",
+        "esporte": "nfl",
+        "competicao": "NFL · temporada regular",
+        "jogo": "Packers x Patriots",
+        "canal": "SporTV 2 · GETV no YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "18h25",
+        "esporte": "nfl",
+        "competicao": "NFL · temporada regular",
+        "jogo": "Raiders x 49ers",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "22h20",
+        "esporte": "nfl",
+        "competicao": "NFL · Sunday Night",
+        "jogo": "Buccaneers x Bears",
+        "canal": "SporTV 2"
+       }
+      ],
+      "fonte": "Conferido em 08/11 à 1h · Terra, Interlagos, Itatiaia, Cidade de Niterói, goal.com, DGABC",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de domingo, 08/11, das 15h às 22h20: NFL, final do Challenger da Costa do Sauípe com Thiago Wild, Fiorentina x Juventus grátis, Vasco x Palmeiras às 17h grátis na Globo, Atlético de Madrid x Barcelona grátis na CazéTV, WTA Finals, NASCAR, final da Finalíssima de futsal Brasil x Espanha às 17h30 grátis e Packers x Patriots grátis no GETV"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de domingo, 08/11 (horário de Brasília)\n\n🏎️ 14h · Corrida do GP de São Paulo de F1, em Interlagos · Globo 🆓, SporTV e Globoplay\n⚽ 17h · Vasco x Palmeiras, semifinal da Copa do Brasil · Globo e ge tv 🆓\n🥅 17h30 · Brasil x Espanha, final da Finalíssima de futsal · CazéTV e UOL 🆓\n🎾 11h · Alcaraz x Shelton, final do Masters 1000 de Paris · ESPN e Disney+\n🏍️ 13h · Corrida da MotoGP no Catar · ESPN 4 e Disney+\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #f1 #gpsaopaulo #futsal #motogp #nfl"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-08T07:30:00-03:00",
+    "alt": "Resultados de sábado, 07/11, e jogos de domingo, 08/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "SÁB 07/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Copa do Brasil",
+        "jogos": [
+         {
+          "casa": "Atlético-MG",
+          "gc": 1,
+          "fora": "Grêmio",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Série B",
+        "jogos": [
+         {
+          "casa": "Novorizontino",
+          "gc": 2,
+          "fora": "Fortaleza",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Premier League",
+        "jogos": [
+         {
+          "casa": "N. Forest",
+          "gc": 3,
+          "fora": "Man. City",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "LaLiga",
+        "jogos": [
+         {
+          "casa": "Valencia",
+          "gc": 0,
+          "fora": "Real Madrid",
+          "gf": 3
+         }
+        ]
+       }
+      ],
+      "destaque": "Grêmio na final da Copa do Brasil",
+      "destaque_rotulo": "FATO DA NOITE",
+      "fonte": "Conferido em 08/11 à 1h · Terra, Metrópoles, VAVEL, ESPN",
+      "cta": "Arraste →",
+      "alt": "Resultados de sábado, 07/11: Atlético-MG 1x1 Grêmio na Copa do Brasil, com o Grêmio na final; Novorizontino 2x1 Fortaleza na Série B, com acesso inédito à Série A; Nottingham Forest 3x1 Manchester City na Premier League; Valencia 0x3 Real Madrid na LaLiga"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "DOM 08/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "08/11",
+        "sub": "DOM · 17h",
+        "titulo": "Vasco x Palmeiras",
+        "detalhe": "Copa do Brasil · Globo, ge tv, sportv, Premiere",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "08/11",
+        "sub": "DOM · 11h",
+        "titulo": "Crystal Palace x Liverpool",
+        "detalhe": "Premier League · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "08/11",
+        "sub": "DOM · 13h30",
+        "titulo": "Man. United x Aston Villa",
+        "detalhe": "Premier League · ESPN, Disney+"
+       },
+       {
+        "data": "08/11",
+        "sub": "DOM · 14h",
+        "titulo": "Inter x Como",
+        "detalhe": "Serie A · CazéTV, Disney+",
+        "gratis": true
+       },
+       {
+        "data": "08/11",
+        "sub": "DOM · 16h45",
+        "titulo": "Fiorentina x Juventus",
+        "detalhe": "Serie A · SportyNet no YouTube",
+        "gratis": true
+       },
+       {
+        "data": "08/11",
+        "sub": "DOM · 17h",
+        "titulo": "Atlético de Madrid x Barcelona",
+        "detalhe": "LaLiga · CazéTV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 08/11 à 1h · Gazeta Esportiva, goal.com, CBF",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de domingo, 08/11: Vasco x Palmeiras às 17h pela semifinal da Copa do Brasil, grátis na Globo e no ge tv (jogo do dia); Crystal Palace x Liverpool às 11h grátis na CazéTV; Manchester United x Aston Villa às 13h30 na ESPN; Inter x Como às 14h grátis na CazéTV; Fiorentina x Juventus às 16h45 grátis na SportyNet; Atlético de Madrid x Barcelona às 17h grátis na CazéTV"
+     }
+    ],
+    "legenda": "⚽ O Grêmio está na final da Copa do Brasil. E hoje sai o adversário: Vasco ou Palmeiras!\n\n📊 Resultados de ontem (sábado, 07/11):\n🏆 Atlético-MG 1x1 Grêmio · Copa do Brasil (Renan Lodi e Carlos Vinícius; o Grêmio passou com 3x1 no agregado)\n🚀 Novorizontino 2x1 Fortaleza · Série B (virada e acesso inédito à Série A)\n⚽ Vila Nova 1x0 Criciúma · Série B\n🏴 Nottingham Forest 3x1 Manchester City · Premier League (3ª derrota seguida do City)\n🏴 Arsenal 1x0 Hull City · Premier League\n🏴 Leeds 1x0 Tottenham · Premier League\n🇪🇸 Valencia 0x3 Real Madrid · LaLiga\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 17h · Vasco x Palmeiras · semifinal da Copa do Brasil, em São Januário · Globo e ge tv 🆓, sportv, Premiere e Prime Video (ida: Palmeiras 1x0)\n⚽ 11h · Crystal Palace x Liverpool · CazéTV 🆓\n⚽ 13h30 · Manchester United x Aston Villa · ESPN e Disney+\n⚽ 14h · Inter x Como · CazéTV 🆓\n⚽ 16h45 · Fiorentina x Juventus · SportyNet no YouTube 🆓\n⚽ 17h · Atlético de Madrid x Barcelona · CazéTV 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê futebol com você\n\nQuem enfrenta o Grêmio na final? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#futebol #copadobrasil #gremio #vasco #palmeiras #novorizontino #ondeassistir #jogosdehoje"
+   }
+  ]
+ }
+}

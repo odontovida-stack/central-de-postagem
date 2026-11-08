@@ -663,5 +663,37 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Valencia": {
+  "sigla": "VAL",
+  "cores": [
+   "#FFFFFF",
+   "#000000"
+  ],
+  "texto": "#000000"
+ },
+ "Nottingham Forest": {
+  "sigla": "NFO",
+  "cores": [
+   "#DD0000",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Tottenham": {
+  "sigla": "TOT",
+  "cores": [
+   "#FFFFFF",
+   "#132257"
+  ],
+  "texto": "#132257"
+ },
+ "N. Forest": {
+  "sigla": "NFO",
+  "cores": [
+   "#DD0000",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
