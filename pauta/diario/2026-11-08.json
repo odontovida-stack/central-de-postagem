@@ -1,0 +1,190 @@
+{
+ "dia": "08/11/2026",
+ "apurado_em": "2026-11-08",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-08T08:00:00-03:00",
+    "pilula": "DOM 08/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "08/11",
+      "sub": "DOM · 11h",
+      "titulo": "Final do Masters de Paris",
+      "detalhe": "Tênis · Alcaraz x Shelton · ESPN, Disney+"
+     },
+     {
+      "data": "08/11",
+      "sub": "DOM · 13h",
+      "titulo": "Corrida da MotoGP no Catar",
+      "detalhe": "Motovelocidade · ESPN 4, Disney+"
+     },
+     {
+      "data": "08/11",
+      "sub": "DOM · 14h",
+      "titulo": "Corrida da F1 em Interlagos",
+      "detalhe": "F1 · GP de São Paulo · Globo, SporTV",
+      "gratis": true
+     },
+     {
+      "data": "08/11",
+      "sub": "DOM · 17h30",
+      "titulo": "Brasil x Espanha",
+      "detalhe": "Futsal · final da Finalíssima · CazéTV, UOL",
+      "gratis": true
+     },
+     {
+      "data": "08/11",
+      "sub": "DOM · 18h25",
+      "titulo": "Packers x Patriots",
+      "detalhe": "NFL · SporTV 2, GETV no YouTube",
+      "gratis": true
+     }
+    ],
+    "fonte": "Conferido em 08/11 à 1h · Terra, Itatiaia, Cidade de Niterói, DGABC",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: final do Masters de Paris com Alcaraz x Shelton às 11h, corrida da MotoGP no Catar às 13h, corrida da F1 em Interlagos às 14h grátis na Globo, Brasil x Espanha na final da Finalíssima de futsal às 17h30 grátis na CazéTV e Packers x Patriots às 18h25 grátis no GETV",
+    "legenda": "🏎️🥅🎾 Domingo com F1 em Interlagos e o Brasil na final do futsal, de graça!\n\n⏰ Horário de Brasília:\n🎾 11h · Alcaraz x Shelton, final do Masters 1000 de Paris · ESPN e Disney+\n🏍️ 13h · Corrida da MotoGP no Catar · ESPN 4 e Disney+\n🏎️ 14h · Corrida do GP de São Paulo de F1, em Interlagos · Globo 🆓, SporTV e Globoplay\n🥅 17h30 · Brasil x Espanha, final da Finalíssima de futsal, em Niterói · CazéTV e UOL 🆓\n🏈 18h25 · Packers x Patriots · SporTV 2 e GETV no YouTube 🆓\n\n🆓 = transmissão grátis\n📌 Salve para não perder nada.\n📤 Mande para quem vai assistir com você.\n\nQual você não perde? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#esportes #f1 #gpsaopaulo #interlagos #futsal #finalissima #hojetem"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-08T12:00:00-03:00",
+    "foto": "formula1-pista",
+    "pilula": "PALPITE",
+    "chamada": "F1 · GP DE SÃO PAULO · 14H",
+    "titulo": "Quem vence em Interlagos?",
+    "contexto": "Lando Norris larga na pole. Largada às 14h, na Globo.",
+    "opcoes": [
+     "Lando Norris",
+     "Kimi Antonelli",
+     "Max Verstappen",
+     "Outro piloto"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Palpite: quem vence o GP de São Paulo de F1, em Interlagos? A: Lando Norris. B: Kimi Antonelli. C: Max Verstappen. D: outro piloto.",
+    "legenda": "🏁 Hoje tem F1 em Interlagos! Quem vence o GP de São Paulo?\n\nA) Lando Norris\nB) Kimi Antonelli\nC) Max Verstappen\nD) Outro piloto\n\n🏎️ Norris larga na pole, depois de uma classificação com chuva\n⏰ Largada às 14h (Brasília)\n📺 Globo 🆓, SporTV e Globoplay\n\n📌 Salve e volte depois da corrida para ver se acertou.\n📤 Mande para quem vê F1 com você.\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Gazeta Esportiva e Terra.\n\n#f1 #formula1 #gpsaopaulo #interlagos #palpite"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-08T10:30:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "FATO CURIOSO",
+    "chamada": "SÉRIE B · PRIMEIRA VEZ",
+    "grande": "1ª vez",
+    "titulo": "Novorizontino na Série A",
+    "caixas": [
+     [
+      "Resultado",
+      "Novorizontino 2 x 1 Fortaleza, de virada"
+     ],
+     [
+      "Rodada",
+      "37ª da Série B · acesso garantido"
+     ]
+    ],
+    "nota": "O clube de Novo Horizonte (SP) vai jogar a elite do Brasileirão pela primeira vez na história.",
+    "fonte": "Conferido em 08/11 à 1h · VAVEL, Gazeta Esportiva, Revista Oeste",
+    "cta": "Mande para quem acompanha a Série B",
+    "alt": "Fato curioso: o Novorizontino venceu o Fortaleza por 2 a 1, de virada, e garantiu o acesso inédito à Série A do Brasileirão",
+    "legenda": "🚀 Pela primeira vez na história, o Novorizontino vai jogar a Série A!\n\n⚽ Novorizontino 2 x 1 Fortaleza, de virada, ontem (07/11)\n🥅 Gols: Matheus Bianqui e Luís Oyama (Paulo Baya fez o do Fortaleza)\n📈 Acesso garantido na 37ª rodada da Série B\n📍 O clube é de Novo Horizonte, no interior de São Paulo\n\n📌 Salve para lembrar quando a Série A de 2027 começar.\n📤 Mande para quem acompanha a Série B.\n\nO Novorizontino se mantém na Série A em 2027? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: VAVEL, Gazeta Esportiva e Revista Oeste.\n\n#novorizontino #serieb #seriea #acesso #futebol #brasileirao"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-08T13:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "DOM 08/11",
+    "chamada": "JOGO DO DIA · HORÁRIO DE BRASÍLIA",
+    "grande": "17h",
+    "titulo": "Vasco x Palmeiras",
+    "caixas": [
+     [
+      "Onde assistir",
+      "Globo, ge tv, sportv, Premiere, Prime Video"
+     ],
+     [
+      "Competição",
+      "Copa do Brasil · semifinal (volta)"
+     ]
+    ],
+    "nota": "Ida: Palmeiras 1 x 0. Vitória do Vasco por 1 gol leva aos pênaltis; por 2, o Vasco passa.",
+    "fonte": "Conferido em 08/11 à 1h · Gazeta Esportiva, goal.com, NetVasco",
+    "cta": "Mande para quem vai ver",
+    "alt": "Jogo do dia: Vasco x Palmeiras às 17h, horário de Brasília, em São Januário, na volta da semifinal da Copa do Brasil, grátis na Globo e no ge tv e também no sportv, no Premiere e no Prime Video. Na ida, o Palmeiras venceu por 1 a 0",
+    "legenda": "🔥 Hoje sai o adversário do Grêmio na final da Copa do Brasil!\n\n⚽ Vasco x Palmeiras\n⏰ 17h (horário de Brasília) · São Januário, no Rio\n🏆 Copa do Brasil · semifinal, jogo de volta\n🔙 Ida: Palmeiras 1 x 0 (gol de Mauricio)\n✅ O Palmeiras passa com empate. Vitória do Vasco por 1 gol leva aos pênaltis; por 2 ou mais, o Vasco vai à final\n📺 Globo e ge tv 🆓, sportv, Premiere e Prime Video\n\n🏆 Na final, o Grêmio, que eliminou o Atlético-MG ontem.\n\n📌 Salve para não perder o horário.\n📤 Mande para quem vai ver com você.\n\nQuem vai à final? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#futebol #copadobrasil #vasco #palmeiras #vascoxpalmeiras #jogododia"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-08T15:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "PALPITE",
+    "chamada": "COPA DO BRASIL · HOJE, 17H",
+    "titulo": "Vasco x Palmeiras: quem pega o Grêmio na final?",
+    "contexto": "Ida: Palmeiras 1 x 0. Jogo em São Januário, às 17h.",
+    "opcoes": [
+     "Vasco no tempo normal",
+     "Vasco nos pênaltis",
+     "Palmeiras"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Vasco x Palmeiras, quem enfrenta o Grêmio na final da Copa do Brasil? A: Vasco no tempo normal. B: Vasco nos pênaltis. C: Palmeiras.",
+    "legenda": "🤔 Vasco x Palmeiras hoje: quem pega o Grêmio na final?\n\nA) Vasco no tempo normal\nB) Vasco nos pênaltis\nC) Palmeiras\n\n⚽ Ida: Palmeiras 1 x 0\n⏰ 17h (Brasília) · São Januário\n📺 Globo e ge tv 🆓, sportv, Premiere e Prime Video\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para quem torce com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#copadobrasil #vasco #palmeiras #futebol #palpite"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "enquete",
+    "quando": "2026-11-08T20:00:00-03:00",
+    "foto": "game-controle",
+    "pilula": "ENQUETE",
+    "chamada": "GRÁTIS DA SEMANA",
+    "titulo": "Qual grátis da semana vale o resgate?",
+    "contexto": "Flotsam grátis na Epic até quinta, 12/11, às 13h; os outros no PS Plus Essential.",
+    "opcoes": [
+     "Flotsam (Epic)",
+     "Dead Island 2 (PS Plus)",
+     "Tomb Raider IV-VI Remastered (PS Plus)",
+     "Monster Train 2 (PS Plus)"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Enquete: qual grátis da semana vale o resgate? A: Flotsam, na Epic. B: Dead Island 2, no PS Plus. C: Tomb Raider IV-VI Remastered, no PS Plus. D: Monster Train 2, no PS Plus.",
+    "legenda": "🎁 Qual grátis da semana vale o resgate?\n\nA) Flotsam · Epic Games, grátis até quinta, 12/11, às 13h\nB) Dead Island 2 · PS Plus Essential\nC) Tomb Raider IV-VI Remastered · PS Plus Essential\nD) Monster Train 2 · PS Plus Essential\n\n⏰ O Flotsam sai da Epic na quinta. Ainda dá tempo!\n\n📌 Salve para lembrar de resgatar.\n📤 Mande para aquele amigo que adora jogo grátis.\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\n#jogosgratis #epicgames #psplus #flotsam #deadisland2 #games"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-08T20:00:00-03:00",
+    "foto": "cinema-sala",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "CINEMA · ESTREIA DE QUINTA",
+    "titulo": "Já viu Godzilla Minus Zero? O que achou?",
+    "contexto": "Estreou nos cinemas na quinta, 05/11, com sessões IMAX.",
+    "opcoes": [
+     "Amei",
+     "Gostei",
+     "Não curti",
+     "Ainda não vi"
+    ],
+    "fonte": "Sem spoiler nos comentários!",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Pergunta: já viu Godzilla Minus Zero? O que achou? A: Amei. B: Gostei. C: Não curti. D: Ainda não vi.",
+    "legenda": "🦖 Já viu Godzilla Minus Zero? O que achou?\n\nA) Amei\nB) Gostei\nC) Não curti\nD) Ainda não vi\n\n🎬 Nos cinemas desde quinta, 05/11, com sessões IMAX\n\n🤐 Sem spoiler nos comentários!\n📌 Salve para lembrar de ver.\n📤 Mande para quem vai ao cinema com você.\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @tudooqueestreia para saber o que estreia, toda semana.\n\n#godzilla #godzillaminuszero #cinema #filmes #estreia"
+   }
+  ]
+ }
+}
