@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "The Nasdaq just had its worst day since 2025. Remember 2000? #shorts",
   "quando": "2026-11-10T12:00:00-03:00",
   "tags": [
@@ -25,5 +25,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 08/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 08/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "O8UwsvJi5Sk",
+  "short_id": "O8UwsvJi5Sk",
+  "meta_hash": "63f6be243a01c43c"
 }
