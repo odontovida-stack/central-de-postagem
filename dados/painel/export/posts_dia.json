@@ -71,7 +71,37 @@
  },
  {
   "data": "2026-11-05",
+  "operacao": "Brasil 23:59",
+  "posts": 1
+ },
+ {
+  "data": "2026-11-05",
+  "operacao": "Brazil on a Budget",
+  "posts": 1
+ },
+ {
+  "data": "2026-11-05",
   "operacao": "LLShop",
-  "posts": 8
+  "posts": 16
+ },
+ {
+  "data": "2026-11-06",
+  "operacao": "Brazil on a Budget",
+  "posts": 1
+ },
+ {
+  "data": "2026-11-06",
+  "operacao": "LLShop",
+  "posts": 9
+ },
+ {
+  "data": "2026-11-07",
+  "operacao": "Brazil on a Budget",
+  "posts": 2
+ },
+ {
+  "data": "2026-11-07",
+  "operacao": "LLShop",
+  "posts": 10
  }
 ]
