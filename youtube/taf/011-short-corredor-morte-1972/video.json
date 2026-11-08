@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "California just moved to empty death row. It happened once before. #shorts",
   "quando": "2026-11-15T12:00:00-03:00",
   "tags": [
@@ -25,5 +25,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 08/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 08/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "dQSnXPGEt0E",
+  "short_id": "dQSnXPGEt0E",
+  "meta_hash": "406fe3833041b58f"
 }
