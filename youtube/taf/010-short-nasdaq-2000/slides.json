@@ -1,0 +1,107 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "The Nasdaq just cracked. Remember 2000?",
+  "sub": "U.S. stocks, November 2026",
+  "stamp_top": 150,
+  "file": "010",
+  "stamp": "FILE #010"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NASDAQ COMPOSITE · NOV. 5, 2026",
+  "valor": "−5.5%",
+  "px": 240,
+  "texto": "in one day: its worst since April 2025",
+  "fonte": "Fox Business; CNBC via Stock Titan, Nov. 5, 2026",
+  "file": "010"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "PHILADELPHIA SEMICONDUCTOR INDEX · NOV. 5",
+  "valor": "−12%",
+  "px": 240,
+  "texto": "Nvidia: about −9% in a single session",
+  "fonte": "Fox Business, Nov. 5, 2026",
+  "file": "010"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Why investors sold",
+  "itens": [
+   "Fears of new limits on data centers",
+   "Local backlash after the midterm elections",
+   "Worry of a slower AI buildout"
+  ],
+  "fonte": "Reuters and CNBC, via Stock Titan, Nov. 5, 2026",
+  "file": "010"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NASDAQ · VS. OCT. 6 RECORD CLOSE",
+  "valor": "−10%+",
+  "px": 240,
+  "texto": "Officially in correction territory",
+  "fonte": "Fox Business, Nov. 5, 2026",
+  "file": "010"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "AMERICA HAS BEEN HERE BEFORE",
+  "titulo": "March 10, 2000.",
+  "file": "010"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NASDAQ PEAK · MARCH 10, 2000",
+  "valor": "5,048",
+  "px": 240,
+  "texto": "The top of the dot-com boom",
+  "fonte": "Goldman Sachs History; Britannica",
+  "file": "010"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "The dot-com crash",
+  "marcos": [
+   [
+    "MAR 2000",
+    "Nasdaq peaks at 5,048"
+   ],
+   [
+    "OCT 2002",
+    "Down 77%, to about 1,140"
+   ],
+   [
+    "APR 2015",
+    "A new record, 15 years later"
+   ]
+  ],
+  "fonte": "Goldman Sachs History",
+  "file": "010"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "After the big drop",
+  "itens": [
+   [
+    "NOV. 5, 2026",
+    "−5.5%",
+    "worst day since April 2025"
+   ],
+   [
+    "NOV. 6, 2026",
+    "+1.1%",
+    "a partial bounce"
+   ]
+  ],
+  "fonte": "TradingKey; Fox Business",
+  "file": "010"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "One bad day is not a crash. Watch the trend.",
+  "file": "010"
+ }
+]
