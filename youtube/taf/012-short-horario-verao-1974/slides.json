@@ -1,0 +1,109 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "America tried permanent daylight time once",
+  "sub": "It didn't survive the winter of 1974",
+  "stamp_top": 150,
+  "file": "012",
+  "stamp": "FILE #012"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. HOUSE · SUNSHINE PROTECTION ACT · JULY 2026",
+  "valor": "308–117",
+  "px": 220,
+  "texto": "Vote to make daylight saving time permanent. Not law yet.",
+  "fonte": "Farmers' Almanac; National Geographic",
+  "file": "012"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "AMERICA HAS BEEN HERE BEFORE",
+  "titulo": "Winter, 1974.",
+  "file": "012"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "ARAB OIL EMBARGO · DECEMBER 1973",
+  "valor": "Year-round DST",
+  "px": 150,
+  "texto": "Signed by President Nixon to save energy",
+  "fonte": "History.com",
+  "file": "012"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "START DATE",
+  "valor": "Jan. 6, 1974",
+  "px": 190,
+  "texto": "Most of the country springs forward in the middle of winter",
+  "fonte": "History.com; National Geographic",
+  "file": "012"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WINTER SUNRISE · PARTS OF THE U.S.",
+  "valor": "≈ 9 a.m.",
+  "px": 230,
+  "texto": "Kids walked to school in the dark",
+  "fonte": "History.com",
+  "file": "012"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Support for year-round DST",
+  "itens": [
+   [
+    "DECEMBER 1973",
+    "79%",
+    "before it started"
+   ],
+   [
+    "FEBRUARY 1974",
+    "42%",
+    "after a dark January"
+   ]
+  ],
+  "fonte": "National Opinion Research Center, via National Geographic and History.com",
+  "file": "012"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "The 1974 experiment",
+  "marcos": [
+   [
+    "DEC 1973",
+    "Nixon signs the law"
+   ],
+   [
+    "JAN 6, 1974",
+    "Clocks spring forward"
+   ],
+   [
+    "OCT 1974",
+    "Ford signs the repeal"
+   ],
+   [
+    "OCT 27, 1974",
+    "Standard time returns"
+   ]
+  ],
+  "fonte": "History.com; National Geographic",
+  "file": "012"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "HOW LONG IT LASTED",
+  "valor": "< 10 months",
+  "px": 200,
+  "texto": "It was supposed to run for more than a year",
+  "fonte": "History.com; National Geographic",
+  "file": "012"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "Lock the clock? America tried. Winter won.",
+  "file": "012"
+ }
+]
