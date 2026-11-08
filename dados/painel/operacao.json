@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T06:43-03:00",
+ "atualizado": "2026-11-08T13:07-03:00",
  "posts": [
   {
    "canal": "Brasil 23:59",
@@ -17,10 +17,10 @@
   },
   {
    "canal": "@jogosnatela",
-   "publicados": 35,
-   "na_fila": 8,
+   "publicados": 38,
+   "na_fila": 5,
    "falhas": 1,
-   "ultimos_7_dias": 20
+   "ultimos_7_dias": 23
   },
   {
    "canal": "@tudooqueestreia",
@@ -31,10 +31,10 @@
   },
   {
    "canal": "@esportesnatela",
-   "publicados": 38,
-   "na_fila": 7,
-   "falhas": 1,
-   "ultimos_7_dias": 24
+   "publicados": 40,
+   "na_fila": 4,
+   "falhas": 2,
+   "ultimos_7_dias": 26
   },
   {
    "canal": "@lancamentosdegames",
