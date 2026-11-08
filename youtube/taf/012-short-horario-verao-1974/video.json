@@ -1,0 +1,28 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "America tried permanent daylight saving time. It lasted 10 months. #shorts",
+  "quando": "2026-11-16T12:00:00-03:00",
+  "tags": [
+    "daylight saving time",
+    "sunshine protection act",
+    "permanent daylight saving time",
+    "1974",
+    "clocks fall back",
+    "energy crisis",
+    "american history",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 08/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}
