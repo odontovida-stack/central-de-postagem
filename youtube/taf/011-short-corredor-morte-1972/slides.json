@@ -1,0 +1,99 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "California moves to empty death row",
+  "sub": "It happened once before: 1972",
+  "stamp_top": 150,
+  "file": "011",
+  "stamp": "FILE #011"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CALIFORNIA · NOV. 5, 2026",
+  "valor": "548",
+  "px": 240,
+  "texto": "death sentences to be commuted to life without parole",
+  "fonte": "PBS NewsHour / AP, Nov. 5, 2026",
+  "file": "011"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SHARE OF U.S. DEATH ROW",
+  "valor": "> 1 in 4",
+  "px": 220,
+  "texto": "of everyone sentenced to death in America",
+  "fonte": "CalMatters, Nov. 5, 2026",
+  "file": "011"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The largest act of mass clemency in U.S. history",
+  "autor": "Death Penalty Information Center",
+  "px": 64,
+  "fonte": "Death Penalty Information Center, Nov. 5, 2026",
+  "file": "011"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "THE CATCH · CALIFORNIA CONSTITUTION",
+  "valor": "> 50%",
+  "px": 220,
+  "texto": "have more than one felony conviction: the state Supreme Court must sign off",
+  "fonte": "KQED; CalMatters; PBS NewsHour",
+  "file": "011"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "AMERICA HAS BEEN HERE BEFORE",
+  "titulo": "February 18, 1972.",
+  "file": "011"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "PEOPLE v. ANDERSON · CALIFORNIA SUPREME COURT",
+  "valor": "6–1",
+  "px": 240,
+  "texto": "The death penalty is ruled “cruel or unusual” under the state constitution",
+  "fonte": "People v. Anderson, 6 Cal.3d 628 (1972)",
+  "file": "011"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "DEATH ROW · CALIFORNIA, 1972",
+  "valor": "104",
+  "px": 240,
+  "texto": "people under sentence of death were spared",
+  "fonte": "People v. Anderson, 6 Cal.3d 628 (1972)",
+  "file": "011"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "California and the death penalty",
+  "marcos": [
+   [
+    "FEB 1972",
+    "State court strikes it down"
+   ],
+   [
+    "NOV 1972",
+    "Voters restore it (Prop. 17)"
+   ],
+   [
+    "2006",
+    "Last execution"
+   ],
+   [
+    "NOV 2026",
+    "548 commutations"
+   ]
+  ],
+  "fonte": "Ballotpedia; CalMatters; KQED",
+  "file": "011"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "Emptied in 1972. Restored the same year.",
+  "file": "011"
+ }
+]
