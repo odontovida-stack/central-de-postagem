@@ -674,5 +674,192 @@
   "posts_total": 0,
   "interacoes_dia": null,
   "data": "2026-11-07"
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "Brasil 23:59",
+  "canal": "Brasil 23:59",
+  "plataforma": "Instagram",
+  "seguidores": 0,
+  "posts_total": 5,
+  "alcance_dia": 0,
+  "visualizacoes_dia": 0,
+  "interacoes_dia": 0,
+  "cliques_dia": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "Brasil 23:59",
+  "canal": "Brasil 23:59",
+  "plataforma": "Facebook",
+  "seguidores": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "Brazil on a Budget",
+  "canal": "Brazil on a Budget",
+  "plataforma": "Instagram",
+  "seguidores": 0,
+  "posts_total": 6,
+  "alcance_dia": 2,
+  "visualizacoes_dia": 2,
+  "interacoes_dia": 0,
+  "cliques_dia": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "Brazil on a Budget",
+  "canal": "Brazil on a Budget",
+  "plataforma": "Facebook",
+  "seguidores": 3
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@jogosnatela",
+  "plataforma": "Instagram",
+  "seguidores": 0,
+  "posts_total": 25,
+  "alcance_dia": 0,
+  "visualizacoes_dia": 0,
+  "interacoes_dia": 0,
+  "cliques_dia": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@jogosnatela",
+  "plataforma": "Facebook",
+  "seguidores": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@tudooqueestreia",
+  "plataforma": "Instagram",
+  "seguidores": 0,
+  "posts_total": 12,
+  "alcance_dia": 1,
+  "visualizacoes_dia": 11,
+  "interacoes_dia": 0,
+  "cliques_dia": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@tudooqueestreia",
+  "plataforma": "Facebook",
+  "seguidores": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@esportesnatela",
+  "plataforma": "Instagram",
+  "seguidores": 0,
+  "posts_total": 23,
+  "alcance_dia": 0,
+  "visualizacoes_dia": 0,
+  "interacoes_dia": 0,
+  "cliques_dia": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@esportesnatela",
+  "plataforma": "Facebook",
+  "seguidores": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@lancamentosdegames",
+  "plataforma": "Instagram",
+  "seguidores": 0,
+  "posts_total": 11,
+  "alcance_dia": 0,
+  "visualizacoes_dia": 0,
+  "interacoes_dia": 0,
+  "cliques_dia": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@lancamentosdegames",
+  "plataforma": "Facebook",
+  "seguidores": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@showsconfirmados",
+  "plataforma": "Instagram",
+  "seguidores": 0,
+  "posts_total": 12,
+  "alcance_dia": 0,
+  "visualizacoes_dia": 0,
+  "interacoes_dia": 0,
+  "cliques_dia": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "LLShop",
+  "canal": "@showsconfirmados",
+  "plataforma": "Facebook",
+  "seguidores": 0
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "YouTube",
+  "canal": "The American File",
+  "plataforma": "YouTube",
+  "seguidores": 2,
+  "posts_total": 3,
+  "visualizacoes_total": 400
+ },
+ {
+  "data": "2026-11-08",
+  "operacao": "YouTube",
+  "canal": "Before History Changed",
+  "plataforma": "YouTube",
+  "seguidores": 0,
+  "posts_total": 2,
+  "visualizacoes_total": 0
+ },
+ {
+  "operacao": "Brasil 23:59",
+  "canal": "Brasil 23:59",
+  "plataforma": "TikTok",
+  "seguidores": 1,
+  "posts_total": 4,
+  "interacoes_dia": null,
+  "data": "2026-11-08"
+ },
+ {
+  "operacao": "Brazil on a Budget",
+  "canal": "Brazil on a Budget",
+  "plataforma": "TikTok",
+  "seguidores": 0,
+  "posts_total": 3,
+  "interacoes_dia": null,
+  "data": "2026-11-08"
+ },
+ {
+  "operacao": "LLShop",
+  "canal": "@tudooqueestreia",
+  "plataforma": "TikTok",
+  "seguidores": 1,
+  "posts_total": 0,
+  "interacoes_dia": null,
+  "data": "2026-11-08"
+ },
+ {
+  "operacao": "LLShop",
+  "canal": "@jogosnatela",
+  "plataforma": "TikTok",
+  "seguidores": 0,
+  "posts_total": 0,
+  "interacoes_dia": null,
+  "data": "2026-11-08"
  }
 ]
