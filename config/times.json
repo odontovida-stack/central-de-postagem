@@ -695,5 +695,21 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Lazio": {
+  "sigla": "LAZ",
+  "cores": [
+   "#87D8F7",
+   "#FFFFFF"
+  ],
+  "texto": "#0B2A4A"
+ },
+ "Sunderland": {
+  "sigla": "SUN",
+  "cores": [
+   "#EB172B",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
