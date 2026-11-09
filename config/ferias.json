@@ -1,0 +1,5 @@
+{
+  "_como_usar": "Modo férias (pedido do Luiz em 09/11/2026): enquanto 'ativo' for true, o PR 'Posts do dia' também é mesclado sozinho depois que a conferência passa (só arquivos de post). Para desligar, troque para false. 'ate' (AAAA-MM-DD) é opcional: depois dessa data volta a esperar o Luiz.",
+  "ativo": true,
+  "ate": ""
+}
