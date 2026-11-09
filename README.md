@@ -154,6 +154,7 @@ Para resultados, o card `placar` agrupa os jogos por competição e mostra o sel
 - Cores e siglas: `config/times.json`. Um time que não está na lista sai com as 3 primeiras letras num selo cinza.
 - Formato: `{"tipo": "placar", "chamada": "RESULTADOS DE ONTEM", "titulo": "Placar final", "grupos": [{"competicao": "Libertadores", "jogos": [{"casa": "Flamengo", "gc": 3, "fora": "Cusco FC", "gf": 0}]}], "destaque": "…", "fonte": "…", "cta": "…"}`.
 - Cabem até 8 jogos por card. O vencedor fica em branco e o perdedor em cinza.
+- **Mata-mata (corrigido em 09/11/2026, pedido do Luiz):** quando o jogo foi para os pênaltis ou decidiu uma vaga no agregado, acrescente `"pc"` e `"pf"` (gols nos pênaltis da casa e de fora) e `"avanca": "casa"` ou `"fora"` (quem se classificou). Quem avança fica em branco, mesmo que tenha perdido o jogo, e o card mostra embaixo, na cor da página, "Pênaltis: 4 × 5 · Palmeiras avança". Exemplo: `{"casa": "Vasco", "gc": 2, "fora": "Palmeiras", "gf": 1, "pc": 4, "pf": 5, "avanca": "fora"}`. Sem pênaltis mas com classificação no agregado, use só `"avanca"` (e, se quiser, `"avanca_txt": "Palmeiras avança no agregado (3 × 2)"`). Nunca deixe quem se classificou em cinza.
 
 ## Fotos e engajamento (combinado em 29/10/2026)
 
