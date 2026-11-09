@@ -1,0 +1,126 @@
+{
+ "dia": "09/11/2026",
+ "apurado_em": "2026-11-09",
+ "contas": {
+  "jogosnatela": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-09T13:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "COPA DO BRASIL · SEMIFINAL",
+    "titulo": "Palmeiras na final nos pênaltis: o que achou?",
+    "contexto": "Vasco 2 x 1 no tempo normal; Palmeiras 5 x 4 nos pênaltis.",
+    "opcoes": [
+     "O Palmeiras mereceu",
+     "O Vasco merecia a vaga",
+     "Carlos Miguel decidiu"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Pergunta: o que você achou da classificação do Palmeiras nos pênaltis contra o Vasco? A: o Palmeiras mereceu. B: o Vasco merecia a vaga. C: Carlos Miguel decidiu.",
+    "legenda": "🤔 Palmeiras na final da Copa do Brasil, nos pênaltis. O que você achou?\n\nA) O Palmeiras mereceu\nB) O Vasco merecia a vaga\nC) Carlos Miguel decidiu\n\n⚽ Vasco 2 x 1 Palmeiras em São Januário (Colidio e Puma Rodríguez; Piquerez descontou)\n🧤 Nos pênaltis, Palmeiras 5 x 4, com 2 defesas de Carlos Miguel\n🏆 Final: Palmeiras x Grêmio, domingo, 06/12, em Brasília\n\n📌 Salve para lembrar da final.\n📤 Mande para quem viu o jogo com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: Terra e TVT News.\n\n#copadobrasil #palmeiras #vasco #futebol #enquete"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-09T15:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "FATO CURIOSO",
+    "chamada": "COPA DO BRASIL · FINAL",
+    "grande": "1ª vez",
+    "titulo": "Final em jogo único",
+    "caixas": [
+     [
+      "Final",
+      "Palmeiras x Grêmio"
+     ],
+     [
+      "Quando e onde",
+      "Dom 06/12 · Mané Garrincha, Brasília"
+     ]
+    ],
+    "nota": "Pela primeira vez, o campeão da Copa do Brasil sai em um jogo só, sem ida e volta. Horário a confirmar pela CBF.",
+    "fonte": "Conferido em 09/11 à 1h · TVT News, Terra",
+    "cta": "Mande para quem torce com você",
+    "alt": "Fato curioso: pela primeira vez, a final da Copa do Brasil será em jogo único. Palmeiras x Grêmio, domingo, 06/12, no Mané Garrincha, em Brasília, com horário a confirmar",
+    "legenda": "🏆 Pela primeira vez, a final da Copa do Brasil vai ser em jogo único!\n\n⚽ Palmeiras x Grêmio\n📅 Domingo, 06/12\n📍 Estádio Mané Garrincha, em Brasília\n⏰ Horário a confirmar pela CBF\n🔁 Sem ida e volta: quem vencer leva a taça\n\nO Palmeiras eliminou o Vasco nos pênaltis (5 x 4) e o Grêmio passou pelo Atlético-MG (3 x 1 no agregado).\n\n📌 Salve para não esquecer a data.\n📤 Mande para quem torce com você.\n\nVocê prefere final em jogo único ou ida e volta? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: TVT News e Terra.\n\n#copadobrasil #palmeiras #gremio #final #futebol #manegarrincha"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-09T11:00:00-03:00",
+    "pilula": "SEG 09/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "09/11",
+      "sub": "após 17h",
+      "titulo": "Stefani no WTA Finals",
+      "detalhe": "Tênis · duplas, com Dabrowski · Disney+, ESPN"
+     },
+     {
+      "data": "09/11",
+      "sub": "SEG · 22h15",
+      "titulo": "Bills x Vikings",
+      "detalhe": "NFL · Monday Night Football · ESPN2, Disney+"
+     }
+    ],
+    "fonte": "Conferido em 09/11 à 1h · WTA, Game Over Drive, DGABC",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: Luisa Stefani e Gabriela Dabrowski nas duplas do WTA Finals, no 3º jogo da quadra a partir das 17h, no Disney+ e na ESPN, e Bills x Vikings às 22h15 no Monday Night Football da NFL, na ESPN2 e no Disney+",
+    "legenda": "🎾🏈 Segunda tem brasileira no WTA Finals e duelo de times 6-1 na NFL!\n\n⏰ Horário de Brasília:\n🎾 Após 17h · Luisa Stefani e Gabriela Dabrowski x Mertens e Zhang, nas duplas do WTA Finals, em Indian Wells · 3º jogo da quadra, que começa às 17h · Disney+ e ESPN\n🏈 22h15 · Bills x Vikings, no Monday Night Football · ESPN2 e Disney+\n\n📌 Salve para não perder nada.\n📤 Mande para quem vai assistir com você.\n\nQual você não perde? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: WTA, Game Over Drive e DGABC.\n\n#esportes #wtafinals #luisastefani #tenis #nfl #mondaynightfootball #hojetem"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-09T13:30:00-03:00",
+    "foto": "formula1-pista",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "F1 · GP DE SÃO PAULO",
+    "titulo": "Norris venceu em Interlagos: o que achou?",
+    "contexto": "Norris, Verstappen e Hadjar no pódio; Bortoleto foi 16º.",
+    "opcoes": [
+     "Corrida boa",
+     "Corrida morna",
+     "Faltou brasileiro na briga"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Pergunta: o que você achou do GP de São Paulo de F1, vencido por Lando Norris? A: corrida boa. B: corrida morna. C: faltou brasileiro na briga.",
+    "legenda": "🏁 Lando Norris venceu o GP de São Paulo. O que você achou da corrida?\n\nA) Corrida boa\nB) Corrida morna\nC) Faltou brasileiro na briga\n\n🥇 Norris (McLaren) · 🥈 Verstappen · 🥉 Hadjar (Red Bull)\n🇧🇷 Gabriel Bortoleto terminou em 16º e Rafa Câmara, na estreia, em 20º\n📅 Próxima etapa: Las Vegas, de 19 a 22/11\n\n📌 Salve para lembrar do resultado.\n📤 Mande para quem viu a corrida com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Lance! e F1Mania.\n\n#f1 #formula1 #gpsaopaulo #interlagos #bortoleto #norris"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-09T16:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "SEG 09/11",
+    "chamada": "HOJE TEM SHOW · RIO DE JANEIRO",
+    "grande": "21h",
+    "titulo": "Hayley Williams no Rio",
+    "caixas": [
+     [
+      "Local",
+      "Qualistage · Barra da Tijuca"
+     ],
+     [
+      "Ingressos",
+      "Últimos à venda na Eventim"
+     ]
+    ],
+    "nota": "Portões às 18h. Annie DiRusso abre às 20h. Depois, São Paulo nos dias 12 e 13/11.",
+    "fonte": "Conferido em 09/11 à 1h · Qualistage, Eventim, Caderno Pop",
+    "cta": "Mande para quem vai",
+    "alt": "Hoje tem show: Hayley Williams às 21h no Qualistage, na Barra da Tijuca, Rio de Janeiro, com portões às 18h e últimos ingressos na Eventim",
+    "legenda": "🎸 Hoje tem Hayley Williams no Rio!\n\n🎤 The Hayley Williams Show\n📍 Qualistage · Av. Ayrton Senna, 3000 (Via Parque Shopping), Barra da Tijuca\n🚪 Portões às 18h\n🎶 Annie DiRusso abre às 20h\n⏰ Hayley Williams às 21h (horário de Brasília)\n🎟️ Últimos ingressos na Eventim\n📅 Depois tem São Paulo, nos dias 12 e 13/11, no Espaço Unimed\n\n⚠️ Cuidado com golpe: só compre no link oficial e não pague Pix para revendedor.\n📌 Salve para ter o horário à mão.\n📤 Mande para quem vai com você.\n\nQual música não pode faltar? 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\nFontes: Qualistage, Eventim e Caderno Pop.\n\n#hayleywilliams #paramore #riodejaneiro #qualistage #showsconfirmados #shows"
+   }
+  ]
+ }
+}
