@@ -136,6 +136,9 @@ Post diário do @esportesnatela às **07:00**: um carrossel com a agenda do dia 
 - Legenda: os destaques do dia em 3 a 5 linhas + "Salve para consultar durante o dia" + "📲 Receba a agenda no WhatsApp: link na bio".
 - Canal de WhatsApp do @esportesnatela: https://whatsapp.com/channel/0029VbEifluBFLgRGCjIEd41 (o Luiz cola a agenda do dia lá; o robô manda o texto pronto na mensagem do PR).
 
+#### Modo férias
+Desde 09/11/2026 (pedido do Luiz, de férias): com `config/ferias.json` em `"ativo": true`, o PR "Posts do dia" também é mesclado sozinho pelo **Conferir post novo**, com as mesmas regras dos fixos (conferência passando e só arquivos de post). Para voltar a aprovar à mão, troque `ativo` para `false` (ou ponha uma data em `ate`).
+
 #### Posts fixos saem sozinhos
 Desde 04/11/2026, os posts FIXOS do dia (agenda completa do @esportesnatela, jogos de hoje do @jogosnatela e Tudo grátis do @lancamentosdegames) vêm num PR à parte, com título "Posts fixos DD/MM (automático)". Quando a conferência (`validar.py`) passa e o PR só mexe em `fila/`, `pauta/diario/` e `config/times.json`, o workflow **Conferir post novo** faz o merge sozinho. O resto continua no PR "Posts do dia", esperando o Luiz.
 

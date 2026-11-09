@@ -20,7 +20,7 @@ jobs:
   # este job faz o merge sozinho. Qualquer outro arquivo ou branch continua esperando o Luiz.
   merge-automatico-fixos:
     needs: conferir
-    if: (startsWith(github.head_ref, 'posts-fixos-') || startsWith(github.event.pull_request.title, 'Posts fixos')) && github.event.pull_request.head.repo.full_name == github.repository
+    if: (startsWith(github.head_ref, 'posts-fixos-') || startsWith(github.event.pull_request.title, 'Posts fixos') || startsWith(github.event.pull_request.title, 'Posts do dia')) && github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -31,6 +31,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR: ${{ github.event.pull_request.number }}
           REPO: ${{ github.repository }}
+          TITULO: ${{ github.event.pull_request.title }}
         run: |
           fora=$(gh api "repos/$REPO/pulls/$PR/files" --paginate --jq '.[].filename' \
                  | grep -vE '^(fila/|pauta/diario/|config/times\.json$)' || true)
@@ -39,5 +40,16 @@ jobs:
             gh api "repos/$REPO/issues/$PR/comments" -f body="⏸️ Não mesclei sozinho: este PR mexe em arquivos que não são de post ($fora). Fica para o Luiz aprovar."
             exit 0
           fi
+          if [ "${TITULO#Posts do dia}" != "$TITULO" ]; then
+            # Modo férias (config/ferias.json no main): só mescla "Posts do dia" se estiver ligado e dentro do prazo
+            ferias=$(gh api "repos/$REPO/contents/config/ferias.json?ref=main" --jq '.content' 2>/dev/null | base64 -d 2>/dev/null || echo '{}')
+            ativo=$(echo "$ferias" | python3 -c "import json,sys,datetime;d=json.load(sys.stdin);a=d.get('ate') or '9999-12-31';print('sim' if d.get('ativo') and datetime.date.today().isoformat()<=a else 'nao')")
+            if [ "$ativo" != "sim" ]; then
+              echo "Modo férias desligado: Posts do dia esperam o Luiz."; exit 0
+            fi
+            regra="posts do dia conferidos (modo férias ligado pelo Luiz em 09/11/2026, config/ferias.json)"
+          else
+            regra="posts fixos conferidos (regra aprovada pelo Luiz em 03/11/2026)"
+          fi
           gh api -X PUT "repos/$REPO/pulls/$PR/merge" -f merge_method=squash
-          gh api "repos/$REPO/issues/$PR/comments" -f body="✅ Mesclado automaticamente: posts fixos conferidos (regra aprovada pelo Luiz em 03/11/2026)."
+          gh api "repos/$REPO/issues/$PR/comments" -f body="✅ Mesclado automaticamente: $regra."
