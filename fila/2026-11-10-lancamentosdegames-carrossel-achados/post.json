@@ -1,0 +1,41 @@
+{
+  "conta": "lancamentosdegames",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook"
+  ],
+  "quando": "2026-11-10T12:30:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para a semana gamer. Links na bio ou comente LINK",
+    "Os achados: Metaphor: ReFantazio no Switch 2, o RPG da Atlus que sai quinta; Controle DualSense: vibração e gatilhos do PS5; Headset HyperX Cloud Stinger 2: ouça os passos e fale com o time; Cartão presente PlayStation Store, para jogos e PS Plus",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @lancamentosdegames e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🎮 Semana de Metaphor no Switch 2 e de preparar o console: 4 achados para gamer.\n\n🎮 Metaphor: ReFantazio (Switch 2)\n🕹️ Controle DualSense\n🎧 Headset HyperX Cloud Stinger 2\n🎁 Cartão PlayStation Store\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @lancamentosdegames para os achados toda semana.\n\n#games #metaphorrefantazio #ps5 #nintendoswitch2 #achadosamazon\n\n📷 Foto: Evan-Amos · PUBLIC DOMAIN, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Metaphor: ReFantazio (Switch 2)",
+      "url": "https://www.amazon.com.br/s?k=metaphor+refantazio+nintendo+switch+2&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Controle DualSense",
+      "url": "https://www.amazon.com.br/s?k=controle+dualsense+ps5&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Headset HyperX Cloud Stinger 2",
+      "url": "https://www.amazon.com.br/s?k=headset+hyperx+cloud+stinger+2&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Cartão PlayStation Store",
+      "url": "https://www.amazon.com.br/s?k=cartao+presente+playstation+store&tag=llshop0d-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "conta": "tudooqueestreia",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook",
+    "tiktok"
+  ],
+  "quando": "2026-11-10T12:25:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para a maratona de séries. Links na bio ou comente LINK",
+    "Os achados: Fire TV Stick 4K: Prime Video, Netflix e Max na TV; Soundbar JBL: som de cinema na sala; Pipoqueira elétrica sem óleo, pipoca em 3 minutos; O Silmarillion, de Tolkien: a Segunda Era de Os Anéis de Poder",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @tudooqueestreia e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🍿 Os Anéis de Poder voltam na quarta: 4 achados para a maratona em casa.\n\n📺 Fire TV Stick 4K\n🔊 Soundbar JBL\n🍿 Pipoqueira elétrica\n📖 O Silmarillion\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @tudooqueestreia para os achados toda semana.\n\n#osaneisdepoder #primevideo #maratona #series #achadosamazon\n\n📷 Foto: Shixart1985 · CC BY 2.0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Fire TV Stick 4K",
+      "url": "https://www.amazon.com.br/s?k=fire+tv+stick+4k&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Soundbar JBL",
+      "url": "https://www.amazon.com.br/s?k=soundbar+jbl+cinema&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Pipoqueira elétrica",
+      "url": "https://www.amazon.com.br/s?k=pipoqueira+eletrica+sem+oleo&tag=llshop0d-20"
+    },
+    {
+      "titulo": "O Silmarillion",
+      "url": "https://www.amazon.com.br/s?k=o+silmarillion+tolkien+harpercollins&tag=llshop0d-20"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "semana": "10 de novembro de 2026 · achados da Amazon",
+  "apurado_em": "2026-11-09",
+  "contas": {
+    "jogosnatela": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-10T12:15:00-03:00",
+        "sufixo": "achados",
+        "alt": "Achados da semana na Amazon: Camisa da Seleção, Bola oficial da Copa, Suporte articulado de TV, Fire TV Stick 4K",
+        "legenda": "⚽ Semana de Seleção: 4 achados para ver Japão x Brasil do jeito certo.\n\n👕 Camisa da Seleção\n⚽ Bola oficial da Copa\n📺 Suporte articulado de TV\n📡 Fire TV Stick 4K\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @jogosnatela para os achados toda semana.\n\n#selecaobrasileira #futebol #japaoxbrasil #achadosamazon #achados",
+        "links": [
+          {
+            "titulo": "Camisa da Seleção",
+            "url": "https://www.amazon.com.br/s?k=camisa+selecao+brasileira+nike+2026&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Bola oficial da Copa",
+            "url": "https://www.amazon.com.br/s?k=bola+adidas+trionda+copa+2026&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Suporte articulado de TV",
+            "url": "https://www.amazon.com.br/s?k=suporte+articulado+tv+32+a+75&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Fire TV Stick 4K",
+            "url": "https://www.amazon.com.br/s?k=fire+tv+stick+4k&tag=llshop0d-20"
+          }
+        ],
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "estadio-maracana",
+            "pilula": "AMAZON",
+            "chamada": "ACHADOS DA SEMANA · AMAZON",
+            "titulo": "4 achados para ver o Brasil melhor",
+            "caixas": [
+              [
+                "Links",
+                "na bio"
+              ],
+              [
+                "Ou comente",
+                "LINK"
+              ]
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Capa: 4 achados para ver o Brasil melhor. Links na bio ou comente LINK"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "OS ACHADOS DA SEMANA",
+            "titulo": "Para que serve cada um",
+            "topicos": [
+              "Camisa oficial da Seleção, para torcer contra o Japão",
+              "Bola oficial da Copa 2026, para a pelada do fim de semana",
+              "Suporte articulado: TV na altura certa da sala",
+              "Fire TV Stick 4K: streaming dos jogos na TV"
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Os achados: Camisa oficial da Seleção, para torcer contra o Japão; Bola oficial da Copa 2026, para a pelada do fim de semana; Suporte articulado: TV na altura certa da sala; Fire TV Stick 4K: streaming dos jogos na TV"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "COMO PEGAR O LINK",
+            "titulo": "Quer algum?",
+            "topicos": [
+              "Comente LINK aqui que a gente te manda no direct",
+              "Ou toque no link da bio",
+              "Como Associado da Amazon, ganho com compras qualificadas."
+            ],
+            "fonte": "Links de associado Amazon",
+            "cta": "Comente LINK",
+            "alt": "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas."
+          }
+        ]
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-10T12:20:00-03:00",
+        "sufixo": "achados",
+        "alt": "Achados da semana na Amazon: Raquete Wilson, Bolas Wilson US Open, Garrafa térmica Stanley, Xiaomi Smart Band",
+        "legenda": "🎾 Semana de WTA Finals e começo do ATP Finals: 4 achados para quem também joga.\n\n🎾 Raquete Wilson\n🟡 Bolas Wilson US Open\n🥤 Garrafa térmica Stanley\n⌚ Xiaomi Smart Band\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @esportesnatela para os achados toda semana.\n\n#tenis #atpfinals #wtafinals #esportes #achadosamazon",
+        "links": [
+          {
+            "titulo": "Raquete Wilson",
+            "url": "https://www.amazon.com.br/s?k=raquete+tenis+wilson+adulto&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Bolas Wilson US Open",
+            "url": "https://www.amazon.com.br/s?k=bola+tenis+wilson+us+open+tubo&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Garrafa térmica Stanley",
+            "url": "https://www.amazon.com.br/s?k=garrafa+termica+stanley+quencher&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Xiaomi Smart Band",
+            "url": "https://www.amazon.com.br/s?k=xiaomi+smart+band+9&tag=llshop0d-20"
+          }
+        ],
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "quadra-tenis",
+            "pilula": "AMAZON",
+            "chamada": "ACHADOS DA SEMANA · AMAZON",
+            "titulo": "4 achados para quem joga tênis",
+            "caixas": [
+              [
+                "Links",
+                "na bio"
+              ],
+              [
+                "Ou comente",
+                "LINK"
+              ]
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Capa: 4 achados para quem joga tênis. Links na bio ou comente LINK"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "OS ACHADOS DA SEMANA",
+            "titulo": "Para que serve cada um",
+            "topicos": [
+              "Raquete Wilson para começar ou evoluir no tênis",
+              "Tubo de bolas Wilson US Open, para quadra dura e saibro",
+              "Garrafa térmica Stanley: água gelada o treino todo",
+              "Xiaomi Smart Band: passos, batimentos e treinos no pulso"
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Os achados: Raquete Wilson para começar ou evoluir no tênis; Tubo de bolas Wilson US Open, para quadra dura e saibro; Garrafa térmica Stanley: água gelada o treino todo; Xiaomi Smart Band: passos, batimentos e treinos no pulso"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "COMO PEGAR O LINK",
+            "titulo": "Quer algum?",
+            "topicos": [
+              "Comente LINK aqui que a gente te manda no direct",
+              "Ou toque no link da bio",
+              "Como Associado da Amazon, ganho com compras qualificadas."
+            ],
+            "fonte": "Links de associado Amazon",
+            "cta": "Comente LINK",
+            "alt": "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas."
+          }
+        ]
+      }
+    ],
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-10T12:25:00-03:00",
+        "sufixo": "achados",
+        "alt": "Achados da semana na Amazon: Fire TV Stick 4K, Soundbar JBL, Pipoqueira elétrica, O Silmarillion",
+        "legenda": "🍿 Os Anéis de Poder voltam na quarta: 4 achados para a maratona em casa.\n\n📺 Fire TV Stick 4K\n🔊 Soundbar JBL\n🍿 Pipoqueira elétrica\n📖 O Silmarillion\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @tudooqueestreia para os achados toda semana.\n\n#osaneisdepoder #primevideo #maratona #series #achadosamazon",
+        "links": [
+          {
+            "titulo": "Fire TV Stick 4K",
+            "url": "https://www.amazon.com.br/s?k=fire+tv+stick+4k&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Soundbar JBL",
+            "url": "https://www.amazon.com.br/s?k=soundbar+jbl+cinema&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Pipoqueira elétrica",
+            "url": "https://www.amazon.com.br/s?k=pipoqueira+eletrica+sem+oleo&tag=llshop0d-20"
+          },
+          {
+            "titulo": "O Silmarillion",
+            "url": "https://www.amazon.com.br/s?k=o+silmarillion+tolkien+harpercollins&tag=llshop0d-20"
+          }
+        ],
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "streaming-sofa",
+            "pilula": "AMAZON",
+            "chamada": "ACHADOS DA SEMANA · AMAZON",
+            "titulo": "4 achados para a maratona de séries",
+            "caixas": [
+              [
+                "Links",
+                "na bio"
+              ],
+              [
+                "Ou comente",
+                "LINK"
+              ]
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Capa: 4 achados para a maratona de séries. Links na bio ou comente LINK"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "OS ACHADOS DA SEMANA",
+            "titulo": "Para que serve cada um",
+            "topicos": [
+              "Fire TV Stick 4K: Prime Video, Netflix e Max na TV",
+              "Soundbar JBL: som de cinema na sala",
+              "Pipoqueira elétrica sem óleo, pipoca em 3 minutos",
+              "O Silmarillion, de Tolkien: a Segunda Era de Os Anéis de Poder"
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Os achados: Fire TV Stick 4K: Prime Video, Netflix e Max na TV; Soundbar JBL: som de cinema na sala; Pipoqueira elétrica sem óleo, pipoca em 3 minutos; O Silmarillion, de Tolkien: a Segunda Era de Os Anéis de Poder"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "COMO PEGAR O LINK",
+            "titulo": "Quer algum?",
+            "topicos": [
+              "Comente LINK aqui que a gente te manda no direct",
+              "Ou toque no link da bio",
+              "Como Associado da Amazon, ganho com compras qualificadas."
+            ],
+            "fonte": "Links de associado Amazon",
+            "cta": "Comente LINK",
+            "alt": "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas."
+          }
+        ]
+      }
+    ],
+    "lancamentosdegames": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-10T12:30:00-03:00",
+        "sufixo": "achados",
+        "alt": "Achados da semana na Amazon: Metaphor: ReFantazio (Switch 2), Controle DualSense, Headset HyperX Cloud Stinger 2, Cartão PlayStation Store",
+        "legenda": "🎮 Semana de Metaphor no Switch 2 e de preparar o console: 4 achados para gamer.\n\n🎮 Metaphor: ReFantazio (Switch 2)\n🕹️ Controle DualSense\n🎧 Headset HyperX Cloud Stinger 2\n🎁 Cartão PlayStation Store\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @lancamentosdegames para os achados toda semana.\n\n#games #metaphorrefantazio #ps5 #nintendoswitch2 #achadosamazon",
+        "links": [
+          {
+            "titulo": "Metaphor: ReFantazio (Switch 2)",
+            "url": "https://www.amazon.com.br/s?k=metaphor+refantazio+nintendo+switch+2&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Controle DualSense",
+            "url": "https://www.amazon.com.br/s?k=controle+dualsense+ps5&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Headset HyperX Cloud Stinger 2",
+            "url": "https://www.amazon.com.br/s?k=headset+hyperx+cloud+stinger+2&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Cartão PlayStation Store",
+            "url": "https://www.amazon.com.br/s?k=cartao+presente+playstation+store&tag=llshop0d-20"
+          }
+        ],
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "game-controle",
+            "pilula": "AMAZON",
+            "chamada": "ACHADOS DA SEMANA · AMAZON",
+            "titulo": "4 achados para a semana gamer",
+            "caixas": [
+              [
+                "Links",
+                "na bio"
+              ],
+              [
+                "Ou comente",
+                "LINK"
+              ]
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Capa: 4 achados para a semana gamer. Links na bio ou comente LINK"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "OS ACHADOS DA SEMANA",
+            "titulo": "Para que serve cada um",
+            "topicos": [
+              "Metaphor: ReFantazio no Switch 2, o RPG da Atlus que sai quinta",
+              "Controle DualSense: vibração e gatilhos do PS5",
+              "Headset HyperX Cloud Stinger 2: ouça os passos e fale com o time",
+              "Cartão presente PlayStation Store, para jogos e PS Plus"
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Os achados: Metaphor: ReFantazio no Switch 2, o RPG da Atlus que sai quinta; Controle DualSense: vibração e gatilhos do PS5; Headset HyperX Cloud Stinger 2: ouça os passos e fale com o time; Cartão presente PlayStation Store, para jogos e PS Plus"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "COMO PEGAR O LINK",
+            "titulo": "Quer algum?",
+            "topicos": [
+              "Comente LINK aqui que a gente te manda no direct",
+              "Ou toque no link da bio",
+              "Como Associado da Amazon, ganho com compras qualificadas."
+            ],
+            "fonte": "Links de associado Amazon",
+            "cta": "Comente LINK",
+            "alt": "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas."
+          }
+        ]
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-10T12:35:00-03:00",
+        "sufixo": "achados",
+        "alt": "Achados da semana na Amazon: Vinil Pearl Jam: Ten, Protetor auricular Loop, Power bank Anker, Pochete",
+        "legenda": "🎤 Semana de Eddie Vedder, Marisa Monte e Hayley Williams: 4 achados para curtir o show.\n\n💿 Vinil Pearl Jam: Ten\n👂 Protetor auricular Loop\n🔋 Power bank Anker\n👝 Pochete\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @showsconfirmados para os achados toda semana.\n\n#shows #eddievedder #pearljam #festival #achadosamazon",
+        "links": [
+          {
+            "titulo": "Vinil Pearl Jam: Ten",
+            "url": "https://www.amazon.com.br/s?k=vinil+pearl+jam+ten&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Protetor auricular Loop",
+            "url": "https://www.amazon.com.br/s?k=protetor+auricular+loop+experience&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Power bank Anker",
+            "url": "https://www.amazon.com.br/s?k=power+bank+anker+10000mah&tag=llshop0d-20"
+          },
+          {
+            "titulo": "Pochete",
+            "url": "https://www.amazon.com.br/s?k=pochete+transversal+antifurto&tag=llshop0d-20"
+          }
+        ],
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "show-plateia",
+            "pilula": "AMAZON",
+            "chamada": "ACHADOS DA SEMANA · AMAZON",
+            "titulo": "4 achados para curtir o show",
+            "caixas": [
+              [
+                "Links",
+                "na bio"
+              ],
+              [
+                "Ou comente",
+                "LINK"
+              ]
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Capa: 4 achados para curtir o show. Links na bio ou comente LINK"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "OS ACHADOS DA SEMANA",
+            "titulo": "Para que serve cada um",
+            "topicos": [
+              "Vinil Ten, do Pearl Jam, para esquentar para Eddie Vedder",
+              "Protetor auricular Loop: abaixa o volume sem abafar a música",
+              "Power bank Anker: celular com bateria até o bis",
+              "Pochete: celular e documento seguros no meio da galera"
+            ],
+            "fonte": "Seleção da página",
+            "cta": "Arraste →",
+            "alt": "Os achados: Vinil Ten, do Pearl Jam, para esquentar para Eddie Vedder; Protetor auricular Loop: abaixa o volume sem abafar a música; Power bank Anker: celular com bateria até o bis; Pochete: celular e documento seguros no meio da galera"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ACHADOS",
+            "chamada": "COMO PEGAR O LINK",
+            "titulo": "Quer algum?",
+            "topicos": [
+              "Comente LINK aqui que a gente te manda no direct",
+              "Ou toque no link da bio",
+              "Como Associado da Amazon, ganho com compras qualificadas."
+            ],
+            "fonte": "Links de associado Amazon",
+            "cta": "Comente LINK",
+            "alt": "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas."
+          }
+        ]
+      }
+    ]
+  }
+}
