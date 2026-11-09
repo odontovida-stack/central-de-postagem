@@ -173,7 +173,8 @@ def selo(nome, cor, px=84):
 
 
 def placar(conta, card):
-    """Placar por competição: [{"competicao": "...", "jogos": [{"casa","gc","fora","gf","nota"}]}] + "destaque" opcional."""
+    """Placar por competição: [{"competicao": "...", "jogos": [{"casa","gc","fora","gf","nota","pc","pf","avanca"}]}] + "destaque" opcional.
+    Mata-mata: "pc"/"pf" = pênaltis (casa/fora) e "avanca": "casa"|"fora" = quem se classificou; aparece "Pênaltis: 4 × 5 · Palmeiras avança"."""
     cor = PAGINAS[conta]["cor"]
     grupos = card["grupos"]
     n = sum(len(g["jogos"]) for g in grupos)
@@ -185,11 +186,28 @@ def placar(conta, card):
             gc, gf = str(j.get("gc", "")), str(j.get("gf", ""))
             vc = gc.isdigit() and gf.isdigit() and int(gc) > int(gf)
             vf = gc.isdigit() and gf.isdigit() and int(gf) > int(gc)
+            # Mata-mata: "pc"/"pf" = pênaltis; "avanca": "casa"/"fora" = quem se classificou (agregado ou pênaltis).
+            # Quem avança fica em branco, mesmo que tenha perdido o jogo (ex.: Vasco 2 x 1 Palmeiras, Palmeiras 5 x 4 nos pênaltis).
+            pc, pf = str(j.get("pc", "")), str(j.get("pf", ""))
+            av = j.get("avanca")
+            if not av and pc.isdigit() and pf.isdigit() and pc != pf:
+                av = "casa" if int(pc) > int(pf) else "fora"
+            if av in ("casa", "fora"):
+                vc, vf = av == "casa", av == "fora"
+            extra = []
+            if pc.isdigit() and pf.isdigit():
+                extra.append(f"Pênaltis: {pc} × {pf}")
+            if av in ("casa", "fora"):
+                extra.append(f"{j[av]} avança" if not j.get("avanca_txt") else j["avanca_txt"])
             nc = f'<span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 700; font-size: {nome_px}px; color: {FG if vc or not vf else MUTED}; text-align: right; flex: 1; min-width: 0">{e(j["casa"])}</span>'
             nf = f'<span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 700; font-size: {nome_px}px; color: {FG if vf or not vc else MUTED}; flex: 1; min-width: 0">{e(j["fora"])}</span>'
             meio = (f'<span style="flex-shrink: 0; font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: {gol_px}px; background: {BG}; border-radius: 12px; padding: 0 18px; white-space: nowrap">'
                     f'{e(gc)}<span style="color: {cor}; padding: 0 10px">×</span>{e(gf)}</span>')
-            nota = f'<div style="font-size: 24px; color: {MUTED}; text-align: center; margin-top: -4px">{e(j["nota"])}</div>' if j.get("nota") else ""
+            nota = ""
+            if extra:
+                nota += f'<div style="font-size: 26px; font-weight: 700; color: {cor}; text-align: center; margin-top: -2px">{e(" · ".join(extra))}</div>'
+            if j.get("nota"):
+                nota += f'<div style="font-size: 24px; color: {MUTED}; text-align: center; margin-top: -4px">{e(j["nota"])}</div>'
             linhas.append(f'<div style="background: {CARD}; border-radius: 18px; padding: 10px 18px"><div style="display: flex; align-items: center; gap: 18px">{selo(j["casa"], cor, sel_px)}{nc}{meio}{nf}{selo(j["fora"], cor, sel_px)}</div>{nota}</div>')
         blocos.append(f'<div style="display: flex; flex-direction: column; gap: 12px"><span style="align-self: center; font-family: \'Barlow Condensed\', sans-serif; font-weight: 700; font-size: 34px; letter-spacing: .06em; text-transform: uppercase; border: 2px solid {cor}; color: {cor}; border-radius: 999px; padding: 4px 26px">{e(g["competicao"])}</span>{"".join(linhas)}</div>')
     dest = ""
