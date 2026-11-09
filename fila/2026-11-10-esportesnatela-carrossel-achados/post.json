@@ -1,0 +1,41 @@
+{
+  "conta": "esportesnatela",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook"
+  ],
+  "quando": "2026-11-10T12:20:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para quem joga tênis. Links na bio ou comente LINK",
+    "Os achados: Raquete Wilson para começar ou evoluir no tênis; Tubo de bolas Wilson US Open, para quadra dura e saibro; Garrafa térmica Stanley: água gelada o treino todo; Xiaomi Smart Band: passos, batimentos e treinos no pulso",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @esportesnatela e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🎾 Semana de WTA Finals e começo do ATP Finals: 4 achados para quem também joga.\n\n🎾 Raquete Wilson\n🟡 Bolas Wilson US Open\n🥤 Garrafa térmica Stanley\n⌚ Xiaomi Smart Band\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @esportesnatela para os achados toda semana.\n\n#tenis #atpfinals #wtafinals #esportes #achadosamazon\n\n📷 Foto: Dwight Burdette · CC BY 3.0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Raquete Wilson",
+      "url": "https://www.amazon.com.br/s?k=raquete+tenis+wilson+adulto&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Bolas Wilson US Open",
+      "url": "https://www.amazon.com.br/s?k=bola+tenis+wilson+us+open+tubo&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Garrafa térmica Stanley",
+      "url": "https://www.amazon.com.br/s?k=garrafa+termica+stanley+quencher&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Xiaomi Smart Band",
+      "url": "https://www.amazon.com.br/s?k=xiaomi+smart+band+9&tag=llshop0d-20"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "conta": "showsconfirmados",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook"
+  ],
+  "quando": "2026-11-10T12:35:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para curtir o show. Links na bio ou comente LINK",
+    "Os achados: Vinil Ten, do Pearl Jam, para esquentar para Eddie Vedder; Protetor auricular Loop: abaixa o volume sem abafar a música; Power bank Anker: celular com bateria até o bis; Pochete: celular e documento seguros no meio da galera",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @showsconfirmados e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🎤 Semana de Eddie Vedder, Marisa Monte e Hayley Williams: 4 achados para curtir o show.\n\n💿 Vinil Pearl Jam: Ten\n👂 Protetor auricular Loop\n🔋 Power bank Anker\n👝 Pochete\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @showsconfirmados para os achados toda semana.\n\n#shows #eddievedder #pearljam #festival #achadosamazon\n\n📷 Foto: PinkBeachPlanet · CC BY-SA 4.0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Vinil Pearl Jam: Ten",
+      "url": "https://www.amazon.com.br/s?k=vinil+pearl+jam+ten&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Protetor auricular Loop",
+      "url": "https://www.amazon.com.br/s?k=protetor+auricular+loop+experience&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Power bank Anker",
+      "url": "https://www.amazon.com.br/s?k=power+bank+anker+10000mah&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Pochete",
+      "url": "https://www.amazon.com.br/s?k=pochete+transversal+antifurto&tag=llshop0d-20"
+    }
+  ]
+}
