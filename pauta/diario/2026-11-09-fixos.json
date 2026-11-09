@@ -1,0 +1,222 @@
+{
+ "dia": "09/11/2026",
+ "apurado_em": "2026-11-09",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-09T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de segunda-feira, 09/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Segunda-feira, 09/11",
+      "linhas": [
+       {
+        "hora": "13h30",
+        "esporte": "volei",
+        "competicao": "Liga Polonesa masculina",
+        "jogo": "Olsztyn x Lublin",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "futebol",
+        "competicao": "Bundesliga Feminina",
+        "jogo": "Colônia x RB Leipzig",
+        "canal": "DAZN"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "volei",
+        "competicao": "Liga Polonesa feminina",
+        "jogo": "Opole x Mogilno",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "futebol",
+        "competicao": "Copa da Inglaterra",
+        "jogo": "Plymouth Parkway x Berkhamsted",
+        "canal": "Disney+"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "tenis",
+        "competicao": "WTA Finals · depois, Stefani",
+        "jogo": "Sabalenka x Muchova",
+        "canal": "Disney+ · ESPN"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Minas x Monte Carmelo",
+        "canal": "ge tv",
+        "gratis": true
+       },
+       {
+        "hora": "19h00",
+        "esporte": "futebol",
+        "competicao": "Taça Fares Lopes",
+        "jogo": "Vila Real x Ceará B",
+        "canal": "Metrópoles no YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Vôlei Renata x Sesi Bauru",
+        "canal": "sportv2"
+       }
+      ],
+      "fonte": "Conferido em 09/11 à 1h · WTA, webvolei, Mantos do Futebol, Auvaro Maia, Game Over Drive, DGABC",
+      "cta": "Arraste →",
+      "alt": "Agenda de segunda-feira, 09/11, das 13h30 às 21h: vôlei polonês, Bundesliga Feminina, Copa da Inglaterra, WTA Finals com Sabalenka x Muchova e Luisa Stefani nas duplas, Superliga Masculina com Minas x Monte Carmelo grátis no ge tv, Taça Fares Lopes grátis no YouTube do Metrópoles e Vôlei Renata x Sesi Bauru no sportv2"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Segunda-feira, 09/11",
+      "linhas": [
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Wizards x Pistons",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Lakers x Hawks",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Cavaliers x Hornets",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Grizzlies x Raptors",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Pacers x Mavericks",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "22h15",
+        "esporte": "nfl",
+        "competicao": "Monday Night Football",
+        "jogo": "Bills x Vikings",
+        "canal": "ESPN2 · Disney+"
+       },
+       {
+        "hora": "22h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Nuggets x Rockets",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Spurs x Suns",
+        "canal": "NBA League Pass"
+       }
+      ],
+      "fonte": "Conferido em 09/11 à 1h · WTA, webvolei, Mantos do Futebol, Auvaro Maia, Game Over Drive, DGABC",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de segunda-feira, 09/11, das 21h às 23h: sete jogos da NBA, com Wizards x Pistons na ESPN, e Bills x Vikings no Monday Night Football da NFL às 22h15, na ESPN2"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de segunda-feira, 09/11 (horário de Brasília)\n\n🎾 17h · WTA Finals: Sabalenka x Muchova abre o dia; Luisa Stefani e Gabriela Dabrowski jogam no 3º jogo da quadra · Disney+ e ESPN\n🏐 18h30 · Minas x Monte Carmelo, Superliga Masculina · ge tv 🆓\n🏐 21h · Vôlei Renata x Sesi Bauru, Superliga Masculina · sportv2\n🏀 21h · Wizards x Pistons, NBA · ESPN e Disney+\n🏈 22h15 · Bills x Vikings, duelo de times 6-1 no Monday Night Football · ESPN2 e Disney+\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #wtafinals #superliga #nba #nfl"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-09T07:30:00-03:00",
+    "alt": "Resultados de domingo, 08/11, com o Palmeiras na final da Copa do Brasil",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "DOM 08/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Copa do Brasil",
+        "jogos": [
+         {
+          "casa": "Vasco",
+          "gc": 2,
+          "fora": "Palmeiras",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Premier League",
+        "jogos": [
+         {
+          "casa": "Crystal Palace",
+          "gc": 1,
+          "fora": "Liverpool",
+          "gf": 3
+         },
+         {
+          "casa": "Man. United",
+          "gc": 4,
+          "fora": "Aston Villa",
+          "gf": 4
+         },
+         {
+          "casa": "Sunderland",
+          "gc": 1,
+          "fora": "Chelsea",
+          "gf": 0
+         }
+        ]
+       },
+       {
+        "competicao": "LaLiga",
+        "jogos": [
+         {
+          "casa": "Atlético de Madrid",
+          "gc": 1,
+          "fora": "Barcelona",
+          "gf": 2
+         }
+        ]
+       }
+      ],
+      "destaque": "Palmeiras na final: 5 x 4 nos pênaltis",
+      "destaque_rotulo": "FATO DA NOITE",
+      "fonte": "Conferido em 09/11 à 1h · Terra, TVT News, Flashscore",
+      "cta": "Salve e compartilhe",
+      "alt": "Resultados de domingo, 08/11: Vasco 2x1 Palmeiras na Copa do Brasil, com o Palmeiras classificado nos pênaltis por 5x4; Crystal Palace 1x3 Liverpool, Manchester United 4x4 Aston Villa e Sunderland 1x0 Chelsea na Premier League; Atlético de Madrid 1x2 Barcelona na LaLiga"
+     }
+    ],
+    "legenda": "⚽ Deu Palmeiras nos pênaltis! A final da Copa do Brasil é Palmeiras x Grêmio.\n\n📊 Resultados de ontem (domingo, 08/11):\n🏆 Vasco 2x1 Palmeiras · Copa do Brasil (Colidio e Puma Rodríguez; Piquerez descontou). Nos pênaltis, Palmeiras 5x4, com 2 defesas de Carlos Miguel\n⚽ Atlético-GO 3x2 Athletic · Série B (virada no 2º tempo)\n🏴 Crystal Palace 1x3 Liverpool · Premier League\n🏴 Manchester United 4x4 Aston Villa · Premier League (empate nos acréscimos)\n🏴 Sunderland 1x0 Chelsea · Premier League\n🇪🇸 Atlético de Madrid 1x2 Barcelona · LaLiga (2 de Fermín López)\n🇮🇹 Inter 2x0 Como · Serie A\n🇮🇹 Napoli 1x1 Lazio · Serie A\n\n📅 A final é em jogo único, no domingo, 06/12, no Mané Garrincha, em Brasília.\n📺 Semana de data FIFA: hoje não tem jogo grande de futebol.\n\n📌 Salve para lembrar dos placares\n📤 Mande para quem vê futebol com você\n\nPalmeiras ou Grêmio: quem leva a Copa do Brasil? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#futebol #copadobrasil #palmeiras #vasco #gremio #premierleague #resultados #placar"
+   }
+  ]
+ }
+}
