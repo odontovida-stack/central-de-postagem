@@ -7,7 +7,7 @@
     "tiktok"
   ],
   "quando": "2026-11-10T12:15:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -38,5 +38,11 @@
       "titulo": "Fire TV Stick 4K",
       "url": "https://www.amazon.com.br/s?k=fire+tv+stick+4k&tag=llshop0d-20"
     }
-  ]
+  ],
+  "publicado_em": "2026-11-10T15:16:59+00:00",
+  "resultado": {
+    "instagram": "17914794549481023",
+    "facebook": "1142393848963140_122135348019362772",
+    "tiktok": "RASCUNHO no TikTok (p_inbox_url~v2.7706562105471010824): abra o app, confira e toque em Publicar"
+  }
 }
