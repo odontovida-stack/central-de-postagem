@@ -1,0 +1,352 @@
+{
+ "dia": "10/11/2026",
+ "apurado_em": "2026-11-10",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-10T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de terça-feira, 10/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 10/11",
+      "linhas": [
+       {
+        "hora": "08h40",
+        "esporte": "outros",
+        "competicao": "Handebol de praia · Jogos da Juventude",
+        "jogo": "Brasil x Hungria (masc.)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h30",
+        "esporte": "outros",
+        "competicao": "Bocha · Copa do Mundo, em SP",
+        "jogo": "Brasil x Argentina (BC1/BC2)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h40",
+        "esporte": "surfe",
+        "competicao": "ISA World Surfing Games",
+        "jogo": "Tainá Hinckel · 2ª rodada",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h20",
+        "esporte": "surfe",
+        "competicao": "ISA World Surfing Games",
+        "jogo": "Laura Raupp · 2ª rodada",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "outros",
+        "competicao": "Bocha · Copa do Mundo, em SP",
+        "jogo": "Brasil x Chile (pares BC4)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "atletismo",
+        "competicao": "Jogos da Juventude · final masc.",
+        "jogo": "400 m barreiras · Kevin Aguero",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h12",
+        "esporte": "atletismo",
+        "competicao": "Jogos da Juventude · final fem.",
+        "jogo": "400 m barreiras · Larissa Schon",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "atletismo",
+        "competicao": "Jogos da Juventude · final fem.",
+        "jogo": "1.500 m · Nicole Herdy",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "12h00",
+        "esporte": "outros",
+        "competicao": "Libertadores de Futsal Feminina",
+        "jogo": "Exa Ysaty x La Unión",
+        "canal": "Canal GOL BR"
+       },
+       {
+        "hora": "13h30",
+        "esporte": "tenis",
+        "competicao": "Challenger de Lima · 1ª rodada",
+        "jogo": "Thiago Monteiro x Misolic",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "outros",
+        "competicao": "Bocha · Copa do Mundo, em SP",
+        "jogo": "Brasil x Croácia (BC1/BC2)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "outros",
+        "competicao": "Libertadores de Futsal Feminina",
+        "jogo": "Llaneros x Stein",
+        "canal": "sportv2"
+       }
+      ],
+      "fonte": "Conferido em 10/11 à 1h · Olimpíada Todo Dia, Auvaro Maia, Hoops Brasil, ESPN",
+      "cta": "Arraste →",
+      "alt": "Agenda de terça-feira, 10/11, das 8h40 às 14h30: handebol de praia e atletismo nos Jogos Olímpicos da Juventude, bocha na Copa do Mundo em São Paulo, Tainá Hinckel e Laura Raupp no ISA World Surfing Games, Libertadores de Futsal Feminina e Thiago Monteiro no Challenger de Lima"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 10/11",
+      "linhas": [
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Häcken x Chelsea",
+        "canal": "YouTube ESPN Brasil",
+        "gratis": true
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Real Madrid x Paris FC",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "tenis",
+        "competicao": "Challenger de Lima · 1ª rodada",
+        "jogo": "João Lucas Reis x Kolar",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "tenis",
+        "competicao": "WTA 125 de Sopó · 1ª rodada",
+        "jogo": "Carol Meligeni x Samson",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Rei",
+        "jogo": "Anaitasuna x Alavés",
+        "canal": "Disney+"
+       },
+       {
+        "hora": "15h30",
+        "esporte": "outros",
+        "competicao": "Bocha · Copa do Mundo, em SP",
+        "jogo": "Brasil x Colômbia (pares BC4)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "PSG x Bayern",
+        "canal": "ESPN"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Inter x Man. City",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Rei",
+        "jogo": "Tavernes x Valencia",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "17h30",
+        "esporte": "outros",
+        "competicao": "Handebol · Sul-Centro-Americano Sub-18",
+        "jogo": "Brasil x Nicarágua",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "São José x Montes Claros",
+        "canal": "ge tv",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 10/11 à 1h · Olimpíada Todo Dia, Auvaro Maia, Hoops Brasil, ESPN",
+      "cta": "Arraste →",
+      "alt": "Agenda de terça-feira, 10/11, das 14h45 às 18h30: Champions Feminina com Häcken x Chelsea grátis no YouTube da ESPN Brasil, Real Madrid x Paris FC, PSG x Bayern e Inter x Manchester City; Copa do Rei com Alavés e Valencia; tênis com João Lucas Reis e Carol Meligeni; bocha, handebol Sub-18 e São José x Montes Claros grátis no ge tv"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 10/11",
+      "linhas": [
+       {
+        "hora": "19h00",
+        "esporte": "futebol",
+        "competicao": "Taça Fares Lopes",
+        "jogo": "Guarani de Juazeiro x Quixadá",
+        "canal": "Metrópoles Esportes"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "outros",
+        "competicao": "Handebol · Sul-Centro-Americano Sub-20",
+        "jogo": "Brasil x Colômbia",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "20h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Flamengo x Franca",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "20h30",
+        "esporte": "futebol",
+        "competicao": "Copa FMF · final",
+        "jogo": "Cuiabá x Chapada",
+        "canal": "YouTube FMF TV",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Norde x Sada Cruzeiro",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NCAA",
+        "jogo": "Michigan State x Duke",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Bucks x Knicks",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Celtics x 76ers",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "23h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Clippers x Suns",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Heat x Jazz",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h30",
+        "esporte": "basquete",
+        "competicao": "NCAA",
+        "jogo": "Kansas x Kentucky",
+        "canal": "ESPN 3"
+       }
+      ],
+      "fonte": "Conferido em 10/11 à 1h · Olimpíada Todo Dia, Auvaro Maia, Hoops Brasil, ESPN",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de terça-feira, 10/11, das 19h às 23h30: Taça Fares Lopes, handebol Sub-20, Flamengo x Franca no NBB, final da Copa FMF grátis no YouTube, Norde x Sada Cruzeiro na Superliga, NCAA com Michigan State x Duke e Kansas x Kentucky e quatro jogos da NBA, com Celtics x 76ers no Prime Video"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de terça-feira, 10/11 (horário de Brasília)\n\n🏃 11h · Três brasileiros em finais de atletismo nos Jogos Olímpicos da Juventude, em Dakar\n🏄 9h40 · Tainá Hinckel e Laura Raupp no ISA World Surfing Games, no Peru\n⚽ 17h · PSG x Bayern na Champions Feminina · ESPN (e Häcken x Chelsea às 14h45 no YouTube da ESPN Brasil 🆓)\n🏐 18h30 · São José x Montes Claros, Superliga Masculina · ge tv 🆓\n🏀 20h30 · Flamengo x Franca no NBB · ESPN 2 e Disney+; às 22h, Celtics x 76ers na NBA · Prime Video\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #nbb #nba #superliga #championsfeminina #surfe"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-10T07:30:00-03:00",
+    "alt": "Jogos de terça-feira, 10/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "agenda",
+      "pilula": "TER 10/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "10/11",
+        "sub": "TER · 17h",
+        "titulo": "PSG x Bayern (fem.)",
+        "detalhe": "Champions Feminina · ESPN",
+        "destaque": true
+       },
+       {
+        "data": "10/11",
+        "sub": "TER · 14h45",
+        "titulo": "Häcken x Chelsea (fem.)",
+        "detalhe": "Champions Feminina · YouTube ESPN Brasil",
+        "gratis": true
+       },
+       {
+        "data": "10/11",
+        "sub": "TER · 14h45",
+        "titulo": "Real Madrid x Paris FC (fem.)",
+        "detalhe": "Champions Feminina · ESPN 4"
+       },
+       {
+        "data": "10/11",
+        "sub": "TER · 17h",
+        "titulo": "Inter x Man. City (fem.)",
+        "detalhe": "Champions Feminina · ESPN 4"
+       },
+       {
+        "data": "10/11",
+        "sub": "TER · 17h",
+        "titulo": "Tavernes x Valencia",
+        "detalhe": "Copa do Rei · ESPN 2"
+       },
+       {
+        "data": "10/11",
+        "sub": "TER · 20h30",
+        "titulo": "Cuiabá x Chapada",
+        "detalhe": "Copa FMF · final · YouTube FMF TV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 10/11 à 1h · ESPN, Auvaro Maia, RFEF, Olimpíada Todo Dia",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de terça-feira, 10/11: PSG x Bayern às 17h na ESPN (jogo do dia), Häcken x Chelsea às 14h45 grátis no YouTube da ESPN Brasil, Real Madrid x Paris FC às 14h45 e Inter x Manchester City às 17h na ESPN 4, todos da Champions Feminina; Tavernes x Valencia às 17h pela Copa do Rei na ESPN 2; e a final da Copa FMF, Cuiabá x Chapada, às 20h30, grátis no YouTube da FMF TV"
+     }
+    ],
+    "legenda": "⚽ Semana de Data FIFA, mas a bola não para: hoje tem Champions Feminina com PSG x Bayern e jogo de graça no YouTube!\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 17h · PSG x Bayern · Champions Feminina · ESPN\n🆓 14h45 · Häcken x Chelsea · Champions Feminina · YouTube da ESPN Brasil (também no Disney+)\n⚽ 14h45 · Real Madrid x Paris FC · Champions Feminina · ESPN 4\n⚽ 17h · Inter x Manchester City · Champions Feminina · ESPN 4\n🇪🇸 17h · Tavernes x Valencia · Copa do Rei · ESPN 2\n🆓 20h30 · Cuiabá x Chapada · final da Copa FMF · YouTube da FMF TV\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual jogo você vai assistir hoje? 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #championsfeminina #psg #chelsea #copadorei #ondeassistir"
+   }
+  ]
+ }
+}
