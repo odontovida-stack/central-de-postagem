@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-11-10T12:35:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -37,5 +37,10 @@
       "titulo": "Pochete",
       "url": "https://www.amazon.com.br/s?k=pochete+transversal+antifurto&tag=llshop0d-20"
     }
-  ]
+  ],
+  "publicado_em": "2026-11-10T15:35:48+00:00",
+  "resultado": {
+    "instagram": "18169399852484144",
+    "facebook": "1198133490049538_122127102501365966"
+  }
 }

@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-11-10T12:30:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -37,5 +37,10 @@
       "titulo": "Cartão PlayStation Store",
       "url": "https://www.amazon.com.br/s?k=cartao+presente+playstation+store&tag=llshop0d-20"
     }
-  ]
+  ],
+  "publicado_em": "2026-11-10T15:35:48+00:00",
+  "resultado": {
+    "instagram": "18128140879909788",
+    "facebook": "1155011061031746_122125376139368510"
+  }
 }
