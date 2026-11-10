@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-11-10T12:20:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -37,5 +37,10 @@
       "titulo": "Xiaomi Smart Band",
       "url": "https://www.amazon.com.br/s?k=xiaomi+smart+band+9&tag=llshop0d-20"
     }
-  ]
+  ],
+  "publicado_em": "2026-11-10T15:23:18+00:00",
+  "resultado": {
+    "instagram": "18456959035127771",
+    "facebook": "1208306652358113_122125625163372104"
+  }
 }
