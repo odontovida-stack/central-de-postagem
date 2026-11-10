@@ -7,7 +7,7 @@
     "tiktok"
   ],
   "quando": "2026-11-10T12:25:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -38,5 +38,11 @@
       "titulo": "O Silmarillion",
       "url": "https://www.amazon.com.br/s?k=o+silmarillion+tolkien+harpercollins&tag=llshop0d-20"
     }
-  ]
+  ],
+  "publicado_em": "2026-11-10T15:29:33+00:00",
+  "resultado": {
+    "instagram": "17880499227563407",
+    "facebook": "1126954220509063_122140350843378589",
+    "tiktok": "RASCUNHO no TikTok (p_inbox_url~v2.7706563025846831122): abra o app, confira e toque em Publicar"
+  }
 }
