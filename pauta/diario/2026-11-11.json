@@ -1,0 +1,112 @@
+{
+ "dia": "11/11/2026",
+ "apurado_em": "2026-11-11",
+ "contas": {
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "pre-venda",
+    "quando": "2026-11-11T08:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "QUA 11/11",
+    "chamada": "PRÉ-VENDA HOJE",
+    "grande": "10h",
+    "titulo": "Capital Inicial",
+    "caixas": [
+     [
+      "🎟️ Pré-venda",
+      "Qua 11/11 às 10h · fãs cadastrados no site da banda"
+     ],
+     [
+      "🎟️ Venda geral",
+      "Qui 12/11 às 12h"
+     ],
+     [
+      "📍 Cidades",
+      "São Paulo · Nubank Parque, 05/06/2027"
+     ]
+    ],
+    "nota": "Só compre no site oficial: Ticketmaster",
+    "fonte": "Conferido em 11/11 à 1h · Vagalume",
+    "cta": "Mande para quem vai com você",
+    "alt": "Pré-venda hoje: Capital Inicial, show de 45 anos da banda em 5 de junho de 2027, no Nubank Parque, em São Paulo. Pré-venda na quarta, 11/11, às 10h, para fãs cadastrados no site da banda; venda geral na quinta, 12/11, ao meio-dia, só na Ticketmaster",
+    "legenda": "🎸 Capital Inicial faz show de 45 anos em SP e a pré-venda abre hoje!\n\n🎟️ Pré-venda: quarta, 11/11, às 10h · fãs cadastrados no site oficial da banda (até 10h de 12/11)\n🎟️ Venda geral: quinta, 12/11, ao meio-dia (online) e 13h na bilheteria oficial\n📍 São Paulo · Nubank Parque · 05/06/2027\n🎤 Convidados: Dado Villa-Lobos, Lenine, Zélia Duncan e Kiko Zambianchi\n\n⚠️ Cuidado com golpe: só o link oficial (Ticketmaster).\n📌 Salve para não perder o horário.\n📤 Mande para quem vai com você.\n\nQual música não pode faltar? 👇\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\nFonte: Vagalume.\n\n#capitalinicial #rocknacional #saopaulo #prevenda #ingressos #showsconfirmados"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "pre-venda-till",
+    "quando": "2026-11-11T08:10:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "QUA 11/11",
+    "chamada": "PRÉ-VENDA HOJE",
+    "grande": "10h",
+    "titulo": "Till Lindemann",
+    "caixas": [
+     [
+      "🎟️ Pré-venda",
+      "Qua 11/11 às 10h · pré-venda Tokio Marine"
+     ],
+     [
+      "🎟️ Venda geral",
+      "Sex 13/11 às 10h"
+     ],
+     [
+      "📍 Cidades",
+      "São Paulo · Tokio Marine Hall, 16/04/2027"
+     ]
+    ],
+    "nota": "Só compre no site oficial: Ticketmaster",
+    "fonte": "Conferido em 11/11 à 1h · Todo Dia Um Rock, NC News",
+    "cta": "Mande para quem vai com você",
+    "alt": "Pré-venda hoje: Till Lindemann, vocalista do Rammstein, em show solo no dia 16 de abril de 2027, no Tokio Marine Hall, em São Paulo. Pré-venda Tokio Marine na quarta, 11/11, às 10h; venda geral na sexta, 13/11, às 10h, só na Ticketmaster",
+    "legenda": "🔥 O vocalista do Rammstein vem a SP em show solo e a pré-venda abre hoje!\n\n🎟️ Pré-venda: quarta, 11/11, às 10h · pré-venda Tokio Marine\n🎟️ Venda geral: sexta, 13/11, às 10h (online) e 11h na bilheteria\n📍 São Paulo · Tokio Marine Hall · 16/04/2027\n💳 De R$ 450 a R$ 670 (inteira), com meia-entrada\n\n⚠️ Cuidado com golpe: só o link oficial (Ticketmaster).\n📌 Salve para não perder o horário.\n📤 Mande para quem é fã de Rammstein.\n\nVai encarar? 👇\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\nFontes: Todo Dia Um Rock e NC News.\n\n#tilllindemann #rammstein #metal #saopaulo #prevenda #ingressos #showsconfirmados"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-11T17:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "QUA 11/11",
+    "chamada": "JOGO DO DIA · HORÁRIO DE BRASÍLIA",
+    "grande": "21h30",
+    "titulo": "Flamengo x Internacional",
+    "caixas": [
+     [
+      "Onde assistir",
+      "sportv, Xsports, NSports, YouTube Lance!"
+     ],
+     [
+      "Competição",
+      "Copa do Brasil Feminina · final (ida)"
+     ]
+    ],
+    "nota": "Ida no Luso-Brasileiro, no Rio. A volta é domingo, 15/11, às 16h, no Beira-Rio.",
+    "fonte": "Conferido em 11/11 à 1h · Portal da TV, Folha do Leste, Onde Assistir",
+    "cta": "Mande para quem vai ver",
+    "alt": "Jogo do dia: Flamengo x Internacional às 21h30, horário de Brasília, na ida da final da Copa do Brasil Feminina, no Estádio Luso-Brasileiro, no Rio, com transmissão no sportv, Xsports, NSports e no YouTube do Lance!. A volta é no domingo, 15/11, às 16h, no Beira-Rio",
+    "legenda": "🏆 Hoje começa a final da Copa do Brasil Feminina!\n\n⚽ Flamengo x Internacional\n⏰ 21h30 (horário de Brasília) · Estádio Luso-Brasileiro, na Ilha do Governador (Rio)\n🏆 Copa do Brasil Feminina · final, jogo de ida\n📺 sportv, Xsports, NSports e YouTube do Lance! 🆓\n🔁 Volta: domingo, 15/11, às 16h, no Beira-Rio, com Globo\n\n📌 Salve para não perder o horário.\n📤 Mande para quem vai ver o jogo com você.\n\nQuem sai na frente? 👇\nSiga @jogosnatela para o jogo do dia, todo dia.\n\nFontes: Portal da TV e Folha do Leste.\n\n#futebolfeminino #copadobrasilfeminina #flamengo #internacional #final #jogododia"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-11T18:30:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "PALPITE",
+    "chamada": "COPA DO BRASIL FEMININA · HOJE, 21H30",
+    "titulo": "Flamengo x Inter: quem sai na frente na final?",
+    "contexto": "Ida da final no Rio. A volta é domingo, 15/11, no Beira-Rio.",
+    "opcoes": [
+     "Flamengo",
+     "Empate",
+     "Internacional"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Flamengo x Internacional, quem sai na frente na final da Copa do Brasil Feminina? A: Flamengo. B: Empate. C: Internacional.",
+    "legenda": "⚽ Flamengo x Inter: quem sai na frente na final da Copa do Brasil Feminina?\n\nA) Flamengo\nB) Empate\nC) Internacional\n\n⏰ Hoje, 21h30 (Brasília) · Estádio Luso-Brasileiro, no Rio\n📺 sportv, Xsports, NSports e YouTube do Lance! 🆓\n🔁 Volta: domingo, 15/11, às 16h, no Beira-Rio\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para quem torce com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: Portal da TV e Folha do Leste.\n\n#futebolfeminino #copadobrasilfeminina #flamengo #internacional #palpite"
+   }
+  ]
+ }
+}
