@@ -1,12 +1,22 @@
 {
  "The American File": [
   {
+   "id": "Mqz-yolkDGw",
+   "titulo": "Why America Has Only Two Parties — and Why It's So Hard to Change",
+   "publicado": "2026-11-10",
+   "status": "public",
+   "agendado": "",
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
    "id": "O8UwsvJi5Sk",
    "titulo": "The Nasdaq just had its worst day since 2025. Remember 2000? #shorts",
    "publicado": "2026-11-10",
    "status": "public",
    "agendado": "",
-   "views": 4,
+   "views": 32,
    "likes": 0,
    "comentarios": 0
   },
@@ -16,7 +26,7 @@
    "publicado": "2026-11-09",
    "status": "public",
    "agendado": "",
-   "views": 4,
+   "views": 5,
    "likes": 1,
    "comentarios": 0
   },
@@ -26,8 +36,8 @@
    "publicado": "2026-11-09",
    "status": "public",
    "agendado": "",
-   "views": 23,
-   "likes": 0,
+   "views": 35,
+   "likes": 1,
    "comentarios": 0
   },
   {
@@ -96,7 +106,7 @@
    "publicado": "2026-11-06",
    "status": "public",
    "agendado": "",
-   "views": 297,
+   "views": 298,
    "likes": 10,
    "comentarios": 0
   },
@@ -139,16 +149,6 @@
    "views": 0,
    "likes": 0,
    "comentarios": 0
-  },
-  {
-   "id": "Mqz-yolkDGw",
-   "titulo": "Why America Has Only Two Parties — and Why It's So Hard to Change",
-   "publicado": "2026-11-02",
-   "status": "private",
-   "agendado": "2026-11-10T19:00",
-   "views": 0,
-   "likes": 0,
-   "comentarios": 0
   }
  ],
  "Before History Changed": [
@@ -158,7 +158,7 @@
    "publicado": "2026-11-05",
    "status": "public",
    "agendado": "",
-   "views": 0,
+   "views": 2,
    "likes": 0,
    "comentarios": 0
   },
