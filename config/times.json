@@ -711,5 +711,13 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Cuiabá": {
+  "sigla": "CUI",
+  "cores": [
+   "#FFD100",
+   "#00703C"
+  ],
+  "texto": "#00703C"
  }
 }

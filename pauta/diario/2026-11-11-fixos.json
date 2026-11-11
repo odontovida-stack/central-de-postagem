@@ -1,0 +1,300 @@
+{
+ "dia": "11/11/2026",
+ "apurado_em": "2026-11-11",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-11T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de quarta-feira, 11/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 11/11",
+      "linhas": [
+       {
+        "hora": "12h00",
+        "esporte": "outros",
+        "competicao": "Libertadores de Futsal Feminina",
+        "jogo": "Llaneros x Universidad de Chile",
+        "canal": "Canal GOL BR"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "outros",
+        "competicao": "Libertadores de Futsal Feminina",
+        "jogo": "Stein x Exa Ysaty",
+        "canal": "sportv3 · Canal GOL BR"
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Leuven x Koge",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "futebol",
+        "competicao": "Pernambucano · Turno Forró",
+        "jogo": "Ypiranga x Afogados",
+        "canal": "YouTube TV FPF",
+        "gratis": true
+       },
+       {
+        "hora": "15h30",
+        "esporte": "futebol",
+        "competicao": "Taça Fares Lopes",
+        "jogo": "Tirol x Fortaleza B",
+        "canal": "YouTube Metrópoles Esportes",
+        "gratis": true
+       },
+       {
+        "hora": "16h45",
+        "esporte": "basquete",
+        "competicao": "Euroliga",
+        "jogo": "Partizan x Baskonia",
+        "canal": "XSports · YouTube XSports",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Juventus x Lyon",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Benfica x Áustria Viena",
+        "canal": "Disney+"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "outros",
+        "competicao": "Libertadores de Futsal Feminina",
+        "jogo": "Victor Muriel x Caracas",
+        "canal": "Canal GOL BR"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Praia Clube x Goiás",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão Série B",
+        "jogo": "Londrina x Náutico",
+        "canal": "Disney+"
+       }
+      ],
+      "fonte": "Conferido em 11/11 à 1h · Onde Assistir, Mantos do Futebol, Portal da TV",
+      "cta": "Arraste →",
+      "alt": "Agenda de quarta-feira, 11/11, das 12h às 19h: Libertadores de Futsal Feminina, Champions Feminina com Leuven x Koge, Juventus x Lyon e Benfica x Áustria Viena, Pernambucano e Taça Fares Lopes grátis no YouTube, Partizan x Baskonia na Euroliga, Praia Clube x Goiás na Superliga e Londrina x Náutico na Série B"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 11/11",
+      "linhas": [
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Pato x Bauru",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "União Corinthians x Brasília",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Basquete Cearense x Corinthians",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "outros",
+        "competicao": "Libertadores de Futsal Feminina",
+        "jogo": "Ferro Carril Oeste x Peñarol",
+        "canal": "XSports · Canal GOL BR"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Pinheiros x Mogi",
+        "canal": "XSports · YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Knicks x Cavaliers",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Suzano x Guarulhos",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "outros",
+        "competicao": "NHL · hóquei no gelo",
+        "jogo": "Sabres x Lightning",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "futebol",
+        "competicao": "Copa do Brasil Feminina · final (ida)",
+        "jogo": "Flamengo x Internacional",
+        "canal": "sportv · YouTube Lance!",
+        "gratis": true
+       },
+       {
+        "hora": "23h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Rockets x Warriors",
+        "canal": "ESPN 2"
+       }
+      ],
+      "fonte": "Conferido em 11/11 à 1h · Onde Assistir, Mantos do Futebol, Portal da TV",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de quarta-feira, 11/11, das 19h30 às 23h30: quatro jogos do NBB grátis no YouTube, Libertadores de Futsal Feminina, Knicks x Cavaliers e Rockets x Warriors na NBA, Suzano x Guarulhos na Superliga, Sabres x Lightning na NHL e Flamengo x Internacional na ida da final da Copa do Brasil Feminina, com YouTube do Lance! grátis"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de quarta-feira, 11/11 (horário de Brasília)\n\n⚽ 21h30 · Flamengo x Internacional, ida da final da Copa do Brasil Feminina · sportv e YouTube do Lance! 🆓\n🏀 19h30 · Rodada do NBB com 4 jogos grátis no YouTube do NBB 🆓\n🏐 18h30 · Praia Clube x Goiás e, às 21h, Suzano x Guarulhos na Superliga · sportv2\n⚽ 17h · Juventus x Lyon na Champions Feminina · ESPN\n🏀 21h · Knicks x Cavaliers na NBA · ESPN 2\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #nbb #nba #superliga #futebolfeminino #copadobrasilfeminina"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-11T07:30:00-03:00",
+    "alt": "Resultados de terça-feira e jogos de quarta-feira, 11/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "TER 10/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Champions Feminina",
+        "jogos": [
+         {
+          "casa": "PSG",
+          "gc": 1,
+          "fora": "Bayern",
+          "gf": 2
+         },
+         {
+          "casa": "Häcken",
+          "gc": 0,
+          "fora": "Chelsea",
+          "gf": 0
+         },
+         {
+          "casa": "Real Madrid",
+          "gc": 3,
+          "fora": "Paris FC",
+          "gf": 0
+         },
+         {
+          "casa": "Inter",
+          "gc": 1,
+          "fora": "Man. City",
+          "gf": 4
+         }
+        ]
+       },
+       {
+        "competicao": "Copa FMF · final",
+        "jogos": [
+         {
+          "casa": "Cuiabá",
+          "gc": 2,
+          "fora": "Chapada",
+          "gf": 0
+         }
+        ]
+       }
+      ],
+      "destaque": "Cuiabá campeão da Copa FMF e com vaga na Copa do Brasil 2027",
+      "fonte": "Conferido em 11/11 à 1h · Placar, VAVEL, RD News",
+      "cta": "Arraste →",
+      "alt": "Resultados de terça-feira, 10/11, pela Champions Feminina: PSG 1 x 2 Bayern, Häcken 0 x 0 Chelsea, Real Madrid 3 x 0 Paris FC e Inter 1 x 4 Manchester City. Na final da Copa FMF, Cuiabá 2 x 0 Chapada: o Cuiabá é campeão e garante vaga na Copa do Brasil de 2027"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUA 11/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "11/11",
+        "sub": "QUA · 21h30",
+        "titulo": "Flamengo x Internacional (fem.)",
+        "detalhe": "Copa do Brasil Fem. · final · sportv, YouTube Lance!",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "11/11",
+        "sub": "QUA · 14h45",
+        "titulo": "Leuven x Koge (fem.)",
+        "detalhe": "Champions Feminina · ESPN 4"
+       },
+       {
+        "data": "11/11",
+        "sub": "QUA · 17h",
+        "titulo": "Juventus x Lyon (fem.)",
+        "detalhe": "Champions Feminina · ESPN"
+       },
+       {
+        "data": "11/11",
+        "sub": "QUA · 17h",
+        "titulo": "Benfica x Áustria Viena (fem.)",
+        "detalhe": "Champions Feminina · Disney+"
+       },
+       {
+        "data": "11/11",
+        "sub": "QUA · 19h",
+        "titulo": "Londrina x Náutico",
+        "detalhe": "Brasileirão Série B · Disney+"
+       }
+      ],
+      "fonte": "Conferido em 11/11 à 1h · Mantos do Futebol, Onde Assistir, Portal da TV",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de quarta-feira, 11/11: Flamengo x Internacional às 21h30, ida da final da Copa do Brasil Feminina, no sportv e grátis no YouTube do Lance! (jogo do dia); pela Champions Feminina, Leuven x Koge às 14h45 na ESPN 4, Juventus x Lyon às 17h na ESPN e Benfica x Áustria Viena às 17h no Disney+; e Londrina x Náutico às 19h pela Série B, no Disney+"
+     }
+    ],
+    "legenda": "⚽ Bayern vence o PSG em Paris, Cuiabá é campeão e hoje começa a final da Copa do Brasil Feminina!\n\n🏁 Resultados de ontem:\n⚽ PSG 1 x 2 Bayern · Champions Feminina\n⚽ Häcken 0 x 0 Chelsea · Real Madrid 3 x 0 Paris FC · Inter 1 x 4 Manchester City\n🏆 Cuiabá 2 x 0 Chapada · campeão da Copa FMF e vaga na Copa do Brasil 2027\n\n📺 Jogos de hoje (horário de Brasília):\n⭐ 21h30 · Flamengo x Internacional · final da Copa do Brasil Feminina (ida) · sportv e YouTube do Lance! 🆓\n⚽ 14h45 · Leuven x Koge · Champions Feminina · ESPN 4\n⚽ 17h · Juventus x Lyon · Champions Feminina · ESPN\n⚽ 17h · Benfica x Áustria Viena · Champions Feminina · Disney+\n⚽ 19h · Londrina x Náutico · Série B · Disney+\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer os horários.\n📤 Mande para quem vai ver o jogo com você.\n\nQual jogo você vai assistir hoje? 👇\nSiga @jogosnatela para os resultados e a agenda todo dia de manhã.\n\n#futebol #jogosdehoje #futebolfeminino #copadobrasilfeminina #championsfeminina #flamengo #internacional"
+   }
+  ]
+ }
+}
