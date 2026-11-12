@@ -1,3 +1,4 @@
 NADA para tatame-lutas (judo tatami mat)
 NADA para judo-tatame (judo tatami mat competition)
+Openverse falhou para ringue-lutas: HTTP Error 504: Gateway Timeout
 NADA para ringue-lutas (empty boxing ring)
