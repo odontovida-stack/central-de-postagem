@@ -473,5 +473,35 @@
   {
     "nome": "camboriu-praia",
     "busca": "Balneário Camboriú beach skyline"
+  },
+  {
+    "nome": "rio-carnaval-sapucai-1",
+    "busca": "Sambódromo Marquês de Sapucaí desfile carnaval",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-carnaval-sapucai-2",
+    "busca": "Sambódromo Marquês de Sapucaí desfile carnaval",
+    "opcao": 2
+  },
+  {
+    "nome": "rio-carnaval-sapucai-3",
+    "busca": "Rio carnival Sambadrome parade night",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-carnaval-sapucai-4",
+    "busca": "Rio carnival Sambadrome parade night",
+    "opcao": 2
+  },
+  {
+    "nome": "rio-carnaval-bloco",
+    "busca": "bloco de carnaval Rio de Janeiro rua",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-carnaval-fantasia",
+    "busca": "escola de samba fantasia plumas Sapucaí",
+    "opcao": 1
   }
 ]
