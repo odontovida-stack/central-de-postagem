@@ -1,0 +1,1134 @@
+{
+  "semana": "16 a 22 de novembro de 2026 (estreias: 13 a 19/11)",
+  "apurado_em": "2026-11-12",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-13T09:00:00-03:00",
+        "sufixo": "estreias-da-semana",
+        "alt": "Estreias da semana de 13 a 19 de novembro: 30 estreias, 19 filmes e 11 séries, por plataforma, e o Top 10 da Netflix no Brasil",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "cinema-sala",
+            "pilula": "13–19 NOV",
+            "chamada": "ESTREIAS DA SEMANA · 13 a 19/11",
+            "grande": "30",
+            "titulo": "estreias esta semana",
+            "caixas": [
+              [
+                "Filmes",
+                "19"
+              ],
+              [
+                "Séries",
+                "11"
+              ]
+            ],
+            "nota": "Netflix, Prime Video, HBO Max, Globoplay, Apple TV e cinema",
+            "fonte": "Fontes: Ovício · Omelete · Oficina da Net · AdoroCinema · Paris Filmes",
+            "cta": "Arraste →",
+            "alt": "Capa: 30 estreias esta semana, de 13 a 19 de novembro: 19 filmes e 11 séries"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "13–19 NOV",
+            "chamada": "OS 4 DESTAQUES",
+            "titulo": "O mais esperado",
+            "itens": [
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Jogos Vorazes: Amanhecer na Colheita",
+                "detalhe": "Cinema · a juventude de Haymitch nos 50º Jogos"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Os Altruístas",
+                "detalhe": "Netflix · minissérie sobre a ascensão da FTX"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Eu Sou o Rocky",
+                "detalhe": "Cinema · como Stallone lutou para estrelar Rocky"
+              },
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "12 12 12",
+                "detalhe": "Apple TV · assalto com Anthony Mackie e Jamie Dornan"
+              }
+            ],
+            "fonte": "Fontes: Paris Filmes · Omelete · Ingresso.com",
+            "cta": "Arraste →",
+            "alt": "Os 4 destaques: Jogos Vorazes: Amanhecer na Colheita (cinema, 19/11), Os Altruístas (Netflix, 19/11), Eu Sou o Rocky (cinema, 19/11) e 12 12 12 (Apple TV, 13/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "13–19 NOV",
+            "chamada": "NETFLIX",
+            "titulo": "Na Netflix",
+            "itens": [
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "O Crime de Pazos",
+                "detalhe": "série"
+              },
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "Porrada",
+                "detalhe": "filme"
+              },
+              {
+                "data": "15/11",
+                "sub": "DOM",
+                "titulo": "O Cinema por Philomena Cunk",
+                "detalhe": "série · comédia em falso documentário"
+              },
+              {
+                "data": "18/11",
+                "sub": "QUA",
+                "titulo": "Os 12 Signos de Valentina",
+                "detalhe": "série · brasileira"
+              },
+              {
+                "data": "18/11",
+                "sub": "QUA",
+                "titulo": "Conquistando o Shopping",
+                "detalhe": "série · reality"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Os Altruístas",
+                "detalhe": "série · minissérie, 8 episódios"
+              }
+            ],
+            "fonte": "Fontes: Ovício · Olhar Digital · GameOverdrive · Omelete",
+            "cta": "Arraste →",
+            "alt": "Netflix: O Crime de Pazos e Porrada (13/11), O Cinema por Philomena Cunk (15/11), Os 12 Signos de Valentina e Conquistando o Shopping (18/11) e Os Altruístas (19/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "13–19 NOV",
+            "chamada": "PRIME VIDEO",
+            "titulo": "No Prime Video",
+            "itens": [
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "Refém por um Fio",
+                "detalhe": "filme"
+              },
+              {
+                "data": "14/11",
+                "sub": "SÁB",
+                "titulo": "Obsessão",
+                "detalhe": "filme"
+              },
+              {
+                "data": "15/11",
+                "sub": "DOM",
+                "titulo": "The Chosen: Os Escolhidos · 6ª temp.",
+                "detalhe": "série"
+              },
+              {
+                "data": "18/11",
+                "sub": "QUA",
+                "titulo": "Madden",
+                "detalhe": "filme"
+              }
+            ],
+            "fonte": "Fonte: Oficina da Net",
+            "cta": "Arraste →",
+            "alt": "Prime Video: Refém por um Fio (13/11), Obsessão (14/11), The Chosen 6ª temporada (15/11) e Madden (18/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "13–19 NOV",
+            "chamada": "HBO MAX",
+            "titulo": "Na HBO Max",
+            "itens": [
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "Noite de Paz",
+                "detalhe": "série"
+              },
+              {
+                "data": "14/11",
+                "sub": "SÁB",
+                "titulo": "Bilhete de Fuga",
+                "detalhe": "filme"
+              },
+              {
+                "data": "14/11",
+                "sub": "SÁB",
+                "titulo": "Presente",
+                "detalhe": "série"
+              },
+              {
+                "data": "18/11",
+                "sub": "QUA",
+                "titulo": "A Mula",
+                "detalhe": "filme"
+              }
+            ],
+            "fonte": "Fontes: Olhar Digital · Oficina da Net",
+            "cta": "Arraste →",
+            "alt": "HBO Max: Noite de Paz (13/11), Bilhete de Fuga e Presente (14/11) e A Mula (18/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "13–19 NOV",
+            "chamada": "GLOBOPLAY",
+            "titulo": "No Globoplay",
+            "itens": [
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "Especial Romances de Natal",
+                "detalhe": "filme · 5 filmes de Natal"
+              },
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "O Shaolin do Sertão 2",
+                "detalhe": "filme · no Telecine"
+              },
+              {
+                "data": "16/11",
+                "sub": "SEG",
+                "titulo": "Minha Nada Mole Vida",
+                "detalhe": "série"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Arcanjo Renegado · 5ª temp., parte 2",
+                "detalhe": "série"
+              }
+            ],
+            "fonte": "Fontes: Portal TV e Streaming · Antenados",
+            "cta": "Arraste →",
+            "alt": "Globoplay: Especial Romances de Natal com 5 filmes e O Shaolin do Sertão 2 (13/11), Minha Nada Mole Vida (16/11) e Arcanjo Renegado 5ª temporada parte 2 (19/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "13–19 NOV",
+            "chamada": "APPLE TV",
+            "titulo": "Na Apple TV",
+            "itens": [
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "12 12 12",
+                "detalhe": "série · 2 episódios, depois 1 por semana"
+              },
+              {
+                "data": "13/11",
+                "sub": "SEX",
+                "titulo": "A Arte de Ser Heumann",
+                "detalhe": "filme"
+              }
+            ],
+            "fonte": "Fontes: Omelete · GameOverdrive",
+            "cta": "Arraste →",
+            "alt": "Apple TV: 12 12 12 e A Arte de Ser Heumann (13/11)"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "QUI 19/11",
+            "chamada": "CINEMA",
+            "titulo": "Nos cinemas",
+            "itens": [
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Jogos Vorazes: Amanhecer na Colheita",
+                "detalhe": "filme · sessões antecipadas em 18/11"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Eu Sou o Rocky",
+                "detalhe": "filme · de Peter Farrelly"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Ramayana: O Nascimento de uma Lenda",
+                "detalhe": "filme · épico indiano"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Josephine: Fragmentos de um Crime",
+                "detalhe": "filme"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "Camisas Negras",
+                "detalhe": "filme"
+              },
+              {
+                "data": "19/11",
+                "sub": "QUI",
+                "titulo": "As Crianças Estão Bem",
+                "detalhe": "filme"
+              }
+            ],
+            "fonte": "Fontes: AdoroCinema · Paris Filmes · Ingresso.com",
+            "cta": "Arraste →",
+            "alt": "Cinema, quinta 19/11: Jogos Vorazes: Amanhecer na Colheita, Eu Sou o Rocky, Ramayana, Josephine: Fragmentos de um Crime, Camisas Negras e As Crianças Estão Bem"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "02–08/11",
+            "chamada": "NETFLIX BRASIL · SEMANA PASSADA",
+            "titulo": "Top 10 da semana",
+            "topicos": [
+              "Séries: 1 Dom de Iludir · 2 Lupin P4 · 3 A Couple of Lies · 4 Um Trabalho do Inferno · 5 Lupin P1",
+              "6 Taken: Natalee Holloway · 7 Lupin P3 · 8 Lupin P2 · 9 Anestesia · 10 Where the Mask Ends",
+              "Filmes: 1 Minha Melhor Amiga · 2 Colisão Implacável · 3 O Atirador: A Última Bala · 4 The One · 5 Premonição 6",
+              "6 Thanksgiving · 7 Heist · 8 A Dog's Perfect Christmas · 9 Sing · 10 Christmas at the Palace"
+            ],
+            "fonte": "Fonte: Netflix Top 10 (Tudum) · títulos como no ranking oficial",
+            "cta": "Salve a lista",
+            "alt": "Top 10 da Netflix no Brasil de 02 a 08/11. Séries: Dom de Iludir, Lupin Parte 4, A Couple of Lies, Um Trabalho do Inferno, Lupin Parte 1, Taken: Natalee Holloway, Lupin Partes 3 e 2, Anestesia e Where the Mask Ends. Filmes: Minha Melhor Amiga, Colisão Implacável, O Atirador: A Última Bala, The One, Premonição 6, Thanksgiving, Heist, A Dog's Perfect Christmas, Sing e Christmas at the Palace"
+          }
+        ],
+        "legenda": "🎬 30 estreias esta semana (13 a 19/11): 19 filmes e 11 séries\n\nOs 4 destaques:\n🏹 Qui 19/11 · Jogos Vorazes: Amanhecer na Colheita · cinema (sessões antecipadas em 18/11)\n💸 Qui 19/11 · Os Altruístas · Netflix\n🥊 Qui 19/11 · Eu Sou o Rocky · cinema\n💎 Sex 13/11 · 12 12 12 · Apple TV\n\n📺 Netflix: O Crime de Pazos e Porrada (13), Philomena Cunk (15), Os 12 Signos de Valentina e Conquistando o Shopping (18) e Os Altruístas (19)\n📦 Prime Video: Refém por um Fio (13), Obsessão (14), The Chosen T6 (15) e Madden (18)\n🎞️ HBO Max: Noite de Paz (13), Bilhete de Fuga e Presente (14) e A Mula (18)\n🟠 Globoplay: 5 filmes de Natal e O Shaolin do Sertão 2 (13), Minha Nada Mole Vida (16) e Arcanjo Renegado T5 parte 2 (19)\n🍎 Apple TV: 12 12 12 e A Arte de Ser Heumann (13)\n🍿 Cinema, qui 19/11: Jogos Vorazes, Eu Sou o Rocky, Ramayana, Josephine, Camisas Negras e As Crianças Estão Bem (os destaques entre 14 lançamentos)\n🏆 No último slide: o Top 10 da Netflix no Brasil da semana passada\n⚡ Na sexta que vem (20/11) tem Percy Jackson T3 no Disney+\n\n📌 Salve para escolher o que ver no fim de semana\n📤 Mande para quem divide o sofá com você\n\nQual vai ser o primeiro? Comenta aí 👇\nSiga @tudooqueestreia para saber tudo o que estreia, toda sexta.\n\nFontes: Ovício, Olhar Digital, Omelete, Oficina da Net, GameOverdrive, Portal TV e Streaming, AdoroCinema, Paris Filmes, Ingresso.com e Netflix Top 10.\n\n#estreias #netflix #primevideo #hbomax #globoplay #cinema #jogosvorazes #series"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-18T20:00:00-03:00",
+        "sufixo": "estreias-mais-esperadas",
+        "alt": "As estreias mais esperadas: Jogos Vorazes: Amanhecer na Colheita nos cinemas em 19/11 e Percy Jackson e os Olimpianos, 3ª temporada, no Disney+ em 20/11",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "cinema-sala",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "chamada": "CINEMA E STREAMING · 19 E 20/11",
+            "titulo": "2 estreias para o fim de semana",
+            "caixas": [
+              [
+                "Cinema · qui 19/11",
+                "Jogos Vorazes"
+              ],
+              [
+                "Disney+ · sex 20/11",
+                "Percy Jackson T3"
+              ]
+            ],
+            "nota": "Sem spoiler. Arraste para saber do que se trata.",
+            "fonte": "Fontes: Paris Filmes · Omelete · Disney+",
+            "cta": "Arraste →",
+            "alt": "Capa: as 2 estreias mais esperadas: Jogos Vorazes: Amanhecer na Colheita no cinema na quinta 19/11 e Percy Jackson 3ª temporada no Disney+ na sexta 20/11"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "chamada": "O ESSENCIAL",
+            "titulo": "Onde e quando",
+            "topicos": [
+              "Jogos Vorazes: Amanhecer na Colheita · cinemas a partir de qui 19/11",
+              "Sessões antecipadas na quarta, 18/11, inclusive IMAX",
+              "Percy Jackson e os Olimpianos, 3ª temporada · Disney+, sex 20/11",
+              "Percy sai com 2 episódios; os outros, em pares, até 11/12"
+            ],
+            "fonte": "Fontes: Paris Filmes · Omelete",
+            "alt": "Jogos Vorazes: Amanhecer na Colheita estreia nos cinemas em 19/11, com sessões antecipadas em 18/11. Percy Jackson 3ª temporada chega ao Disney+ em 20/11 com 2 episódios; os outros saem em pares até 11/12"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "CINEMA · QUI 19/11",
+            "chamada": "JOGOS VORAZES: AMANHECER NA COLHEITA",
+            "titulo": "Do que se trata",
+            "texto": "Vinte e quatro anos antes do primeiro filme, um Haymitch de 16 anos é sorteado para os 50º Jogos Vorazes, com o dobro de tributos na arena. Adapta o livro de Suzanne Collins.",
+            "topicos": [
+              "Joseph Zada é Haymitch",
+              "Ralph Fiennes, Elle Fanning, Jesse Plemons e Kieran Culkin"
+            ],
+            "fonte": "Fontes: Paris Filmes · Ingresso.com · GameOverdrive",
+            "alt": "Jogos Vorazes: Amanhecer na Colheita se passa 24 anos antes do primeiro filme: Haymitch, aos 16 anos, entra nos 50º Jogos. Elenco: Joseph Zada, Ralph Fiennes, Elle Fanning, Jesse Plemons e Kieran Culkin"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "CINEMA · QUI 19/11",
+            "chamada": "OS NÚMEROS",
+            "titulo": "O maior da franquia",
+            "grande": "2h38",
+            "texto": "É o filme mais longo da saga. A direção é de Francis Lawrence, o mesmo de Em Chamas e A Esperança. Distribuição da Paris Filmes; a classificação indicativa ainda não foi divulgada.",
+            "fonte": "Fontes: Omelete · Paris Filmes",
+            "alt": "Jogos Vorazes: Amanhecer na Colheita tem 2h38, o mais longo da franquia, com direção de Francis Lawrence; classificação indicativa ainda não divulgada"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "DISNEY+ · SEX 20/11",
+            "chamada": "PERCY JACKSON · 3ª TEMPORADA",
+            "titulo": "Do que se trata",
+            "texto": "Percy e os amigos partem numa missão de resgate e conhecem os irmãos Nico e Bianca di Angelo. A temporada adapta A Maldição do Titã, o 3º livro de Rick Riordan.",
+            "topicos": [
+              "Walker Scobell, Leah Sava Jeffries e Aryan Simhadri",
+              "8 episódios · classificação: 12 anos"
+            ],
+            "fonte": "Fontes: Disney+ · Omelete · Legião dos Heróis",
+            "alt": "Percy Jackson 3ª temporada adapta A Maldição do Titã: Percy e os amigos conhecem Nico e Bianca di Angelo. Elenco: Walker Scobell, Leah Sava Jeffries e Aryan Simhadri. 8 episódios, 12 anos"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "chamada": "A VISÃO DA PÁGINA",
+            "titulo": "Por que vale ver",
+            "texto": "Na nossa visão, Jogos Vorazes é programa de tela grande: as primeiras reações da crítica em Londres já falam em melhor filme da saga. Percy é a pedida para maratonar em família, dois episódios por semana até dezembro.",
+            "fonte": "Fontes: Diário do Pará · Omelete · opinião da página",
+            "alt": "Na visão da página, Jogos Vorazes vale a tela grande, com reações iniciais chamando de melhor da saga, e Percy Jackson é para ver em família, dois episódios por semana"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "cinema-sala",
+            "pilula": "AS ESTREIAS MAIS ESPERADAS",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você vai ver primeiro?",
+            "opcoes": [
+              "Jogos Vorazes no cinema",
+              "Percy Jackson no Disney+",
+              "Os dois no fim de semana",
+              "Nenhum dos dois"
+            ],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🏹 Uma volta a Panem e um semideus de volta: as duas estreias que todo mundo espera chegam nesta semana.\n\n🍿 Jogos Vorazes: Amanhecer na Colheita · cinemas a partir de qui 19/11 (sessões antecipadas na quarta, 18/11)\n🎭 Haymitch aos 16 anos nos 50º Jogos · com Joseph Zada, Ralph Fiennes, Elle Fanning, Jesse Plemons e Kieran Culkin · 2h38\n⚡ Percy Jackson e os Olimpianos, 3ª temporada · Disney+, sex 20/11, com 2 episódios (8 no total, até 11/12) · 12 anos\n📖 Adapta A Maldição do Titã, de Rick Riordan\n\nSem spoiler. A opinião nos slides é a visão da página.\n\n📌 Salve para não esquecer as datas\n📤 Mande para quem vai com você ao cinema\n\nQual você vai ver primeiro? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFontes: Paris Filmes, Ingresso.com, Omelete, GameOverdrive, Disney+, Legião dos Heróis e Diário do Pará.\n\n#jogosvorazes #amanhecernacolheita #percyjackson #disneyplus #cinema #estreias #series"
+      }
+    ],
+    "lancamentosdegames": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-16T09:00:00-03:00",
+        "sufixo": "semana",
+        "pilula": "16–22 NOV",
+        "chamada": "LANÇAMENTOS DA SEMANA · PREÇO EM 12/11",
+        "titulo": "Semana do GTA VI",
+        "itens": [
+          {
+            "data": "16/11",
+            "sub": "SEG",
+            "titulo": "Spirit Crossing",
+            "detalhe": "PC · Switch · Switch 2 · preço a confirmar"
+          },
+          {
+            "data": "17/11",
+            "sub": "TER",
+            "titulo": "Moonlight Peaks",
+            "detalhe": "PS5 (o jogo já saiu no PC e no Switch) · preço a confirmar"
+          },
+          {
+            "data": "17/11",
+            "sub": "TER",
+            "titulo": "Ranger's Path: National Park Simulator",
+            "detalhe": "PC · PS5 · Xbox · preço a confirmar"
+          },
+          {
+            "data": "19/11",
+            "sub": "QUI · 0h",
+            "titulo": "GTA VI",
+            "detalhe": "PS5 · Xbox Series · R$ 449,90 na PS Store e na Xbox"
+          }
+        ],
+        "fonte": "Fontes: Rockstar · Exame · GameBlast · Gamespress · Worthplaying",
+        "cta": "Qual você vai jogar?",
+        "alt": "Lançamentos de games de 16 a 22 de novembro: Spirit Crossing (16/11), Moonlight Peaks no PS5 e Ranger's Path (17/11) e GTA VI (19/11, à 0h) por R$ 449,90",
+        "legenda": "🎮 A semana mais esperada do ano: GTA VI sai na quinta! Os lançamentos, com preço em real (conferido em 12/11):\n\n🌿 Seg 16/11 · Spirit Crossing · PC, Switch e Switch 2 · preço a confirmar\n🧛 Ter 17/11 · Moonlight Peaks · chega ao PS5 (já saiu no PC e no Switch) · preço a confirmar\n🌲 Ter 17/11 · Ranger's Path: National Park Simulator · PC, PS5 e Xbox Series · preço a confirmar\n🌴 Qui 19/11, à 0h · GTA VI · PS5 e Xbox Series · R$ 449,90 (Standard) e R$ 549,90 (Ultimate)\n\n📌 Salve para não perder as datas\n📤 Mande para quem vai virar a noite jogando com você\n\nQual você vai jogar primeiro? 👇\nSiga @lancamentosdegames para os lançamentos e preços toda semana.\n\nFontes: Rockstar, Exame, GameBlast, Gamespress e Worthplaying.\n\n#games #lancamentos #gta6 #gtavi #ps5 #xbox #nintendoswitch2"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-17T19:00:00-03:00",
+        "sufixo": "game-da-semana",
+        "alt": "O game da semana: GTA VI sai na quinta, 19/11, à 0h, no PS5 e no Xbox Series, por R$ 449,90 (Standard) e R$ 549,90 (Ultimate)",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "game-controle",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "PS5 · XBOX SERIES · QUINTA, 19/11",
+            "titulo": "GTA VI: 5 coisas antes de quinta",
+            "caixas": [
+              [
+                "Preço",
+                "R$ 449,90"
+              ],
+              [
+                "Libera",
+                "19/11 à 0h"
+              ]
+            ],
+            "nota": "Preço da edição Standard em 12/11. Arraste.",
+            "fonte": "Fontes: Rockstar · Exame",
+            "cta": "Arraste →",
+            "alt": "Capa: GTA VI, 5 coisas para saber antes de quinta; R$ 449,90 e liberação em 19/11 à meia-noite"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "1 · O ESSENCIAL",
+            "titulo": "O que é e quando sai",
+            "topicos": [
+              "Volta a Vice City, no estado de Leonida",
+              "Protagonistas: Jason e Lucia, depois de um golpe que dá errado",
+              "Só PS5 e Xbox Series · sem versão de PC anunciada",
+              "Libera à 0h do dia 19/11, no horário local"
+            ],
+            "fonte": "Fontes: Rockstar · Game Developer",
+            "alt": "GTA VI se passa em Vice City, no estado de Leonida, com Jason e Lucia. Sai só para PS5 e Xbox Series, à meia-noite de 19/11"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "2 · QUANTO CUSTA",
+            "titulo": "As edições",
+            "topicos": [
+              "Standard: R$ 449,90 (PS Store e Xbox)",
+              "Ultimate: R$ 549,90, só digital, com itens extras",
+              "Upgrade da Standard para a Ultimate: R$ 100 na Xbox",
+              "Pré-venda até 19/11: pacote Vintage Vice City"
+            ],
+            "fonte": "Fontes: Exame · NC News · preços em 12/11",
+            "alt": "Edições: Standard por R$ 449,90 e Ultimate por R$ 549,90, só digital; upgrade de R$ 100 na Xbox; quem compra na pré-venda até 19/11 leva o pacote Vintage Vice City"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "3 · ESPAÇO NO CONSOLE",
+            "titulo": "Libere espaço",
+            "grande": "212 GB",
+            "texto": "É o tamanho máximo, segundo a Rockstar, e varia conforme o console. O pré-load está liberado desde 10/11 para quem comprou a versão digital.",
+            "fonte": "Fonte: Rockstar (FAQ do pré-load)",
+            "alt": "GTA VI pode ocupar até 212 GB; o pré-load está liberado desde 10/11 para a versão digital"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "4 · VERSÃO EM CAIXA",
+            "titulo": "Caixa sem disco",
+            "texto": "A versão física vem só com um código de download, sem disco. Código de PlayStation comprado no Brasil só funciona em conta brasileira.",
+            "fonte": "Fonte: Exame",
+            "alt": "A versão em caixa de GTA VI traz só um código de download, sem disco; código de PlayStation do Brasil só funciona em conta brasileira"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "5 · A VISÃO DA PÁGINA",
+            "titulo": "E as notas?",
+            "texto": "Até 12/11, nenhuma análise tinha saído no OpenCritic nem no Metacritic, e a Rockstar não confirmou a data. Na nossa visão, quem esperou 13 anos pode esperar as primeiras notas antes de pagar R$ 549,90 na Ultimate.",
+            "fonte": "Fontes: OpenCritic · Metacritic · opinião da página",
+            "alt": "Até 12/11 não havia notas de GTA VI no OpenCritic nem no Metacritic. Na visão da página, vale ver as primeiras análises antes de comprar a edição mais cara"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "game-controle",
+            "pilula": "O GAME DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Vai comprar?",
+            "opcoes": [
+              "Já comprei na pré-venda",
+              "Vou comprar no dia",
+              "Vou esperar baixar o preço",
+              "Não vou jogar"
+            ],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🌴 Faltam 2 dias! GTA VI chega na quinta, 19/11, à meia-noite. O que você precisa saber antes:\n\n🎮 GTA VI · só PS5 e Xbox Series (sem PC anunciado)\n📅 Libera à 0h de 19/11, no horário local\n💰 Standard: R$ 449,90 · Ultimate: R$ 549,90, só digital (preços em 12/11)\n🎁 Pré-venda até 19/11: pacote Vintage Vice City\n💾 Até 212 GB · pré-load liberado desde 10/11\n📦 A versão em caixa vem só com código, sem disco\n⭐ Até 12/11, ainda sem notas no OpenCritic e no Metacritic. Na nossa visão, vale esperar as primeiras análises antes de pegar a Ultimate.\n\n📌 Salve para não esquecer de liberar espaço\n📤 Mande para quem vai jogar com você\n\nVai comprar? Responda A, B, C ou D 👇\nSiga @lancamentosdegames para os lançamentos e preços toda semana.\n\nFontes: Rockstar, Game Developer, Exame, NC News, OpenCritic e Metacritic.\n\n#gta6 #gtavi #rockstargames #ps5 #xboxseriesx #games #gamedasemana"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-18T18:00:00-03:00",
+        "sufixo": "gta-meia-noite",
+        "foto": "game-controle",
+        "pilula": "FALTAM 6 HORAS",
+        "chamada": "GTA VI · LIBERA À MEIA-NOITE",
+        "grande": "0h",
+        "titulo": "GTA VI libera hoje à meia-noite",
+        "caixas": [
+          [
+            "Quando",
+            "Qui 19/11 · 0h"
+          ],
+          [
+            "Onde",
+            "PS5 e Xbox Series"
+          ]
+        ],
+        "nota": "Meia-noite no horário local. Comprou digital? Faça o pré-load antes (até 212 GB).",
+        "fonte": "Fonte: Rockstar",
+        "cta": "Vai virar a noite?",
+        "alt": "GTA VI libera à meia-noite de quinta, 19/11, no PS5 e no Xbox Series; o download pode chegar a 212 GB",
+        "legenda": "🕛 É hoje! À meia-noite, GTA VI libera no Brasil.\n\n🎮 GTA VI · PS5 e Xbox Series\n📅 Quinta, 19/11, à 0h (meia-noite no horário local, segundo a Rockstar)\n💾 Até 212 GB: faça o pré-load antes para jogar na hora\n💰 R$ 449,90 (Standard) e R$ 549,90 (Ultimate) na PS Store e na Xbox (preço em 12/11)\n\n📌 Salve para lembrar à noite\n📤 Mande para quem vai virar a noite jogando com você\n\nVai jogar à meia-noite? Sim ou não 👇\nSiga @lancamentosdegames para tudo sobre o lançamento.\n\nFontes: Rockstar e Exame.\n\n#gta6 #gtavi #rockstargames #ps5 #xbox #games #lancamentos"
+      }
+    ],
+    "jogosnatela": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-16T12:00:00-03:00",
+        "sufixo": "semana",
+        "pilula": "16–22 NOV",
+        "chamada": "JOGOS DA SEMANA · HORÁRIO DE BRASÍLIA",
+        "titulo": "Semana de decisão",
+        "itens": [
+          {
+            "data": "17/11",
+            "sub": "TER · 7h",
+            "titulo": "Singapura x Brasil",
+            "detalhe": "Amistoso · Globo · SporTV · GETV",
+            "gratis": true
+          },
+          {
+            "data": "18/11",
+            "sub": "QUA · 20h30",
+            "titulo": "Cruzeiro x Palmeiras",
+            "detalhe": "Brasileirão · transmissão a confirmar"
+          },
+          {
+            "data": "18/11",
+            "sub": "QUA · 20h30",
+            "titulo": "Flamengo x Athletico-PR",
+            "detalhe": "Brasileirão · transmissão a confirmar"
+          },
+          {
+            "data": "19/11",
+            "sub": "QUI · 21h30",
+            "titulo": "São Paulo x Fluminense",
+            "detalhe": "Brasileirão · transmissão a confirmar"
+          },
+          {
+            "data": "21/11",
+            "sub": "SÁB · 16h30",
+            "titulo": "Palmeiras x Flamengo",
+            "detalhe": "Brasileirão · Globo · GETV · Premiere",
+            "gratis": true
+          },
+          {
+            "data": "21/11",
+            "sub": "SÁB · 19h30",
+            "titulo": "Atlético-MG x Boca Juniors",
+            "detalhe": "Final da Sul-Americana · SBT · ESPN · Disney+",
+            "gratis": true
+          }
+        ],
+        "fonte": "Fontes: CBF via Lance e CNN Brasil · Máquina do Esporte · Conmebol via Terra",
+        "cta": "Salve a agenda",
+        "alt": "Jogos de 16 a 22 de novembro, horário de Brasília: Singapura x Brasil (17/11, 7h), Cruzeiro x Palmeiras e Flamengo x Athletico-PR (18/11, 20h30), São Paulo x Fluminense (19/11, 21h30), Palmeiras x Flamengo (21/11, 16h30) e a final da Sul-Americana, Atlético-MG x Boca Juniors (21/11, 19h30)",
+        "legenda": "⚽ Semana pesada: último jogo da Seleção no ano, duas rodadas do Brasileirão e, no sábado, Palmeiras x Flamengo e a final da Sul-Americana!\n\n🇧🇷 Ter 17/11, 7h · Singapura x Brasil · amistoso · Globo (grátis), SporTV e GETV\n🦊 Qua 18/11, 20h30 · Cruzeiro x Palmeiras · Brasileirão\n🔴 Qua 18/11, 20h30 · Flamengo x Athletico-PR · Brasileirão\n🇾🇪 Qui 19/11, 21h30 · São Paulo x Fluminense · Brasileirão\n🔥 Sáb 21/11, 16h30 · Palmeiras x Flamengo · Brasileirão · Globo (grátis), GETV e Premiere\n🏆 Sáb 21/11, 19h30 · Atlético-MG x Boca Juniors · final da Sul-Americana, em Barranquilla · SBT (grátis), ESPN, Disney+ e Paramount+\n\n📺 As transmissões dos jogos de quarta e quinta ainda não foram confirmadas. A gente avisa nos stories.\n\n📌 Salve para não perder o horário\n📤 Mande para quem vê futebol com você\n\nQual jogo você não perde? Comenta aí 👇\nSiga @jogosnatela para a agenda toda semana.\n\nFontes: CBF (via Lance e CNN Brasil), Gazeta Esportiva, Máquina do Esporte, Conmebol (via Terra e CNN Brasil) e MKT Esportivo.\n\n#brasileirao #selecaobrasileira #sulamericana #palmeiras #flamengo #atleticomg #futebol #ondeassistir"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-17T18:00:00-03:00",
+        "sufixo": "palmeiras-flamengo",
+        "foto": "futebol-gramado",
+        "pilula": "BRASILEIRÃO · 36ª RODADA",
+        "chamada": "O JOGO QUE PODE DECIDIR O TÍTULO",
+        "grande": "21/11",
+        "titulo": "Palmeiras x Flamengo",
+        "caixas": [
+          [
+            "Hoje",
+            "Flamengo 76 · Palmeiras 73"
+          ],
+          [
+            "Onde assistir",
+            "Globo · GETV · Premiere"
+          ]
+        ],
+        "nota": "Sábado, 16h30 (Brasília), no Nubank Parque. Os dois jogam antes, na quarta.",
+        "fonte": "Fontes: CBF via Gazeta Esportiva · GCMais",
+        "cta": "Ative o lembrete",
+        "alt": "Palmeiras x Flamengo, sábado 21/11 às 16h30, no Nubank Parque: o Flamengo tem 76 pontos e o Palmeiras 73; transmissão da Globo, GETV e Premiere",
+        "legenda": "🔥 3 pontos separam os dois. No sábado, eles se enfrentam!\n\nPalmeiras x Flamengo · 36ª rodada do Brasileirão\n📊 Flamengo 76 x 73 Palmeiras, depois de 34 rodadas\n📅 Sábado, 21/11, às 16h30 (Brasília)\n📍 Nubank Parque, São Paulo\n📺 Globo (TV aberta, grátis), GETV e Premiere\n🔙 No 1º turno, Palmeiras 3 x 0 no Maracanã\n⏳ Antes, na quarta (18/11): Cruzeiro x Palmeiras e Flamengo x Athletico-PR\n\n📌 Salve para não esquecer\n📤 Mande para o palmeirense ou o flamenguista da sua vida\n\nQuem leva o título? Palmeiras ou Flamengo? 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFontes: CBF (via Gazeta Esportiva e Bolavip) e GCMais.\n\n#brasileirao #palmeiras #flamengo #palmeirasxflamengo #futebol #ondeassistir"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-20T19:00:00-03:00",
+        "sufixo": "jogo-da-semana",
+        "alt": "O jogo da semana: Atlético-MG x Boca Juniors, final da Sul-Americana, sábado 21/11 às 19h30 de Brasília, em Barranquilla, com SBT, ESPN, Disney+ e Paramount+",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "estadio-maracana",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "FINAL DA SUL-AMERICANA · SÁBADO, 21/11",
+            "titulo": "Galo x Boca: 5 coisas da final",
+            "caixas": [
+              [
+                "Quando",
+                "Sáb 21/11 · 19h30"
+              ],
+              [
+                "Onde assistir",
+                "SBT (grátis) · ESPN"
+              ]
+            ],
+            "nota": "Jogo único em Barranquilla (Colômbia). Horário de Brasília.",
+            "fonte": "Fontes: Conmebol via Terra · MKT Esportivo",
+            "cta": "Arraste →",
+            "alt": "Capa: Atlético-MG x Boca Juniors, final da Sul-Americana, sábado 21/11, 19h30, no SBT e na ESPN"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "O QUE ESTÁ EM JOGO",
+            "titulo": "Taça, vaga e US$ 10 milhões",
+            "topicos": [
+              "O Galo busca o 1º título da Sul-Americana",
+              "O Boca quer o 3º (ganhou em 2004 e 2005)",
+              "Campeão leva US$ 10 milhões e vaga na Libertadores 2027",
+              "Jogo único no Metropolitano, em Barranquilla"
+            ],
+            "fonte": "Fontes: O Liberal · Trivela · MKT Esportivo",
+            "alt": "O que está em jogo: o primeiro título do Atlético-MG ou o terceiro do Boca; o campeão leva 10 milhões de dólares e vaga na Libertadores 2027"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "A CAMPANHA",
+            "titulo": "Como chegaram",
+            "topicos": [
+              "Galo: 1º do grupo B; eliminou Bragantino e Santos (nos pênaltis)",
+              "Na semi, 3 x 2 no agregado sobre o Montevideo City Torque",
+              "Boca: veio da Libertadores; passou O'Higgins, Recoleta e São Paulo",
+              "Na semi, virou sobre o Vasco: 3 x 1 no Maracanã"
+            ],
+            "fonte": "Fontes: Atlético-MG · O Liberal · Metrópoles",
+            "alt": "Campanhas: o Atlético foi 1º do grupo e eliminou Bragantino, Santos e Montevideo City Torque; o Boca veio da Libertadores e eliminou O'Higgins, Deportivo Recoleta, São Paulo e Vasco"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "TÉCNICOS E MOMENTO",
+            "titulo": "Quem comanda",
+            "topicos": [
+              "Galo: Eduardo Domínguez, ex-Estudiantes, 7 títulos como técnico",
+              "Boca: Rodolfo \"Vasco\" Arruabarrena",
+              "Galo é o 7º do Brasileirão (após a 34ª rodada)",
+              "Boca ganhou a Tabla Anual 2026 da Argentina"
+            ],
+            "fonte": "Fontes: Atlético-MG · O Tempo · GCMais",
+            "alt": "Técnicos: Eduardo Domínguez no Atlético-MG e Vasco Arruabarrena no Boca. O Atlético é 7º no Brasileirão; o Boca ganhou a Tabla Anual 2026"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "FIQUE DE OLHO",
+            "titulo": "Os nomes da final",
+            "topicos": [
+              "Bernard: 5 gols, entre os artilheiros da competição",
+              "Gabriel Delfim: pegou 3 pênaltis contra o Santos",
+              "Paredes e Merentiel: marcaram na virada no Maracanã",
+              "Desfalque do Galo: Alan Franco, suspenso"
+            ],
+            "fonte": "Fontes: Terra · O Tempo · Metrópoles · El Destape",
+            "alt": "Fique de olho: Bernard, com 5 gols; o goleiro Gabriel Delfim, que pegou 3 pênaltis contra o Santos; Paredes e Merentiel, do Boca. Alan Franco, do Atlético, está suspenso"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "RETROSPECTO",
+            "titulo": "Reencontro após 33 anos",
+            "texto": "Na única final entre os dois, a Copa de Ouro de 1993, deu Boca. Na Libertadores de 2021, o Galo passou nos pênaltis. Na nossa visão, o jogo é parelho, mas o Galo precisa quebrar a escrita: perdeu as últimas 3 finais que jogou.",
+            "fonte": "Fontes: Itatiaia · O Liberal · opinião da página",
+            "alt": "Retrospecto: o Boca venceu a Copa de Ouro de 1993; o Atlético eliminou o Boca nos pênaltis na Libertadores de 2021. Na visão da página, é um jogo parelho, e o Atlético perdeu as últimas 3 finais"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "estadio-maracana",
+            "pilula": "O JOGO DA SEMANA",
+            "chamada": "SEU PALPITE",
+            "titulo": "Quem leva a Sul-Americana?",
+            "opcoes": [
+              "Galo, sem pênaltis",
+              "Galo, nos pênaltis",
+              "Boca, sem pênaltis",
+              "Boca, nos pênaltis"
+            ],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🏆 Amanhã tem final! O Galo nunca ganhou a Sul-Americana. O Boca quer a terceira.\n\n⚽ Atlético-MG x Boca Juniors · final em jogo único\n📅 Sábado, 21/11, às 19h30 (Brasília)\n📍 Estádio Metropolitano Roberto Meléndez, Barranquilla (Colômbia)\n📺 SBT (TV aberta, grátis), ESPN, Disney+ e Paramount+\n💰 O campeão leva US$ 10 milhões e vaga na Libertadores 2027\n👀 Fique de olho: Bernard e Gabriel Delfim de um lado, Paredes e Merentiel do outro\n🔙 Na Libertadores de 2021, o Galo eliminou o Boca nos pênaltis\n\nA análise nos slides é a visão da página.\n\n📌 Salve para não perder o horário\n📤 Mande para o atleticano da sua vida\n\nO palpite é seu: A, B, C ou D? 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFontes: Conmebol (via Terra e CNN Brasil), Atlético-MG, MKT Esportivo, Trivela, O Liberal, Metrópoles, O Tempo, Itatiaia, GCMais e El Destape.\n\n#sulamericana #atleticomg #galo #bocajuniors #finaldasulamericana #futebol #ondeassistir"
+      }
+    ],
+    "esportesnatela": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-16T12:30:00-03:00",
+        "sufixo": "semana",
+        "pilula": "16–22 NOV",
+        "chamada": "ESPORTES DA SEMANA · HORÁRIO DE BRASÍLIA",
+        "titulo": "6 esportes, 1 semana",
+        "itens": [
+          {
+            "data": "15–22",
+            "sub": "NOV",
+            "titulo": "ATP Finals: Luz e Matos",
+            "detalhe": "Tênis · duplas, em Turim · ESPN · Disney+"
+          },
+          {
+            "data": "16/11",
+            "sub": "SEG · 21h",
+            "titulo": "Sada Cruzeiro x Suzano",
+            "detalhe": "Vôlei · Superliga Masculina · canal a confirmar"
+          },
+          {
+            "data": "22/11",
+            "sub": "DOM · 1h",
+            "titulo": "GP de Las Vegas",
+            "detalhe": "F1 · com Bortoleto · Globo · SporTV",
+            "gratis": true
+          },
+          {
+            "data": "22/11",
+            "sub": "DOM · 10h",
+            "titulo": "GP de Portugal de MotoGP",
+            "detalhe": "MotoGP · com Diogo Moreira · ESPN 4 · Disney+"
+          },
+          {
+            "data": "22/11",
+            "sub": "DOM · 11h",
+            "titulo": "Basquete Cearense x Flamengo",
+            "detalhe": "Basquete · NBB · YouTube",
+            "gratis": true
+          },
+          {
+            "data": "22/11",
+            "sub": "DOM · 22h20",
+            "titulo": "Vikings x 49ers, no México",
+            "detalhe": "NFL · jogo internacional · canal a confirmar"
+          }
+        ],
+        "fonte": "Fontes: ATP · O Tempo · Formula 1 · Atleta Pro · LNB · CBS Sports",
+        "cta": "Salve a agenda",
+        "alt": "Esportes de 16 a 22 de novembro: Luz e Matos no ATP Finals, Sada Cruzeiro x Suzano na Superliga, GP de Las Vegas de F1, GP de Portugal de MotoGP, Basquete Cearense x Flamengo no NBB e Vikings x 49ers na Cidade do México",
+        "legenda": "🏆 Tênis, vôlei, F1, MotoGP, basquete e NFL: a semana tem brasileiro em quase tudo (horário de Brasília):\n\n🎾 15 a 22/11 · ATP Finals, em Turim · Orlando Luz e Rafael Matos nas duplas · final de duplas dom 22/11, 11h · ESPN e Disney+\n🏐 Seg 16/11, 21h · Sada Cruzeiro x Suzano · Superliga Masculina · canal a confirmar\n🏎️ Dom 22/11, 1h · GP de Las Vegas de F1 · Gabriel Bortoleto · Globo (grátis) e SporTV\n🏍️ Dom 22/11, 10h · GP de Portugal de MotoGP · Diogo Moreira · ESPN 4 e Disney+\n🏀 Dom 22/11, 11h · Basquete Cearense x Flamengo · NBB · YouTube (grátis)\n🏈 Dom 22/11, 22h20 · Vikings x 49ers, na Cidade do México · NFL · canal a confirmar\n\n📌 Salve para não perder nada\n📤 Mande para quem torce com você\n\nQual você não perde? Comenta aí 👇\nSiga @esportesnatela para a agenda de todos os esportes, toda semana.\n\nFontes: ATP Tour, Lance, O Tempo, Formula 1, GameOverdrive, Atleta Pro, LNB e CBS Sports.\n\n#esportes #atpfinals #volei #superliga #f1 #motogp #nbb #nfl"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-17T18:00:00-03:00",
+        "sufixo": "luz-matos",
+        "foto": "quadra-tenis",
+        "pilula": "TÊNIS · ATP FINALS",
+        "chamada": "UMA DUPLA 100% BRASILEIRA EM TURIM",
+        "grande": "1983",
+        "titulo": "Luz e Matos fazem história",
+        "caixas": [
+          [
+            "Títulos em 2026",
+            "4, com 2 Masters 1000"
+          ],
+          [
+            "Onde assistir",
+            "ESPN · Disney+"
+          ]
+        ],
+        "nota": "É a 1ª dupla só de brasileiros no torneio desde Motta e Kirmayr, em 1983.",
+        "fonte": "Fontes: Lance · ATP Tour",
+        "cta": "Torce com a gente?",
+        "alt": "Orlando Luz e Rafael Matos, a primeira dupla só de brasileiros no ATP Finals desde 1983, com 4 títulos em 2026, dois deles de Masters 1000",
+        "legenda": "🇧🇷 Desde 1983 o Brasil não tinha uma dupla só de brasileiros no torneio dos melhores do ano. Agora tem!\n\n🎾 Orlando Luz e Rafael Matos · ATP Finals, em Turim\n🏆 4 títulos em 2026: Masters 1000 de Montreal e de Cincinnati, Buenos Aires e Santiago\n👥 No grupo: Heliövaara/Patten (campeões de 2025), Arévalo/Pavić e Arribagé/Olivetti\n➡️ Os 2 melhores do grupo vão à semi, no sábado (21/11) · final de duplas dom 22/11, 11h (Brasília)\n📺 ESPN e Disney+\n🔙 A última dupla 100% brasileira foi Cássio Motta e Carlos Kirmayr, em 1983\n\n📌 Salve para acompanhar\n📤 Mande para quem joga tênis com você\n\nEles chegam à final? Sim ou não 👇\nSiga @esportesnatela para todos os esportes.\n\nFontes: Lance, ATP Tour e OA Sport.\n\n#tenis #atpfinals #orlandoluz #rafaelmatos #tenisbrasileiro #esportes"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-21T10:00:00-03:00",
+        "sufixo": "evento-da-semana",
+        "alt": "O evento da semana: GP de Las Vegas de F1, corrida no domingo 22/11 à 1h de Brasília, com Gabriel Bortoleto; Antonelli já é campeão e 5 pilotos brigam pelo vice",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "formula1-pista",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "F1 · GP DE LAS VEGAS · DOMINGO, 1H",
+            "titulo": "5 pilotos, 1 vice",
+            "caixas": [
+              [
+                "Corrida",
+                "Dom 22/11 · 1h"
+              ],
+              [
+                "Onde assistir",
+                "Globo (grátis) · SporTV"
+              ]
+            ],
+            "nota": "Horário de Brasília: é sábado à noite em Las Vegas.",
+            "fonte": "Fontes: Formula 1 · GameOverdrive",
+            "cta": "Arraste →",
+            "alt": "Capa: GP de Las Vegas, 5 pilotos brigam pelo vice; corrida no domingo 22/11 à 1h de Brasília, na Globo e no SporTV"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "O ESSENCIAL",
+            "titulo": "O título já tem dono",
+            "topicos": [
+              "Kimi Antonelli (Mercedes) foi campeão no México, em 01/11",
+              "É o campeão mais jovem da história da F1",
+              "Em jogo agora: o vice e o 2º lugar entre as equipes",
+              "Faltam 3 corridas: Las Vegas, Catar (29/11) e Abu Dhabi (06/12)"
+            ],
+            "fonte": "Fontes: Diário do Nordeste · O Povo (AFP)",
+            "alt": "Antonelli foi campeão no México e é o mais jovem da história; em Las Vegas a briga é pelo vice; faltam 3 corridas"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "OS NÚMEROS",
+            "titulo": "A briga pelo vice",
+            "grande": "33 pts",
+            "topicos": [
+              "Verstappen 279 · Russell 262",
+              "Hamilton 261 · Leclerc 251 · Norris 246",
+              "Antonelli, campeão, tem 390"
+            ],
+            "fonte": "Fonte: O Povo (AFP) · após o GP de São Paulo",
+            "alt": "Classificação após o GP de São Paulo: Verstappen 279, Russell 262, Hamilton 261, Leclerc 251 e Norris 246; Antonelli tem 390. São 33 pontos do 2º ao 6º"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "BRASIL NA F1",
+            "titulo": "Bortoleto e Câmara",
+            "topicos": [
+              "Bortoleto (Audi): 14º no campeonato, com 14 pontos",
+              "Melhor resultado do ano: 8º em Silverstone",
+              "Rafael Câmara estreou pela Haas em Interlagos",
+              "Câmara é titular confirmado da Haas em 2027"
+            ],
+            "fonte": "Fontes: O Povo (AFP) · TMC · Times Brasil",
+            "alt": "Gabriel Bortoleto é 14º com 14 pontos e teve como melhor resultado o 8º lugar em Silverstone; Rafael Câmara estreou pela Haas em Interlagos e é titular em 2027"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "A PISTA",
+            "titulo": "Corrida na Strip",
+            "topicos": [
+              "6,201 km e 50 voltas, na avenida dos cassinos",
+              "Recorde: 1min33s365, de Verstappen, em 2025",
+              "Vencedores: Verstappen (2023), Russell (2024) e Verstappen (2025)"
+            ],
+            "fonte": "Fontes: Formula 1 · Diário de Pernambuco",
+            "alt": "O circuito de Las Vegas tem 6,201 km e 50 voltas; recorde de Verstappen em 2025; vencedores: Verstappen em 2023 e 2025 e Russell em 2024"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "A VISÃO DA PÁGINA",
+            "titulo": "Quem chega forte",
+            "texto": "Verstappen ganhou duas das três edições e é o favorito ao vice, na nossa visão. Russell e Hamilton estão separados por 1 ponto, e é aí que a briga deve esquentar.",
+            "fonte": "Fontes: Formula 1 · O Povo (AFP) · opinião da página",
+            "alt": "Na visão da página, Verstappen, que venceu duas das três edições, é favorito ao vice; Russell e Hamilton estão separados por 1 ponto"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "formula1-pista",
+            "pilula": "O EVENTO DA SEMANA",
+            "chamada": "SEU PALPITE",
+            "titulo": "Quem leva em Las Vegas?",
+            "opcoes": [
+              "Verstappen",
+              "Antonelli",
+              "Russell",
+              "Outro piloto"
+            ],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🌃 A F1 corre na madrugada: o GP de Las Vegas larga à 1h de domingo (Brasília). O título já tem dono, mas o vice está aberto.\n\n🏎️ GP de Las Vegas · 50 voltas na Strip\n📅 Domingo, 22/11, à 1h (sábado, 20h em Las Vegas)\n🏆 Antonelli já é campeão, o mais jovem da história\n📊 Pelo vice: Verstappen 279, Russell 262, Hamilton 261, Leclerc 251 e Norris 246\n🇧🇷 Gabriel Bortoleto (Audi), 14º no campeonato\n📺 Globo (TV aberta, grátis) e SporTV\n\nA análise nos slides é a visão da página.\n\n📌 Salve para não perder a largada\n📤 Mande para quem vira a noite vendo F1 com você\n\nQuem leva? Responda A, B, C ou D 👇\nSiga @esportesnatela para todos os esportes.\n\nFontes: Formula 1, O Povo (AFP), Diário do Nordeste, TMC, Times Brasil, Diário de Pernambuco e GameOverdrive.\n\n#f1 #formula1 #lasvegasgp #bortoleto #verstappen #antonelli #automobilismo"
+      }
+    ],
+    "showsconfirmados": [
+      {
+        "tipo": "agenda",
+        "quando": "2026-11-16T19:00:00-03:00",
+        "sufixo": "semana",
+        "pilula": "16–22 NOV",
+        "chamada": "SHOWS DA SEMANA",
+        "titulo": "Onde tem show",
+        "itens": [
+          {
+            "data": "17–21",
+            "sub": "NOV",
+            "titulo": "Mariah Carey",
+            "detalhe": "São Paulo (17 e 18) · Rio (21) · Eventim"
+          },
+          {
+            "data": "18–19",
+            "sub": "NOV",
+            "titulo": "CA7RIEL & Paco Amoroso",
+            "detalhe": "São Paulo (18) · Rio (19) · Ticketmaster"
+          },
+          {
+            "data": "20–22",
+            "sub": "NOV",
+            "titulo": "Best of Blues and Rock",
+            "detalhe": "Ibirapuera, SP · Eddie Vedder e Roger Daltrey · Ticketmaster"
+          },
+          {
+            "data": "20/11",
+            "sub": "SEX",
+            "titulo": "Zé Ramalho",
+            "detalhe": "Arena Hall, Belo Horizonte · Sympla"
+          },
+          {
+            "data": "21/11",
+            "sub": "SÁB",
+            "titulo": "Jão",
+            "detalhe": "Mineirinho, Belo Horizonte · Eventim"
+          },
+          {
+            "data": "21/11",
+            "sub": "SÁB",
+            "titulo": "ZZ Top",
+            "detalhe": "Suhai Music Hall, São Paulo · Uhuu"
+          }
+        ],
+        "fonte": "Fontes: Eventim · Ticketmaster · Billboard Brasil · Riotimes · Programa para Dois",
+        "cta": "Marque quem vai",
+        "alt": "Shows de 16 a 22 de novembro: Mariah Carey em SP e no Rio, CA7RIEL & Paco Amoroso em SP e no Rio, Best of Blues and Rock no Ibirapuera, Zé Ramalho e Jão em BH e ZZ Top em SP",
+        "legenda": "🎤 Semana de Mariah Carey, Eddie Vedder e mais 4 shows grandes:\n\n🎄 Mariah Carey · turnê Christmas Time · Nubank Parque, SP (17 e 18/11) · Farmasi Arena, Rio (21/11) · Eventim\n🇦🇷 CA7RIEL & Paco Amoroso · Espaço Unimed, SP (18/11) · Vivo Rio (19/11, nova data) · Ticketmaster\n🎸 Best of Blues and Rock · Ibirapuera, SP · 20 a 22/11 · Eddie Vedder e Roger Daltrey · Ticketmaster\n🌵 Zé Ramalho · sex 20/11 · Arena Hall, BH · Sympla\n💜 Jão · sáb 21/11 · Mineirinho, BH · Eventim\n🤠 ZZ Top · sáb 21/11 · Suhai Music Hall, SP · Uhuu\n\n⚠️ Compre só na vendedora oficial. Desconfie de revenda e de Pix para desconhecidos.\n\n📌 Salve para não esquecer\n📤 Mande para quem vai com você\n\nVai em qual? Comenta aí 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Eventim, Ticketmaster, Billboard Brasil, Riotimes e Programa para Dois.\n\n#shows #showsnobrasil #mariahcarey #eddievedder #jao #ca7riel #agendadeshows"
+      },
+      {
+        "tipo": "destaque",
+        "quando": "2026-11-18T18:00:00-03:00",
+        "sufixo": "bh-mg",
+        "foto": "show-plateia",
+        "pilula": "BH E MINAS",
+        "chamada": "SHOWS CONFIRMADOS EM BELO HORIZONTE",
+        "grande": "3",
+        "titulo": "grandes shows em BH",
+        "linhas": [
+          [
+            "21/11",
+            "Mineirinho",
+            "Jão · Eventim"
+          ],
+          [
+            "28/11",
+            "Mineirão",
+            "Zeca, Alcione e Jorge Aragão · Eventim"
+          ],
+          [
+            "12/12",
+            "Mineirinho",
+            "Belo, Alexandre Pires e Ferrugem"
+          ]
+        ],
+        "fonte": "Fontes: Eventim · Hoje em Dia · Billboard Brasil",
+        "cta": "Marque quem vai",
+        "alt": "Shows em Belo Horizonte: Jão (21/11, Mineirinho), Zeca Pagodinho, Alcione e Jorge Aragão com Gilberto Gil (28/11, Mineirão) e Belo, Alexandre Pires e Ferrugem (12/12, Mineirinho)",
+        "legenda": "📍 BH tem 3 shows grandes confirmados até dezembro!\n\n💜 Sáb 21/11 · Jão · Turnê Memórias Póstumas · Mineirinho · Eventim\n🥁 Sáb 28/11 · Zeca Pagodinho, Alcione e Jorge Aragão, com Gilberto Gil · Mineirão · Eventim\n🎶 Sáb 12/12 · Belo, Alexandre Pires e Ferrugem · O Último Samba do Ano · área externa do Mineirinho · Central dos Eventos\n➕ E mais: Zé Ramalho, sex 20/11, na Arena Hall (Sympla)\n\n⚠️ Compre só na vendedora oficial. Desconfie de perfil vendendo ingresso por Pix.\n\n📌 Salve para não esquecer\n📤 Mande para quem é de BH\n\nVai em qual? Comenta aí 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Eventim, Hoje em Dia, Billboard Brasil e Riotimes.\n\n#shows #bh #belohorizonte #minasgerais #jao #zecapagodinho #zeramalho #agendadeshows"
+      },
+      {
+        "tipo": "carrossel",
+        "quando": "2026-11-19T19:00:00-03:00",
+        "sufixo": "show-da-semana",
+        "alt": "O show da semana: Mariah Carey e a turnê Christmas Time, com shows em São Paulo em 17 e 18/11 e no Rio em 21/11, na Farmasi Arena",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "show-plateia",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "MARIAH CAREY · CHRISTMAS TIME",
+            "titulo": "O Natal da Mariah chega ao Rio",
+            "caixas": [
+              [
+                "Quando",
+                "Sáb 21/11"
+              ],
+              [
+                "Onde",
+                "Farmasi Arena, Rio"
+              ]
+            ],
+            "nota": "Portões às 16h. Venda oficial: só na Eventim.",
+            "fonte": "Fontes: Eventim · Rolling Stone Brasil",
+            "cta": "Arraste →",
+            "alt": "Capa: Mariah Carey, turnê Christmas Time, sábado 21/11 na Farmasi Arena, no Rio; portões às 16h; venda oficial na Eventim"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "O ESSENCIAL",
+            "titulo": "A turnê",
+            "topicos": [
+              "1º show de Natal da Mariah no Brasil",
+              "3ª vinda seguida: Rock in Rio 2024 e The Town 2025",
+              "São Paulo: 17 e 18/11, no Nubank Parque",
+              "Rio: sáb 21/11, área externa da Farmasi Arena"
+            ],
+            "fonte": "Fontes: Billboard Brasil · Eventim",
+            "alt": "Turnê Christmas Time: o primeiro show de Natal de Mariah Carey no Brasil, na terceira vinda seguida; São Paulo em 17 e 18/11 e Rio em 21/11"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "O QUE ESPERAR",
+            "titulo": "Natal e hits",
+            "texto": "Nos shows de Natal de 2025, em Las Vegas, ela abriu com clássicos natalinos e passou pelos hits dos anos 90. O disco mais recente é Here For It All, de 2025.",
+            "topicos": [
+              "Santa Claus Is Comin' to Town · Oh Santa!",
+              "Medley: Fantasy, Honey, Always Be My Baby e Hero",
+              "We Belong Together · Carol of the Bells",
+              "Fecha com All I Want for Christmas Is You"
+            ],
+            "fonte": "Fontes: JamBase/setlist.fm · Jovem Pan",
+            "alt": "O que esperar: em Las Vegas, em 2025, o setlist teve Santa Claus Is Comin' to Town, Oh Santa!, um medley com Fantasy, Honey, Always Be My Baby e Hero, We Belong Together e o fechamento com All I Want for Christmas Is You"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "INGRESSOS NO RIO",
+            "titulo": "Quanto custa",
+            "topicos": [
+              "Pista: R$ 495 (inteira) · R$ 247,50 (meia)",
+              "Pista Premium: R$ 895 · R$ 447,50",
+              "VIP Super Fã: R$ 1.895 · R$ 1.447,50",
+              "De 5 a 15 anos, só com pais ou responsável"
+            ],
+            "fonte": "Fontes: Rolling Stone Brasil · disponibilidade: confira na Eventim",
+            "alt": "Ingressos no Rio: pista R$ 495 a inteira e R$ 247,50 a meia; Pista Premium R$ 895 e R$ 447,50; VIP Super Fã R$ 1.895 e R$ 1.447,50; de 5 a 15 anos só com responsável"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "ALERTA DE GOLPE",
+            "titulo": "Só no app oficial",
+            "texto": "O ingresso é digital: o QR code aparece no app da Eventim 24h antes, e print não vale. Desconfie de quem vende por Pix em rede social.",
+            "fonte": "Fontes: Rolling Stone Brasil · Eventim (vendedora oficial)",
+            "alt": "Alerta de golpe: o ingresso é digital, com QR code no app da Eventim liberado 24 horas antes, e print não vale; desconfie de venda por Pix em rede social"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "show-plateia",
+            "pilula": "O SHOW DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Você vai?",
+            "opcoes": [
+              "Vou no Rio",
+              "Fui em São Paulo",
+              "Queria, mas não deu",
+              "Vejo pelos vídeos"
+            ],
+            "cta": "Responda A, B, C ou D"
+          }
+        ],
+        "legenda": "🎄 É oficial: o Natal começou. Depois de dois shows em São Paulo, Mariah Carey canta no Rio no sábado.\n\n🎤 Mariah Carey · turnê Christmas Time\n📅 Sábado, 21/11 · portões às 16h\n📍 Área externa da Farmasi Arena, Barra da Tijuca, Rio\n🎟️ Pista R$ 495 (meia R$ 247,50) · Pista Premium R$ 895 (meia R$ 447,50) · VIP Super Fã R$ 1.895\n🎶 No repertório de Natal de 2025: All I Want for Christmas Is You, Oh Santa!, Hero e We Belong Together\n👶 De 5 a 15 anos, só com pais ou responsável\n\n⚠️ Ingresso só na Eventim (eventim.com.br/MariahCarey). O QR code aparece no app 24h antes e print não vale. Não compre por Pix em rede social.\n\n📌 Salve para não esquecer\n📤 Mande para quem canta All I Want for Christmas com você\n\nVocê vai? Responda A, B, C ou D 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Eventim, Billboard Brasil, Rolling Stone Brasil, Jovem Pan e JamBase/setlist.fm.\n\n#mariahcarey #christmastime #showsnobrasil #riodejaneiro #shows #natal #alliwantforchristmasisyou"
+      }
+    ]
+  }
+}
