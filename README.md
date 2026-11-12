@@ -230,3 +230,7 @@ Desde 04/11/2026, todo post com `"tiktok"` em `redes` vai como **rascunho** para
 - As autorizações ficam em `dados/tiktok.enc`, trancadas com o secret `TIKTOK_CHAVE`.
 - Conta não conectada ou erro: o post não trava; fica marcado "MANUAL" no resultado.
 - As imagens são puxadas do GitHub Pages, que precisa estar verificado em **URL properties** no app do TikTok.
+
+## Pinterest do Brazil on a Budget (12/11/2026)
+
+`python gerador/pinterest.py` gera `pinterest/pins/*.jpg` (1000x1500) e `pinterest/pins.csv`, no formato de **Criar Pins em massa** do Pinterest: título, imagem (link do GitHub Pages), quadro, descrição com crédito da foto, link de venda (Payhip em inglês, Hotmart em espanhol), data de publicação (1 por dia, 10h de Brasília) e palavras-chave. O Luiz sobe o CSV uma vez em Pinterest → Criar → Criar Pins em massa (ou "Upload em massa"). Quadros: Rio de Janeiro Travel, Iguazu Falls Travel, Brazil Beaches, Brazil Travel Guides, Viajar a Río de Janeiro, Cataratas del Iguazú, Playas de Brasil, Guías de viaje Brasil. Não usamos a API do Pinterest: o acesso de teste não deixa os pins públicos e a aprovação demora semanas.
