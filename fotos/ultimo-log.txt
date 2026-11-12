@@ -1,4 +1,6 @@
 NADA para tatame-lutas (judo tatami mat)
 NADA para judo-tatame (judo tatami mat competition)
+Openverse falhou para ringue-lutas: HTTP Error 504: Gateway Timeout
 NADA para ringue-lutas (empty boxing ring)
-OK quadra-futsal: Foto: Globetrotter19 · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Basketballplatz,_Fu%C3%9Fballfeld,_Sportstrasse,_2026_R%C3%A1calm%C3%A1s.jpg)
+Openverse falhou para camboriu-praia: HTTP Error 504: Gateway Timeout
+OK camboriu-praia: Foto: Jodejau · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_praia_do_Buraco.jpg)
