@@ -1,0 +1,90 @@
+{
+  "dia": "12/11/2026",
+  "apurado_em": "2026-11-12",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-estreou-hoje",
+        "redes": ["tiktok"],
+        "quando": "2026-11-12T19:00:00-03:00",
+        "alt": "Estreou hoje, quinta 12/11: Como Roubar um Banco e outros filmes nos cinemas, A Imperatriz 3ª temporada e Ne Zha 2 na Netflix",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "cinema-sala",
+            "pilula": "ESTREOU HOJE",
+            "chamada": "CINEMA + STREAMING · QUI 12/11",
+            "titulo": "O que estreou hoje",
+            "caixas": [
+              ["Cinema", "Como Roubar um Banco"],
+              ["Netflix", "A Imperatriz T3"]
+            ],
+            "nota": "Sem spoiler. Arraste para ver tudo.",
+            "fonte": "Conferido em 12/11 às 11h · Paranashop, Cinema e Afins, A Crítica, Olhar Digital, Oficina da Net",
+            "cta": "Arraste →",
+            "alt": "Capa: estreou hoje, quinta 12/11: Como Roubar um Banco nos cinemas e A Imperatriz, 3ª temporada, na Netflix"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "NO CINEMA",
+            "chamada": "CINEMAS · QUINTA, 12/11",
+            "titulo": "Como Roubar um Banco",
+            "texto": "Uma quadrilha transmite os próprios assaltos nas redes sociais, e a fama chama a atenção de um veterano do FBI.",
+            "topicos": [
+              "Direção de David Leitch, de Trem-Bala",
+              "Nicholas Hoult, Zoë Kravitz, Anna Sawai e John C. Reilly",
+              "Ação e suspense · 2h01"
+            ],
+            "fonte": "Conferido em 12/11 às 11h · Paranashop, Cinema e Afins, A Crítica",
+            "alt": "Como Roubar um Banco, nos cinemas em 12/11: uma quadrilha transmite os assaltos nas redes sociais e chama a atenção de um veterano do FBI. Direção de David Leitch, com Nicholas Hoult, Zoë Kravitz, Anna Sawai e John C. Reilly. 2h01"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "NO CINEMA",
+            "chamada": "TAMBÉM ESTREOU HOJE",
+            "titulo": "Mais nos cinemas",
+            "topicos": [
+              "Boiúna: Terror no Amazonas · a lenda da cobra-grande",
+              "Lago dos Ossos · terror com Marco Pigossi",
+              "Girls Like Girls · romance de Hayley Kiyoko",
+              "Miss Moxy · animação para toda a família"
+            ],
+            "fonte": "Conferido em 12/11 às 11h · Paranashop, Cinema e Afins",
+            "alt": "Também estreou hoje nos cinemas: Boiúna, Terror no Amazonas (terror com a lenda da cobra-grande), Lago dos Ossos (terror com Marco Pigossi), Girls Like Girls (romance dirigido por Hayley Kiyoko) e Miss Moxy (animação para a família)"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "NO STREAMING",
+            "chamada": "NETFLIX · QUINTA, 12/11",
+            "titulo": "Chegou hoje na Netflix",
+            "topicos": [
+              "A Imperatriz · 3ª e última temporada da série sobre Sisi",
+              "Ne Zha 2: O Renascer da Alma · a animação chinesa recordista de bilheteria",
+              "Casamento às Cegas: Habibi · o reality em versão árabe",
+              "Allen e Sem Desistir · filmes novos"
+            ],
+            "fonte": "Conferido em 12/11 às 11h · Olhar Digital, Oficina da Net, Einerd",
+            "alt": "Chegou hoje na Netflix: A Imperatriz, 3ª e última temporada; Ne Zha 2: O Renascer da Alma, animação chinesa recordista de bilheteria; Casamento às Cegas: Habibi; e os filmes Allen e Sem Desistir"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "streaming-sofa",
+            "pilula": "ESTREOU HOJE",
+            "chamada": "RESPONDA",
+            "titulo": "O que você vai ver primeiro?",
+            "opcoes": [
+              "Como Roubar um Banco",
+              "A Imperatriz T3",
+              "Ne Zha 2",
+              "Um terror no cinema"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: o que você vai ver primeiro? A) Como Roubar um Banco, B) A Imperatriz T3, C) Ne Zha 2, D) Um terror no cinema"
+          }
+        ],
+        "legenda": "🎬 Estreou HOJE e você ainda não sabe o que ver? Toma a lista 👇\n\n🏦 Como Roubar um Banco · cinemas · ação com Nicholas Hoult e Zoë Kravitz\n🐍 Boiúna e Lago dos Ossos · cinemas · dois terrores para quem gosta de susto\n👑 A Imperatriz, 3ª e última temporada · Netflix\n🐉 Ne Zha 2: O Renascer da Alma · Netflix\n\nO que você vai ver primeiro? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#filmes #series #netflix #cinema #oquever"
+      }
+    ]
+  }
+}
