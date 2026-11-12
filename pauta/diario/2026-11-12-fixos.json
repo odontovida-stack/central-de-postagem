@@ -1,0 +1,320 @@
+{
+ "dia": "12/11/2026",
+ "apurado_em": "2026-11-12",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-12T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de quinta-feira, 12/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 12/11",
+      "linhas": [
+       {
+        "hora": "14h00",
+        "esporte": "outros",
+        "competicao": "NHL · hóquei no gelo",
+        "jogo": "Hurricanes x Kraken",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Turquia x Bélgica",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Barcelona x Arsenal",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Itália x França",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Inglaterra x Croácia",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Rep. Tcheca x Espanha",
+        "canal": "sportv"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "basquete",
+        "competicao": "Euroliga",
+        "jogo": "Real Madrid x Estrela Vermelha",
+        "canal": "XSports · YouTube XSports",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Pinheiros x Barueri",
+        "canal": "ge TV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 12/11 às 0h50 · Onde Assistir, Mantos do Futebol, Auvaro Maia",
+      "cta": "Arraste →",
+      "alt": "Agenda de quinta-feira, 12/11, parte 1 de 3: Hurricanes x Kraken às 14h00 (NHL · hóquei no gelo, ESPN 2), Turquia x Bélgica às 14h00 (Liga das Nações, sportv2), Barcelona x Arsenal às 14h45 (Champions Feminina, ESPN 4 · Disney+), Itália x França às 16h45 (Liga das Nações, ESPN · Disney+), Inglaterra x Croácia às 16h45 (Liga das Nações, ESPN 4 · Disney+), Rep. Tcheca x Espanha às 16h45 (Liga das Nações, sportv), Real Madrid x Estrela Vermelha às 17h00 (Euroliga, XSports · YouTube XSports, grátis), Pinheiros x Barueri às 18h30 (Superliga Feminina, ge TV, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 12/11",
+      "linhas": [
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Minas x Londrina",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão Série B",
+        "jogo": "Ponte Preta x Operário-PR",
+        "canal": "Disney+"
+       },
+       {
+        "hora": "19h15",
+        "esporte": "futebol",
+        "competicao": "Baiano Feminino · final (ida)",
+        "jogo": "Bahia x Vitória",
+        "canal": "TVE Bahia · YouTube TVE",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Caxias x Pato",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão Série B",
+        "jogo": "São Bernardo x Athletic",
+        "canal": "Premiere · ge TV",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Botafogo x Franca",
+        "canal": "XSports · YouTube XSports",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Corinthians x Pinheiros",
+        "canal": "sportv"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Osasco x Mogi",
+        "canal": "YouTube NBB",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 12/11 às 0h50 · Onde Assistir, Mantos do Futebol, Auvaro Maia",
+      "cta": "Arraste →",
+      "alt": "Agenda de quinta-feira, 12/11, parte 2 de 3: Minas x Londrina às 18h30 (Superliga Feminina, sportv2), Ponte Preta x Operário-PR às 19h00 (Brasileirão Série B, Disney+), Bahia x Vitória às 19h15 (Baiano Feminino · final (ida), TVE Bahia · YouTube TVE, grátis), Caxias x Pato às 19h30 (NBB, YouTube NBB, grátis), São Bernardo x Athletic às 20h00 (Brasileirão Série B, Premiere · ge TV, grátis), Botafogo x Franca às 20h00 (NBB, XSports · YouTube XSports, grátis), Corinthians x Pinheiros às 20h00 (NBB, sportv), Osasco x Mogi às 20h00 (NBB, YouTube NBB, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 12/11",
+      "linhas": [
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "76ers x Raptors",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Wizards x Pistons",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Flamengo x Fluminense",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "lutas",
+        "competicao": "Boxe",
+        "jogo": "Camila Zamorano x Brenda Balderas",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Timberwolves x Mavericks",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "nfl",
+        "competicao": "Futebol americano universitário",
+        "jogo": "South Florida x Memphis",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "22h15",
+        "esporte": "nfl",
+        "competicao": "NFL",
+        "jogo": "Commanders x Giants",
+        "canal": "ge TV · sportv",
+        "gratis": true
+       },
+       {
+        "hora": "23h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Suns x Hornets",
+        "canal": "NBA League Pass"
+       }
+      ],
+      "fonte": "Conferido em 12/11 às 0h50 · Onde Assistir, Mantos do Futebol, Auvaro Maia",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de quinta-feira, 12/11, parte 3 de 3: 76ers x Raptors às 21h00 (NBA, NBA League Pass), Wizards x Pistons às 21h00 (NBA, NBA League Pass), Flamengo x Fluminense às 21h00 (Superliga Feminina, sportv2), Camila Zamorano x Brenda Balderas às 21h00 (Boxe, ESPN 4), Timberwolves x Mavericks às 22h00 (NBA, NBA League Pass), South Florida x Memphis às 22h00 (Futebol americano universitário, ESPN 2), Commanders x Giants às 22h15 (NFL, ge TV · sportv, grátis), Suns x Hornets às 23h00 (NBA, NBA League Pass)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de quinta-feira, 12/11 (horário de Brasília)\n\n⚽ 16h45 · Itália x França na Liga das Nações · ESPN e Disney+\n🏐 21h · Flamengo x Fluminense na Superliga Feminina · sportv2\n🏈 22h15 · Commanders x Giants na NFL · ge TV 🆓 e sportv\n🏀 20h · Rodada do NBB, com jogos grátis no YouTube 🆓\n⚽ 14h45 · Barcelona x Arsenal na Champions Feminina · ESPN 4\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #nbb #nba #superliga #nfl #ligadasnacoes"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-12T07:30:00-03:00",
+    "alt": "Resultados de quarta-feira e jogos de quinta-feira, 12/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "QUA 11/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Copa do Brasil Feminina · final (ida)",
+        "jogos": [
+         {
+          "casa": "Flamengo",
+          "gc": 1,
+          "fora": "Internacional",
+          "gf": 3
+         }
+        ]
+       },
+       {
+        "competicao": "Brasileirão Série B",
+        "jogos": [
+         {
+          "casa": "Londrina",
+          "gc": 2,
+          "fora": "Náutico",
+          "gf": 1
+         }
+        ]
+       }
+      ],
+      "destaque": "Inter vira sobre o Flamengo no Rio e sai na frente na final",
+      "fonte": "Conferido em 12/11 às 0h50 · Placar de Futebol, VAVEL, 365Scores",
+      "cta": "Arraste →",
+      "alt": "Resultados de quarta-feira, 11/11: na ida da final da Copa do Brasil Feminina, Flamengo 1 x 3 Internacional, de virada, no Rio; na Série B, Londrina 2 x 1 Náutico"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUI 12/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "12/11",
+        "sub": "QUI · 16h45",
+        "titulo": "Itália x França",
+        "detalhe": "Liga das Nações · ESPN, Disney+",
+        "destaque": true
+       },
+       {
+        "data": "12/11",
+        "sub": "QUI · 14h45",
+        "titulo": "Barcelona x Arsenal (fem.)",
+        "detalhe": "Champions Feminina · ESPN 4, Disney+"
+       },
+       {
+        "data": "12/11",
+        "sub": "QUI · 16h45",
+        "titulo": "Inglaterra x Croácia",
+        "detalhe": "Liga das Nações · ESPN 4, Disney+"
+       },
+       {
+        "data": "12/11",
+        "sub": "QUI · 16h45",
+        "titulo": "Rep. Tcheca x Espanha",
+        "detalhe": "Liga das Nações · sportv"
+       },
+       {
+        "data": "12/11",
+        "sub": "QUI · 19h",
+        "titulo": "Ponte Preta x Operário-PR",
+        "detalhe": "Série B · Disney+"
+       },
+       {
+        "data": "12/11",
+        "sub": "QUI · 20h",
+        "titulo": "São Bernardo x Athletic",
+        "detalhe": "Série B · Premiere, ge TV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 12/11 às 0h50 · Onde Assistir, Mantos do Futebol, Auvaro Maia",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de quinta-feira, 12/11: jogo do dia Itália x França, às 16h45, pela Liga das Nações, na ESPN e no Disney+; Barcelona x Arsenal na Champions Feminina às 14h45; Inglaterra x Croácia e República Tcheca x Espanha às 16h45; Ponte Preta x Operário-PR às 19h e São Bernardo x Athletic às 20h pela Série B, com ge TV grátis"
+     }
+    ],
+    "legenda": "⚽ Inter virou no Rio e hoje tem Itália x França!\n\n🏆 Ontem: Flamengo 1 x 3 Internacional, na ida da final da Copa do Brasil Feminina\n🔵 Série B: Londrina 2 x 1 Náutico\n\n★ Jogo do dia: Itália x França, 16h45, Liga das Nações · ESPN e Disney+\n🏴 Inglaterra x Croácia, 16h45 · ESPN 4\n🇪🇸 Rep. Tcheca x Espanha, 16h45 · sportv\n⚽ Série B: Ponte Preta x Operário-PR, 19h (Disney+), e São Bernardo x Athletic, 20h (Premiere e ge TV 🆓)\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos de hoje todo dia às 7h30.\n\n#futebol #jogosdehoje #ondeassistir #ligadasnacoes #serieb #copadobrasilfeminina #futebolfeminino"
+   }
+  ]
+ }
+}
