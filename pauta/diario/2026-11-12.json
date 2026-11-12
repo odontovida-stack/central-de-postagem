@@ -1,0 +1,105 @@
+{
+ "dia": "12/11/2026",
+ "apurado_em": "2026-11-12",
+ "contas": {
+  "lancamentosdegames": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "gratis",
+    "quando": "2026-11-12T14:00:00-03:00",
+    "alt": "Tudo grátis agora #6: Knightica grátis na Epic até 19/11",
+    "cards": [
+     {
+      "tipo": "agenda",
+      "pilula": "SÉRIE #6",
+      "chamada": "TUDO GRÁTIS AGORA #6",
+      "titulo": "Resgate antes que acabe",
+      "itens": [
+       {
+        "data": "19/11",
+        "sub": "QUI · 13h",
+        "titulo": "Knightica",
+        "detalhe": "Epic · acaba em 167h · qui 19/11, 13h"
+       }
+      ],
+      "fonte": "Conferido em 12/11 às 0h50 · Worthplaying, Mydealz, Dealabs",
+      "cta": "Arraste →",
+      "alt": "Tudo grátis agora #6: Knightica grátis na Epic Games Store até quinta, 19/11, às 13h de Brasília"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "PASSO A PASSO",
+      "chamada": "COMO RESGATAR",
+      "titulo": "Leva 1 minuto",
+      "texto": "Resgatou, é seu: o jogo fica na sua biblioteca mesmo depois que a promoção acaba.",
+      "topicos": [
+       "Entre na Epic Games Store com a sua conta",
+       "Toque em \"Obter\" na página do jogo",
+       "Pronto: fica na sua biblioteca para sempre"
+      ],
+      "fonte": "",
+      "cta": "Salve e compartilhe",
+      "alt": "Como resgatar: entre na Epic Games Store com a sua conta, toque em Obter na página do jogo e ele fica na sua biblioteca para sempre."
+     }
+    ],
+    "legenda": "⏰ Você tem 167h para pegar o novo grátis da Epic (até quinta, 19/11, às 13h)!\n\n🎁 TUDO GRÁTIS AGORA #6\n🛡️ Knightica · roguelike de estratégia com cartas e defesa de torre · grátis na Epic\n\n📌 Salve para não perder o prazo\n📤 Mande para aquele amigo que adora jogo grátis\n\nVai resgatar? 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\nFontes: Worthplaying, Mydealz e Dealabs.\n\n#jogosgratis #epicgames #knightica #pcgamer #roguelike #games #gamer"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-12T11:00:00-03:00",
+    "pilula": "QUI 12/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Não perca hoje",
+    "itens": [
+     {
+      "data": "12/11",
+      "sub": "QUI · 20h",
+      "titulo": "Corinthians x Pinheiros",
+      "detalhe": "Basquete · NBB · sportv"
+     },
+     {
+      "data": "12/11",
+      "sub": "QUI · 21h",
+      "titulo": "Flamengo x Fluminense",
+      "detalhe": "Vôlei · Superliga Feminina · sportv2",
+      "destaque": true
+     },
+     {
+      "data": "12/11",
+      "sub": "QUI · 22h15",
+      "titulo": "Commanders x Giants",
+      "detalhe": "NFL · ge TV, sportv",
+      "gratis": true
+     }
+    ],
+    "fonte": "Conferido em 12/11 às 0h50 · Onde Assistir, Auvaro Maia",
+    "cta": "Salve e compartilhe",
+    "alt": "Hoje tem, quinta-feira, 12/11: Corinthians x Pinheiros no NBB às 20h no sportv; Fla-Flu na Superliga Feminina de vôlei às 21h no sportv2; e Commanders x Giants na NFL às 22h15, no ge TV, grátis, e no sportv",
+    "legenda": "🔥 Quinta tem Fla-Flu no vôlei e NFL na faixa!\n\n🏐 21h · Flamengo x Fluminense, Superliga Feminina · sportv2\n🏀 20h · Corinthians x Pinheiros, NBB · sportv\n🏈 22h15 · Commanders x Giants, NFL · ge TV 🆓 e sportv\n\n🆓 = transmissão grátis\n📌 Salve para não esquecer\n📤 Mande para quem vê esporte com você\n\nQual você vai ver? 👇\nSiga @esportesnatela para todos os esportes.\n\n#esportes #superliga #volei #flaflu #nbb #nfl #ondeassistir"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-12T12:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "QUI 12/11",
+    "chamada": "FINAL DA COPA DO BRASIL FEMININA",
+    "titulo": "Depois do 3 a 1 no Rio, quem fica com a taça?",
+    "contexto": "Inter venceu o Flamengo de virada na ida da final.",
+    "opcoes": [
+     "Internacional",
+     "Flamengo"
+    ],
+    "fonte": "Conferido em 12/11 às 0h50 · Placar de Futebol, VAVEL, 365Scores",
+    "cta": "Responda A ou B",
+    "alt": "Pergunta: depois do 3 a 1 do Internacional sobre o Flamengo, de virada, no Rio, na ida da final da Copa do Brasil Feminina, quem fica com a taça? A, Internacional; B, Flamengo",
+    "legenda": "🏆 A Inter virou no Rio! Depois do 3 a 1 na ida da final da Copa do Brasil Feminina, quem fica com a taça?\n\n🅰️ Internacional\n🅱️ Flamengo\n\n📤 Mande para quem acompanha futebol feminino\n\nResponda A ou B nos comentários 👇\nSiga @jogosnatela para todos os jogos do dia.\n\n#copadobrasilfeminina #futebolfeminino #flamengo #internacional #inter #futebol"
+   }
+  ]
+ }
+}
