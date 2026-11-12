@@ -234,3 +234,7 @@ Desde 04/11/2026, todo post com `"tiktok"` em `redes` vai como **rascunho** para
 ## Pinterest do Brazil on a Budget (12/11/2026)
 
 `python gerador/pinterest.py` gera `pinterest/pins/*.jpg` (1000x1500) e `pinterest/pins.csv`, no formato de **Criar Pins em massa** do Pinterest: título, imagem (link do GitHub Pages), quadro, descrição com crédito da foto, link de venda (Payhip em inglês, Hotmart em espanhol), data de publicação (1 por dia, 10h de Brasília) e palavras-chave. O Luiz sobe o CSV uma vez em Pinterest → Criar → Criar Pins em massa (ou "Upload em massa"). Quadros: Rio de Janeiro Travel, Iguazu Falls Travel, Brazil Beaches, Brazil Travel Guides, Viajar a Río de Janeiro, Cataratas del Iguazú, Playas de Brasil, Guías de viaje Brasil. Não usamos a API do Pinterest: o acesso de teste não deixa os pins públicos e a aprovação demora semanas.
+
+## Vendas da Amazon no painel (12/11/2026)
+
+O painel da Amazon não deixa leitura automática. Uma vez por mês (ou quando quiser), o Luiz baixa o relatório em Associados → Relatórios → Baixar relatórios (CSV ou XLSX, vem num .zip) e manda o arquivo na conversa. Aí roda `python scripts/vendas_amazon.py <arquivo> br` (ou `us` para a Amazon dos EUA): ele soma comissão, vendas geradas, itens e cliques e atualiza a linha da Amazon em `dados/painel/vendas.json`. Só os totais ficam guardados.
