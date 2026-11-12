@@ -2,4 +2,10 @@ NADA para tatame-lutas (judo tatami mat)
 NADA para judo-tatame (judo tatami mat competition)
 Openverse falhou para ringue-lutas: HTTP Error 504: Gateway Timeout
 NADA para ringue-lutas (empty boxing ring)
-OK camboriu-praia: Foto: Jodejau · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_praia_do_Buraco.jpg)
+OK rio-carnaval-sapucai-1: Foto: Gresasc · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Panorama_do_samb%C3%B3dromo_da_Marqu%C3%AAs_de_Sapuca%C3%AD.jpg)
+OK rio-carnaval-sapucai-2: Foto: Tata Barreto/Agência Brasil · CC BY 3.0 BR (https://commons.wikimedia.org/wiki/File:Desfile_de_carnaval_na_Sapuca%C3%AD_10.jpg)
+Openverse falhou para rio-carnaval-sapucai-3: HTTP Error 504: Gateway Timeout
+OK rio-carnaval-sapucai-3: Foto: Stacey, Brian · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Carnival_Parade_in_Rio_-_Sambadrome_Monday_Night_13.jpg)
+OK rio-carnaval-sapucai-4: Foto: Stacey, Brian · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Carnival_Parade_in_Rio_-_Sambadrome_Monday_Night_21.jpg)
+OK rio-carnaval-bloco: Foto: Tânia Rego - Agência Brasil · CC BY 3.0 BR (https://commons.wikimedia.org/wiki/File:Brazilian_singer_Ludmilla.jpg)
+NADA para rio-carnaval-fantasia (escola de samba fantasia plumas Sapucaí)
