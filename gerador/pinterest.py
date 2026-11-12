@@ -34,7 +34,7 @@ PINS = [
     ("en-paraty", "en", "paraty-ruas", "Paraty in 3 days", "Colonial town, islands, waterfalls", None, LOJA_EN, "Brazil Travel Guides"),
     ("en-lencois", "en", "lencois-dunas", "Lençóis Maranhenses", "The dunes and lagoons, step by step", None, LOJA_EN, "Brazil Travel Guides"),
     ("en-camboriu", "en", "camboriu-praia", "Balneário Camboriú", "Beaches, cable car and real prices", None, "https://payhip.com/b/DfFRG", "Brazil Beaches"),
-    ("en-carnaval", "en", "rio-carnaval-carro", "Rio Carnival 2027", "Dates, tickets, blocos and safety", None, "https://payhip.com/b/zSt9f", "Rio de Janeiro Travel"),
+    ("en-carnaval", "en", "rio-carnaval-sapucai-3", "Rio Carnival 2027", "Dates, tickets, blocos and safety", None, "https://payhip.com/b/zSt9f", "Rio de Janeiro Travel"),
     ("en-bundle", "en", "rio-pao-de-acucar", "Brazil: 7 travel guides", "Rio, Iguazu, Floripa, Salvador and more", None, "https://payhip.com/b/VejO0", "Brazil Travel Guides"),
     ("es-rio", "es", "rio-cristo", "Río de Janeiro en 5 días", "Plan día por día con precios reales", "desde US$ 370", LINKS["rio"], "Viajar a Río de Janeiro"),
     ("es-foz", "es", "foz-cataratas", "Cataratas del Iguazú en 4 días", "Lado brasileño y argentino", "desde US$ 280", LINKS["foz"], "Cataratas del Iguazú"),
@@ -44,9 +44,9 @@ PINS = [
     ("es-paraty", "es", "paraty-ruas", "Paraty en 3 días", "Pueblo colonial, islas y cascadas", None, LINKS["paraty"], "Guías de viaje Brasil"),
     ("es-lencois", "es", "lencois-dunas", "Lençóis Maranhenses", "Dunas y lagunas, paso a paso", None, LINKS["lencois"], "Guías de viaje Brasil"),
     ("es-camboriu", "es", "camboriu-praia", "Camboriú 2026/27", "Playas, teleférico y precios reales", None, LINKS["camboriu"], "Playas de Brasil"),
-    ("es-carnaval", "es", "rio-carnaval-carro", "Carnaval de Río 2027", "Fechas, entradas, blocos y seguridad", None, LINKS["carnaval"], "Viajar a Río de Janeiro"),
+    ("es-carnaval", "es", "rio-carnaval-sapucai-3", "Carnaval de Río 2027", "Fechas, entradas, blocos y seguridad", None, LINKS["carnaval"], "Viajar a Río de Janeiro"),
     ("es-pack7", "es", "rio-pao-de-acucar", "Brasil: las 7 guías", "Río, Iguazú, Floripa, Salvador y más", None, LINKS["pack7"], "Guías de viaje Brasil"),
-    ("es-packsur", "es", "floripa-praia", "Pack Sur", "Florianópolis + Cataratas del Iguazú", None, LINKS["packsur"], "Playas de Brasil"),
+    ("es-packsur", "es", "floripa-praia", "Floripa + Iguazú", "2 guías en 1 pack: playas y cataratas", None, LINKS["packsur"], "Playas de Brasil"),
 ]
 
 TXT = {
