@@ -42,7 +42,7 @@ PINS = [
     ("es-salvador", "es", "salvador-pelourinho", "Salvador de Bahía en 4 días", "Pelourinho, playas y precios reales", None, LINKS["salvador"], "Guías de viaje Brasil"),
     ("es-saopaulo", "es", "saopaulo-paulista", "São Paulo en 4 días", "Comida, barrios y precios reales", None, LINKS["sp"], "Guías de viaje Brasil"),
     ("es-paraty", "es", "paraty-ruas", "Paraty en 3 días", "Pueblo colonial, islas y cascadas", None, LINKS["paraty"], "Guías de viaje Brasil"),
-    ("es-lencois", "es", "lencois-dunas", "Lençóis Maranhenses", "Dunas y lagunas, paso a paso", None, LINKS["lencois"], "Guías de viaje Brasil"),
+    ("es-lencois", "es", "lencois-dunas", "Lençóis Maranhenses: guía de viaje", "Dunas y lagunas, paso a paso", None, LINKS["lencois"], "Guías de viaje Brasil"),
     ("es-camboriu", "es", "camboriu-praia", "Camboriú 2026/27", "Playas, teleférico y precios reales", None, LINKS["camboriu"], "Playas de Brasil"),
     ("es-carnaval", "es", "rio-carnaval-sapucai-3", "Carnaval de Río 2027", "Fechas, entradas, blocos y seguridad", None, LINKS["carnaval"], "Viajar a Río de Janeiro"),
     ("es-pack7", "es", "rio-pao-de-acucar", "Brasil: las 7 guías", "Río, Iguazú, Floripa, Salvador y más", None, LINKS["pack7"], "Guías de viaje Brasil"),
