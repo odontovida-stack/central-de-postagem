@@ -1,0 +1,104 @@
+{
+  "dia": "13/11/2026",
+  "apurado_em": "2026-11-13",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-maratona",
+        "redes": ["tiktok"],
+        "quando": "2026-11-13T19:00:00-03:00",
+        "alt": "Maratona do fim de semana: Black Doves T2 e No Coração de Nashville na Netflix, VisionQuest no Disney+ e Cidade de Deus: A Luta Não Para T2 na HBO Max",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "streaming-sofa",
+            "pilula": "MARATONA DO FIM DE SEMANA",
+            "chamada": "STREAMING · 13 A 15/11",
+            "titulo": "4 maratonas para o fim de semana",
+            "caixas": [
+              ["Netflix", "Black Doves T2"],
+              ["Disney+", "VisionQuest"]
+            ],
+            "nota": "Sem spoiler. Arraste para ver tudo.",
+            "fonte": "Conferido em 13/11 às 11h · Einerd, What's on Netflix, Netflix Tudum, AdoroCinema, GameOverdrive",
+            "cta": "Arraste →",
+            "alt": "Capa: 4 maratonas para o fim de semana de 13 a 15/11, como Black Doves T2 na Netflix e VisionQuest no Disney+"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE",
+            "chamada": "NETFLIX · TEMPORADA COMPLETA",
+            "titulo": "Black Doves T2",
+            "texto": "Helen segue passando segredos do governo para a organização secreta Black Doves, enquanto o marido se prepara para virar primeiro-ministro.",
+            "topicos": [
+              "Keira Knightley e Ben Whishaw de volta",
+              "Espionagem e suspense",
+              "Todos os episódios desde 05/11"
+            ],
+            "fonte": "Conferido em 13/11 às 11h · Einerd, What's on Netflix",
+            "alt": "Black Doves, 2ª temporada, na Netflix desde 05/11 com todos os episódios: suspense de espionagem com Keira Knightley e Ben Whishaw"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE",
+            "chamada": "DISNEY+ · 8 EPISÓDIOS",
+            "titulo": "VisionQuest",
+            "texto": "O Visão reconstruído tenta entender quem é enquanto foge de quem quer transformá-lo em arma.",
+            "topicos": [
+              "Fecha a trilogia que começou em WandaVision",
+              "Paul Bettany e James Spader",
+              "Os 8 episódios já estão no ar"
+            ],
+            "fonte": "Conferido em 13/11 às 11h · GameOverdrive, Oficina da Net",
+            "alt": "VisionQuest, série da Marvel no Disney+, com os 8 episódios já disponíveis. Paul Bettany e James Spader"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "FILME",
+            "chamada": "NETFLIX · DESDE HOJE",
+            "titulo": "No Coração de Nashville",
+            "texto": "Uma ex-estrela do country sai do isolamento para investigar o sumiço da sobrinha, uma cantora em ascensão.",
+            "topicos": [
+              "Jessica Chastain e Garrett Hedlund",
+              "Suspense com música country",
+              "1h54 · bom para a sexta à noite"
+            ],
+            "fonte": "Conferido em 13/11 às 11h · Netflix Tudum, AdoroCinema",
+            "alt": "No Coração de Nashville, filme de suspense na Netflix desde 13/11, com Jessica Chastain e Garrett Hedlund. 1h54"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE",
+            "chamada": "HBO MAX · NOVO EPISÓDIO DOMINGO",
+            "titulo": "Cidade de Deus T2",
+            "texto": "A Luta Não Para volta aos conflitos entre crime, poder político e moradores da Cidade de Deus.",
+            "topicos": [
+              "Alexandre Rodrigues e Andréia Horta",
+              "Ep. 1 já saiu · ep. 2 no domingo, 15/11",
+              "6 episódios, um por domingo"
+            ],
+            "fonte": "Conferido em 13/11 às 11h · GameOverdrive, Oficina da Net",
+            "alt": "Cidade de Deus: A Luta Não Para, 2ª temporada, na HBO Max: episódio 1 já disponível e episódio 2 no domingo, 15/11. Seis episódios, um por domingo"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "cinema-sala",
+            "pilula": "MARATONA",
+            "chamada": "RESPONDA",
+            "titulo": "Qual vai ser a sua maratona?",
+            "opcoes": [
+              "Black Doves T2",
+              "VisionQuest",
+              "No Coração de Nashville",
+              "Cidade de Deus T2"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual vai ser a sua maratona? A) Black Doves T2, B) VisionQuest, C) No Coração de Nashville, D) Cidade de Deus T2"
+          }
+        ],
+        "legenda": "🛋️ Fim de semana chegando e você sem saber o que maratonar? Resolvido 👇\n\n🕵️ Black Doves T2 · Netflix · espionagem com Keira Knightley\n🤖 VisionQuest · Disney+ · os 8 episódios já saíram\n🎸 No Coração de Nashville · Netflix · suspense com Jessica Chastain\n🔥 Cidade de Deus T2 · HBO Max · ep. 2 no domingo\n\nQual vai ser a sua maratona? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#filmes #series #netflix #maratona #oquever"
+      }
+    ]
+  }
+}
