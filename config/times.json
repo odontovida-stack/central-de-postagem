@@ -719,5 +719,93 @@
    "#00703C"
   ],
   "texto": "#00703C"
+ },
+ "Itália": {
+  "sigla": "ITA",
+  "cores": [
+   "#0064AA",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "França": {
+  "sigla": "FRA",
+  "cores": [
+   "#1F2A5C",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Inglaterra": {
+  "sigla": "ING",
+  "cores": [
+   "#FFFFFF",
+   "#1F2A5C"
+  ],
+  "texto": "#1F2A5C"
+ },
+ "Croácia": {
+  "sigla": "CRO",
+  "cores": [
+   "#D7141A",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Bélgica": {
+  "sigla": "BEL",
+  "cores": [
+   "#C8102E",
+   "#000000"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Turquia": {
+  "sigla": "TUR",
+  "cores": [
+   "#E30A17",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Uruguai": {
+  "sigla": "URU",
+  "cores": [
+   "#5CBFEB",
+   "#000000"
+  ],
+  "texto": "#000000"
+ },
+ "Alemanha": {
+  "sigla": "ALE",
+  "cores": [
+   "#FFFFFF",
+   "#000000"
+  ],
+  "texto": "#000000"
+ },
+ "Espanha": {
+  "sigla": "ESP",
+  "cores": [
+   "#C60B1E",
+   "#FFC400"
+  ],
+  "texto": "#FFC400"
+ },
+ "Portugal": {
+  "sigla": "POR",
+  "cores": [
+   "#C8102E",
+   "#006600"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Holanda": {
+  "sigla": "HOL",
+  "cores": [
+   "#F36C21",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }

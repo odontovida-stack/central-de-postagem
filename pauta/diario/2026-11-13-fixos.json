@@ -1,0 +1,390 @@
+{
+ "dia": "13/11/2026",
+ "apurado_em": "2026-11-13",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-13T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de sexta-feira, 13/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 13/11",
+      "linhas": [
+       {
+        "hora": "08h45",
+        "esporte": "surfe",
+        "competicao": "ISA World Surfing Games",
+        "jogo": "Ítalo, Yago, Luana e Laura Raupp",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "09h30",
+        "esporte": "outros",
+        "competicao": "Jogos da Juventude · handebol de areia",
+        "jogo": "Brasil x Alemanha · final",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "13h00",
+        "esporte": "lutas",
+        "competicao": "Judô · Grand Prix de Zagreb",
+        "jogo": "Brasileiros em 5 categorias",
+        "canal": "sportv · CazéTV · Judo TV",
+        "gratis": true
+       },
+       {
+        "hora": "13h25",
+        "esporte": "outros",
+        "competicao": "Tênis de mesa · WTT Istambul",
+        "jogo": "Bruna Takahashi x Matiunina",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "13h30",
+        "esporte": "volei",
+        "competicao": "Liga Polonesa",
+        "jogo": "Projekt Warszawa x Chelm",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "volei",
+        "competicao": "Vôlei sentado · Mundial Militar",
+        "jogo": "Brasil x Itália",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "futebol",
+        "competicao": "Paulistão Sub-20 · semifinal",
+        "jogo": "Santos x Palmeiras",
+        "canal": "YouTube TNT Sports",
+        "gratis": true
+       },
+       {
+        "hora": "15h30",
+        "esporte": "outros",
+        "competicao": "Tênis de mesa · Liga dos Campeões",
+        "jogo": "Lille x Saarbrücken (Calderano)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "volei",
+        "competicao": "Liga Polonesa",
+        "jogo": "Katowice x Czestochowa",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Sérvia x Alemanha",
+        "canal": "sportv · ge TV",
+        "gratis": true
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Holanda x Grécia",
+        "canal": "ESPN · Disney+"
+       }
+      ],
+      "fonte": "Conferido em 13/11 à 1h · Mantos do Futebol, Olimpíada Todo Dia, Web Vôlei, O Tempo, Game Over Drive",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta-feira, 13/11, parte 1 de 3: Ítalo, Yago, Luana e Laura Raupp às 08h45 (ISA World Surfing Games, CazéTV, grátis), Brasil x Alemanha · final às 09h30 (Jogos da Juventude · handebol de areia, a confirmar), Brasileiros em 5 categorias às 13h00 (Judô · Grand Prix de Zagreb, sportv · CazéTV · Judo TV, grátis), Bruna Takahashi x Matiunina às 13h25 (Tênis de mesa · WTT Istambul, a confirmar), Projekt Warszawa x Chelm às 13h30 (Liga Polonesa, VBTV), Brasil x Itália às 14h30 (Vôlei sentado · Mundial Militar, a confirmar), Santos x Palmeiras às 15h00 (Paulistão Sub-20 · semifinal, YouTube TNT Sports, grátis), Lille x Saarbrücken (Calderano) às 15h30 (Tênis de mesa · Liga dos Campeões, a confirmar), Katowice x Czestochowa às 16h30 (Liga Polonesa, VBTV), Sérvia x Alemanha às 16h45 (Liga das Nações, sportv · ge TV, grátis), Holanda x Grécia às 16h45 (Liga das Nações, ESPN · Disney+)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 13/11",
+      "linhas": [
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Escócia x Macedônia do Norte",
+        "canal": "YouTube ESPN · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Eslovênia x Suíça",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Rei",
+        "jogo": "Salamanca x Celta",
+        "canal": "ESPN 3 · Disney+"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Praia Clube x Mackenzie",
+        "canal": "ge TV",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Renata x Sada Cruzeiro",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "natacao",
+        "competicao": "Série Mundial Paralímpica · Lima",
+        "jogo": "Finais com brasileiros",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "19h10",
+        "esporte": "basquete",
+        "competicao": "Liga Sul-Americana",
+        "jogo": "Brasília x Boca Juniors",
+        "canal": "YouTube FIBA",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Cruzeiro x Unifacisa",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "São José x Paulistano",
+        "canal": "Xsports"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Amistoso",
+        "jogo": "Argentina x Uruguai",
+        "canal": "sportv · Globoplay"
+       }
+      ],
+      "fonte": "Conferido em 13/11 à 1h · Mantos do Futebol, Olimpíada Todo Dia, Web Vôlei, O Tempo, Game Over Drive",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta-feira, 13/11, parte 2 de 3: Escócia x Macedônia do Norte às 16h45 (Liga das Nações, YouTube ESPN · Disney+, grátis), Eslovênia x Suíça às 16h45 (Liga das Nações, ESPN 4 · Disney+), Salamanca x Celta às 17h00 (Copa do Rei, ESPN 3 · Disney+), Praia Clube x Mackenzie às 18h30 (Superliga Feminina, ge TV, grátis), Renata x Sada Cruzeiro às 18h30 (Superliga Masculina, sportv2), Finais com brasileiros às 19h00 (Série Mundial Paralímpica · Lima, a confirmar), Brasília x Boca Juniors às 19h10 (Liga Sul-Americana, YouTube FIBA, grátis), Cruzeiro x Unifacisa às 19h30 (NBB, ESPN · Disney+), São José x Paulistano às 19h30 (NBB, Xsports), Argentina x Uruguai às 20h00 (Amistoso, sportv · Globoplay)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 13/11",
+      "linhas": [
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Amistoso Sub-20",
+        "jogo": "Brasil x Peru",
+        "canal": "YouTube TNT Sports",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "outros",
+        "competicao": "Handebol · Sul-Centro Sub-20",
+        "jogo": "Brasil x Chile · semifinal",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "20h30",
+        "esporte": "tenis",
+        "competicao": "WTA Finals · duplas (previsão)",
+        "jogo": "Luisa Stefani e Dabrowski",
+        "canal": "Disney+"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Osasco x Sesi Bauru",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA · Copa NBA",
+        "jogo": "Knicks x Pacers",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Bucks x Magic",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Cavaliers x Heat",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "22h40",
+        "esporte": "basquete",
+        "competicao": "Liga Sul-Americana",
+        "jogo": "Paisas x Flamengo",
+        "canal": "YouTube FIBA",
+        "gratis": true
+       },
+       {
+        "hora": "23h20",
+        "esporte": "outros",
+        "competicao": "Hipismo · CSI5* de Toronto",
+        "jogo": "Rodrigo Pessoa e Marlon Zanotelli",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "23h30",
+        "esporte": "basquete",
+        "competicao": "NBA · Copa NBA",
+        "jogo": "Spurs x Warriors (Gui Santos)",
+        "canal": "Prime Video"
+       }
+      ],
+      "fonte": "Conferido em 13/11 à 1h · Mantos do Futebol, Olimpíada Todo Dia, Web Vôlei, O Tempo, Game Over Drive",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de sexta-feira, 13/11, parte 3 de 3: Brasil x Peru às 20h00 (Amistoso Sub-20, YouTube TNT Sports, grátis), Brasil x Chile · semifinal às 20h00 (Handebol · Sul-Centro Sub-20, a confirmar), Luisa Stefani e Dabrowski às 20h30 (WTA Finals · duplas (previsão), Disney+), Osasco x Sesi Bauru às 21h00 (Superliga Feminina, sportv2), Knicks x Pacers às 21h00 (NBA · Copa NBA, Prime Video), Bucks x Magic às 21h00 (NBA, NBA League Pass), Cavaliers x Heat às 22h00 (NBA, NBA League Pass), Paisas x Flamengo às 22h40 (Liga Sul-Americana, YouTube FIBA, grátis), Rodrigo Pessoa e Marlon Zanotelli às 23h20 (Hipismo · CSI5* de Toronto, a confirmar), Spurs x Warriors (Gui Santos) às 23h30 (NBA · Copa NBA, Prime Video)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de sexta-feira, 13/11 (horário de Brasília)\n\n🥋 13h · Finais do Grand Prix de Zagreb de judô, com brasileiros em 5 categorias · sportv e CazéTV 🆓\n🏄 8h45 · Ítalo, Yago e Luana no ISA World Surfing Games · CazéTV 🆓\n⚽ 20h · Argentina x Uruguai na Bombonera · sportv\n🎾 20h30 (previsão) · Luisa Stefani nas WTA Finals · Disney+\n🏀 23h30 · Spurs x Warriors, com Gui Santos, na Copa NBA · Prime Video\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia às 7h.\n📲 Receba a agenda no WhatsApp: link na bio\n\n#agendaesportiva #esportes #ondeassistir #judo #surfe #nba #superliga #nbb"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-13T07:30:00-03:00",
+    "alt": "Resultados de quinta-feira e jogos de sexta-feira, 13/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "QUI 12/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Liga das Nações",
+        "jogos": [
+         {
+          "casa": "Itália",
+          "gc": 3,
+          "fora": "França",
+          "gf": 1
+         },
+         {
+          "casa": "Inglaterra",
+          "gc": 2,
+          "fora": "Croácia",
+          "gf": 1
+         },
+         {
+          "casa": "Turquia",
+          "gc": 1,
+          "fora": "Bélgica",
+          "gf": 2
+         }
+        ]
+       },
+       {
+        "competicao": "Brasileirão Série B · última rodada",
+        "jogos": [
+         {
+          "casa": "Ponte Preta",
+          "gc": 0,
+          "fora": "Operário-PR",
+          "gf": 2
+         },
+         {
+          "casa": "São Bernardo",
+          "gc": 2,
+          "fora": "Athletic",
+          "gf": 2
+         }
+        ]
+       }
+      ],
+      "destaque": "Itália vira sobre a França e vence por 3 × 1",
+      "fonte": "Conferido em 13/11 à 1h · A Tarde, 365Scores, Itatiaia, Metrópoles",
+      "cta": "Arraste →",
+      "alt": "Resultados de quinta-feira, 12/11: na Liga das Nações, Itália 3 x 1 França, de virada, Inglaterra 2 x 1 Croácia e Turquia 1 x 2 Bélgica; na última rodada da Série B, Ponte Preta 0 x 2 Operário-PR e São Bernardo 2 x 2 Athletic"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SEX 13/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "13/11",
+        "sub": "SEX · 20h",
+        "titulo": "Argentina x Uruguai",
+        "detalhe": "Amistoso · sportv, Globoplay",
+        "destaque": true
+       },
+       {
+        "data": "13/11",
+        "sub": "SEX · 16h45",
+        "titulo": "Sérvia x Alemanha",
+        "detalhe": "Liga das Nações · sportv, ge TV",
+        "gratis": true
+       },
+       {
+        "data": "13/11",
+        "sub": "SEX · 16h45",
+        "titulo": "Holanda x Grécia",
+        "detalhe": "Liga das Nações · ESPN, Disney+"
+       },
+       {
+        "data": "13/11",
+        "sub": "SEX · 16h45",
+        "titulo": "Escócia x Macedônia do Norte",
+        "detalhe": "Liga das Nações · YouTube ESPN, Disney+",
+        "gratis": true
+       },
+       {
+        "data": "13/11",
+        "sub": "SEX · 17h",
+        "titulo": "Salamanca x Celta",
+        "detalhe": "Copa do Rei · ESPN 3, Disney+"
+       },
+       {
+        "data": "13/11",
+        "sub": "SEX · 20h",
+        "titulo": "Brasil x Peru (Sub-20)",
+        "detalhe": "Amistoso · YouTube TNT Sports",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 13/11 à 1h · Mantos do Futebol, Coluna do Fla, A Rede",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de sexta-feira, 13/11: jogo do dia Argentina x Uruguai, amistoso às 20h no sportv e no Globoplay; às 16h45, pela Liga das Nações, Sérvia x Alemanha no sportv e no ge TV, grátis, Holanda x Grécia na ESPN e Escócia x Macedônia do Norte no YouTube da ESPN, grátis; Salamanca x Celta pela Copa do Rei às 17h na ESPN 3; e Brasil x Peru Sub-20 às 20h no YouTube da TNT Sports, grátis"
+     }
+    ],
+    "legenda": "⚽ A Itália virou sobre a França e hoje tem Argentina x Uruguai!\n\n🇮🇹 Ontem: Itália 3 x 1 França, de virada, na Liga das Nações\n🏴 Inglaterra 2 x 1 Croácia · 🇧🇪 Turquia 1 x 2 Bélgica\n🔵 Série B: Ponte Preta 0 x 2 Operário-PR e São Bernardo 2 x 2 Athletic\n\n★ Jogo do dia: Argentina x Uruguai, 20h, amistoso na Bombonera · sportv e Globoplay\n🇩🇪 Sérvia x Alemanha, 16h45 · sportv e ge TV 🆓\n🇳🇱 Holanda x Grécia, 16h45 · ESPN e Disney+\n🏴 Escócia x Macedônia do Norte, 16h45 · YouTube ESPN 🆓\n🇧🇷 Brasil x Peru Sub-20, 20h · YouTube TNT Sports 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos de hoje todo dia às 7h30.\n\n#futebol #jogosdehoje #ondeassistir #ligadasnacoes #argentina #uruguai #serieb"
+   }
+  ]
+ }
+}
