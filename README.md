@@ -108,6 +108,8 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 | @lancamentosdegames | Jogos grátis para resgatar (Epic toda quinta, Steam, GOG, PS Plus, Prime, Game Pass) | 14h |
 | @tudooqueestreia | Estreia hoje | 12h |
 | @showsconfirmados | Pré-venda hoje | 8h |
+| @showsconfirmados | Venda abre amanhã (véspera de cada pré-venda grande) | 19h |
+| @showsconfirmados | Show anunciado (no dia em que o show é confirmado) | 10h, ou 1h depois do anúncio |
 | @showsconfirmados | Hoje tem show | 16h |
 | @lancamentosdegames | Carrossel "O game da semana" | Terça, 19h |
 | @tudooqueestreia | Carrossel "As estreias mais esperadas" (streaming + cinema) | Quarta, 20h |
@@ -121,6 +123,8 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 | @esportesnatela | Agenda da semana | Segunda, 12h30 |
 | @lancamentosdegames | Lançamentos da semana | Segunda, 9h |
 | @showsconfirmados | Shows da semana ou do mês | Segunda, 19h |
+| @showsconfirmados | Vendas da semana (pré-vendas e vendas que abrem na semana) | Segunda, 12h |
+| @showsconfirmados | Próximos meses (shows e festivais dos 3 a 6 meses seguintes) | Dia 1º, 10h |
 | @tudooqueestreia | Estreias da semana (sexta a quinta) | Sexta, 9h |
 | Todas | Destaques | 18h, de terça a sábado |
 
