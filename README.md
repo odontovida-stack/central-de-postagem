@@ -131,6 +131,7 @@ Post diário do @esportesnatela às **07:00**: um carrossel com a agenda do dia 
 - Cada card tem até **12 linhas**: `{"hora": "09h00", "esporte": "tenis", "competicao": "Masters 1000 Paris · 1ª rodada", "jogo": "Musetti x Hurkacz", "canal": "ESPN 2"}`.
 - Esportes com cor própria: futebol, tenis, volei, basquete, f1, automobilismo, nfl, lutas, atletismo, natacao, surfe, outros.
 - Use de 2 a 4 cards (títulos "Agenda completa 1/3", "2/3"...), em ordem de horário; mire 25 a 35 eventos.
+- **Rugby (pedido do Luiz em 13/11/2026):** procure também os jogos de rugby do dia e inclua-os com `"esporte": "outros"` e a competição começando por "Rugby" (ex.: "Rugby · Nations Series"). Prioridade para os Tupis e as Yaras (seleções brasileiras), depois os grandes jogos internacionais (Six Nations, Rugby Championship, jogos de novembro e julho entre seleções, Copa do Mundo) e o Super Rugby Américas.
 - Só entra evento com horário e canal conferidos em fonte oficial ou grande veículo. Canal incerto: "a confirmar".
 - Inclua canais grátis (YouTube, CazéTV, GOAT, TV aberta) quando houver e marque a linha com `"gratis": true`: aparece o selo verde GRÁTIS. É o que mais faz o post ser salvo.
 - Legenda: os destaques do dia em 3 a 5 linhas + "Salve para consultar durante o dia" + "📲 Receba a agenda no WhatsApp: link na bio".
