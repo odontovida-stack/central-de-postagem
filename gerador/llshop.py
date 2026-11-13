@@ -121,10 +121,10 @@ def agenda(conta, card):
 # Grade completa do dia (modelo "agenda esportiva" em tabela): uma linha por evento, cor por esporte.
 CORES_ESPORTE = {"futebol": "#2FD17A", "tenis": "#C7E04A", "volei": "#FFB020", "basquete": "#FF7A45", "f1": "#FF4D5E",
                  "automobilismo": "#FF4D5E", "nfl": "#8C7BFF", "lutas": "#E04AC7", "atletismo": "#4CD3E0", "natacao": "#4C9AFF",
-                 "surfe": "#3FB6A8", "outros": "#B4B8C0"}
+                 "surfe": "#3FB6A8", "rugby": "#D4A373", "outros": "#B4B8C0"}
 ROTULO_ESPORTE = {"futebol": "FUTEBOL", "tenis": "TÊNIS", "volei": "VÔLEI", "basquete": "BASQUETE", "f1": "F1",
                   "automobilismo": "MOTOR", "nfl": "NFL", "lutas": "LUTAS", "atletismo": "ATLETISMO", "natacao": "NATAÇÃO",
-                  "surfe": "SURFE", "outros": "OUTROS"}
+                  "surfe": "SURFE", "rugby": "RÚGBI", "outros": "OUTROS"}
 MAX_LINHAS_GRADE = 12
 
 

@@ -103,7 +103,7 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 |---|---|---|
 | @jogosnatela | Resultados de ontem + jogos de hoje (carrossel) | Todo dia, 7h30 |
 | @jogosnatela | Jogo do dia (só se houver jogo grande) | Seg a sex 17h · fim de semana e feriado: 4h antes do jogo (nunca antes das 8h) |
-| @esportesnatela | Hoje tem (todos os esportes menos futebol de clubes: vôlei, basquete, atletismo, natação, tênis, F1, lutas, NFL e outros) | Seg a sex 11h · fim de semana e feriado: 8h |
+| @esportesnatela | Hoje tem (todos os esportes menos futebol de clubes: vôlei, basquete, atletismo, natação, tênis, F1, lutas, NFL, rúgbi e outros) | Seg a sex 11h · fim de semana e feriado: 8h |
 | @lancamentosdegames | Sai hoje (lançamento grande) | 10h |
 | @lancamentosdegames | Jogos grátis para resgatar (Epic toda quinta, Steam, GOG, PS Plus, Prime, Game Pass) | 14h |
 | @tudooqueestreia | Estreia hoje | 12h |
@@ -129,7 +129,7 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 Post diário do @esportesnatela às **07:00**: um carrossel com a agenda do dia inteiro, todos os esportes, em tabela.
 
 - Cada card tem até **12 linhas**: `{"hora": "09h00", "esporte": "tenis", "competicao": "Masters 1000 Paris · 1ª rodada", "jogo": "Musetti x Hurkacz", "canal": "ESPN 2"}`.
-- Esportes com cor própria: futebol, tenis, volei, basquete, f1, automobilismo, nfl, lutas, atletismo, natacao, surfe, outros.
+- Esportes com cor própria: futebol, tenis, volei, basquete, f1, automobilismo, nfl, lutas, atletismo, natacao, surfe, rugby, outros.
 - Use de 2 a 4 cards (títulos "Agenda completa 1/3", "2/3"...), em ordem de horário; mire 25 a 35 eventos.
 - Só entra evento com horário e canal conferidos em fonte oficial ou grande veículo. Canal incerto: "a confirmar".
 - Inclua canais grátis (YouTube, CazéTV, GOAT, TV aberta) quando houver e marque a linha com `"gratis": true`: aparece o selo verde GRÁTIS. É o que mais faz o post ser salvo.
