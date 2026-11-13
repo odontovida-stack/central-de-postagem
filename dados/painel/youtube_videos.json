@@ -26,7 +26,7 @@
    "publicado": "2026-11-10",
    "status": "public",
    "agendado": "",
-   "views": 3,
+   "views": 4,
    "likes": 0,
    "comentarios": 0
   },
@@ -36,7 +36,7 @@
    "publicado": "2026-11-10",
    "status": "public",
    "agendado": "",
-   "views": 42,
+   "views": 43,
    "likes": 1,
    "comentarios": 0
   },
@@ -153,6 +153,16 @@
  ],
  "Before History Changed": [
   {
+   "id": "LMfD6KURISQ",
+   "titulo": "Why the Wright Brothers' First Airplane Spent 20 Years in London (1928)",
+   "publicado": "2026-11-12",
+   "status": "public",
+   "agendado": "",
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
    "id": "lgnbnXjOo3Y",
    "titulo": "The first airplane spent 20 years in London #shorts",
    "publicado": "2026-11-11",
@@ -218,16 +228,6 @@
    "publicado": "2026-11-02",
    "status": "private",
    "agendado": "2026-11-19T19:00",
-   "views": 0,
-   "likes": 0,
-   "comentarios": 0
-  },
-  {
-   "id": "LMfD6KURISQ",
-   "titulo": "Why the Wright Brothers' First Airplane Spent 20 Years in London (1928)",
-   "publicado": "2026-11-02",
-   "status": "private",
-   "agendado": "2026-11-12T19:00",
    "views": 0,
    "likes": 0,
    "comentarios": 0
