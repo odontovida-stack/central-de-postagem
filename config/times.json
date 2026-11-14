@@ -807,5 +807,69 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Peru": {
+  "sigla": "PER",
+  "cores": [
+   "#FFFFFF",
+   "#D91023"
+  ],
+  "texto": "#D91023"
+ },
+ "Grécia": {
+  "sigla": "GRE",
+  "cores": [
+   "#0D5EAF",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Sérvia": {
+  "sigla": "SER",
+  "cores": [
+   "#C6363C",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Escócia": {
+  "sigla": "ESC",
+  "cores": [
+   "#1A2B5F",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Suíça": {
+  "sigla": "SUI",
+  "cores": [
+   "#D52B1E",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Celta": {
+  "sigla": "CEL",
+  "cores": [
+   "#8AC3EE",
+   "#FFFFFF"
+  ],
+  "texto": "#002B5C"
+ },
+ "Japão": {
+  "sigla": "JAP",
+  "cores": [
+   "#0B1F65",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Dinamarca": {
+  "sigla": "DIN",
+  "cores": [
+   "#C8102E",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
