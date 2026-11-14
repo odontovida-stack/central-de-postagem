@@ -1,0 +1,90 @@
+{
+  "dia": "14/11/2026",
+  "apurado_em": "2026-11-14",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-escondido",
+        "redes": ["tiktok"],
+        "quando": "2026-11-14T19:00:00-03:00",
+        "alt": "Escondido no streaming: 3 séries ótimas e pouco conhecidas, Undone no Prime Video, Pluto na Netflix e Pachinko na Apple TV",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "streaming-sofa",
+            "pilula": "ESCONDIDO NO STREAMING",
+            "chamada": "3 SÉRIES QUE QUASE NINGUÉM VIU",
+            "titulo": "Joias escondidas no seu streaming",
+            "caixas": [
+              ["Prime Video", "Undone"],
+              ["Netflix", "Pluto"]
+            ],
+            "nota": "Sem spoiler. Arraste para ver tudo.",
+            "fonte": "Conferido em 14/11 às 11h · AdoroCinema, Rotten Tomatoes, Apple TV",
+            "cta": "Arraste →",
+            "alt": "Capa: joias escondidas no streaming, 3 séries que quase ninguém viu, como Undone no Prime Video e Pluto na Netflix"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE ANIMADA",
+            "chamada": "PRIME VIDEO · 2 TEMPORADAS",
+            "titulo": "Undone",
+            "texto": "Depois de um acidente de carro, Alma descobre que consegue se mover pelo tempo e é chamada pelo pai, já falecido, para desvendar a morte dele.",
+            "topicos": [
+              "Dos criadores de BoJack Horseman",
+              "Animação com cara de sonho",
+              "98% no Rotten Tomatoes · 16 episódios curtos"
+            ],
+            "fonte": "Conferido em 14/11 às 11h · AdoroCinema, Rotten Tomatoes",
+            "alt": "Undone, série animada no Prime Video: 2 temporadas, 16 episódios curtos, 98% no Rotten Tomatoes, dos criadores de BoJack Horseman"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "ANIME",
+            "chamada": "NETFLIX · 8 EPISÓDIOS",
+            "titulo": "Pluto",
+            "texto": "Um detetive robô investiga uma série de assassinatos de robôs e humanos num mundo onde as máquinas parecem gente.",
+            "topicos": [
+              "Do mangá de Naoki Urasawa (Monster)",
+              "Suspense policial com ficção científica",
+              "100% no Rotten Tomatoes"
+            ],
+            "fonte": "Conferido em 14/11 às 11h · Rotten Tomatoes, Netflix",
+            "alt": "Pluto, anime da Netflix com 8 episódios: suspense policial de ficção científica baseado no mangá de Naoki Urasawa, 100% no Rotten Tomatoes"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE",
+            "chamada": "APPLE TV · DRAMA",
+            "titulo": "Pachinko",
+            "texto": "A saga de uma família coreana ao longo de gerações, da Coreia sob domínio japonês até o Japão e os Estados Unidos.",
+            "topicos": [
+              "Baseada no livro de Min Jin Lee",
+              "Youn Yuh-jung e Lee Min-ho",
+              "Para quem ama dramas de época"
+            ],
+            "fonte": "Conferido em 14/11 às 11h · Apple TV, AdoroCinema",
+            "alt": "Pachinko, drama da Apple TV baseado no livro de Min Jin Lee, com Youn Yuh-jung e Lee Min-ho"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "cinema-sala",
+            "pilula": "ESCONDIDO NO STREAMING",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você já conhecia?",
+            "opcoes": [
+              "Undone",
+              "Pluto",
+              "Pachinko",
+              "Nenhuma, vou ver hoje"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual você já conhecia? A) Undone, B) Pluto, C) Pachinko, D) Nenhuma, vou ver hoje"
+          }
+        ],
+        "legenda": "🤫 3 séries incríveis que quase ninguém viu (e já estão no seu streaming) 👇\n\n🌀 Undone · Prime Video · animação dos criadores de BoJack\n🤖 Pluto · Netflix · anime policial com 100% no Rotten Tomatoes\n🇰🇷 Pachinko · Apple TV · drama de família de tirar o fôlego\n\nQual você já conhecia? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#filmes #series #netflix #streaming #oquever"
+      }
+    ]
+  }
+}
