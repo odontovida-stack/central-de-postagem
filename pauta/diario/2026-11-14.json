@@ -1,0 +1,112 @@
+{
+ "dia": "14/11/2026",
+ "apurado_em": "2026-11-14",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-14T08:00:00-03:00",
+    "pilula": "SÁB 14/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {"data": "14/11", "sub": "SÁB · 11h10", "titulo": "País de Gales x Nova Zelândia", "detalhe": "Rúgbi · Nations Championship · ESPN 2"},
+     {"data": "14/11", "sub": "SÁB · 12h40", "titulo": "Sprint da Corrida do Milhão", "detalhe": "Stock Car · Velopark · Band, BandSports", "gratis": true},
+     {"data": "14/11", "sub": "SÁB · 13h40", "titulo": "Inglaterra x Japão", "detalhe": "Rúgbi · Nations Championship · ESPN 2"},
+     {"data": "14/11", "sub": "SÁB · 23h", "titulo": "UFC 334: Harrison x Amanda Nunes", "detalhe": "Lutas · card principal · Paramount+"}
+    ],
+    "fonte": "Conferido em 14/11 à 1h · Grande Prêmio, Six Nations, UFC, Agent MMA",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: País de Gales x Nova Zelândia no rúgbi às 11h10 na ESPN 2, a corrida sprint da Corrida do Milhão da Stock Car às 12h40 na Band, grátis, Inglaterra x Japão no rúgbi às 13h40 na ESPN 2 e o card principal do UFC 334, com Kayla Harrison x Amanda Nunes, às 23h no Paramount+",
+    "legenda": "🏉🏎️🥊 Sábado com All Blacks, Corrida do Milhão na TV aberta e Amanda Nunes de volta ao octógono!\n\n⏰ Horário de Brasília:\n🏉 11h10 · País de Gales x Nova Zelândia, em Cardiff · ESPN 2\n🏁 12h40 · Corrida Sprint da Corrida do Milhão da Stock Car, no Velopark · Band 🆓 e BandSports\n🏉 13h40 · Inglaterra x Japão, em Twickenham · ESPN 2\n🥊 23h · UFC 334: Kayla Harrison x Amanda Nunes, pelo cinturão do peso-galo · Paramount+ (preliminares a partir das 19h)\n\n🆓 = transmissão grátis\n📌 Salve para não perder o horário\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Grande Prêmio, Six Nations, UFC e Agent MMA.\n\n#esportes #hojetem #stockcar #corridadomilhao #rugby #allblacks #ufc334 #amandanunes"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-14T12:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "SÁB 14/11",
+    "chamada": "AMISTOSO · BOMBONERA",
+    "titulo": "Argentina 1 x 2 Uruguai: o que achou?",
+    "contexto": "O Uruguai venceu a Argentina na Bombonera na sexta.",
+    "opcoes": ["Uruguai mereceu", "Argentina sente falta do Messi", "Os dois", "Nem vi o jogo"],
+    "fonte": "Conferido em 14/11 à 1h · CNN Brasil",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Pergunta: Argentina 1 x 2 Uruguai, o que achou? A, Uruguai mereceu; B, Argentina sente falta do Messi; C, os dois; D, nem vi o jogo",
+    "legenda": "🇺🇾 O Uruguai venceu a Argentina por 2 x 1 na Bombonera. O que achou?\n\nA) Uruguai mereceu\nB) Argentina sente falta do Messi\nC) Os dois\nD) Nem vi o jogo\n\n⚽ Os 3 gols saíram no 2º tempo: gol contra de Balerdi e Maxi Araújo para o Uruguai, os dois em lances de Arrascaeta; Julián Álvarez descontou\n\n📤 Mande para quem viu o jogo com você\n\nResponda A, B, C ou D nos comentários 👇\nSiga @jogosnatela para todos os jogos do dia.\n\nFonte: CNN Brasil.\n\n#argentina #uruguai #amistoso #bombonera #arrascaeta #futebol"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-14T13:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "RECORDE",
+    "chamada": "LIGA DAS NAÇÕES",
+    "grande": "7 × 0",
+    "titulo": "Holanda iguala a maior goleada da Liga das Nações",
+    "caixas": [
+     ["Jogo", "Holanda 7 x 0 Grécia, sexta (13/11)"],
+     ["Recorde igualado", "Alemanha 7 x 0 Bósnia, em novembro de 2024"]
+    ],
+    "nota": "Reijnders fez 3 gols ainda no 1º tempo.",
+    "fonte": "Conferido em 14/11 à 1h · UEFA",
+    "cta": "Salve e compartilhe",
+    "alt": "Recorde: a Holanda fez 7 x 0 na Grécia na sexta, 13/11, e igualou a maior goleada da história da Liga das Nações, a de Alemanha 7 x 0 Bósnia, em novembro de 2024. Reijnders fez 3 gols no primeiro tempo",
+    "legenda": "🇳🇱 A Holanda fez 7 x 0 na Grécia e igualou a maior goleada da história da Liga das Nações!\n\n⚽ Holanda 7 x 0 Grécia, na sexta (13/11), pela 5ª rodada\n🎩 Reijnders fez hat-trick ainda no 1º tempo\n📊 Iguala o recorde de Alemanha 7 x 0 Bósnia, de novembro de 2024\n\n📌 Salve para lembrar desse recorde\n📤 Mande para quem acompanha a Liga das Nações\n\nQual foi a maior goleada que você já viu ao vivo? 👇\nSiga @jogosnatela para o futebol todo dia.\n\nFonte: UEFA.\n\n#ligadasnacoes #nationsleague #holanda #grecia #reijnders #recorde #futebol"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-14T12:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "SÃO PAULO · ESPAÇO UNIMED",
+    "titulo": "Foi ao show da Hayley Williams? Conta como foi",
+    "contexto": "Ela fez a 2ª noite em São Paulo na sexta (13/11).",
+    "opcoes": ["Show perfeito", "Bom, mas faltou música", "Não fui, mas queria", "Não curto"],
+    "fonte": "Conferido em 14/11 à 1h · Omelete, Billboard Brasil",
+    "cta": "Responda nos comentários",
+    "alt": "Pergunta: foi ao show da Hayley Williams em São Paulo? A, show perfeito; B, bom, mas faltou música; C, não fui, mas queria; D, não curto",
+    "legenda": "🎤 Foi ao show da Hayley Williams em São Paulo? Conta como foi!\n\nA) Show perfeito\nB) Bom, mas faltou música\nC) Não fui, mas queria\nD) Não curto\n\n📍 Espaço Unimed, São Paulo · noites de quinta (12/11) e sexta (13/11)\n\n📤 Mande para quem foi com você\n\nResponda nos comentários: qual música foi a melhor? 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\nFontes: Omelete e Billboard Brasil.\n\n#hayleywilliams #paramore #saopaulo #shows #showsconfirmados #espacounimed"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-14T16:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "SÁB 14/11",
+    "chamada": "HOJE TEM SHOW · SÃO PAULO",
+    "grande": "20h",
+    "titulo": "Marisa Monte: último show da turnê Phonica",
+    "caixas": [["Local", "Nubank Parque · Água Branca"], ["Portões", "16h"]],
+    "nota": "Marisa Monte & Orquestra Ao Vivo encerra a turnê. Ingressos: Tickets for Fun.",
+    "fonte": "Conferido em 14/11 à 1h · Viva, Sodapop, TMC",
+    "cta": "Mande para quem vai",
+    "alt": "Hoje tem show: Marisa Monte encerra a turnê Phonica com orquestra, às 20h, no Nubank Parque, em São Paulo. Portões abrem às 16h. Ingressos pela Tickets for Fun",
+    "legenda": "🎻 Hoje é a despedida da turnê Phonica: Marisa Monte com orquestra em São Paulo!\n\n🎤 Phonica · Marisa Monte & Orquestra Ao Vivo\n📍 Nubank Parque · Av. Francisco Matarazzo, 1705, Água Branca, São Paulo\n🚪 Portões às 16h\n⏰ Show às 20h (horário de Brasília)\n🎟️ Ingressos: Tickets for Fun\n\n⚠️ Cuidado com golpe: não compre ingresso de desconhecidos nem pague Pix para revendedor.\n📌 Salve para ter o horário à mão.\n📤 Mande para quem vai com você.\n\nQual música não pode faltar? 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\nFontes: Viva, Sodapop e TMC.\n\n#marisamonte #phonica #saopaulo #nubankparque #shows #showsconfirmados"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "enquete",
+    "quando": "2026-11-14T20:00:00-03:00",
+    "foto": "streaming-sofa",
+    "pilula": "ENQUETE",
+    "chamada": "FIM DE SEMANA",
+    "titulo": "O que você vai assistir neste fim de semana?",
+    "contexto": "As estreias da semana no streaming.",
+    "opcoes": ["Os Anéis de Poder T3 (Prime Video)", "The Chosen T6 (Prime Video, dom)", "Cidade de Deus T2, ep. 2 (HBO Max, dom)", "Outra coisa"],
+    "fonte": "Sem spoiler nos comentários!",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Enquete: o que você vai assistir neste fim de semana? A: O Senhor dos Anéis: Os Anéis de Poder, 3ª temporada, no Prime Video. B: The Chosen, 6ª temporada, no Prime Video, no domingo. C: Cidade de Deus: A Luta Não Para, episódio 2 da 2ª temporada, na HBO Max, no domingo. D: Outra coisa.",
+    "legenda": "🍿 O que você vai assistir neste fim de semana?\n\nA) O Senhor dos Anéis: Os Anéis de Poder, 3ª temporada · Prime Video, 4 episódios desde quarta (11/11)\nB) The Chosen, 6ª temporada · Prime Video, domingo (15/11)\nC) Cidade de Deus: A Luta Não Para, episódio 2 da 2ª temporada · HBO Max, domingo (15/11)\nD) Outra coisa (conta qual!)\n\n📌 Salve para escolher depois.\n📤 Mande para quem divide o sofá com você.\n\nResponda A, B, C ou D 👇 (sem spoiler!)\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFontes: Omelete e Oficina da Net.\n\n#estreias #streaming #primevideo #aneisdepoder #thechosen #hbomax #fimdesemana #enquete"
+   }
+  ]
+ }
+}
