@@ -1,0 +1,28 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "Every U.S. flight just stopped. Only 9/11 lasted longer. #shorts",
+  "quando": "2026-11-17T12:00:00-03:00",
+  "tags": [
+    "faa ground stop",
+    "flights canceled",
+    "air travel",
+    "air traffic control",
+    "flight delays",
+    "9/11",
+    "american history",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 15/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}
