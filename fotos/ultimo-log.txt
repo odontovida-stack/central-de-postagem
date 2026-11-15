@@ -1,4 +1,26 @@
 NADA para tatame-lutas (judo tatami mat)
 NADA para judo-tatame (judo tatami mat competition)
-Openverse falhou para ringue-lutas: HTTP Error 504: Gateway Timeout
 NADA para ringue-lutas (empty boxing ring)
+OK cinema-poltronas: Foto: autor desconhecido · CC0 (https://www.rawpixel.com/image/6042942/photo-image-background-public-domain-room)
+OK cinema-projetor: Foto: Hikaru Iwasaki · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Closing_of_the_Jerome_Relocation_Center,_Denson,_Arkansas._View_in_the_projection_booth_of_the_cent_._._._-_NARA_-_539790.jpg)
+NADA para cinema-tela (movie theater screen empty auditorium)
+OK cinema-pipoca: Foto: Corn cheese · CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Popcorn_bucket_inside.jpg)
+OK tv-controle: Foto: 50Fish · CC0 (https://stocksnap.io/photo/remote-control-XXNJAOGTCN)
+OK cinema-claquete: Foto: autor desconhecido · CC0 (https://www.rawpixel.com/image/6039525/photo-image-desktop-wallpaper-public-domain-white)
+OK cinema-rolo: Foto: mannyisdead on Deviantart · CC BY 3.0 (https://commons.wikimedia.org/wiki/File:35mm_Film_Container_or_Metal_Can.png)
+OK tv-sala-vazia: Foto: runran · CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Bahar_(2599760344).jpg)
+OK cinema-drive-in: Foto: Cindy Funk · CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Melody_Drive_In,_Ohio.jpg)
+OK cinema-letreiro: Foto: Carol M Highsmith · CC0 (https://www.rawpixel.com/image/8071194/photo-image-neon-public-domain-window)
+NADA para tv-tela-escura (television screen dark room glow)
+Wikimedia falhou para cinema-ingresso: HTTP Error 429: Too Many Requests
+NADA para cinema-ingresso (cinema ticket stub)
+OK game-arcade: Foto: George Becker · CC0 (https://stocksnap.io/photo/fun-games-NRI5VQ95W0)
+Wikimedia falhou para game-headset: HTTP Error 429: Too Many Requests
+NADA para game-headset (gaming headset)
+OK game-console: Foto: 50Fish · CC0 (https://stocksnap.io/photo/video-game-6MQCVSOWVZ)
+Wikimedia falhou para game-setup: HTTP Error 429: Too Many Requests
+NADA para game-setup (gaming setup rgb)
+OK show-palco-luzes: Foto: Anthony Delanoix · CC0 (https://stocksnap.io/photo/crowd-people-IUJP9OI22I)
+OK show-microfone: Foto: Freestocks.org · CC0 (https://stocksnap.io/photo/concert-stage-5GPP7A6LVW)
+OK show-festival-noite: Foto: autor desconhecido · CC0 (https://www.rawpixel.com/image/3286381/free-photo-image-crowd-audience-blur-background)
+OK show-guitarra: Foto: Ana Grave · CC0 (https://stocksnap.io/photo/people-man-5PEZV88YAV)
