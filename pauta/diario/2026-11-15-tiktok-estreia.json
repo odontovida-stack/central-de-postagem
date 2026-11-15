@@ -1,0 +1,90 @@
+{
+  "dia": "15/11/2026",
+  "apurado_em": "2026-11-15",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-top3",
+        "redes": ["tiktok"],
+        "quando": "2026-11-15T19:00:00-03:00",
+        "alt": "Top 3 da semana: Ebenezer e os Fantasmas do Natal nos cinemas, Todo Tempo que Temos no Prime Video e O Jogo do Diabo 3 na Netflix",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "cinema-poltronas",
+            "pilula": "TOP 3 DA SEMANA",
+            "chamada": "3 ESTREIAS PARA NÃO DEIXAR PASSAR",
+            "titulo": "O que chegou nesta semana",
+            "caixas": [
+              ["Cinema", "Ebenezer"],
+              ["Streaming", "Prime e Netflix"]
+            ],
+            "nota": "Sem spoiler. Arraste para ver onde assistir.",
+            "fonte": "Conferido em 15/11 às 11h · Ingresso.com, Oficina da Net, Trecobox",
+            "cta": "Arraste →",
+            "alt": "Capa: top 3 da semana, 3 estreias para não deixar passar, uma no cinema e duas no streaming"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "1 · CINEMA",
+            "chamada": "NOS CINEMAS DESDE 12/11",
+            "titulo": "Ebenezer e os Fantasmas do Natal",
+            "texto": "O clássico de Charles Dickens sobre um velho avarento que recebe a visita de três fantasmas na véspera de Natal, agora com clima sombrio.",
+            "topicos": [
+              "Johnny Depp é Scrooge",
+              "Rupert Grint e Ian McKellen no elenco",
+              "Direção de Ti West (X, Pearl) · Paramount"
+            ],
+            "fonte": "Conferido em 15/11 às 11h · Ingresso.com, Paramount",
+            "alt": "Ebenezer e os Fantasmas do Natal, nos cinemas desde 12/11, com Johnny Depp, Rupert Grint e Ian McKellen, direção de Ti West"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "2 · FILME",
+            "chamada": "PRIME VIDEO · DESDE 09/11",
+            "titulo": "Todo Tempo que Temos",
+            "texto": "Uma chef e um homem recém-divorciado se conhecem por acaso e vivem um amor contado fora de ordem, em idas e vindas no tempo.",
+            "topicos": [
+              "Florence Pugh e Andrew Garfield",
+              "Direção de John Crowley",
+              "Já está no top 10 do Prime Video"
+            ],
+            "fonte": "Conferido em 15/11 às 11h · Catraca Livre, A Tarde",
+            "alt": "Todo Tempo que Temos, filme no Prime Video desde 09/11, com Florence Pugh e Andrew Garfield, direção de John Crowley"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "3 · REALITY",
+            "chamada": "NETFLIX · DESDE 10/11",
+            "titulo": "O Jogo do Diabo 3",
+            "texto": "O reality coreano de estratégia volta com 16 participantes que precisam de lógica, blefe e alianças para sobreviver aos jogos.",
+            "topicos": [
+              "Campeões das temporadas anteriores",
+              "Jogadores de pôquer e de jogos mentais",
+              "14 episódios, lançados ao longo de 3 semanas"
+            ],
+            "fonte": "Conferido em 15/11 às 11h · Critical Hits, Oficina da Net",
+            "alt": "O Jogo do Diabo 3, reality coreano de estratégia na Netflix desde 10/11, com 16 participantes e 14 episódios"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "streaming-sofa",
+            "pilula": "TOP 3 DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você vai ver primeiro?",
+            "opcoes": [
+              "Ebenezer, no cinema",
+              "Todo Tempo que Temos",
+              "O Jogo do Diabo 3",
+              "Outra estreia (conta qual!)"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual você vai ver primeiro? A) Ebenezer, no cinema, B) Todo Tempo que Temos, C) O Jogo do Diabo 3, D) Outra estreia"
+          }
+        ],
+        "legenda": "🏆 As 3 estreias da semana que você não pode deixar passar 👇\n\n👻 Ebenezer e os Fantasmas do Natal · cinemas · Johnny Depp como Scrooge\n💛 Todo Tempo que Temos · Prime Video · Florence Pugh e Andrew Garfield\n😈 O Jogo do Diabo 3 · Netflix · o reality de estratégia voltou\n\nQual você vai ver primeiro? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#filmes #series #netflix #cinema #oquever"
+      }
+    ]
+  }
+}
