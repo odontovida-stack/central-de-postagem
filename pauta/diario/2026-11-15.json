@@ -1,0 +1,167 @@
+{
+ "dia": "15/11/2026",
+ "apurado_em": "2026-11-15",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-15T08:00:00-03:00",
+    "pilula": "DOM 15/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "15/11",
+      "sub": "DOM · 10h",
+      "titulo": "Zverev x Jodar",
+      "detalhe": "Tênis · estreia do ATP Finals · ESPN 2"
+     },
+     {
+      "data": "15/11",
+      "sub": "DOM · 11h30",
+      "titulo": "Patriots x Lions, em Munique",
+      "detalhe": "NFL · ge TV, sportv4",
+      "gratis": true
+     },
+     {
+      "data": "15/11",
+      "sub": "DOM · 12h",
+      "titulo": "Escócia x Austrália",
+      "detalhe": "Rúgbi · Nations Championship · ESPN 3"
+     },
+     {
+      "data": "15/11",
+      "sub": "DOM · 12h10",
+      "titulo": "Corrida do Milhão",
+      "detalhe": "Stock Car · Velopark · Band, YouTube",
+      "gratis": true
+     }
+    ],
+    "fonte": "Conferido em 15/11 à 1h · Grande Prêmio, Brasil Tênis, Antenados na TV",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: Zverev x Jodar na estreia do ATP Finals às 10h na ESPN 2; Patriots x Lions, jogo da NFL em Munique, às 11h30 no ge TV, grátis, e no sportv4; Escócia x Austrália no rúgbi às 12h na ESPN 3; e a Corrida do Milhão da Stock Car às 12h10 na Band e no YouTube, grátis",
+    "legenda": "🏁🏈🎾 Domingo com a Corrida do Milhão na TV aberta, NFL na Alemanha e o ATP Finals começando!\n\n⏰ Horário de Brasília:\n🎾 10h · Zverev x Jodar, na estreia do ATP Finals, em Turim · ESPN 2\n🏈 11h30 · Patriots x Lions, em Munique · ge TV 🆓 e sportv4\n🏉 12h · Escócia x Austrália · ESPN 3\n🏁 12h10 · Corrida do Milhão da Stock Car, no Velopark · Band 🆓, BandSports e YouTube · R$ 1 milhão para o vencedor\n\n🆓 = transmissão grátis\n📌 Salve para não perder o horário\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Grande Prêmio, Brasil Tênis e Antenados na TV.\n\n#esportes #hojetem #stockcar #corridadomilhao #nfl #atpfinals #rugby"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-15T12:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "DOM 15/11",
+    "chamada": "JOGO DO DIA · HORÁRIO DE BRASÍLIA",
+    "grande": "16h",
+    "titulo": "Internacional x Flamengo",
+    "caixas": [
+     [
+      "Onde assistir",
+      "sportv2 e YouTube (NSports e Lance!)"
+     ],
+     [
+      "Competição",
+      "Copa do Brasil Feminina · final"
+     ]
+    ],
+    "nota": "Volta no Beira-Rio. O Inter venceu a ida por 3 x 1, no Rio.",
+    "fonte": "Conferido em 15/11 à 1h · Gazeta Esportiva, Flamengo, Antenados na TV",
+    "cta": "Mande para quem vai ver",
+    "alt": "Jogo do dia: Internacional x Flamengo às 16h, horário de Brasília, jogo de volta da final da Copa do Brasil Feminina no Beira-Rio, com transmissão no sportv2 e no YouTube da NSports e do Lance!. O Inter venceu a ida por 3 x 1",
+    "legenda": "🏆 Hoje tem decisão no Beira-Rio: final da Copa do Brasil Feminina!\n\n⚽ Internacional x Flamengo\n⏰ 16h (horário de Brasília) · Beira-Rio, Porto Alegre\n🔁 Ida: Flamengo 1 x 3 Internacional, no Rio\n📌 O Inter é campeão até perdendo por 1 gol; vitória do Flamengo por 2 leva aos pênaltis\n📺 sportv2 e YouTube da NSports e do Lance! 🆓\n\n📌 Salve para não perder o horário.\n📤 Mande para quem vai ver a final com você.\n\nQuem fica com a taça? 👇\nSiga @jogosnatela para o jogo do dia, todo dia.\n\nFontes: Gazeta Esportiva e Flamengo.\n\n#futebolfeminino #copadobrasilfeminina #internacional #flamengo #final #jogododia"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-15T13:00:00-03:00",
+    "foto": "estadio-maracana",
+    "pilula": "CAMPEÃO",
+    "chamada": "SÉRIE B · RODADA FINAL",
+    "grande": "73 pts",
+    "titulo": "Novorizontino é campeão da Série B",
+    "caixas": [
+     [
+      "Última rodada",
+      "Criciúma 0 x 1 Novorizontino"
+     ],
+     [
+      "Também sobe",
+      "Juventude, vice com 71 pontos"
+     ]
+    ],
+    "nota": "Playoffs pelas outras vagas: Vila Nova x Atlético-GO e Fortaleza x Criciúma.",
+    "fonte": "Conferido em 15/11 à 1h · Gazeta Esportiva, O Tempo",
+    "cta": "Salve e compartilhe",
+    "alt": "Campeão: o Novorizontino venceu o Criciúma por 1 x 0 na última rodada e é campeão da Série B com 73 pontos. O Juventude, vice com 71, também sobe. Os playoffs de acesso serão Vila Nova x Atlético-GO e Fortaleza x Criciúma",
+    "legenda": "🏆 O Novorizontino é campeão da Série B!\n\n🟡 Venceu o Criciúma por 1 x 0 fora de casa na última rodada e fechou com 73 pontos\n🟢 Juventude é vice com 71 pontos (2 x 0 no Botafogo-SP) e também volta à Série A\n🔁 Playoffs de acesso: Vila Nova x Atlético-GO e Fortaleza x Criciúma, a partir de 21/11\n⬇️ Caem para a Série C: Avaí, Londrina, América-MG e Ponte Preta\n\n📌 Salve para lembrar quem subiu\n📤 Mande para quem acompanha a Série B\n\nQuem sobe pelos playoffs? 👇\nSiga @jogosnatela para o futebol todo dia.\n\nFontes: Gazeta Esportiva e O Tempo.\n\n#serieb #novorizontino #juventude #campeao #acesso #futebol"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-15T14:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "PALPITE",
+    "chamada": "COPA DO BRASIL FEMININA · HOJE, 16H",
+    "titulo": "Inter x Flamengo: quem fica com a taça?",
+    "contexto": "O Inter venceu a ida por 3 x 1. A volta é no Beira-Rio.",
+    "opcoes": [
+     "Internacional",
+     "Flamengo",
+     "Pênaltis"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Internacional x Flamengo, quem fica com a taça da Copa do Brasil Feminina? A: Internacional. B: Flamengo. C: Pênaltis.",
+    "legenda": "⚽ Inter x Flamengo: quem fica com a taça da Copa do Brasil Feminina?\n\nA) Internacional\nB) Flamengo\nC) Pênaltis\n\n⏰ Hoje, 16h (Brasília) · Beira-Rio, Porto Alegre\n🔁 Ida: Flamengo 1 x 3 Internacional\n📺 sportv2 e YouTube da NSports e do Lance! 🆓\n\n📌 Salve e volte depois do jogo para ver se acertou.\n📤 Mande para quem torce com você.\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: Gazeta Esportiva e Flamengo.\n\n#futebolfeminino #copadobrasilfeminina #internacional #flamengo #palpite"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-15T12:00:00-03:00",
+    "pilula": "DOM 15/11",
+    "chamada": "ESTREIA HOJE",
+    "grande": "3 ep.",
+    "titulo": "The Chosen · 6ª temporada",
+    "caixas": [
+     [
+      "Onde",
+      "Prime Video"
+     ],
+     [
+      "Próximos",
+      "1 episódio por domingo até 06/12"
+     ]
+    ],
+    "nota": "Horário de liberação não divulgado.",
+    "fonte": "Conferido em 15/11 à 1h · Omelete",
+    "cta": "Salve e compartilhe",
+    "alt": "Estreia hoje: a 6ª temporada de The Chosen chega ao Prime Video com 3 episódios. Os próximos saem um por domingo até 6 de dezembro",
+    "legenda": "✝️ Chegou o dia: a 6ª temporada de The Chosen estreia hoje no Prime Video!\n\n📺 Prime Video\n🎬 3 episódios hoje\n📅 Depois, 1 episódio por domingo: 22/11, 29/11 e 06/12\n\n📌 Salve para lembrar dos próximos domingos\n📤 Mande para quem assiste com você\n\nVai maratonar hoje? 👇\nSiga @tudooqueestreia para saber o que estreia todo dia.\n\nFonte: Omelete.\n\n#thechosen #primevideo #estreia #series #streaming #oqueassistir"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "enquete",
+    "quando": "2026-11-15T20:00:00-03:00",
+    "foto": "game-controle",
+    "pilula": "ENQUETE",
+    "chamada": "GRÁTIS DA SEMANA",
+    "titulo": "Qual grátis da semana vale o resgate?",
+    "contexto": "Knightica grátis na Epic até quinta, 19/11, às 13h; os outros no PS Plus Essential de novembro.",
+    "opcoes": [
+     "Knightica (Epic)",
+     "Dead Island 2 (PS Plus)",
+     "Tomb Raider IV-VI Remastered (PS Plus)",
+     "Monster Train 2 (PS Plus)"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Enquete: qual grátis da semana vale o resgate? A: Knightica, na Epic. B: Dead Island 2, no PS Plus. C: Tomb Raider IV-VI Remastered, no PS Plus. D: Monster Train 2, no PS Plus.",
+    "legenda": "🎁 Qual grátis da semana vale o resgate?\n\nA) Knightica · Epic Games, grátis até quinta, 19/11, às 13h\nB) Dead Island 2 · PS Plus Essential\nC) Tomb Raider IV-VI Remastered · PS Plus Essential\nD) Monster Train 2 · PS Plus Essential\n\n⏰ O Knightica sai da Epic na quinta. Ainda dá tempo!\n\n📌 Salve para lembrar de resgatar.\n📤 Mande para aquele amigo que adora jogo grátis.\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\n#jogosgratis #epicgames #psplus #knightica #deadisland2 #games"
+   }
+  ]
+ }
+}
