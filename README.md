@@ -162,6 +162,8 @@ Para resultados, o card `placar` agrupa os jogos por competição e mostra o sel
 
 ## Fotos e engajamento (combinado em 29/10/2026)
 
+**Rodízio de fotos (15/11/2026):** para o fundo não ficar repetido, o gerador troca sozinho a foto quando ela é de um grupo de `config/fotos_grupos.json` (estreia, games, shows) e apareceu nos últimos 6 posts da página. No card dá para pedir `"foto": "grupo:estreia"` para ele escolher a foto do grupo usada há mais tempo. A foto `streaming-sofa` (pessoa identificável) não é mais usada: é sempre trocada por uma do grupo estreia. Cada post.json guarda em `"fotos"` as fotos usadas.
+
 ### Fotos de fundo
 - O robô de fotos (`.github/workflows/fotos.yml`) baixa fotos de licença livre (Wikimedia Commons, CC0/CC BY/CC BY-SA) pedidas em `fotos/pedidos.json` e grava `fotos/banco/<nome>.jpg` + `.json` (autor, licença, crédito). O log da última busca fica em `fotos/ultimo-log.txt`.
 - Nos cards LLShop, qualquer card aceita `"foto": "<nome>"`. O gerador põe a foto com camada escura, escreve o crédito no canto do card e acrescenta "📷 Foto: autor · licença, Wikimedia Commons" no fim da legenda.

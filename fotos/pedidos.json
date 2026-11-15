@@ -488,5 +488,49 @@
     "nome": "rio-carnaval-sapucai-4",
     "busca": "Rio carnival Sambadrome parade night",
     "opcao": 2
+  },
+  {
+    "nome": "cinema-poltronas",
+    "busca": "empty cinema seats red"
+  },
+  {
+    "nome": "tv-controle",
+    "busca": "television remote control"
+  },
+  {
+    "nome": "cinema-claquete",
+    "busca": "clapperboard film"
+  },
+  {
+    "nome": "cinema-rolo",
+    "busca": "35mm film reel"
+  },
+  {
+    "nome": "cinema-drive-in",
+    "busca": "drive-in movie theater"
+  },
+  {
+    "nome": "game-arcade",
+    "busca": "arcade machines"
+  },
+  {
+    "nome": "game-console",
+    "busca": "video game console"
+  },
+  {
+    "nome": "show-palco-luzes",
+    "busca": "concert stage lights"
+  },
+  {
+    "nome": "show-microfone",
+    "busca": "microphone stage spotlight"
+  },
+  {
+    "nome": "show-festival-noite",
+    "busca": "music festival night crowd"
+  },
+  {
+    "nome": "show-guitarra",
+    "busca": "electric guitar stage"
   }
 ]
