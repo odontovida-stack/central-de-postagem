@@ -488,5 +488,85 @@
     "nome": "rio-carnaval-sapucai-4",
     "busca": "Rio carnival Sambadrome parade night",
     "opcao": 2
+  },
+  {
+    "nome": "cinema-poltronas",
+    "busca": "empty cinema seats red"
+  },
+  {
+    "nome": "cinema-projetor",
+    "busca": "film projector cinema booth"
+  },
+  {
+    "nome": "cinema-tela",
+    "busca": "movie theater screen empty auditorium"
+  },
+  {
+    "nome": "cinema-pipoca",
+    "busca": "popcorn bucket"
+  },
+  {
+    "nome": "tv-controle",
+    "busca": "television remote control"
+  },
+  {
+    "nome": "cinema-claquete",
+    "busca": "clapperboard film"
+  },
+  {
+    "nome": "cinema-rolo",
+    "busca": "35mm film reel"
+  },
+  {
+    "nome": "tv-sala-vazia",
+    "busca": "living room television empty"
+  },
+  {
+    "nome": "cinema-drive-in",
+    "busca": "drive-in movie theater"
+  },
+  {
+    "nome": "cinema-letreiro",
+    "busca": "cinema marquee neon"
+  },
+  {
+    "nome": "tv-tela-escura",
+    "busca": "television screen dark room glow"
+  },
+  {
+    "nome": "cinema-ingresso",
+    "busca": "cinema ticket stub"
+  },
+  {
+    "nome": "game-arcade",
+    "busca": "arcade machines"
+  },
+  {
+    "nome": "game-headset",
+    "busca": "gaming headset"
+  },
+  {
+    "nome": "game-console",
+    "busca": "video game console"
+  },
+  {
+    "nome": "game-setup",
+    "busca": "gaming setup rgb"
+  },
+  {
+    "nome": "show-palco-luzes",
+    "busca": "concert stage lights"
+  },
+  {
+    "nome": "show-microfone",
+    "busca": "microphone stage spotlight"
+  },
+  {
+    "nome": "show-festival-noite",
+    "busca": "music festival night crowd"
+  },
+  {
+    "nome": "show-guitarra",
+    "busca": "electric guitar stage"
   }
 ]
