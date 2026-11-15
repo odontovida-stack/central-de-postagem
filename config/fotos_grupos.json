@@ -1,0 +1,27 @@
+{
+ "_como_usar": "Rodízio de fotos de fundo (pedido do Luiz em 15/11/2026). No card, use \"foto\": \"grupo:<nome>\" para o gerador escolher a foto do grupo usada há mais tempo na página. Se o card pedir uma foto que está num grupo e ela apareceu nos últimos 6 posts da página, o gerador troca por outra do mesmo grupo. \"_trocar\": fotos que nunca devem ser usadas (ex.: pessoa identificável) e o grupo que as substitui. Para acrescentar fotos, peça em fotos/pedidos.json e inclua o nome no grupo.",
+ "_trocar": {
+  "streaming-sofa": "estreia"
+ },
+ "estreia": [
+  "cinema-sala",
+  "cinema-poltronas",
+  "cinema-claquete",
+  "cinema-rolo",
+  "cinema-drive-in",
+  "tv-controle"
+ ],
+ "games": [
+  "game-controle",
+  "game-console",
+  "game-arcade",
+  "pc-teclado"
+ ],
+ "shows": [
+  "show-plateia",
+  "show-palco-luzes",
+  "show-microfone",
+  "show-festival-noite",
+  "show-guitarra"
+ ]
+}

@@ -71,6 +71,67 @@ def foto_info(nome):
     return jpg, json.loads(meta.read_text(encoding="utf-8"))
 
 
+GRUPOS_FOTOS = RAIZ / "config" / "fotos_grupos.json"
+
+
+def grupos_fotos():
+    if not GRUPOS_FOTOS.exists():
+        return {}
+    return {k: v for k, v in json.loads(GRUPOS_FOTOS.read_text(encoding="utf-8")).items() if not k.startswith("_")}
+
+
+def historico_fotos(conta):
+    """Fotos usadas nos posts da página, do mais recente para o mais antigo (campo "fotos" do post.json;
+    para posts antigos, deduz pelo crédito na legenda)."""
+    creditos = {}
+    for meta in BANCO.glob("*.json"):
+        try:
+            creditos[json.loads(meta.read_text(encoding="utf-8"))["credito"]] = meta.stem
+        except (KeyError, ValueError):
+            pass
+    posts = []
+    for arq in (RAIZ / "fila").glob(f"*-{conta}-*/post.json"):
+        try:
+            p = json.loads(arq.read_text(encoding="utf-8"))
+        except ValueError:
+            continue
+        usadas = p.get("fotos") or [n for c, n in creditos.items() if c in p.get("legenda", "")]
+        posts.append((p.get("quando", ""), usadas))
+    posts.sort(reverse=True)
+    return [f for _, usadas in posts for f in usadas]
+
+
+def escolher_foto(conta, pedida, ja_nesta_pauta):
+    """Rodízio de fotos (pedido do Luiz em 15/11/2026: "estamos usando a mesma arte de fundo demais").
+    - "grupo:<nome>" escolhe a foto do grupo usada há mais tempo nesta página;
+    - uma foto que pertence a um grupo e apareceu nos últimos 6 posts da página é trocada por outra do mesmo grupo;
+    - foto fora de grupo é usada como pedida."""
+    grupos = grupos_fotos()
+    trocar = json.loads(GRUPOS_FOTOS.read_text(encoding="utf-8")).get("_trocar", {}) if GRUPOS_FOTOS.exists() else {}
+    if pedida in trocar:  # foto que não deve mais ser usada (ex.: pessoa identificável)
+        pedida = "grupo:" + trocar[pedida]
+    if pedida.startswith("grupo:"):
+        grupo = grupos.get(pedida[6:])
+        if not grupo:
+            raise SystemExit(f"Grupo de fotos desconhecido: {pedida} (veja config/fotos_grupos.json)")
+    else:
+        grupo = next((g for g in grupos.values() if pedida in g), None)
+        if not grupo:
+            return pedida
+    hist = historico_fotos(conta)
+    recentes = set(hist[:6]) | ja_nesta_pauta
+    if not pedida.startswith("grupo:") and pedida not in recentes:
+        return pedida
+    disponiveis = [f for f in grupo if (BANCO / f"{f}.jpg").exists()]
+    if not disponiveis:
+        raise SystemExit(f"Nenhuma foto do grupo de '{pedida}' está no banco.")
+
+    def ultima_vez(f):
+        return hist.index(f) if f in hist else len(hist) + 1  # maior = usada há mais tempo (ou nunca)
+    livres = [f for f in disponiveis if f not in ja_nesta_pauta] or disponiveis
+    return max(livres, key=lambda f: (ultima_vez(f), -disponiveis.index(f)))
+
+
 def moldura(miolo, card=None):
     fundo, credito = BG, ""
     if card and card.get("foto"):
@@ -355,6 +416,7 @@ def main():
     for conta, cards in pauta["contas"].items():
         if conta not in PAGINAS:
             raise SystemExit(f"Conta desconhecida: {conta}")
+        usadas_conta = set()
         for card in cards:
             subcards = list(card["cards"]) if card["tipo"] == "carrossel" else [card]
             # todo carrossel termina com o lembrete de seguir (desligue com "sem_seguir": true)
@@ -365,7 +427,12 @@ def main():
             if card.get("sufixo"):
                 nome += "-" + card["sufixo"]
             pasta = (RAIZ / "previa" / pauta_arq.stem) if previa else (RAIZ / "fila" / nome)
-            midias, alts, creditos = [], [], []
+            midias, alts, creditos, fotos_post = [], [], [], []
+            for sub in subcards:
+                if sub.get("foto"):
+                    sub["foto"] = escolher_foto(conta, sub["foto"], usadas_conta)
+                    usadas_conta.add(sub["foto"])
+                    fotos_post.append(sub["foto"])
             for i, sub in enumerate(subcards, 1):
                 htm = {"agenda": agenda, "placar": placar, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir, "grade": grade}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
@@ -380,9 +447,11 @@ def main():
             if card.get("alt") and len(subcards) == 1:
                 alts = [card["alt"]]
             if not previa:
-                posts.append((pasta, conta, card, midias, alts, creditos))
+                posts.append((pasta, conta, card, midias, alts, creditos, fotos_post))
+            elif fotos_post:
+                print(f"fotos de {nome}: {', '.join(fotos_post)}")
     renderizar(trabalhos)
-    for pasta, conta, card, midias, alts, creditos in posts:
+    for pasta, conta, card, midias, alts, creditos, fotos_post in posts:
         legenda = linha_whatsapp(conta, card)
         if creditos:
             legenda += "\n\n📷 " + " | ".join(creditos)
@@ -399,6 +468,8 @@ def main():
         # links da bio: [{"titulo": "...", "url": "https://..."}] — aparecem na página de links do perfil
         if card.get("links"):
             post["links"] = card["links"]
+        if fotos_post:
+            post["fotos"] = fotos_post  # para o rodízio de fotos não repetir o fundo
         (pasta / "post.json").write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     for _, img in trabalhos:
         print(img.relative_to(RAIZ))

@@ -494,21 +494,6 @@
     "busca": "empty cinema seats red"
   },
   {
-    "nome": "cinema-projetor",
-    "busca": "film projector",
-    "opcao": 2
-  },
-  {
-    "nome": "cinema-tela",
-    "busca": "cinema screen",
-    "opcao": 1
-  },
-  {
-    "nome": "cinema-pipoca",
-    "busca": "popcorn cinema",
-    "opcao": 1
-  },
-  {
     "nome": "tv-controle",
     "busca": "television remote control"
   },
@@ -521,46 +506,16 @@
     "busca": "35mm film reel"
   },
   {
-    "nome": "tv-sala-vazia",
-    "busca": "cozy living room television",
-    "opcao": 1
-  },
-  {
     "nome": "cinema-drive-in",
     "busca": "drive-in movie theater"
-  },
-  {
-    "nome": "cinema-letreiro",
-    "busca": "neon sign cinema",
-    "opcao": 2
-  },
-  {
-    "nome": "tv-tela-escura",
-    "busca": "television glow dark",
-    "opcao": 1
-  },
-  {
-    "nome": "cinema-ingresso",
-    "busca": "movie tickets",
-    "opcao": 1
   },
   {
     "nome": "game-arcade",
     "busca": "arcade machines"
   },
   {
-    "nome": "game-headset",
-    "busca": "headphones gaming",
-    "opcao": 1
-  },
-  {
     "nome": "game-console",
     "busca": "video game console"
-  },
-  {
-    "nome": "game-setup",
-    "busca": "gaming pc setup",
-    "opcao": 1
   },
   {
     "nome": "show-palco-luzes",
