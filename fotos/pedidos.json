@@ -495,15 +495,18 @@
   },
   {
     "nome": "cinema-projetor",
-    "busca": "film projector cinema booth"
+    "busca": "film projector",
+    "opcao": 2
   },
   {
     "nome": "cinema-tela",
-    "busca": "movie theater screen empty auditorium"
+    "busca": "cinema screen",
+    "opcao": 1
   },
   {
     "nome": "cinema-pipoca",
-    "busca": "popcorn bucket"
+    "busca": "popcorn cinema",
+    "opcao": 1
   },
   {
     "nome": "tv-controle",
@@ -519,7 +522,8 @@
   },
   {
     "nome": "tv-sala-vazia",
-    "busca": "living room television empty"
+    "busca": "cozy living room television",
+    "opcao": 1
   },
   {
     "nome": "cinema-drive-in",
@@ -527,15 +531,18 @@
   },
   {
     "nome": "cinema-letreiro",
-    "busca": "cinema marquee neon"
+    "busca": "neon sign cinema",
+    "opcao": 2
   },
   {
     "nome": "tv-tela-escura",
-    "busca": "television screen dark room glow"
+    "busca": "television glow dark",
+    "opcao": 1
   },
   {
     "nome": "cinema-ingresso",
-    "busca": "cinema ticket stub"
+    "busca": "movie tickets",
+    "opcao": 1
   },
   {
     "nome": "game-arcade",
@@ -543,7 +550,8 @@
   },
   {
     "nome": "game-headset",
-    "busca": "gaming headset"
+    "busca": "headphones gaming",
+    "opcao": 1
   },
   {
     "nome": "game-console",
@@ -551,7 +559,8 @@
   },
   {
     "nome": "game-setup",
-    "busca": "gaming setup rgb"
+    "busca": "gaming pc setup",
+    "opcao": 1
   },
   {
     "nome": "show-palco-luzes",
