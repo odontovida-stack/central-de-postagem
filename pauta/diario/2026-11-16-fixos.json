@@ -1,0 +1,296 @@
+{
+ "dia": "16/11/2026",
+ "apurado_em": "2026-11-16",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-16T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de segunda-feira, 16/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Segunda-feira, 16/11",
+      "linhas": [
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · fase de grupos",
+        "jogo": "Alcaraz x Tiafoe",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "12h00",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Cazaquistão x Eslováquia",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Islândia x Luxemburgo",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · duplas",
+        "jogo": "Harrison/Skupski x Krawietz/Pütz",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "futebol",
+        "competicao": "Amistoso",
+        "jogo": "Andorra x Azerbaijão",
+        "canal": "sportv3"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · fase de grupos",
+        "jogo": "Medvedev x Cobolli",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Alemanha x Holanda",
+        "canal": "ESPN"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Grécia x Sérvia",
+        "canal": "sportv"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Suíça x Escócia",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "outros",
+        "competicao": "Futsal · Copa Intercontinental",
+        "jogo": "Carlos Barbosa x Sporting",
+        "canal": "YouTube CBFS TV · BandSports",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Goiás x Campinas",
+        "canal": "sportv2"
+       }
+      ],
+      "fonte": "Conferido em 16/11 à 1h · Antenados na TV, ATP Finals, Overdrive",
+      "cta": "Arraste →",
+      "alt": "Agenda de segunda-feira, 16/11, parte 1 de 2: Alcaraz x Tiafoe às 10h00 (ATP Finals · fase de grupos, ESPN 2), Cazaquistão x Eslováquia às 12h00 (Liga das Nações, ESPN 4), Islândia x Luxemburgo às 14h00 (Liga das Nações, ESPN 4), Harrison/Skupski x Krawietz/Pütz às 14h00 (ATP Finals · duplas, a confirmar), Andorra x Azerbaijão às 15h00 (Amistoso, sportv3), Medvedev x Cobolli às 16h30 (ATP Finals · fase de grupos, ESPN 2), Alemanha x Holanda às 16h45 (Liga das Nações, ESPN), Grécia x Sérvia às 16h45 (Liga das Nações, sportv), Suíça x Escócia às 16h45 (Liga das Nações, ESPN 4), Carlos Barbosa x Sporting às 17h00 (Futsal · Copa Intercontinental, YouTube CBFS TV · BandSports, grátis), Goiás x Campinas às 18h30 (Superliga Masculina, sportv2)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Segunda-feira, 16/11",
+      "linhas": [
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Guarulhos x Minas",
+        "canal": "ge TV",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Cruzeiro x Basquete Cearense",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "São José x Mogi",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Amistoso Sub-20",
+        "jogo": "Brasil x Peru",
+        "canal": "YouTube TNT Sports",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "outros",
+        "competicao": "Futsal · Copa Intercontinental",
+        "jogo": "Pato x Palma",
+        "canal": "YouTube CBFS TV · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Sada Cruzeiro x Suzano",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Celtics x Magic",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações da Concacaf",
+        "jogo": "Canadá x Guatemala",
+        "canal": "Canal GOAT",
+        "gratis": true
+       },
+       {
+        "hora": "22h15",
+        "esporte": "nfl",
+        "competicao": "NFL · Monday Night Football",
+        "jogo": "Ravens x Chargers",
+        "canal": "ESPN 2"
+       }
+      ],
+      "fonte": "Conferido em 16/11 à 1h · Antenados na TV, ATP Finals, Overdrive",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de segunda-feira, 16/11, parte 2 de 2: Guarulhos x Minas às 18h30 (Superliga Masculina, ge TV, grátis), Cruzeiro x Basquete Cearense às 19h30 (NBB, YouTube NBB, grátis), São José x Mogi às 19h30 (NBB, YouTube NBB, grátis), Brasil x Peru às 20h00 (Amistoso Sub-20, YouTube TNT Sports, grátis), Pato x Palma às 20h00 (Futsal · Copa Intercontinental, YouTube CBFS TV · XSports, grátis), Sada Cruzeiro x Suzano às 21h00 (Superliga Masculina, sportv2), Celtics x Magic às 21h00 (NBA, ESPN 4), Canadá x Guatemala às 22h00 (Liga das Nações da Concacaf, Canal GOAT, grátis), Ravens x Chargers às 22h15 (NFL · Monday Night Football, ESPN 2)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de segunda-feira, 16/11 (horário de Brasília)\n\n🎾 10h · Alcaraz x Tiafoe no ATP Finals · ESPN 2 (e Medvedev x Cobolli às 16h30)\n⚽ 16h45 · Alemanha x Holanda, na Liga das Nações · ESPN\n🇧🇷 20h · Brasil x Peru, amistoso Sub-20 · YouTube da TNT Sports 🆓\n🏐 21h · Sada Cruzeiro x Suzano, na Superliga · sportv2\n🏈 22h15 · Ravens x Chargers, no Monday Night Football · ESPN 2\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia.\n\n#agendaesportiva #esportes #ondeassistir #atpfinals #superliga #nfl #nbb"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-16T07:30:00-03:00",
+    "alt": "Resultados de domingo e jogos de segunda-feira, 16/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "DOM 15/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Liga das Nações",
+        "jogos": [
+         {
+          "casa": "Espanha",
+          "gc": 2,
+          "fora": "Inglaterra",
+          "gf": 3
+         },
+         {
+          "casa": "Bélgica",
+          "gc": 4,
+          "fora": "Itália",
+          "gf": 1
+         },
+         {
+          "casa": "França",
+          "gc": 2,
+          "fora": "Turquia",
+          "gf": 1
+         },
+         {
+          "casa": "Croácia",
+          "gc": 2,
+          "fora": "Tchéquia",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Copa do Brasil Feminina · final",
+        "jogos": [
+         {
+          "casa": "Internacional",
+          "gc": 1,
+          "fora": "Flamengo",
+          "gf": 0,
+          "avanca": "casa",
+          "avanca_txt": "Inter campeão no agregado (4 × 1)"
+         }
+        ]
+       }
+      ],
+      "destaque": "Inglaterra vence em Madri e encerra série de 44 jogos da Espanha",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 16/11 à 1h · Placar, Metrópoles, 365Scores, Gazeta Esportiva",
+      "cta": "Arraste →",
+      "alt": "Resultados de domingo, 15/11: na Liga das Nações, Espanha 2 x 3 Inglaterra, Bélgica 4 x 1 Itália, França 2 x 1 Turquia e Croácia 2 x 1 Tchéquia; na final da Copa do Brasil Feminina, Internacional 1 x 0 Flamengo, e o Inter é campeão no agregado por 4 x 1"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SEG 16/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "16/11",
+        "sub": "SEG · 16h45",
+        "titulo": "Alemanha x Holanda",
+        "detalhe": "Liga das Nações · ESPN",
+        "destaque": true
+       },
+       {
+        "data": "16/11",
+        "sub": "SEG · 16h45",
+        "titulo": "Grécia x Sérvia",
+        "detalhe": "Liga das Nações · sportv"
+       },
+       {
+        "data": "16/11",
+        "sub": "SEG · 16h45",
+        "titulo": "Suíça x Escócia",
+        "detalhe": "Liga das Nações · ESPN 4"
+       },
+       {
+        "data": "16/11",
+        "sub": "SEG · 20h",
+        "titulo": "Brasil x Peru",
+        "detalhe": "Amistoso Sub-20 · YouTube TNT Sports",
+        "gratis": true
+       },
+       {
+        "data": "16/11",
+        "sub": "SEG · 22h",
+        "titulo": "Canadá x Guatemala",
+        "detalhe": "Liga das Nações da Concacaf · GOAT",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 16/11 à 1h · Antenados na TV",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de segunda-feira, 16/11: jogo do dia Alemanha x Holanda às 16h45 na ESPN, pela Liga das Nações; também às 16h45, Grécia x Sérvia no sportv e Suíça x Escócia na ESPN 4; Brasil x Peru, amistoso Sub-20, às 20h no YouTube da TNT Sports, grátis; e Canadá x Guatemala às 22h no Canal GOAT, grátis"
+     }
+    ],
+    "legenda": "⚽ A Inglaterra derrubou a Espanha em Madri e o Inter é campeão inédito!\n\n🏴 Ontem: Espanha 2 x 3 Inglaterra, fim da série de 44 jogos sem perder da Fúria\n🇧🇪 Bélgica 4 x 1 Itália: a Itália está fora das quartas da Liga das Nações\n🇫🇷 França 2 x 1 Turquia · 🇭🇷 Croácia 2 x 1 Tchéquia\n🏆 Internacional 1 x 0 Flamengo: Inter campeão da Copa do Brasil Feminina pela 1ª vez (4 x 1 no agregado)\n\n★ Jogo do dia: Alemanha x Holanda, 16h45 · ESPN\n🇧🇷 Brasil x Peru, amistoso Sub-20, 20h · YouTube da TNT Sports 🆓\n🇨🇦 Canadá x Guatemala, 22h · Canal GOAT 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos de hoje todo dia.\n\n#futebol #jogosdehoje #ondeassistir #ligadasnacoes #futebolfeminino #internacional #selecaosub20"
+   }
+  ]
+ }
+}
