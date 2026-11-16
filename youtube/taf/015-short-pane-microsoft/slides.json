@@ -1,0 +1,104 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "Microsoft just went down worldwide",
+  "sub": "And it's not the first time one glitch did this",
+  "stamp_top": 150,
+  "file": "015",
+  "stamp": "FILE #015"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Thursday, Nov. 12",
+  "itens": [
+   "Outlook: down for users worldwide",
+   "Teams: disrupted",
+   "Copilot: disrupted"
+  ],
+  "fonte": "Microsoft, via AP and Al Jazeera",
+  "file": "015"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "DOWNDETECTOR · FIRST HOUR",
+  "valor": "74",
+  "px": 280,
+  "texto": "countries and territories reporting problems",
+  "fonte": "Al Jazeera, Nov. 13, 2026",
+  "file": "015"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MICROSOFT · 12+ HOURS IN",
+  "valor": "\"Marginal success\"",
+  "px": 130,
+  "texto": "restoring service. No sign of a cyberattack, the company said.",
+  "fonte": "Al Jazeera; AP",
+  "file": "015"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MICROSOFT 365 USERS",
+  "valor": "430 million+",
+  "px": 190,
+  "texto": "people, according to Microsoft",
+  "fonte": "AP, Nov. 12, 2026",
+  "file": "015"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "IT HAPPENED BEFORE",
+  "titulo": "July 19, 2024.",
+  "file": "015"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CROWDSTRIKE FAULTY UPDATE · 2024",
+  "valor": "8.5 million",
+  "px": 220,
+  "texto": "Windows devices crashed",
+  "fonte": "Microsoft, via TechCrunch",
+  "file": "015"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "One bad update",
+  "itens": [
+   [
+    "SHARE OF WINDOWS PCS",
+    "< 1%",
+    "of machines worldwide"
+   ],
+   [
+    "IMPACT",
+    "Global",
+    "flights, hospitals, banks, retailers"
+   ]
+  ],
+  "px": 110,
+  "fonte": "TechCrunch; AP",
+  "file": "015"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "When one glitch hits everyone",
+  "marcos": [
+   [
+    "JUL 19, 2024",
+    "CrowdStrike update crashes Windows"
+   ],
+   [
+    "NOV 12, 2026",
+    "Microsoft 365 outage"
+   ]
+  ],
+  "fonte": "TechCrunch; AP; Al Jazeera",
+  "file": "015"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "Same software everywhere. One bad change stops the world.",
+  "file": "015"
+ }
+]
