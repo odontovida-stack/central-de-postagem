@@ -1,0 +1,112 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "America just lost its measles-free status",
+  "sub": "It held since 2000",
+  "px": 116,
+  "stamp_top": 150,
+  "file": "014",
+  "stamp": "FILE #014"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "MEASLES ELIMINATION · THE RULE",
+  "valor": "12+ months",
+  "px": 220,
+  "texto": "of continuous spread, and a country loses its status",
+  "fonte": "CDC; CBS News",
+  "file": "014"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. MEASLES CASES · 2026 SO FAR",
+  "valor": "5,000+",
+  "px": 240,
+  "texto": "in 45 states and D.C.",
+  "fonte": "CDC data, via CBS News, Nov. 14, 2026",
+  "file": "014"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "U.S. measles cases",
+  "itens": [
+   [
+    "2025",
+    "2,242",
+    "most in over three decades"
+   ],
+   [
+    "2026",
+    "5,000+",
+    "and still counting"
+   ]
+  ],
+  "fonte": "CDC data, via CBS News",
+  "file": "014"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "BEFORE THE VACCINE",
+  "titulo": "America, before 1963.",
+  "file": "014"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Measles every year, pre-vaccine",
+  "itens": [
+   "3 to 4 million Americans infected",
+   "About 48,000 hospitalized",
+   "400 to 500 deaths, mostly children"
+  ],
+  "fonte": "CDC, History of Measles",
+  "file": "014"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Measles in America",
+  "marcos": [
+   [
+    "1963",
+    "Vaccine becomes available"
+   ],
+   [
+    "2000",
+    "Declared eliminated"
+   ],
+   [
+    "2025",
+    "Most cases in 30+ years"
+   ],
+   [
+    "2026",
+    "Status lost"
+   ]
+  ],
+  "fonte": "CDC; CBS News",
+  "file": "014"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "HOW LONG IT HELD",
+  "valor": "25+ years",
+  "px": 230,
+  "texto": "From 2000 until now",
+  "fonte": "CDC; CBS News",
+  "file": "014"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FIRST TIME SINCE",
+  "valor": "2000",
+  "px": 280,
+  "texto": "that the U.S. doesn't meet the elimination standard",
+  "fonte": "CBS News",
+  "file": "014"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "Eliminated in 2000. Back in 2026.",
+  "file": "014"
+ }
+]
