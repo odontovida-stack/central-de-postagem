@@ -1,0 +1,45 @@
+{
+  "conta": "jogosnatela",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook",
+    "tiktok"
+  ],
+  "quando": "2026-11-17T12:15:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para a semana decisiva. Links na bio ou comente LINK",
+    "Os achados: Camisa oficial do Flamengo, para o jogo contra o Palmeiras; Camisa oficial do Palmeiras, para o duelo no Nubank Parque; Camisa oficial do Galo, para a final da Sul-Americana; Chuteira society, para a pelada depois dos jogos",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @jogosnatela e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "⚽ Palmeiras x Flamengo e a final Galo x Boca no mesmo sábado: 4 achados para torcer do jeito certo.\n\n👕 Camisa do Flamengo 2026\n👕 Camisa do Palmeiras 2026\n👕 Camisa do Atlético-MG 2026\n👟 Chuteira society\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @jogosnatela para os achados toda semana.\n\n#brasileirao #palmeiras #flamengo #galo #sulamericana #achadosamazon\n\n📷 Foto: Hayden Schiff from Cincinnati, USA · CC BY 2.0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Camisa do Flamengo 2026",
+      "url": "https://www.amazon.com.br/s?k=camisa+flamengo+oficial+adidas+2026&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Camisa do Palmeiras 2026",
+      "url": "https://www.amazon.com.br/s?k=camisa+palmeiras+oficial+puma+2026&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Camisa do Atlético-MG 2026",
+      "url": "https://www.amazon.com.br/s?k=camisa+atletico+mineiro+oficial+adidas+2026&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Chuteira society",
+      "url": "https://www.amazon.com.br/s?k=chuteira+society+adidas+predator&tag=llshop0d-20"
+    }
+  ],
+  "fotos": [
+    "futebol-gramado"
+  ]
+}

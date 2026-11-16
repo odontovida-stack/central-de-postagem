@@ -1,0 +1,44 @@
+{
+  "conta": "esportesnatela",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook"
+  ],
+  "quando": "2026-11-17T12:20:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para a semana de F1 e tênis. Links na bio ou comente LINK",
+    "Os achados: Boné da Mercedes, a equipe do campeão Antonelli; LEGO Speed Champions: monte um carro de F1; Fone JBL Endurance Peak 3: firme na orelha no treino; Raquete Head, para jogar como Luz e Matos",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @esportesnatela e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🏁 Semana de GP de Las Vegas e de brasileiros no ATP Finals: 4 achados para quem vive o esporte.\n\n🧢 Boné Mercedes-AMG F1\n🏎️ LEGO Speed Champions F1\n🎧 Fone JBL Endurance Peak 3\n🎾 Raquete de tênis Head\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @esportesnatela para os achados toda semana.\n\n#f1 #lasvegasgp #atpfinals #tenis #esportes #achadosamazon\n\n📷 Foto: Boaventuravinicius · CC BY-SA 4.0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Boné Mercedes-AMG F1",
+      "url": "https://www.amazon.com.br/s?k=bone+mercedes+amg+petronas+f1&tag=llshop0d-20"
+    },
+    {
+      "titulo": "LEGO Speed Champions F1",
+      "url": "https://www.amazon.com.br/s?k=lego+speed+champions+f1&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Fone JBL Endurance Peak 3",
+      "url": "https://www.amazon.com.br/s?k=fone+jbl+endurance+peak+3&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Raquete de tênis Head",
+      "url": "https://www.amazon.com.br/s?k=raquete+tenis+head+adulto&tag=llshop0d-20"
+    }
+  ],
+  "fotos": [
+    "formula1-pista"
+  ]
+}

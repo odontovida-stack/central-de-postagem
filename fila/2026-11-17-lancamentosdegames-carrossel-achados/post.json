@@ -1,0 +1,44 @@
+{
+  "conta": "lancamentosdegames",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook"
+  ],
+  "quando": "2026-11-17T12:30:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para a semana do GTA VI. Links na bio ou comente LINK",
+    "Os achados: GTA VI para PS5 na versão em caixa (vem com código); SSD de 2 TB com dissipador: espaço de sobra no PS5; Controle sem fio do Xbox Series, para jogar a dois; Cartão presente PlayStation Store, para jogos e PS Plus",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @lancamentosdegames e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🌴 GTA VI chega na quinta: 4 achados para estar pronto à meia-noite.\n\n🎮 GTA VI (PS5)\n💾 SSD com dissipador para PS5\n🕹️ Controle Xbox Series\n🎁 Cartão PlayStation Store\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @lancamentosdegames para os achados toda semana.\n\n#gta6 #gtavi #games #ps5 #xboxseries #achadosamazon\n\n📷 Foto: 50Fish · CC0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "GTA VI (PS5)",
+      "url": "https://www.amazon.com.br/s?k=gta+vi+ps5&tag=llshop0d-20"
+    },
+    {
+      "titulo": "SSD com dissipador para PS5",
+      "url": "https://www.amazon.com.br/s?k=ssd+nvme+2tb+dissipador+ps5&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Controle Xbox Series",
+      "url": "https://www.amazon.com.br/s?k=controle+xbox+series+sem+fio&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Cartão PlayStation Store",
+      "url": "https://www.amazon.com.br/s?k=cartao+presente+playstation+store&tag=llshop0d-20"
+    }
+  ],
+  "fotos": [
+    "game-console"
+  ]
+}
