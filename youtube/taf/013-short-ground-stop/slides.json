@@ -1,0 +1,111 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "Every U.S. flight just stopped",
+  "sub": "The longest nationwide ground stop since 9/11",
+  "stamp_top": 150,
+  "file": "013",
+  "stamp": "FILE #013"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FAA · NOV. 13, 2026",
+  "valor": "All U.S. airports",
+  "px": 150,
+  "texto": "Nationwide ground stop on departures",
+  "fonte": "FAA statement, Nov. 13, 2026",
+  "file": "013"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "HOW LONG IT LASTED",
+  "valor": "≈ 4 hours",
+  "px": 220,
+  "texto": "Departures frozen coast to coast",
+  "fonte": "ABC News; FOX Weather",
+  "file": "013"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Friday, Nov. 13",
+  "itens": [
+   [
+    "CANCELED",
+    "Thousands",
+    "of flights"
+   ],
+   [
+    "DELAYED",
+    "Thousands more",
+    "across the country"
+   ]
+  ],
+  "fonte": "ABC News; FOX Weather",
+  "file": "013"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "What happened",
+  "itens": [
+   "Telecom outage at air traffic control centers",
+   "FAA technicians investigating",
+   "Officials: no sign of a cyberattack"
+  ],
+  "fonte": "FAA; ABC News; FOX Weather",
+  "file": "013"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "ONLY ONE LASTED LONGER",
+  "titulo": "September 11, 2001.",
+  "file": "013"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "SEPT. 11, 2001",
+  "valor": "All airspace closed",
+  "px": 140,
+  "texto": "The first time the FAA halted all air traffic",
+  "fonte": "NPR",
+  "file": "013"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Nationwide ground stops",
+  "marcos": [
+   [
+    "SEPT 11, 2001",
+    "All U.S. airspace closed"
+   ],
+   [
+    "SEPT 13, 2001",
+    "Airlines fly again"
+   ],
+   [
+    "JAN 11, 2023",
+    "Damaged file: ≈ 90 minutes"
+   ],
+   [
+    "NOV 13, 2026",
+    "Telecom outage: ≈ 4 hours"
+   ]
+  ],
+  "fonte": "NPR; FOX Weather",
+  "file": "013"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NOV. 2026 RANKING",
+  "valor": "#2",
+  "px": 260,
+  "texto": "Second-longest nationwide ground stop in U.S. history",
+  "fonte": "FOX Weather",
+  "file": "013"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "This time: equipment, not an attack.",
+  "file": "013"
+ }
+]
