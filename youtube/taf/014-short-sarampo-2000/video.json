@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "America just lost its measles-free status. It held since 2000. #shorts",
   "quando": "2026-11-19T12:00:00-03:00",
   "tags": [
@@ -24,5 +24,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 15/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 15/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "qGofYTp8o1U",
+  "short_id": "qGofYTp8o1U",
+  "meta_hash": "183dcc773edde5aa"
 }
