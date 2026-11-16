@@ -871,5 +871,13 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Tchéquia": {
+  "sigla": "TCH",
+  "cores": [
+   "#D7141A",
+   "#11457E"
+  ],
+  "texto": "#FFFFFF"
  }
 }
