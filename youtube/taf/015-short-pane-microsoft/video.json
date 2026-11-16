@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Microsoft just went down worldwide. Remember CrowdStrike? #shorts",
   "quando": "2026-11-21T12:00:00-03:00",
   "tags": [
@@ -24,5 +24,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 15/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso (pauta semanal do Craudio, 15/11/2026). Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "LKuchgMLW9g",
+  "short_id": "LKuchgMLW9g",
+  "meta_hash": "6d27e282a4559267"
 }
