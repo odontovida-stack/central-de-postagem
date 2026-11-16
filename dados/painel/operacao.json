@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T06:43-03:00",
+ "atualizado": "2026-11-16T16:44-03:00",
  "posts": [
   {
    "canal": "Brasil 23:59",
@@ -10,17 +10,17 @@
   },
   {
    "canal": "Brazil on a Budget",
-   "publicados": 31,
-   "na_fila": 10,
+   "publicados": 32,
+   "na_fila": 9,
    "falhas": 0,
-   "ultimos_7_dias": 4
+   "ultimos_7_dias": 5
   },
   {
    "canal": "@jogosnatela",
-   "publicados": 63,
-   "na_fila": 7,
+   "publicados": 67,
+   "na_fila": 3,
    "falhas": 1,
-   "ultimos_7_dias": 20
+   "ultimos_7_dias": 24
   },
   {
    "canal": "@tudooqueestreia",
@@ -31,17 +31,17 @@
   },
   {
    "canal": "@esportesnatela",
-   "publicados": 58,
-   "na_fila": 5,
+   "publicados": 61,
+   "na_fila": 2,
    "falhas": 2,
-   "ultimos_7_dias": 13
+   "ultimos_7_dias": 16
   },
   {
    "canal": "@lancamentosdegames",
-   "publicados": 26,
-   "na_fila": 3,
+   "publicados": 27,
+   "na_fila": 2,
    "falhas": 0,
-   "ultimos_7_dias": 5
+   "ultimos_7_dias": 6
   },
   {
    "canal": "@showsconfirmados",
@@ -53,7 +53,7 @@
  ],
  "respostas_automaticas": 1,
  "videos_preparados": {
-  "taf": 12,
+  "taf": 15,
   "bhc": 4
  }
 }
