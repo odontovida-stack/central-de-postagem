@@ -1,0 +1,134 @@
+{
+ "dia": "17/11/2026",
+ "apurado_em": "2026-11-17",
+ "contas": {
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-17T04:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "TER 17/11",
+    "chamada": "JOGO DO DIA · HORÁRIO DE BRASÍLIA",
+    "grande": "7h",
+    "titulo": "Singapura x Brasil",
+    "caixas": [
+     [
+      "Onde assistir",
+      "Globo e ge TV (grátis) · sportv"
+     ],
+     [
+      "Competição",
+      "Amistoso · último jogo de 2026"
+     ]
+    ],
+    "nota": "Em Singapura. Sem Raphinha, expulso contra o Japão.",
+    "fonte": "Conferido em 17/11 à 1h · UOL, Antenados na TV",
+    "cta": "Mande para quem vai acordar cedo",
+    "alt": "Jogo do dia: Singapura x Brasil às 7h, horário de Brasília, amistoso no Estádio Nacional de Singapura, último jogo da Seleção em 2026, com transmissão da Globo e do ge TV, grátis, e do sportv. Raphinha, expulso contra o Japão, está fora",
+    "legenda": "🇧🇷 Despertador ligado: a Seleção fecha 2026 hoje às 7h!\n\n⚽ Singapura x Brasil · amistoso\n⏰ 7h (horário de Brasília) · Estádio Nacional de Singapura\n🟥 Sem Raphinha, expulso na derrota por 3 x 2 para o Japão\n🔄 Segundo o UOL, Endrick deve começar no lugar dele\n📺 Globo 🆓, ge TV 🆓 e sportv\n\n📌 Salve para não perder o horário\n📤 Mande para quem vai acordar cedo para ver a Seleção\n\nQuanto fica? 👇\nSiga @jogosnatela para o jogo do dia, todo dia.\n\nFontes: UOL e Antenados na TV.\n\n#selecaobrasileira #brasil #singapura #amistoso #jogododia #futebol"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-17T05:00:00-03:00",
+    "foto": "estadio-maracana",
+    "pilula": "PALPITE",
+    "chamada": "AMISTOSO · HOJE, 7H",
+    "titulo": "Singapura x Brasil: quanto fica?",
+    "contexto": "Último jogo da Seleção em 2026, sem Raphinha.",
+    "opcoes": [
+     "Brasil por 1 gol",
+     "Brasil por 2 ou mais",
+     "Empate",
+     "Singapura vence"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Palpite: Singapura x Brasil, quanto fica? A: Brasil por 1 gol. B: Brasil por 2 ou mais. C: Empate. D: Singapura vence.",
+    "legenda": "⚽ Singapura x Brasil: quanto fica?\n\nA) Brasil por 1 gol\nB) Brasil por 2 ou mais\nC) Empate\nD) Singapura vence\n\n⏰ Hoje, 7h (Brasília) · Estádio Nacional de Singapura\n🟥 Sem Raphinha, expulso contra o Japão\n📺 Globo 🆓, ge TV 🆓 e sportv\n\n📌 Salve e volte depois do jogo para ver se acertou\n📤 Mande para quem torce pela Seleção com você\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: UOL e Antenados na TV.\n\n#selecaobrasileira #brasil #singapura #amistoso #palpite"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-17T11:00:00-03:00",
+    "pilula": "TER 17/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "17/11",
+      "sub": "TER · 16h30",
+      "titulo": "Zverev x Shelton",
+      "detalhe": "Tênis · ATP Finals · ESPN 2"
+     },
+     {
+      "data": "17/11",
+      "sub": "TER · 21h30",
+      "titulo": "Sesi Bauru x Sesc RJ Flamengo",
+      "detalhe": "Vôlei · Superliga Feminina · sportv2"
+     },
+     {
+      "data": "17/11",
+      "sub": "TER · 22h",
+      "titulo": "Spurs x Pistons",
+      "detalhe": "Basquete · NBA · Prime Video"
+     }
+    ],
+    "fonte": "Conferido em 17/11 à 1h · Antenados na TV, Web Vôlei, Tennis-DB",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: Zverev x Shelton no ATP Finals às 16h30 na ESPN 2; Sesi Bauru x Sesc RJ Flamengo na Superliga Feminina às 21h30 no sportv2; e Spurs x Pistons na NBA às 22h no Prime Video",
+    "legenda": "🎾🏐🏀 Terça com o número 1 do ATP Finals, clássico na Superliga e NBA à noite!\n\n⏰ Horário de Brasília:\n🎾 16h30 · Zverev x Shelton, no ATP Finals, em Turim · ESPN 2 (os dois venceram na estreia)\n🏐 21h30 · Sesi Bauru x Sesc RJ Flamengo, na Superliga Feminina · sportv2\n🏀 22h · San Antonio Spurs x Detroit Pistons, na NBA · Prime Video\n\n📌 Salve para não perder o horário\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Antenados na TV, Web Vôlei e Tennis-DB.\n\n#esportes #hojetem #atpfinals #zverev #superliga #volei #nba"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-17T14:30:00-03:00",
+    "foto": "quadra-tenis",
+    "pilula": "PALPITE",
+    "chamada": "ATP FINALS · HOJE, 16H30",
+    "titulo": "Zverev x Shelton: quem leva?",
+    "contexto": "Os dois venceram na estreia em Turim.",
+    "opcoes": [
+     "Zverev em 2 sets",
+     "Zverev em 3 sets",
+     "Shelton em 2 sets",
+     "Shelton em 3 sets"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Palpite: Zverev x Shelton no ATP Finals, quem leva? A: Zverev em 2 sets. B: Zverev em 3 sets. C: Shelton em 2 sets. D: Shelton em 3 sets.",
+    "legenda": "🎾 Zverev x Shelton no ATP Finals: quem leva?\n\nA) Zverev em 2 sets\nB) Zverev em 3 sets\nC) Shelton em 2 sets\nD) Shelton em 3 sets\n\n⏰ Hoje, a partir das 16h30 (Brasília) · Turim\n✅ Na estreia, Zverev bateu Jodar (6/4 6/4) e Shelton venceu Fils (6/2 3/6 6/3)\n📺 ESPN 2\n\n📌 Salve e volte depois do jogo para ver se acertou\n📤 Mande para quem joga tênis com você\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Tennis-DB, ATP Tour e Antenados na TV.\n\n#tenis #atpfinals #zverev #shelton #palpite #esportes"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-17T16:00:00-03:00",
+    "foto": "show-palco-luzes",
+    "pilula": "TER 17/11",
+    "chamada": "HOJE TEM SHOW · SÃO PAULO",
+    "grande": "16h",
+    "titulo": "Mariah Carey: Christmas Time",
+    "caixas": [
+     [
+      "Local",
+      "Nubank Parque · Água Branca"
+     ],
+     [
+      "Show",
+      "horário a confirmar"
+     ]
+    ],
+    "nota": "16h é a abertura dos portões. Tem mais show no Rio, sábado (21/11). Ingressos: Eventim.",
+    "fonte": "Conferido em 17/11 à 1h · Nubank Parque, Rapdab",
+    "cta": "Mande para quem vai",
+    "alt": "Hoje tem show: Mariah Carey apresenta a turnê de Natal Christmas Time no Nubank Parque, em São Paulo. Os portões abrem às 16h e o horário do show ainda não foi divulgado. Ingressos pela Eventim. No sábado, 21/11, tem show no Rio",
+    "legenda": "🎄 Hoje é dia de Mariah Carey em São Paulo: o primeiro show de Natal dela no Brasil!\n\n🎤 Christmas Time · Mariah Carey\n📍 Nubank Parque · Água Branca, São Paulo\n🚪 Portões às 16h\n⏰ Horário do show: a confirmar\n🎟️ Ingressos: Eventim\n🌆 No Rio, o show é no sábado, 21/11, na Farmasi Arena\n\n⚠️ Cuidado com golpe: só o link oficial. Não pague Pix para revendedor.\n📌 Salve para ter as informações à mão\n📤 Mande para quem vai com você\n\nQual música não pode faltar? 👇\nSiga @showsconfirmados para os shows que valem a viagem.\n\nFontes: Nubank Parque e Rapdab.\n\n#mariahcarey #christmastime #saopaulo #nubankparque #shows #showsconfirmados"
+   }
+  ]
+ }
+}
