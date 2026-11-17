@@ -1,0 +1,90 @@
+{
+  "dia": "17/11/2026",
+  "apurado_em": "2026-11-17",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-vale-a-pena",
+        "redes": ["tiktok"],
+        "quando": "2026-11-17T19:00:00-03:00",
+        "alt": "Vale a pena? O Corpo, minissérie de terror da Netflix lançada em 11/11: do que se trata, o que a crítica diz e para quem é",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "tv-controle",
+            "pilula": "VALE A PENA?",
+            "chamada": "A SÉRIE DE TERROR DA SEMANA",
+            "titulo": "O Corpo, na Netflix",
+            "caixas": [
+              ["Episódios", "8"],
+              ["Classificação", "16 anos"]
+            ],
+            "nota": "Sem spoiler. Arraste para saber se é para você.",
+            "fonte": "Conferido em 17/11 às 10h · Revista Bula, AdoroCinema, Screen Rant",
+            "cta": "Arraste →",
+            "alt": "Capa: vale a pena? O Corpo, a série de terror da semana na Netflix, 8 episódios, 16 anos"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "DO QUE SE TRATA",
+            "chamada": "NETFLIX · DESDE 11/11",
+            "titulo": "Um ritual que dá errado",
+            "texto": "Garotas de um colégio católico entram para a equipe de dança com um ritual de iniciação que sai do controle. Depois disso, começam a ter visões que espalham o caos pela escola e pela cidade.",
+            "topicos": [
+              "Criada por Quinn Shephard",
+              "Minissérie de drama e terror",
+              "Todos os 8 episódios já disponíveis"
+            ],
+            "fonte": "Conferido em 17/11 às 10h · Revista Bula, AdoroCinema",
+            "alt": "Do que se trata: garotas de um colégio católico fazem um ritual de iniciação na equipe de dança que sai do controle e passam a ter visões; criada por Quinn Shephard, 8 episódios"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O QUE A CRÍTICA DIZ",
+            "chamada": "ROTTEN TOMATOES · EM 14/11",
+            "titulo": "Crítica e público aprovam",
+            "grande": "86%",
+            "texto": "Aprovação da crítica no Rotten Tomatoes, com 22 críticas. O público foi além: 98% de aprovação, com mais de 500 notas.",
+            "topicos": [
+              "2ª série mais vista nos EUA na Netflix",
+              "Em alta em 86 países"
+            ],
+            "fonte": "Conferido em 17/11 às 10h · Screen Rant (dados de 14/11)",
+            "alt": "O que a crítica diz: 86% de aprovação da crítica no Rotten Tomatoes com 22 críticas e 98% do público com mais de 500 notas, em 14/11"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "PARA QUEM É",
+            "chamada": "VAI GOSTAR SE VOCÊ CURTE",
+            "titulo": "Terror de colégio",
+            "texto": "A própria criadora cita Carrie, a Estranha e Meninas Malvadas como inspiração. Dá para maratonar em um fim de semana.",
+            "topicos": [
+              "Fãs de Carrie e Garota Infernal",
+              "Quem gosta de mistério sobrenatural",
+              "Não é para quem foge de terror (16 anos)"
+            ],
+            "fonte": "Conferido em 17/11 às 10h · Revista Bula, GeekZilla",
+            "alt": "Para quem é: fãs de Carrie, Meninas Malvadas e Garota Infernal e de mistério sobrenatural; classificação 16 anos"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "grupo:estreia",
+            "pilula": "VALE A PENA?",
+            "chamada": "RESPONDA",
+            "titulo": "Vai dar o play em O Corpo?",
+            "opcoes": [
+              "Já comecei a ver",
+              "Vou maratonar no fim de semana",
+              "Terror não é comigo",
+              "Ainda não conhecia"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: vai dar o play em O Corpo? A) Já comecei a ver, B) Vou maratonar no fim de semana, C) Terror não é comigo, D) Ainda não conhecia"
+          }
+        ],
+        "legenda": "😱 A série de terror que está em alta na Netflix vale a pena? 👇\n\n🎬 O Corpo · Netflix · 8 episódios, todos já disponíveis\n💃 Um ritual de iniciação num colégio católico que sai do controle\n🍅 86% da crítica e 98% do público no Rotten Tomatoes (dados de 14/11)\n👻 Para quem curte Carrie e Meninas Malvadas · 16 anos\n\nVai dar o play? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#series #netflix #terror #oquever #ocorpo"
+      }
+    ]
+  }
+}
