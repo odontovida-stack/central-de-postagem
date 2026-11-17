@@ -1,0 +1,296 @@
+{
+ "dia": "17/11/2026",
+ "apurado_em": "2026-11-17",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-17T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de terça-feira, 17/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 17/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "futebol",
+        "competicao": "Amistoso",
+        "jogo": "Singapura x Brasil",
+        "canal": "Globo · ge TV · sportv",
+        "gratis": true
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · fase de grupos",
+        "jogo": "Fils x Jodar",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "basquete",
+        "competicao": "Euroliga",
+        "jogo": "Barcelona x Paris",
+        "canal": "XSports · YouTube XSports",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · fase de grupos",
+        "jogo": "Zverev x Shelton",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Dinamarca x Noruega",
+        "canal": "ESPN"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "País de Gales x Portugal",
+        "canal": "sportv"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Polônia x Suécia",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações",
+        "jogo": "Ucrânia x Geórgia",
+        "canal": "YouTube ESPN Brasil · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Fluminense x Minas",
+        "canal": "ge TV",
+        "gratis": true
+       },
+       {
+        "hora": "19h00",
+        "esporte": "futebol",
+        "competicao": "Paulistão Feminino",
+        "jogo": "Santos x São Paulo",
+        "canal": "CazéTV · Record News · HBO Max",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 17/11 à 1h · Antenados na TV, Web Vôlei, Overdrive, Tennis-DB",
+      "cta": "Arraste →",
+      "alt": "Agenda de terça-feira, 17/11, parte 1 de 2: Singapura x Brasil às 07h00 (Amistoso, Globo · ge TV · sportv, grátis), Fils x Jodar às 10h00 (ATP Finals · fase de grupos, ESPN 2), Barcelona x Paris às 16h30 (Euroliga, XSports · YouTube XSports, grátis), Zverev x Shelton às 16h30 (ATP Finals · fase de grupos, ESPN 2), Dinamarca x Noruega às 16h45 (Liga das Nações, ESPN), País de Gales x Portugal às 16h45 (Liga das Nações, sportv), Polônia x Suécia às 16h45 (Liga das Nações, sportv2), Ucrânia x Geórgia às 16h45 (Liga das Nações, YouTube ESPN Brasil · Disney+, grátis), Fluminense x Minas às 18h30 (Superliga Feminina, ge TV, grátis), Santos x São Paulo às 19h00 (Paulistão Feminino, CazéTV · Record News · HBO Max, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 17/11",
+      "linhas": [
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Unifacisa x Botafogo",
+        "canal": "YouTube Botafogo TV",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Amistoso",
+        "jogo": "Argentina x Costa Rica",
+        "canal": "ge TV · sportv",
+        "gratis": true
+       },
+       {
+        "hora": "20h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Corinthians x Paulistano",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "futebol",
+        "competicao": "Liga das Nações da Concacaf",
+        "jogo": "Estados Unidos x Haiti",
+        "canal": "Canal GOAT",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NCAA",
+        "jogo": "Duke x Illinois",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Sesi Bauru x Sesc RJ Flamengo",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Knicks x Raptors",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Spurs x Pistons",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Trail Blazers x Timberwolves",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h30",
+        "esporte": "basquete",
+        "competicao": "NCAA",
+        "jogo": "UNLV x Kansas",
+        "canal": "ESPN 3"
+       }
+      ],
+      "fonte": "Conferido em 17/11 à 1h · Antenados na TV, Web Vôlei, Overdrive, Tennis-DB",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de terça-feira, 17/11, parte 2 de 2: Unifacisa x Botafogo às 19h30 (NBB, YouTube Botafogo TV, grátis), Argentina x Costa Rica às 20h00 (Amistoso, ge TV · sportv, grátis), Corinthians x Paulistano às 20h30 (NBB, ESPN 2), Estados Unidos x Haiti às 21h00 (Liga das Nações da Concacaf, Canal GOAT, grátis), Duke x Illinois às 21h00 (NCAA, ESPN 3), Sesi Bauru x Sesc RJ Flamengo às 21h30 (Superliga Feminina, sportv2), Knicks x Raptors às 21h30 (NBA, NBA League Pass), Spurs x Pistons às 22h00 (NBA, Prime Video), Trail Blazers x Timberwolves às 22h00 (NBA, NBA League Pass), UNLV x Kansas às 23h30 (NCAA, ESPN 3)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de terça-feira, 17/11 (horário de Brasília)\n\n🇧🇷 7h · Singapura x Brasil, último jogo da Seleção no ano · Globo 🆓, ge TV 🆓 e sportv\n🎾 16h30 · Zverev x Shelton, no ATP Finals · ESPN 2\n⚽ 16h45 · País de Gales x Portugal, na Liga das Nações · sportv\n🏐 21h30 · Sesi Bauru x Sesc RJ Flamengo, na Superliga Feminina · sportv2\n🏀 22h · Spurs x Pistons, na NBA · Prime Video\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia.\n\n#agendaesportiva #esportes #ondeassistir #selecaobrasileira #atpfinals #superliga #nba #nbb"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-17T06:30:00-03:00",
+    "alt": "Resultados de segunda-feira e jogos de terça-feira, 17/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "SEG 16/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Liga das Nações",
+        "jogos": [
+         {
+          "casa": "Alemanha",
+          "gc": 5,
+          "fora": "Holanda",
+          "gf": 0
+         },
+         {
+          "casa": "Grécia",
+          "gc": 1,
+          "fora": "Sérvia",
+          "gf": 0
+         },
+         {
+          "casa": "Suíça",
+          "gc": 4,
+          "fora": "Escócia",
+          "gf": 0
+         }
+        ]
+       },
+       {
+        "competicao": "Amistoso Sub-20",
+        "jogos": [
+         {
+          "casa": "Brasil",
+          "gc": 9,
+          "fora": "Peru",
+          "gf": 0
+         }
+        ]
+       }
+      ],
+      "destaque": "Alemanha 5 × 0 Holanda, com 2 gols de Wirtz",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 17/11 à 1h · Metrópoles, Placar, Gazeta Esportiva, CNN Brasil",
+      "cta": "Arraste →",
+      "alt": "Resultados de segunda-feira, 16/11: na Liga das Nações, Alemanha 5 x 0 Holanda, Grécia 1 x 0 Sérvia e Suíça 4 x 0 Escócia; no amistoso Sub-20, Brasil 9 x 0 Peru, em Belém"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "TER 17/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "17/11",
+        "sub": "TER · 7h",
+        "titulo": "Singapura x Brasil",
+        "detalhe": "Amistoso · Globo, ge TV, sportv",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "17/11",
+        "sub": "TER · 16h45",
+        "titulo": "País de Gales x Portugal",
+        "detalhe": "Liga das Nações · sportv"
+       },
+       {
+        "data": "17/11",
+        "sub": "TER · 16h45",
+        "titulo": "Dinamarca x Noruega",
+        "detalhe": "Liga das Nações · ESPN"
+       },
+       {
+        "data": "17/11",
+        "sub": "TER · 16h45",
+        "titulo": "Polônia x Suécia",
+        "detalhe": "Liga das Nações · sportv2"
+       },
+       {
+        "data": "17/11",
+        "sub": "TER · 20h",
+        "titulo": "Argentina x Costa Rica",
+        "detalhe": "Amistoso · ge TV, sportv",
+        "gratis": true
+       },
+       {
+        "data": "17/11",
+        "sub": "TER · 21h",
+        "titulo": "Estados Unidos x Haiti",
+        "detalhe": "Liga das Nações da Concacaf · GOAT",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 17/11 à 1h · Antenados na TV, UOL",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de terça-feira, 17/11: jogo do dia Singapura x Brasil às 7h na Globo e no ge TV, grátis, e no sportv; às 16h45, pela Liga das Nações, País de Gales x Portugal no sportv, Dinamarca x Noruega na ESPN e Polônia x Suécia no sportv2; Argentina x Costa Rica às 20h no ge TV, grátis, e no sportv; e Estados Unidos x Haiti às 21h no Canal GOAT, grátis"
+     }
+    ],
+    "legenda": "⚽ Alemanha atropela a Holanda e a Seleção fecha o ano hoje cedo!\n\n🇩🇪 Ontem: Alemanha 5 x 0 Holanda, com 2 gols de Wirtz, e vaga nas quartas da Liga das Nações\n🇬🇷 Grécia 1 x 0 Sérvia · 🇨🇭 Suíça 4 x 0 Escócia\n🇧🇷 Sub-20: Brasil 9 x 0 Peru, em Belém\n\n★ Jogo do dia: Singapura x Brasil, 7h · Globo 🆓, ge TV 🆓 e sportv\n🇵🇹 País de Gales x Portugal, 16h45 · sportv\n🇦🇷 Argentina x Costa Rica, 20h · ge TV 🆓 e sportv\n🇺🇸 Estados Unidos x Haiti, 21h · Canal GOAT 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos de hoje todo dia.\n\n#futebol #jogosdehoje #ondeassistir #selecaobrasileira #ligadasnacoes #alemanha #selecaosub20"
+   }
+  ]
+ }
+}
