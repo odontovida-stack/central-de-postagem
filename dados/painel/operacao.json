@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T06:43-03:00",
+ "atualizado": "2026-11-17T15:41-03:00",
  "posts": [
   {
    "canal": "Brasil 23:59",
@@ -25,16 +25,16 @@
   {
    "canal": "@tudooqueestreia",
    "publicados": 30,
-   "na_fila": 1,
+   "na_fila": 2,
    "falhas": 0,
    "ultimos_7_dias": 8
   },
   {
    "canal": "@esportesnatela",
-   "publicados": 61,
-   "na_fila": 5,
+   "publicados": 64,
+   "na_fila": 2,
    "falhas": 2,
-   "ultimos_7_dias": 14
+   "ultimos_7_dias": 17
   },
   {
    "canal": "@lancamentosdegames",
