@@ -592,5 +592,11 @@
     "busca": "Florida State Capitol Tallahassee",
     "formato": "paisagem",
     "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-sacramento-capitol",
+    "busca": "California State Capitol dome Sacramento",
+    "formato": "paisagem",
+    "opcao": 1
   }
 ]
