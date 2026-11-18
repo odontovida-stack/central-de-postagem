@@ -1,0 +1,562 @@
+[
+ {
+  "tipo": "capa",
+  "foto": "yt-taf016-cell-block",
+  "titulo": "The Day America Emptied Death Row",
+  "sub": "And why it came back.",
+  "linha_riscada": "548 death sentences · November 5, 2026",
+  "px": 128,
+  "stamp": "FILE #016",
+  "stamp_top": 150,
+  "file": "016"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CALIFORNIA · NOVEMBER 5, 2026",
+  "valor": "548",
+  "px": 260,
+  "texto": "death sentences the governor announced he would commute to life without parole",
+  "fonte": "AP; Death Penalty Information Center, Nov. 5, 2026",
+  "file": "016"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "The largest mass commutation in U.S. history",
+  "autor": "Death Penalty Information Center, Nov. 5, 2026",
+  "px": 72,
+  "file": "016"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FURMAN v. GEORGIA · JUNE 29, 1972",
+  "valor": "629",
+  "px": 260,
+  "texto": "people on death rows across America had their death sentences commuted",
+  "fonte": "Death Penalty Information Center; NAACP Legal Defense Fund",
+  "file": "016"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Ended. Then back.",
+  "marcos": [
+   [
+    "1967",
+    "Last execution before the pause"
+   ],
+   [
+    "1972",
+    "Supreme Court voids the laws"
+   ],
+   [
+    "1976",
+    "Supreme Court approves new laws"
+   ],
+   [
+    "2026",
+    "California: 548 commutations"
+   ]
+  ],
+  "fonte": "TIME; DPI; Teaching American History; AP",
+  "file": "016"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "PART 1",
+  "titulo": "The quiet years",
+  "foto": "yt-taf016-cell-block",
+  "file": "016",
+  "parte": "PART 1"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "JUNE 2, 1967 → JANUARY 17, 1977",
+  "valor": "~10 YEARS",
+  "px": 220,
+  "texto": "without a single execution in the United States",
+  "fonte": "TIME, June 2, 2017; ABA Journal",
+  "file": "016",
+  "parte": "PART 1"
+ },
+ {
+  "tipo": "broll",
+  "commons": "File:Alcatraz.webm",
+  "inicio": 12,
+  "duracao": 8,
+  "legenda": "Alcatraz, San Francisco Bay",
+  "file": "016",
+  "parte": "PART 1"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-taf016-san-quentin",
+  "rotulo": "CALIFORNIA DEATH ROW · 1972",
+  "valor": "100+",
+  "px": 260,
+  "texto": "people waiting under sentence of death",
+  "fonte": "Death Penalty Focus, Feb. 18, 2022",
+  "file": "016",
+  "parte": "PART 1"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "People v. Anderson · California Supreme Court · Feb. 1972",
+  "itens": [
+   [
+    "THE VOTE",
+    "6–1",
+    "the state's high court rules"
+   ],
+   [
+    "THE RULING",
+    "“Cruel or unusual”",
+    "death penalty violates the California constitution"
+   ]
+  ],
+  "px": 96,
+  "fonte": "People v. Anderson, 6 Cal.3d 628 (1972)",
+  "file": "016",
+  "parte": "PART 1"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "PART 2",
+  "titulo": "June 29, 1972",
+  "foto": "yt-taf016-supreme-court",
+  "file": "016",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "duplo",
+  "foto": "yt-taf016-supreme-court",
+  "titulo": "Furman v. Georgia",
+  "itens": [
+   [
+    "THE VOTE",
+    "5–4",
+    "death penalty laws struck down as applied"
+   ],
+   [
+    "THE OPINIONS",
+    "9",
+    "every justice wrote separately"
+   ]
+  ],
+  "px": 150,
+  "fonte": "Death Penalty Information Center; Harvard Law Today",
+  "file": "016",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Why the majority objected",
+  "itens": [
+   "2 justices: unconstitutional in itself",
+   "3 justices: the way it was used",
+   "Juries had almost no guidance",
+   "A random few got death for similar crimes"
+  ],
+  "fonte": "Harvard Law Today, Feb. 14, 2023",
+  "file": "016",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "These death sentences are cruel and unusual in the same way that being struck by lightning is cruel and unusual.",
+  "autor": "Justice Potter Stewart, Furman v. Georgia, 1972",
+  "px": 66,
+  "file": "016",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "broll",
+  "commons": "File:Piranesi Carceri d'Invenzione.webm",
+  "inicio": 12,
+  "duracao": 8,
+  "legenda": "“Imaginary Prisons,” Giovanni Battista Piranesi",
+  "file": "016",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "What Furman did",
+  "itens": [
+   [
+    "STATE LAWS",
+    "40",
+    "death penalty statutes effectively voided"
+   ],
+   [
+    "DEATH ROW",
+    "629",
+    "sentences commuted nationwide"
+   ]
+  ],
+  "px": 160,
+  "fonte": "Death Penalty Information Center; Pew Research Center",
+  "file": "016",
+  "parte": "PART 2"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "PART 3",
+  "titulo": "The comeback",
+  "foto": "yt-taf016-courtroom",
+  "file": "016",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "CALIFORNIA PROPOSITION 17 · NOV. 7, 1972",
+  "valor": "67.5%",
+  "px": 260,
+  "texto": "of voters wrote the death penalty into the state constitution",
+  "fonte": "1972 California Proposition 17 (Wikipedia, citing official returns)",
+  "file": "016",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-taf016-fl-capitol",
+  "rotulo": "AFTER FURMAN",
+  "valor": "35 STATES",
+  "px": 220,
+  "texto": "Florida first, within five months; then 34 more wrote new death penalty laws",
+  "fonte": "Death Penalty Information Center",
+  "file": "016",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "duplo",
+  "foto": "yt-taf016-supreme-court",
+  "titulo": "Gregg v. Georgia",
+  "itens": [
+   [
+    "DECIDED",
+    "July 2, 1976",
+    "Georgia's new law upheld"
+   ],
+   [
+    "THE VOTE",
+    "7–2",
+    "death penalty allowed again"
+   ]
+  ],
+  "px": 110,
+  "fonte": "Teaching American History; Gregg v. Georgia, 428 U.S. 153",
+  "file": "016",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We now hold that the punishment of death does not invariably violate the Constitution.",
+  "autor": "Gregg v. Georgia, plurality opinion, 1976",
+  "px": 70,
+  "file": "016",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The new rules",
+  "itens": [
+   "Two phases: guilt, then sentence",
+   "Aggravating vs. mitigating factors",
+   "Automatic review on appeal",
+   "No mandatory death (Woodson, 1976)"
+  ],
+  "fonte": "Death Penalty Information Center",
+  "file": "016",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "From Furman to lethal injection",
+  "marcos": [
+   [
+    "JUN 1972",
+    "Furman"
+   ],
+   [
+    "NOV 1972",
+    "Prop. 17"
+   ],
+   [
+    "JUL 1976",
+    "Gregg"
+   ],
+   [
+    "JAN 1977",
+    "Utah: first execution"
+   ],
+   [
+    "MAY 1979",
+    "Florida: Spenkelink"
+   ],
+   [
+    "DEC 1982",
+    "Texas: lethal injection"
+   ]
+  ],
+  "fonte": "TIME; ABA Journal; Pew; DPI",
+  "file": "016",
+  "parte": "PART 3"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "PART 4",
+  "titulo": "Fifty years of numbers",
+  "foto": "yt-taf016-law-library",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NEW DEATH SENTENCES · PEAK YEAR",
+  "valor": "325",
+  "px": 260,
+  "texto": "in 1986. More than 8,200 death sentences were handed down from 1972 to 2025.",
+  "fonte": "Death Penalty Information Center, Fact Sheet (May 2026)",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-taf016-huntsville",
+  "rotulo": "EXECUTIONS · PEAK YEAR",
+  "valor": "98",
+  "px": 260,
+  "texto": "in 1999, one-third of them in Texas. More than 1,600 since 1977.",
+  "fonte": "DPI, The Death Penalty in 1999; DPI Fact Sheet (May 2026)",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "barras",
+  "titulo": "New death sentences per year",
+  "barras": [
+   [
+    "1986",
+    325,
+    "325"
+   ],
+   [
+    "2025",
+    23,
+    "23"
+   ]
+  ],
+  "fonte": "Death Penalty Information Center, Fact Sheet (May 2026)",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Executions in 2025",
+  "itens": [
+   [
+    "UNITED STATES",
+    "47",
+    "most in more than 15 years"
+   ],
+   [
+    "FLORIDA",
+    "19",
+    "40% of the national total"
+   ]
+  ],
+  "px": 160,
+  "fonte": "Death Penalty Information Center, The Death Penalty in 2025",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "How executions changed",
+  "itens": [
+   "Nitrogen gas: Alabama, Louisiana",
+   "Firing squad: 3 in South Carolina (2025)",
+   "First firing squad anywhere since 2010",
+   "72% of 2025 executions in 4 states"
+  ],
+  "fonte": "Death Penalty Information Center, The Death Penalty in 2025",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "A country pulling two ways (mid-2026)",
+  "itens": [
+   [
+    "DEATH PENALTY",
+    "27",
+    "states"
+   ],
+   [
+    "NO DEATH PENALTY",
+    "23",
+    "states"
+   ],
+   [
+    "MORATORIUM",
+    "4",
+    "CA · OH · OR · PA"
+   ]
+  ],
+  "px": 130,
+  "fonte": "Death Penalty Information Center, Fact Sheet (May 2026)",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "EXONERATED AFTER A DEATH SENTENCE · SINCE 1973",
+  "valor": "200+",
+  "px": 260,
+  "texto": "people",
+  "fonte": "Death Penalty Information Center, Fact Sheet (May 2026)",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Death penalty for murder: Gallup, 2025",
+  "itens": [
+   [
+    "SUPPORT",
+    "52%",
+    "still a majority"
+   ],
+   [
+    "OPPOSE",
+    "44%",
+    "highest opposition in 50 years, per DPI"
+   ]
+  ],
+  "px": 150,
+  "fonte": "Gallup, via DPI, The Death Penalty in 2025",
+  "file": "016",
+  "parte": "PART 4"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "PART 5",
+  "titulo": "California, again",
+  "foto": "yt-taf016-sacramento-capitol",
+  "file": "016",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "duplo",
+  "foto": "yt-taf016-san-quentin",
+  "titulo": "California since 1978",
+  "itens": [
+   [
+    "EXECUTIONS",
+    "13",
+    "in almost five decades"
+   ],
+   [
+    "LAST EXECUTION",
+    "2006",
+    "none since"
+   ]
+  ],
+  "px": 160,
+  "fonte": "Death Penalty Information Center; AP",
+  "file": "016",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "California's death penalty",
+  "marcos": [
+   [
+    "1978",
+    "Reinstated"
+   ],
+   [
+    "2006",
+    "Last execution"
+   ],
+   [
+    "2012",
+    "Voters keep it"
+   ],
+   [
+    "2016",
+    "Voters keep it again"
+   ],
+   [
+    "2019",
+    "Moratorium"
+   ],
+   [
+    "2026",
+    "548 commutations"
+   ]
+  ],
+  "fonte": "DPI; AP; CBS News",
+  "file": "016",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "numero",
+  "foto": "yt-taf016-sacramento-capitol",
+  "rotulo": "THE CATCH · CALIFORNIA CONSTITUTION",
+  "valor": "382 OF 548",
+  "px": 200,
+  "texto": "cases need the state Supreme Court's approval (more than one felony conviction)",
+  "fonte": "AP, citing the governor's office, Nov. 5, 2026",
+  "file": "016",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "Reactions",
+  "itens": [
+   "ACLU: “a racist, error-prone, and inhumane punishment”",
+   "Crime Survivors founder: “outrageous”",
+   "California DAs: “with the stroke of a pen”",
+   "Newsom: “incompatible with California's values”"
+  ],
+  "fonte": "AP; CBS News; Death Penalty Information Center",
+  "file": "016",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "broll",
+  "commons": "File:Washington Monument flags 2022-03-28 18-48-12 1.webm",
+  "inicio": 0,
+  "duracao": 8,
+  "legenda": "National death row: down nearly 30%",
+  "file": "016",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Two times California emptied death row",
+  "itens": [
+   [
+    "1972",
+    "A court",
+    "voters restored the penalty that November"
+   ],
+   [
+    "2026",
+    "A governor",
+    "the death penalty law still stands"
+   ]
+  ],
+  "px": 110,
+  "fonte": "People v. Anderson; Prop. 17; AP",
+  "file": "016",
+  "parte": "PART 5"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "Ended before. Back before.",
+  "foto": "yt-taf016-cell-block",
+  "file": "016",
+  "parte": "PART 5"
+ }
+]
