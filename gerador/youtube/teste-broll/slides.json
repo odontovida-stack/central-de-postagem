@@ -4,39 +4,15 @@
   "commons": "File:Alcatraz.webm",
   "inicio": 12,
   "duracao": 8,
-  "legenda": "Alcatraz 12",
-  "file": "016"
- },
- {
-  "tipo": "broll",
-  "commons": "File:Alcatraz.webm",
-  "inicio": 24,
-  "duracao": 6,
-  "legenda": "Alcatraz 24",
+  "legenda": "Alcatraz, San Francisco Bay",
   "file": "016"
  },
  {
   "tipo": "broll",
   "commons": "File:Piranesi Carceri d'Invenzione.webm",
   "inicio": 12,
-  "duracao": 6,
-  "legenda": "Piranesi 12",
-  "file": "016"
- },
- {
-  "tipo": "broll",
-  "commons": "File:Piranesi Carceri d'Invenzione.webm",
-  "inicio": 25,
-  "duracao": 6,
-  "legenda": "Piranesi 25",
-  "file": "016"
- },
- {
-  "tipo": "broll",
-  "commons": "File:Time Lapse of Capitol Rotunda Preparations for Capitol Dome Project.webm",
-  "inicio": 15,
-  "duracao": 6,
-  "legenda": "Rotunda",
+  "duracao": 8,
+  "legenda": "“Imaginary Prisons,” Giovanni Battista Piranesi",
   "file": "016"
  },
  {
@@ -44,7 +20,7 @@
   "commons": "File:Washington Monument flags 2022-03-28 18-48-12 1.webm",
   "inicio": 0,
   "duracao": 8,
-  "legenda": "Flags",
+  "legenda": "National death row: down nearly 30%",
   "file": "016"
  }
 ]
