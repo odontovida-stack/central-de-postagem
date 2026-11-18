@@ -1,6 +1,8 @@
 [
- {"tipo": "broll", "commons": "File:Alcatraz.webm", "inicio": 0, "duracao": 8, "legenda": "Alcatraz", "file": "016"},
- {"tipo": "broll", "commons": "File:Piranesi Carceri d'Invenzione.webm", "inicio": 0, "duracao": 8, "legenda": "Piranesi", "file": "016"},
- {"tipo": "broll", "commons": "File:Washington monument timelapse.webm", "inicio": 0, "duracao": 8, "legenda": "DC", "file": "016"},
- {"tipo": "broll", "commons": "File:Time Lapse of Capitol Rotunda Preparations for Capitol Dome Project.webm", "inicio": 0, "duracao": 8, "legenda": "Rotunda", "file": "016"}
+ {"tipo": "broll", "commons": "File:Alcatraz.webm", "inicio": 12, "duracao": 8, "legenda": "Alcatraz", "file": "016"},
+ {"tipo": "broll", "commons": "File:Alcatraz.webm", "inicio": 40, "duracao": 8, "legenda": "Alcatraz 40", "file": "016"},
+ {"tipo": "broll", "commons": "File:Piranesi Carceri d'Invenzione.webm", "inicio": 12, "duracao": 8, "legenda": "Piranesi", "file": "016"},
+ {"tipo": "broll", "commons": "File:Piranesi Carceri d'Invenzione.webm", "inicio": 40, "duracao": 8, "legenda": "Piranesi 40", "file": "016"},
+ {"tipo": "broll", "commons": "File:Time Lapse of Capitol Rotunda Preparations for Capitol Dome Project.webm", "inicio": 15, "duracao": 8, "legenda": "Rotunda", "file": "016"},
+ {"tipo": "broll", "commons": "File:Washington Monument flags 2022-03-28 18-48-12 1.webm", "inicio": 0, "duracao": 8, "legenda": "Flags", "file": "016"}
 ]

@@ -27,7 +27,7 @@ jobs:
           mkdir -p saida-youtube/teste-broll
           python gerador/youtube/broll.py gerador/youtube/teste-broll saida-youtube/teste-broll
           mkdir -p previa/broll
-          cp saida-youtube/teste-broll/*.png previa/broll/ ; cp gerador/youtube/teste-broll/broll_creditos.json previa/broll/ ; ls saida-youtube/teste-broll
+          cp saida-youtube/teste-broll/*.png previa/broll/ ; cp gerador/youtube/teste-broll/broll_creditos.json previa/broll/ ; for f in saida-youtube/broll-cache/*; do echo "$f"; ffprobe -v error -show_entries format=duration -of csv=p=0 "$f"; done
           true
           true
       - name: Gravar a prévia
