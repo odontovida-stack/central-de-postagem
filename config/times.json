@@ -879,5 +879,61 @@
    "#11457E"
   ],
   "texto": "#FFFFFF"
+ },
+ "Noruega": {
+  "sigla": "NOR",
+  "cores": [
+   "#BA0C2F",
+   "#00205B"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "País de Gales": {
+  "sigla": "GAL",
+  "cores": [
+   "#C8102E",
+   "#00843D"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Polônia": {
+  "sigla": "POL",
+  "cores": [
+   "#FFFFFF",
+   "#DC143C"
+  ],
+  "texto": "#DC143C"
+ },
+ "Suécia": {
+  "sigla": "SUE",
+  "cores": [
+   "#FECC02",
+   "#006AA7"
+  ],
+  "texto": "#006AA7"
+ },
+ "Ucrânia": {
+  "sigla": "UCR",
+  "cores": [
+   "#FFD500",
+   "#005BBB"
+  ],
+  "texto": "#005BBB"
+ },
+ "Estados Unidos": {
+  "sigla": "EUA",
+  "cores": [
+   "#FFFFFF",
+   "#0A3161"
+  ],
+  "texto": "#0A3161"
+ },
+ "Costa Rica": {
+  "sigla": "CRC",
+  "cores": [
+   "#CE1126",
+   "#002B7F"
+  ],
+  "texto": "#FFFFFF"
  }
 }
