@@ -532,5 +532,71 @@
   {
     "nome": "show-guitarra",
     "busca": "electric guitar stage"
+  },
+  {
+    "nome": "yt-taf016-supreme-court",
+    "busca": "United States Supreme Court Building facade",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-san-quentin",
+    "busca": "San Quentin State Prison",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-ca-capitol",
+    "busca": "California State Capitol Sacramento",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-cell-block",
+    "busca": "Eastern State Penitentiary cell block",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-ca-supreme-court",
+    "busca": "Earl Warren Building San Francisco",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-law-library",
+    "busca": "law library books shelves",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-huntsville",
+    "busca": "Huntsville Unit prison Texas",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-ballot-box",
+    "busca": "ballot box election",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-courtroom",
+    "busca": "empty courtroom United States",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-fl-capitol",
+    "busca": "Florida State Capitol Tallahassee",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-sacramento-capitol",
+    "busca": "California State Capitol dome Sacramento",
+    "formato": "paisagem",
+    "opcao": 1
   }
 ]
