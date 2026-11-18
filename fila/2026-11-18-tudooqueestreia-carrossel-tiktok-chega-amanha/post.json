@@ -5,7 +5,7 @@
     "tiktok"
   ],
   "quando": "2026-11-18T19:00:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -26,5 +26,9 @@
   "fotos": [
     "cinema-drive-in",
     "cinema-claquete"
-  ]
+  ],
+  "publicado_em": "2026-11-18T22:01:07+00:00",
+  "resultado": {
+    "tiktok": "RASCUNHO no TikTok (p_inbox_url~v2.7709634953634285588): abra o app, confira e toque em Publicar"
+  }
 }
