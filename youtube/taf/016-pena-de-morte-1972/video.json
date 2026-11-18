@@ -1,6 +1,6 @@
 {
   "canal": "taf",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "The Day America Emptied Death Row (and Why It Came Back So Fast)",
   "quando": "2026-11-24T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -78,5 +78,9 @@
     38,
     39,
     40
-  ]
+  ],
+  "video_id": "h4_jNcJLz3U",
+  "thumbnail": true,
+  "short_id": "hW0q1gc7-3c",
+  "meta_hash": "9b6cbed3c336af46"
 }
