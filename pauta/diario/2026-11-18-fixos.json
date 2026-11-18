@@ -1,0 +1,364 @@
+{
+ "dia": "18/11/2026",
+ "apurado_em": "2026-11-18",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-18T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de quarta-feira, 18/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 18/11",
+      "linhas": [
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · Grupo Lendl",
+        "jogo": "Alcaraz x Medvedev",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "basquete",
+        "competicao": "Euroliga",
+        "jogo": "Besiktas x Real Madrid",
+        "canal": "XSports · YouTube XSports",
+        "gratis": true
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Häcken x Manchester City",
+        "canal": "YouTube ESPN Brasil · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · Grupo Lendl",
+        "jogo": "Cobolli x Tiafoe",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "outros",
+        "competicao": "Futsal · Liga Espanhola",
+        "jogo": "Barcelona x Córdoba",
+        "canal": "Canal GOL BR"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions Feminina",
+        "jogo": "Chelsea x PSG",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "outros",
+        "competicao": "Futsal · Intercontinental · semi",
+        "jogo": "Palma x Carlos Barbosa",
+        "canal": "YouTube CBFS TV · XSports · BandSports",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Paulistano Barueri x Brasília",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 35ª rodada",
+        "jogo": "Coritiba x Santos",
+        "canal": "Record · CazéTV · Premiere",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 18/11 à 1h · Antenados na TV, ATP, Web Vôlei, GameOverdrive",
+      "cta": "Arraste →",
+      "alt": "Agenda de quarta-feira, 18/11, parte 1 de 3: Alcaraz x Medvedev às 10h00 (ATP Finals · Grupo Lendl, ESPN 2), Besiktas x Real Madrid às 14h00 (Euroliga, XSports · YouTube XSports, grátis), Häcken x Manchester City às 14h45 (Champions Feminina, YouTube ESPN Brasil · Disney+, grátis), Cobolli x Tiafoe às 16h30 (ATP Finals · Grupo Lendl, ESPN 2), Barcelona x Córdoba às 16h30 (Futsal · Liga Espanhola, Canal GOL BR), Chelsea x PSG às 17h00 (Champions Feminina, ESPN · Disney+), Palma x Carlos Barbosa às 17h00 (Futsal · Intercontinental · semi, YouTube CBFS TV · XSports · BandSports, grátis), Paulistano Barueri x Brasília às 18h30 (Superliga Feminina, sportv2), Coritiba x Santos às 19h30 (Brasileirão · 35ª rodada, Record · CazéTV · Premiere, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 18/11",
+      "linhas": [
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Franca x Caxias do Sul",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 35ª rodada",
+        "jogo": "Remo x Chapecoense",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "outros",
+        "competicao": "Futsal · Intercontinental · semi",
+        "jogo": "Sporting x Pato",
+        "canal": "YouTube CBFS TV · XSports · BandSports",
+        "gratis": true
+       },
+       {
+        "hora": "20h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 35ª rodada",
+        "jogo": "Flamengo x Athletico-PR",
+        "canal": "sportv · Premiere"
+       },
+       {
+        "hora": "20h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 35ª rodada",
+        "jogo": "Cruzeiro x Palmeiras",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Londrina x Praia Clube",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Heat x Bucks",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Rockets x Pacers",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Grizzlies x Cavaliers",
+        "canal": "NBA League Pass"
+       }
+      ],
+      "fonte": "Conferido em 18/11 à 1h · Antenados na TV, ATP, Web Vôlei, GameOverdrive",
+      "cta": "Arraste →",
+      "alt": "Agenda de quarta-feira, 18/11, parte 2 de 3: Franca x Caxias do Sul às 19h30 (NBB, YouTube NBB, grátis), Remo x Chapecoense às 20h00 (Brasileirão · 35ª rodada, Premiere), Sporting x Pato às 20h00 (Futsal · Intercontinental · semi, YouTube CBFS TV · XSports · BandSports, grátis), Flamengo x Athletico-PR às 20h30 (Brasileirão · 35ª rodada, sportv · Premiere), Cruzeiro x Palmeiras às 20h30 (Brasileirão · 35ª rodada, Premiere), Londrina x Praia Clube às 21h00 (Superliga Feminina, sportv2), Heat x Bucks às 21h00 (NBA, ESPN 2 · Disney+), Rockets x Pacers às 21h00 (NBA, NBA League Pass), Grizzlies x Cavaliers às 21h00 (NBA, NBA League Pass)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 18/11",
+      "linhas": [
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "76ers x Magic",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 35ª rodada",
+        "jogo": "Corinthians x Botafogo",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 35ª rodada",
+        "jogo": "Grêmio x Bahia",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Bulls x Nets",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Wizards x Raptors",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "outros",
+        "competicao": "Hóquei · NHL",
+        "jogo": "Red Wings x Bruins",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Hawks x Thunder",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Pistons x Pelicans",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Mavericks x Warriors",
+        "canal": "ESPN 2 · Disney+"
+       }
+      ],
+      "fonte": "Conferido em 18/11 à 1h · Antenados na TV, ATP, Web Vôlei, GameOverdrive",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de quarta-feira, 18/11, parte 3 de 3: 76ers x Magic às 21h00 (NBA, NBA League Pass), Corinthians x Botafogo às 21h30 (Brasileirão · 35ª rodada, Premiere), Grêmio x Bahia às 21h30 (Brasileirão · 35ª rodada, Premiere), Bulls x Nets às 21h30 (NBA, NBA League Pass), Wizards x Raptors às 21h30 (NBA, NBA League Pass), Red Wings x Bruins às 21h30 (Hóquei · NHL, ESPN 3), Hawks x Thunder às 22h00 (NBA, NBA League Pass), Pistons x Pelicans às 22h00 (NBA, NBA League Pass), Mavericks x Warriors às 23h30 (NBA, ESPN 2 · Disney+)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de quarta-feira, 18/11 (horário de Brasília)\n\n🎾 10h · Alcaraz x Medvedev, no ATP Finals · ESPN 2\n⚽ 17h e 20h · semifinais do Intercontinental de futsal, com Carlos Barbosa e Pato · YouTube 🆓 e XSports 🆓\n⚽ 20h30 · Flamengo x Athletico-PR e Cruzeiro x Palmeiras, no Brasileirão\n🏐 21h · Londrina x Praia Clube, na Superliga Feminina · sportv2\n🏀 23h30 · Mavericks x Warriors, na NBA · ESPN 2\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia.\n\n#agendaesportiva #esportes #ondeassistir #atpfinals #futsal #brasileirao #superliga #nba"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-18T07:30:00-03:00",
+    "alt": "Resultados de terça-feira e jogos de quarta-feira, 18/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "TER 17/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Amistosos",
+        "jogos": [
+         {
+          "casa": "Singapura",
+          "gc": 0,
+          "fora": "Brasil",
+          "gf": 7
+         },
+         {
+          "casa": "Argentina",
+          "gc": 7,
+          "fora": "Costa Rica",
+          "gf": 0
+         }
+        ]
+       },
+       {
+        "competicao": "Liga das Nações",
+        "jogos": [
+         {
+          "casa": "País de Gales",
+          "gc": 2,
+          "fora": "Portugal",
+          "gf": 3
+         },
+         {
+          "casa": "Dinamarca",
+          "gc": 2,
+          "fora": "Noruega",
+          "gf": 3
+         },
+         {
+          "casa": "Polônia",
+          "gc": 1,
+          "fora": "Suécia",
+          "gf": 1
+         },
+         {
+          "casa": "Ucrânia",
+          "gc": 1,
+          "fora": "Geórgia",
+          "gf": 0
+         }
+        ]
+       }
+      ],
+      "destaque": "Singapura 0 × 7 Brasil, com hat-trick de Vini Jr.",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 18/11 à 1h · CNN Brasil, UEFA, Telefe",
+      "cta": "Arraste →",
+      "alt": "Resultados de terça-feira, 17/11: amistosos, Singapura 0 x 7 Brasil e Argentina 7 x 0 Costa Rica; Liga das Nações, País de Gales 2 x 3 Portugal, Dinamarca 2 x 3 Noruega, Polônia 1 x 1 Suécia e Ucrânia 1 x 0 Geórgia. Destaque: hat-trick de Vini Jr. contra Singapura"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUA 18/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "18/11",
+        "sub": "QUA · 20h30",
+        "titulo": "Flamengo x Athletico-PR",
+        "detalhe": "Brasileirão · sportv, Premiere",
+        "destaque": true
+       },
+       {
+        "data": "18/11",
+        "sub": "QUA · 19h30",
+        "titulo": "Coritiba x Santos",
+        "detalhe": "Brasileirão · Record, CazéTV, Premiere",
+        "gratis": true
+       },
+       {
+        "data": "18/11",
+        "sub": "QUA · 20h",
+        "titulo": "Remo x Chapecoense",
+        "detalhe": "Brasileirão · Premiere"
+       },
+       {
+        "data": "18/11",
+        "sub": "QUA · 20h30",
+        "titulo": "Cruzeiro x Palmeiras",
+        "detalhe": "Brasileirão · Premiere"
+       },
+       {
+        "data": "18/11",
+        "sub": "QUA · 21h30",
+        "titulo": "Corinthians x Botafogo",
+        "detalhe": "Brasileirão · Premiere"
+       },
+       {
+        "data": "18/11",
+        "sub": "QUA · 21h30",
+        "titulo": "Grêmio x Bahia",
+        "detalhe": "Brasileirão · Premiere"
+       }
+      ],
+      "fonte": "Conferido em 18/11 à 1h · Antenados na TV, O Tempo, Placar",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de quarta-feira, 18/11, pela 35ª rodada do Brasileirão: jogo do dia Flamengo x Athletico-PR às 20h30 no sportv e no Premiere; Coritiba x Santos às 19h30 na Record e na CazéTV, grátis, e no Premiere; Remo x Chapecoense às 20h no Premiere; Cruzeiro x Palmeiras às 20h30 no Premiere; Corinthians x Botafogo e Grêmio x Bahia às 21h30 no Premiere"
+     }
+    ],
+    "legenda": "⚽ Vini Jr. faz 3 em 20 minutos e o Brasileirão volta hoje com o líder em campo!\n\n🇧🇷 Ontem: Singapura 0 x 7 Brasil, com hat-trick de Vini Jr. no último jogo da Seleção em 2026\n🇦🇷 Argentina 7 x 0 Costa Rica\n🇳🇴 Noruega vira sobre a Dinamarca (3 x 2) com 2 gols de Haaland · 🇵🇹 Portugal 3 x 2 Gales\n\n★ Jogo do dia: Flamengo x Athletico-PR, 20h30 · sportv e Premiere\n⚽ Coritiba x Santos, 19h30 · Record 🆓, CazéTV 🆓 e Premiere\n⚽ Cruzeiro x Palmeiras, 20h30 · Premiere\n⚽ Corinthians x Botafogo e Grêmio x Bahia, 21h30 · Premiere\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: CNN Brasil, UEFA, Telefe, Antenados na TV e Placar.\n\n#futebol #brasileirao #selecaobrasileira #vinijr #flamengo #palmeiras #ondeassistir"
+   }
+  ]
+ }
+}
