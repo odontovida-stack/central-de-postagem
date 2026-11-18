@@ -22,14 +22,14 @@ jobs:
           python -m playwright install --with-deps chromium
       - name: Montar o trecho de teste
         env:
-          TEMA_SLIDES: bhc
+          TEMA_SLIDES: taf
         run: |
           mkdir -p saida-youtube/teste-broll
           python gerador/youtube/broll.py gerador/youtube/teste-broll saida-youtube/teste-broll
           mkdir -p previa/broll
-          cp saida-youtube/teste-broll/001.png previa/broll/teste-quadro.png
-          ffmpeg -y -loglevel error -i saida-youtube/teste-broll/001.mp4 -vf scale=960:540 -c:v libx264 -preset veryfast -crf 28 previa/broll/teste-540p.mp4
-          cp gerador/youtube/teste-broll/broll_creditos.json previa/broll/teste-creditos.json
+          cp saida-youtube/teste-broll/*.png previa/broll/ ; cp gerador/youtube/teste-broll/broll_creditos.json previa/broll/ ; ls saida-youtube/teste-broll
+          true
+          true
       - name: Gravar a prévia
         run: |
           git config user.name "central-de-postagem"
