@@ -310,6 +310,54 @@ def destaque(conta, card):
     return moldura(miolo, card)
 
 
+def frente(conta, card):
+    """Série "Frente a Frente" (pedido do Luiz em 19/11/2026): dois lados, um número grande em cada e a comparação linha a linha.
+    Sem foto de pessoa e sem escudo: cada lado é uma cor, o nome em letra grande e os adversários em texto.
+    card: {"tipo": "frente", "pilula", "chamada", "titulo",
+           "lados": [{"nome", "periodo", "cor", "grande", "grande_rotulo", "chips": ["Argentina", ...], "chips_rotulo"}, {...}],
+           "linhas": [["Jogos", "81", "22", "a"|"b"|""], ...],   # 4º campo opcional: qual lado leva vantagem
+           "nota", "fonte", "cta"}"""
+    cor = PAGINAS[conta]["cor"]
+    a, b = card["lados"]
+    n_chips = max(len(a.get("chips", [])), len(b.get("chips", [])))
+    chip_px = 24 if n_chips <= 6 else 21
+
+    def coluna(l):
+        c = l.get("cor", cor)
+        chips = "".join(f'<span style="font-size: {chip_px}px; font-weight: 600; background: {BG}; border: 2px solid {c}; border-radius: 999px; padding: 2px 12px; white-space: nowrap">{e(x)}</span>' for x in l.get("chips", []))
+        bloco_chips = (f'<div style="display: flex; flex-direction: column; gap: 8px"><span style="font-size: 20px; font-weight: 700; letter-spacing: .1em; color: {MUTED}">{e(l.get("chips_rotulo", "DERROTAS PARA"))}</span>'
+                       f'<div style="display: flex; flex-wrap: wrap; gap: 8px">{chips}</div></div>') if chips else ""
+        return f'''<div style="flex: 1; min-width: 0; background: {CARD}; border-top: 10px solid {c}; border-radius: 18px; padding: 26px 26px 24px; display: flex; flex-direction: column; gap: 14px">
+<div style="display: flex; flex-direction: column; gap: 2px"><span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 74px; line-height: .9; text-transform: uppercase">{e(l["nome"])}</span><span style="font-size: 26px; color: {MUTED}">{e(l.get("periodo"))}</span></div>
+<div style="display: flex; align-items: baseline; gap: 14px"><span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 170px; line-height: .82; color: {c}">{e(l["grande"])}</span><span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 38px; line-height: 1; text-transform: uppercase">{e(l.get("grande_rotulo"))}</span></div>
+{bloco_chips}
+</div>'''
+
+    linhas = []
+    for i, ln in enumerate(card.get("linhas", [])):
+        rot, va, vb = ln[:3]
+        lado = ln[3] if len(ln) > 3 else ""
+        ca = a.get("cor", cor) if lado == "a" else FG
+        cb = b.get("cor", cor) if lado == "b" else FG
+        fundo = CARD if i % 2 == 0 else BG
+        linhas.append(f'''<div style="display: grid; grid-template-columns: 1fr 300px 1fr; align-items: center; background: {fundo}; border-radius: 10px; padding: 6px 22px">
+<span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 44px; color: {ca}">{e(va)}</span>
+<span style="font-size: 24px; font-weight: 700; letter-spacing: .08em; color: {MUTED}; text-align: center; text-transform: uppercase">{e(rot)}</span>
+<span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 44px; color: {cb}; text-align: right">{e(vb)}</span>
+</div>''')
+    nota = f'<span style="font-size: 26px; color: {MUTED}; line-height: 1.3">{e(card["nota"])}</span>' if card.get("nota") else ""
+    miolo = f'''{topo(conta, cor, card["pilula"], True)}
+<div style="display: flex; flex-direction: column; gap: 6px">
+<span style="font-weight: 700; font-size: 30px; letter-spacing: 0.12em; color: {cor}">{e(card["chamada"])}</span>
+<h1 style="margin: 0; font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 96px; line-height: 0.9; text-transform: uppercase">{e(card["titulo"])}</h1>
+</div>
+<div style="display: flex; gap: 20px">{coluna(a)}{coluna(b)}</div>
+<div style="display: flex; flex-direction: column; gap: 4px; flex-grow: 1; justify-content: center">{"".join(linhas)}</div>
+{nota}
+{rodape(card["fonte"], card["cta"])}'''
+    return moldura(miolo, card)
+
+
 def pergunta(conta, card):
     """Card de engajamento: uma pergunta grande e até 4 opções para responder nos comentários."""
     cor = PAGINAS[conta]["cor"]
@@ -434,7 +482,7 @@ def main():
                     usadas_conta.add(sub["foto"])
                     fotos_post.append(sub["foto"])
             for i, sub in enumerate(subcards, 1):
-                htm = {"agenda": agenda, "placar": placar, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir, "grade": grade}[sub["tipo"]](conta, sub)
+                htm = {"agenda": agenda, "placar": placar, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir, "grade": grade, "frente": frente}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
                 img = pasta / (f"{nome}-{arq}" if previa else arq)
                 trabalhos.append((htm, img))
