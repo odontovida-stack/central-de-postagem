@@ -1,6 +1,16 @@
 {
  "The American File": [
   {
+   "id": "qGofYTp8o1U",
+   "titulo": "America just lost its measles-free status. It held since 2000. #shorts",
+   "publicado": "2026-11-19",
+   "status": "public",
+   "agendado": "",
+   "views": 3,
+   "likes": 1,
+   "comentarios": 0
+  },
+  {
    "id": "hW0q1gc7-3c",
    "titulo": "America emptied death row once. It came back in 4 years. #shorts",
    "publicado": "2026-11-18",
@@ -36,7 +46,7 @@
    "publicado": "2026-11-17",
    "status": "public",
    "agendado": "",
-   "views": 59,
+   "views": 61,
    "likes": 1,
    "comentarios": 0
   },
@@ -46,7 +56,7 @@
    "publicado": "2026-11-16",
    "status": "public",
    "agendado": "",
-   "views": 13,
+   "views": 14,
    "likes": 0,
    "comentarios": 0
   },
@@ -66,16 +76,6 @@
    "publicado": "2026-11-16",
    "status": "private",
    "agendado": "2026-11-21T15:00",
-   "views": 0,
-   "likes": 0,
-   "comentarios": 0
-  },
-  {
-   "id": "qGofYTp8o1U",
-   "titulo": "America just lost its measles-free status. It held since 2000. #shorts",
-   "publicado": "2026-11-16",
-   "status": "private",
-   "agendado": "2026-11-19T15:00",
    "views": 0,
    "likes": 0,
    "comentarios": 0
@@ -208,7 +208,7 @@
    "publicado": "2026-11-18",
    "status": "public",
    "agendado": "",
-   "views": 13,
+   "views": 14,
    "likes": 1,
    "comentarios": 0
   },
