@@ -300,3 +300,10 @@ O "nosso Supermetrics", pedido do Luiz em 20/11/2026. Grátis, roda no GitHub Ac
   semana anterior, os 5 melhores posts, comparação de formato, horário, dia da semana e idioma, e alertas de alcance perto de zero.
   Fica em `dados/relatorios/AAAA-MM-DD.md` e é comentado na issue "📊 Relatório semanal das redes", que avisa o Luiz no celular.
 - **Painel**: seção "Melhores posts do período" e alcance médio por formato.
+
+## Aprendizados de conteúdo (20/11/2026)
+
+Guia em `docs/aprendizados-conteudo.md`, tirado de 53 prints de posts de alto desempenho mandados pelo Luiz. **Todo robô ou
+tarefa que monta post lê esse guia antes**: capa com número, prova no slide 2, um item por slide com número de prova,
+CTA de palavra-chave no rodapé de todos os slides, DM com algo grátis e uma pergunta, métrica principal = envios + salvamentos,
+revisão semanal PARAR / MANTER / DOBRAR / TESTAR e, no YouTube, a regra de originalidade.
