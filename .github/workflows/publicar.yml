@@ -13,6 +13,7 @@ on:
 permissions:
   contents: write
   actions: write
+  issues: write
 
 concurrency:
   group: publicar
@@ -38,6 +39,7 @@ jobs:
           TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
           TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
           TIKTOK_CHAVE: ${{ secrets.TIKTOK_CHAVE }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # O agendamento do GitHub atrasa horas em repositórios pequenos. Por isso cada execução
           # fica ligada e confere a fila a cada 5 minutos; a próxima execução agendada assume depois.
