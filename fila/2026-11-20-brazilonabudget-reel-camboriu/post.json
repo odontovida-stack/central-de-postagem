@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-11-20T14:40:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.mp4"
   ],
@@ -19,5 +19,10 @@
       "titulo": "Camboriú 2026/27 – guía PDF (ES)",
       "url": "https://go.hotmart.com/W108357905H"
     }
-  ]
+  ],
+  "publicado_em": "2026-11-20T17:44:42+00:00",
+  "resultado": {
+    "instagram": "18062561276643749",
+    "facebook": "1357380613039154"
+  }
 }
