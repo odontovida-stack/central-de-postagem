@@ -7,7 +7,7 @@
     "tiktok"
   ],
   "quando": "2026-11-20T12:00:00-03:00",
-  "status": "aprovado",
+  "status": "erro",
   "midias": [
     "01.jpg"
   ],
@@ -17,5 +17,8 @@
   "legenda": "🔴 Vasco 2 x 1 Internacional: o Inter escapa do rebaixamento?\n\nA) Escapa do Z4\nB) Cai para a Série B\nC) Decide na última rodada\n\n⚽ Gols de Thiago Mendes e Colidio para o Vasco; Juninho descontou\n📉 O Inter ficou com 38 pontos, em 17º, e entrou no Z4\n📅 Faltam 3 rodadas · o próximo jogo do Inter é Internacional x Vitória, segunda, 23/11, 19h30\n\n📌 Salve e volte no fim do campeonato\n📤 Mande para o colorado da sua vida\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: CNN Brasil e Lance!.\n\n#brasileirao #internacional #inter #vasco #rebaixamento #futebol\n\n📷 Foto: Hayden Schiff from Cincinnati, USA · CC BY 2.0, Wikimedia Commons",
   "fotos": [
     "futebol-gramado"
-  ]
+  ],
+  "resultado": {},
+  "erro": "POST 17841436210817201/media: Timeout (código -2)",
+  "tentativas": 1
 }
