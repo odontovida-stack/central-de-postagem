@@ -935,5 +935,13 @@
    "#002B7F"
   ],
   "texto": "#FFFFFF"
+ },
+ "Lyon": {
+  "sigla": "OL",
+  "cores": [
+   "#1D3E8C",
+   "#E2001A"
+  ],
+  "texto": "#FFFFFF"
  }
 }

@@ -1,0 +1,373 @@
+{
+ "dia": "20/11/2026",
+ "apurado_em": "2026-11-20",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-20T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de sexta-feira, 20/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 20/11",
+      "linhas": [
+       {
+        "hora": "07h45",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Portugal",
+        "jogo": "Treino livre 1",
+        "canal": "Disney+"
+       },
+       {
+        "hora": "08h30",
+        "esporte": "outros",
+        "competicao": "Tênis de mesa · WTT Omã",
+        "jogo": "Rodada do dia",
+        "canal": "CazéTV · sportv2",
+        "gratis": true
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · Grupo Lendl",
+        "jogo": "Alcaraz x Cobolli",
+        "canal": "ESPN 3 · Disney+"
+       },
+       {
+        "hora": "10h15",
+        "esporte": "automobilismo",
+        "competicao": "Moto3 · GP de Portugal",
+        "jogo": "Treino",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "11h05",
+        "esporte": "automobilismo",
+        "competicao": "Moto2 · GP de Portugal",
+        "jogo": "Treino",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "12h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Portugal",
+        "jogo": "Treino (vaga direta no Q2)",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "13h30",
+        "esporte": "volei",
+        "competicao": "Liga Polonesa masculina",
+        "jogo": "Olsztyn x Katowice",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "tenis",
+        "competicao": "Billie Jean King Cup · playoff",
+        "jogo": "Brasil x Canadá",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · duplas",
+        "jogo": "Bolelli/Vavassori x Krawietz/Pütz",
+        "canal": "a confirmar"
+       }
+      ],
+      "fonte": "Conferido em 20/11 à 1h · Antenados na TV, ATP, Grande Prêmio, Web Vôlei, Bundesliga, ESPN",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta-feira, 20/11, parte 1 de 3: Treino livre 1 às 07h45 (MotoGP · GP de Portugal, Disney+), Rodada do dia às 08h30 (Tênis de mesa · WTT Omã, CazéTV · sportv2, grátis), Alcaraz x Cobolli às 10h00 (ATP Finals · Grupo Lendl, ESPN 3 · Disney+), Treino às 10h15 (Moto3 · GP de Portugal, ESPN · Disney+), Treino às 11h05 (Moto2 · GP de Portugal, ESPN · Disney+), Treino (vaga direta no Q2) às 12h00 (MotoGP · GP de Portugal, ESPN · Disney+), Olsztyn x Katowice às 13h30 (Liga Polonesa masculina, VBTV), Brasil x Canadá às 14h00 (Billie Jean King Cup · playoff, ESPN 3), Bolelli/Vavassori x Krawietz/Pütz às 14h00 (ATP Finals · duplas, a confirmar)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 20/11",
+      "linhas": [
+       {
+        "hora": "14h30",
+        "esporte": "futebol",
+        "competicao": "Liga Saudita",
+        "jogo": "Al-Ahli x Al-Nassr",
+        "canal": "YouTube GOAT · BandSports",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · Grupo Lendl",
+        "jogo": "Medvedev x Tiafoe",
+        "canal": "ESPN 3 · Disney+"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "futebol",
+        "competicao": "Bundesliga · 10ª rodada",
+        "jogo": "Bayern x Colônia",
+        "canal": "CazéTV · sportv · Xsports",
+        "gratis": true
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Ligue 1",
+        "jogo": "Troyes x Le Havre",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "16h45",
+        "esporte": "volei",
+        "competicao": "Liga Italiana masculina",
+        "jogo": "Cuneo x Verona",
+        "canal": "VBTV"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "La Liga",
+        "jogo": "Athletic Bilbao x Espanyol",
+        "canal": "YouTube SportyNet",
+        "gratis": true
+       },
+       {
+        "hora": "17h45",
+        "esporte": "futebol",
+        "competicao": "Taça de Portugal",
+        "jogo": "Porto x Paredes",
+        "canal": "YouTube UOL Esporte",
+        "gratis": true
+       },
+       {
+        "hora": "18h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Bauru x Caxias",
+        "canal": "YouTube XSports",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Campinas x Monte Carmelo",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Goiás x Montes Claros",
+        "canal": "ge TV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 20/11 à 1h · Antenados na TV, ATP, Grande Prêmio, Web Vôlei, Bundesliga, ESPN",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta-feira, 20/11, parte 2 de 3: Al-Ahli x Al-Nassr às 14h30 (Liga Saudita, YouTube GOAT · BandSports, grátis), Medvedev x Tiafoe às 16h30 (ATP Finals · Grupo Lendl, ESPN 3 · Disney+), Bayern x Colônia às 16h30 (Bundesliga · 10ª rodada, CazéTV · sportv · Xsports, grátis), Troyes x Le Havre às 16h45 (Ligue 1, CazéTV, grátis), Cuneo x Verona às 16h45 (Liga Italiana masculina, VBTV), Athletic Bilbao x Espanyol às 17h00 (La Liga, YouTube SportyNet, grátis), Porto x Paredes às 17h45 (Taça de Portugal, YouTube UOL Esporte, grátis), Bauru x Caxias às 18h00 (NBB, YouTube XSports, grátis), Campinas x Monte Carmelo às 18h30 (Superliga Masculina, sportv2), Goiás x Montes Claros às 18h30 (Superliga Masculina, ge TV, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 20/11",
+      "linhas": [
+       {
+        "hora": "19h00",
+        "esporte": "outros",
+        "competicao": "Futsal · LNF · semifinal",
+        "jogo": "Joinville x Jaraguá",
+        "canal": "YouTube LNF · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Franca x Corinthians",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Praia Clube x Guarulhos",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Hornets x Hawks",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "f1",
+        "competicao": "F1 · GP de Las Vegas",
+        "jogo": "Treino livre 3",
+        "canal": "sportv3 · Globoplay"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Raptors x Pistons",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "nfl",
+        "competicao": "Futebol americano · NCAA",
+        "jogo": "Duke x Clemson",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Pelicans x Thunder",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h00",
+        "esporte": "lutas",
+        "competicao": "MMA · LFA",
+        "jogo": "Card principal",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "01h00",
+        "esporte": "f1",
+        "competicao": "F1 · GP de Las Vegas",
+        "jogo": "Classificação (sábado)",
+        "canal": "sportv3 · Globoplay"
+       }
+      ],
+      "fonte": "Conferido em 20/11 à 1h · Antenados na TV, ATP, Grande Prêmio, Web Vôlei, Bundesliga, ESPN",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de sexta-feira, 20/11, parte 3 de 3: Joinville x Jaraguá às 19h00 (Futsal · LNF · semifinal, YouTube LNF · XSports, grátis), Franca x Corinthians às 19h30 (NBB, ESPN · Disney+), Praia Clube x Guarulhos às 21h00 (Superliga Masculina, sportv2), Hornets x Hawks às 21h00 (NBA, NBA League Pass), Treino livre 3 às 21h30 (F1 · GP de Las Vegas, sportv3 · Globoplay), Raptors x Pistons às 21h30 (NBA Cup, Prime Video), Duke x Clemson às 21h30 (Futebol americano · NCAA, ESPN 2), Pelicans x Thunder às 22h00 (NBA, NBA League Pass), Card principal às 23h00 (MMA · LFA, ESPN 4), Classificação, na madrugada de sábado, à 01h00 (F1 · GP de Las Vegas, sportv3 · Globoplay)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de sexta-feira, 20/11 (horário de Brasília)\n\n🎾 14h · Brasil x Canadá na Billie Jean King Cup, em Vitória (ES), valendo vaga nos Qualifiers · ESPN 3\n🎾 10h e 16h30 · Alcaraz x Cobolli e Medvedev x Tiafoe (vaga na semi) no ATP Finals · ESPN 3\n⚽ 16h30 · Bayern x Colônia, na Bundesliga · CazéTV 🆓\n🏐 18h30 · Goiás x Montes Claros, na Superliga Masculina · ge TV 🆓\n🏎️ 21h30 · Treino livre 3 da F1 em Las Vegas, e a classificação à 1h da madrugada · sportv3\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia.\n\n#agendaesportiva #esportes #ondeassistir #billiejeankingcup #atpfinals #f1 #superliga #nba"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-20T07:30:00-03:00",
+    "alt": "Resultados de quinta-feira e jogos de sexta-feira, 20/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "QUI 19/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão · 35ª rodada",
+        "jogos": [
+         {
+          "casa": "Vasco",
+          "gc": 2,
+          "fora": "Internacional",
+          "gf": 1
+         },
+         {
+          "casa": "Vitória",
+          "gc": 2,
+          "fora": "Bragantino",
+          "gf": 1
+         },
+         {
+          "casa": "São Paulo",
+          "gc": 0,
+          "fora": "Fluminense",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Champions Feminina",
+        "jogos": [
+         {
+          "casa": "Arsenal",
+          "gc": 0,
+          "fora": "Lyon",
+          "gf": 2
+         },
+         {
+          "casa": "Barcelona",
+          "gc": 6,
+          "fora": "Servette",
+          "gf": 0
+         }
+        ]
+       }
+      ],
+      "destaque": "Vasco vence e empurra o Inter para o Z4",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 20/11 à 1h · CNN Brasil, sites dos clubes, ESPN, Ara",
+      "cta": "Arraste →",
+      "alt": "Resultados de quinta-feira, 19/11. Brasileirão, 35ª rodada: Vasco 2 x 1 Internacional, Vitória 2 x 1 Bragantino e São Paulo 0 x 1 Fluminense. Champions Feminina: Arsenal 0 x 2 Lyon e Barcelona 6 x 0 Servette. Destaque: o Vasco venceu e empurrou o Inter para a zona de rebaixamento"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SEX 20/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "20/11",
+        "sub": "SEX · 16h30",
+        "titulo": "Bayern x Colônia",
+        "detalhe": "Bundesliga · CazéTV, sportv, Xsports",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX · 14h30",
+        "titulo": "Al-Ahli x Al-Nassr",
+        "detalhe": "Liga Saudita · YouTube GOAT, BandSports",
+        "gratis": true
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX · 16h45",
+        "titulo": "Troyes x Le Havre",
+        "detalhe": "Ligue 1 · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX · 17h",
+        "titulo": "Athletic Bilbao x Espanyol",
+        "detalhe": "La Liga · YouTube SportyNet",
+        "gratis": true
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX · 17h45",
+        "titulo": "Porto x Paredes",
+        "detalhe": "Taça de Portugal · YouTube UOL Esporte",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 20/11 à 1h · Bundesliga, Antenados na TV",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de sexta-feira, 20/11: jogo do dia Bayern x Colônia às 16h30, grátis na CazéTV e também no sportv e na Xsports, pela Bundesliga; Al-Ahli x Al-Nassr às 14h30, grátis no YouTube GOAT e na BandSports; Troyes x Le Havre às 16h45, grátis na CazéTV; Athletic Bilbao x Espanyol às 17h, grátis no YouTube SportyNet; Porto x Paredes às 17h45, grátis no YouTube UOL Esporte"
+     }
+    ],
+    "legenda": "⚽ Vasco vence e o Inter cai para o Z4 a 3 rodadas do fim!\n\n🔵 Ontem: Vasco 2 x 1 Internacional, em São Januário · Vitória 2 x 1 Bragantino, no Barradão\n🟢 São Paulo 0 x 1 Fluminense, no MorumBIS, gol de Hércules\n👩 Champions Feminina: Arsenal 0 x 2 Lyon · Barcelona 6 x 0 Servette\n📊 Flamengo 79 · Palmeiras 73 · amanhã tem Palmeiras x Flamengo\n\n★ Jogo do dia: Bayern x Colônia, 16h30 · CazéTV 🆓, sportv e Xsports\n⚽ Al-Ahli x Al-Nassr, 14h30 · YouTube GOAT 🆓\n⚽ Troyes x Le Havre, 16h45 · CazéTV 🆓\n⚽ Athletic Bilbao x Espanyol, 17h · YouTube SportyNet 🆓\n⚽ Porto x Paredes, Taça de Portugal, 17h45 · YouTube UOL 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: CNN Brasil, sites dos clubes, ESPN, Bundesliga e Antenados na TV.\n\n#futebol #brasileirao #vasco #internacional #fluminense #bundesliga #bayern #ondeassistir"
+   }
+  ]
+ }
+}
