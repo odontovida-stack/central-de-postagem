@@ -111,6 +111,12 @@ a { color: var(--series); }
   </section>
 
   <section>
+    <h2>Melhores posts do período</h2>
+    <div class="tablewrap"><table id="postsTop"></table></div>
+    <p class="foot" id="postsFormato" style="margin-top:12px"></p>
+  </section>
+
+  <section>
     <h2>Fila de posts</h2>
     <div class="seg" role="group" aria-label="Filtro da fila" id="filtroFila" style="margin: 0 0 12px">
       <button data-f="proximos" aria-pressed="true">Próximos</button>
@@ -140,6 +146,33 @@ async function carregar() {
   document.querySelectorAll('[data-dias]').forEach(b => b.setAttribute('aria-pressed', +b.dataset.dias === DIAS));
   desenhar();
   carregarFila();
+  carregarPosts();
+}
+
+let POR_POST = {};
+async function carregarPosts() {
+  POR_POST = await fetch('../dados/posts.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).catch(() => ({}));
+  desenharPosts();
+}
+
+function desenharPosts() {
+  const tab = document.getElementById('postsTop'), nota = document.getElementById('postsFormato');
+  if (!tab) return;
+  const esc = t => String(t || '').replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+  const num = r => { const n = (r.fotos && r.fotos.d7) || r.ultimo || {}; return n; };
+  const alc = r => { const n = num(r); return n.alcance != null ? n.alcance : (n.visualizacoes || 0); };
+  const inter = r => { const n = num(r); return n.interacoes != null ? n.interacoes : ['curtidas', 'comentarios', 'compartilhamentos', 'salvamentos'].reduce((s, k) => s + (n[k] || 0), 0); };
+  const rede = { instagram: 'IG', facebook: 'FB', tiktok: 'TikTok', youtube: 'YouTube' };
+  const corte = DIAS ? Date.now() - DIAS * 864e5 : 0;
+  const ps = Object.values(POR_POST).filter(r => (r.ultimo || r.fotos) && r.rede !== 'facebook' && new Date(r.publicado_em).getTime() >= corte);
+  if (!ps.length) { tab.innerHTML = '<tr><td class="empty">Ainda sem números por post neste período (a coleta por post começou em 20/11/2026).</td></tr>'; nota.textContent = ''; return; }
+  const nome = c => (CONTAS[c] && CONTAS[c].nome) || c;
+  tab.innerHTML = '<thead><tr><th>Data</th><th>Conta</th><th>Rede</th><th>Post</th><th>Alcance/views</th><th>Interações</th><th>Salvos</th><th>Compart.</th></tr></thead><tbody>' +
+    ps.sort((a, b) => alc(b) - alc(a) || inter(b) - inter(a)).slice(0, 12).map(r => { const n = num(r); return `<tr><td>${dataBR(r.publicado_em)}</td><td>${esc(nome(r.conta))}</td><td>${rede[r.rede] || r.rede}</td><td>${esc((r.titulo || '').slice(0, 70))}</td><td>${fmt(alc(r))}</td><td>${fmt(inter(r))}</td><td>${fmt(n.salvamentos || 0)}</td><td>${fmt(n.compartilhamentos || 0)}</td></tr>`; }).join('') + '</tbody>';
+  const ig = ps.filter(r => r.rede === 'instagram' && r.tipo !== 'story'), g = {};
+  ig.forEach(r => { (g[r.tipo] = g[r.tipo] || []).push(alc(r)); });
+  const partes = Object.entries(g).filter(([, v]) => v.length >= 2).map(([t, v]) => `${t}: ${fmt(Math.round(v.reduce((a, b) => a + b, 0) / v.length))} por post (${v.length})`);
+  nota.textContent = partes.length ? 'Alcance médio no Instagram por formato: ' + partes.join(' · ') + '.' : '';
 }
 
 function serie(nome) {
@@ -249,7 +282,7 @@ function desenharFila() {
 
 document.querySelectorAll('[data-dias]').forEach(b => b.addEventListener('click', () => {
   DIAS = +b.dataset.dias; pref('painel-dias', DIAS);
-  document.querySelectorAll('[data-dias]').forEach(x => x.setAttribute('aria-pressed', x === b)); desenhar();
+  document.querySelectorAll('[data-dias]').forEach(x => x.setAttribute('aria-pressed', x === b)); desenhar(); desenharPosts();
 }));
 document.querySelectorAll('[data-f]').forEach(b => b.addEventListener('click', () => {
   FILTRO = b.dataset.f; document.querySelectorAll('[data-f]').forEach(x => x.setAttribute('aria-pressed', x === b)); desenharFila();

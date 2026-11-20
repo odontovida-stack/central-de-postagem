@@ -1,0 +1,29 @@
+name: Relatório semanal das redes
+
+on:
+  schedule:
+    - cron: "17 11 * * 1"   # toda segunda às 8:17 de Brasília (depois da coleta das 6:23)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  relatorio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Montar e avisar o Luiz
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/relatorio_redes.py --avisar
+      - name: Gravar
+        run: |
+          git config user.name "central-de-postagem"
+          git config user.email "actions@users.noreply.github.com"
+          git add dados/relatorios
+          git diff --cached --quiet || (git commit -m "Relatório das redes $(date -u +%F)" && (git push || (git pull --rebase && git push)))

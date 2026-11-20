@@ -156,6 +156,12 @@ def enviar_rascunho(conta, pasta, midias, legenda):
     if json.dumps(cofre, sort_keys=True) != antes:
         gravar_cofre(cofre)  # o TikTok pode trocar o refresh_token na renovação
     legenda = limitar_hashtags(legenda)
+    if midias and str(midias[0]).lower().endswith(".mp4"):
+        # Vídeo (Reels, ex.: vídeo do relógio do Brasil 23:59, 20/11/2026): vai para a caixa de entrada.
+        # O endpoint de vídeo em rascunho não recebe legenda: o Luiz cola a legenda ao publicar no app.
+        res = _post(f"{API}/post/publish/inbox/video/init/",
+                    {"source_info": {"source": "PULL_FROM_URL", "video_url": url_midia(pasta, midias[0])}}, token=tok)
+        return res.get("data", {}).get("publish_id")
     linhas = [l for l in legenda.strip().split("\n") if l.strip()]
     titulo = (linhas[0] if linhas else "")[:89]
     corpo = {"post_info": {"title": titulo, "description": legenda.strip()[:3990]},
@@ -246,6 +252,45 @@ def numeros():
     print(f"{len(linhas)} conta(s) com números")
 
 
+def videos():
+    """Números de cada vídeo publicado (escopo video.list), para o relatório semanal e o painel.
+    Conta conectada antes de 20/11/2026 não tem video.list: precisa reconectar uma vez em tiktok/conectar.html."""
+    cofre = ler_cofre()
+    antes = json.dumps(cofre, sort_keys=True)
+    out = RAIZ / "dados" / "painel" / "tiktok_videos.json"
+    lista = json.loads(out.read_text(encoding="utf-8")) if out.exists() else []
+    por_id = {v["id"]: v for v in lista}
+    campos = "id,title,video_description,create_time,view_count,like_count,comment_count,share_count"
+    for conta in CFG["contas"]:
+        try:
+            tok = _token(conta, cofre)
+            if not tok:
+                continue
+            if "video.list" not in cofre[conta].get("scope", ""):
+                print(f"{conta}: sem a permissão video.list (reconecte em tiktok/conectar.html)")
+                continue
+            cursor, n = None, 0
+            for _ in range(10):  # até 200 vídeos por conta
+                corpo = {"max_count": 20, **({"cursor": cursor} if cursor else {})}
+                d = _post(f"{API}/video/list/?fields={campos}", corpo, token=tok).get("data", {})
+                for v in d.get("videos", []):
+                    por_id[v["id"]] = {"conta": conta, "id": v["id"], "titulo": (v.get("title") or v.get("video_description") or "")[:120],
+                                       "publicado_em": time.strftime("%Y-%m-%dT%H:%M:%S+00:00", time.gmtime(v.get("create_time", 0))),
+                                       "views": v.get("view_count", 0), "likes": v.get("like_count", 0),
+                                       "comentarios": v.get("comment_count", 0), "compartilhamentos": v.get("share_count", 0)}
+                    n += 1
+                if not d.get("has_more"):
+                    break
+                cursor = d.get("cursor")
+            print(f"{conta}: {n} vídeo(s)")
+        except Exception as e:  # noqa: BLE001
+            print(f"{conta}: sem vídeos ({str(e)[:120]})")
+    if json.dumps(cofre, sort_keys=True) != antes:
+        gravar_cofre(cofre)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(sorted(por_id.values(), key=lambda v: v["publicado_em"], reverse=True), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+
 if __name__ == "__main__":
     if len(sys.argv) >= 4 and sys.argv[1] == "conectar":
         conectar(sys.argv[2], sys.argv[3])
@@ -257,6 +302,8 @@ if __name__ == "__main__":
         situacao()
     elif len(sys.argv) >= 2 and sys.argv[1] == "numeros":
         numeros()
+    elif len(sys.argv) >= 2 and sys.argv[1] == "videos":
+        videos()
     elif len(sys.argv) >= 2 and sys.argv[1] == "status":
         c = ler_cofre()
         for k in CFG["contas"]:

@@ -117,6 +117,7 @@ Os posts diários saem do robô "Posts do dia" (roda à 0h41 e abre um pull requ
 | @showsconfirmados | Carrossel "O show da semana" | Quinta, 19h |
 | @jogosnatela | Carrossel "O jogo da semana" | Sexta, 19h |
 | @esportesnatela | Carrossel "O evento da semana" | Sábado, 10h |
+| @esportesnatela | Série "Frente a Frente" (card `frente`: dois lados, número grande, comparação linha a linha + pergunta; números conferidos em 2 fontes, sem foto de pessoa e sem escudo) | Quarta, 19h30 |
 | Todas | Notícia do dia: desfalque, líder, campeão, recorde (inclusive de bilheteria, vendas e público) ou fato curioso, só quando houver | 10h30, 13h ou 15h, até 1 por página por dia |
 | Todas | Perguntas para o público: palpite antes de um evento grande, "o que achou?" depois, e 1 enquete fixa por semana (ver o robô "Posts do dia") | 12h ou 20h, até 1 por página por dia |
 | @jogosnatela | Agenda da semana | Segunda, 12h |
@@ -207,6 +208,20 @@ Para publicar a tela de consentimento, ponha o app do Google Cloud "Em produçã
 
 Thumbnail personalizada só funciona em canal verificado por telefone (youtube.com/verify).
 
+### O que funciona no YouTube (dados de 20/11/2026)
+- **TAF:** os 3 vídeos com mais views são Shorts que juntam a notícia de hoje com a última vez que aconteceu ("California just
+  moved to empty death row. It happened once before.": 413; "The closest Senate race in history came down to 2 votes": 298;
+  "The US spends $1 trillion a year on its military": 149). Os vídeos longos ficaram entre 2 e 6 views. **Dobrar** esse
+  formato de Short: gancho com fato de hoje + "a última vez foi em AAAA" no título e nos 2 primeiros segundos.
+- Todo Short que acompanha um longo termina apontando para ele ("Full story on the channel") e o longo é ligado ao Short no
+  YouTube Studio (vídeo relacionado).
+- **BHC:** o melhor foi o longo do Churchill (35 views). Testar ganchos de "o que quase aconteceu".
+- **Regra de originalidade:** os dois canais são feitos com IA. Cada vídeo precisa de ângulo, roteiro e análise próprios;
+  variar estrutura, abertura e ritmo; nunca publicar em série vídeos com o mesmo molde. O YouTube pune conteúdo repetitivo
+  ou produzido em massa.
+- Roteiro: gancho nos primeiros 5 a 15 s, prova rápida, quebra de padrão a cada 20 a 30 s, teaser no meio e final que leva
+  ao próximo vídeo. Título, thumbnail (no máximo 4 palavras) e gancho são planejados juntos.
+
 ### Fotos de fundo nos slides (combinado em 30/10/2026)
 - Qualquer slide do `slides.json` aceita `"foto": "<nome>"`: a foto `fotos/banco/<nome>.jpg` entra de fundo, em tela cheia, sob um véu escuro na cor do tema (azul-marinho no TAF, sépia no BHC), e o crédito "Photo: autor · licença · Wikimedia Commons" fica no canto de baixo, à direita. Opcional: `"foto_pos": "center 30%"` para mudar o enquadramento.
 - Se a foto ainda não foi baixada, o slide sai igual a antes (sem foto) e o robô só avisa no log.
@@ -244,3 +259,73 @@ Desde 04/11/2026, todo post com `"tiktok"` em `redes` vai como **rascunho** para
 ## Vendas da Amazon no painel (12/11/2026)
 
 O painel da Amazon não deixa leitura automática. Uma vez por mês (ou quando quiser), o Luiz baixa o relatório em Associados → Relatórios → Baixar relatórios (CSV ou XLSX, vem num .zip) e manda o arquivo na conversa. Aí roda `python scripts/vendas_amazon.py <arquivo> br` (ou `us` para a Amazon dos EUA): ele soma comissão, vendas geradas, itens e cliques e atualiza a linha da Amazon em `dados/painel/vendas.json`. Só os totais ficam guardados.
+
+## Brasil 23:59: merge automático, 1 post por dia e vídeo do relógio (20/11/2026)
+
+Decidido pelo Luiz em 20/11/2026, porque a página ficou 15 dias sem post enquanto os PRs esperavam merge.
+
+1. **Merge automático do que não mexe no relógio.** O job `merge-automatico-brasil2359` do workflow
+   "Conferir post novo" mescla sozinho o PR com título `Brasil 23:59 — ...` quando: a conferência passou,
+   o PR só tem pastas `fila/AAAA-MM-DD-brasil2359-*/` e **toda** legenda traz a frase
+   "Este post não mexe no relógio." Post que mexe no relógio (post do dia, vídeo do relógio, resumo de
+   domingo, ajuste do mês) não leva a frase e continua esperando o merge do Luiz.
+2. **1 post por dia.** A tarefa "Brasil 23:59 — formatos fixos da semana" faz um formato por dia, de
+   segunda a domingo (sexta: "O número da semana"). Se o dia já tiver post do Brasil 23:59 (fila ou PR
+   aberto), ela não faz outro.
+3. **Vídeo do relógio.** Toda vez que o relógio anda, a tarefa "Brasil 23:59 — post do dia" também gera um
+   Reels de ~8 s com `python gerador/relogio_video.py dados.json fila/AAAA-MM-DD-brasil2359-relogio-video/`
+   (dados: `data`, `de` = hora antes, `itens` = [{texto, orgao, delta}], `fonte`). Ele vai no mesmo PR do
+   post do dia, para o Luiz aprovar junto. Fontes locais: `npm i @fontsource-variable/archivo @fontsource/jetbrains-mono`.
+
+## Brazil on a Budget: 1 post por dia (20/11/2026)
+
+Pedido do Luiz em 20/11/2026 ("precisamos de mais conteúdo no Brazil on a Budget"). A tarefa agendada
+"Brazil on a Budget — semana" roda toda sexta e completa os próximos 8 dias sem post do @brazil.onabudget.
+
+- Gerador: `python gerador/bob.py pauta.json [--previa]` (tipos capa, lista, preco, passos; o slide final
+  "Comment GUIDE / Comenta GUÍA" entra sozinho). Visual igual ao dos carrosséis de novembro. Fontes locais:
+  `npm i @fontsource-variable/bricolage-grotesque @fontsource-variable/instrument-sans`.
+- Reels: `python gerador/reel_carrossel.py fila/<carrossel>/ fila/<reel>/` (post.json do reel escrito à parte).
+- Rodízio da semana (horário de Brasília): seg 18:30 "What <lugar> really costs" (EN) · ter 14:40 Reel ·
+  qua 18:30 "¿Cuánto cuesta <lugar>?" (ES) · qui 18:30 dicas práticas (EN) · sex 14:40 Reel (ES ou EN) ·
+  sáb 18:30 evento/estação (Réveillon, Carnaval, verão...) · dom 18:30 "1 coisa, 1 preço" (EN/ES alternado).
+- Preços sempre conferidos em fonte oficial ou confiável na semana, com "Prices checked <mês ano>" e a cotação
+  do dólar usada. Fotos só do banco (`fotos/banco/`), sem pessoa identificável nem marca:
+  **não usar `rio-copacabana`** (aparece a marca de um banco no quiosque).
+- Aprovação (decidido pelo Luiz em 20/11/2026): o PR se chama `Posts do dia DD/MM — Brazil on a Budget (semana ...)`, então
+  sai sozinho enquanto o modo férias (`config/ferias.json`) estiver ligado. Com o modo férias desligado, ele espera o
+  merge do Luiz (atenção: o robô "Posts do dia" da madrugada fecha PR "Posts do dia" de data passada; aprove no mesmo dia).
+
+## Números de cada post e relatório semanal (20/11/2026)
+
+O "nosso Supermetrics", pedido do Luiz em 20/11/2026. Grátis, roda no GitHub Actions com os tokens que já existem.
+
+- **Coleta por post** (`scripts/coletar_posts.py`, todo dia às 6:23 junto com o `metricas.yml`): para cada post publicado pela
+  Central, pede à Meta alcance, visualizações, curtidas, comentários, compartilhamentos, salvamentos e interações (Instagram) e
+  reações, comentários e compartilhamentos (Facebook: a Meta não dá mais alcance por post na Página). Guarda em `dados/posts.json`
+  a leitura de 1, 3 e 7 dias depois de publicar (`fotos.d1/d3/d7`) e a última (`ultimo`), junto com conta, formato, dia, hora,
+  idioma e assunto. Posts antigos entram de uma vez, como `d7` (150 por rede por dia; o resto entra no dia seguinte).
+  Stories só têm números nas 24 h em que ficam no ar.
+- **YouTube**: os vídeos de `dados/painel/youtube_videos.json` entram no mesmo arquivo, com histórico.
+- **TikTok**: `python scripts/tiktok.py videos` grava `dados/painel/tiktok_videos.json` (views, curtidas, comentários e
+  compartilhamentos de cada vídeo). Precisa da permissão `video.list`: 1) no portal de desenvolvedor do TikTok, adicionar o escopo
+  `video.list` no app (Login Kit / Scopes); 2) reconectar cada conta uma vez em
+  `https://odontovida-stack.github.io/central-de-postagem/tiktok/conectar.html?videos=1`. Sem isso, o resto funciona normal.
+- **Relatório semanal** (`scripts/relatorio_redes.py`, workflow `relatorio.yml`, toda segunda às 8:17): resumo por conta contra a
+  semana anterior, os 5 melhores posts, comparação de formato, horário, dia da semana e idioma, e alertas de alcance perto de zero.
+  Fica em `dados/relatorios/AAAA-MM-DD.md` e é comentado na issue "📊 Relatório semanal das redes", que avisa o Luiz no celular.
+- **Painel**: seção "Melhores posts do período" e alcance médio por formato.
+
+## Radar de preço do e-commerce (20/11/2026)
+
+`scripts/radar_precos.py` (workflow `radar.yml`, todo dia às 8:43) busca no Mercado Livre os concorrentes de cada produto de
+`config/radar_precos.json` e comenta na issue "💲 Radar de preço" (aviso no celular) quando um concorrente fica mais barato
+que o nosso anúncio ou baixa o preço 5% ou mais. Histórico de 90 dias em `dados/radar_precos.json`.
+Para ligar: pôr o link do nosso anúncio em `meu_anuncio`. Se o Mercado Livre pedir login, criar um app em
+developers.mercadolivre.com.br e pôr o token no secret `ML_ACCESS_TOKEN`. A Shopee não tem API pública de busca.
+## Aprendizados de conteúdo (20/11/2026)
+
+Guia em `docs/aprendizados-conteudo.md`, tirado de 53 prints de posts de alto desempenho mandados pelo Luiz. **Todo robô ou
+tarefa que monta post lê esse guia antes**: capa com número, prova no slide 2, um item por slide com número de prova,
+CTA de palavra-chave no rodapé de todos os slides, DM com algo grátis e uma pergunta, métrica principal = envios + salvamentos,
+revisão semanal PARAR / MANTER / DOBRAR / TESTAR e, no YouTube, a regra de originalidade.

@@ -53,3 +53,52 @@ jobs:
           fi
           gh api -X PUT "repos/$REPO/pulls/$PR/merge" -f merge_method=squash
           gh api "repos/$REPO/issues/$PR/comments" -f body="✅ Mesclado automaticamente: $regra."
+
+  # Decidido pelo Luiz em 20/11/2026: os posts do Brasil 23:59 que NÃO mexem no relógio
+  # ("Brasil em 1 número", "Era 1 × hoje", "Entenda o número", "Pergunta da semana", "O que pode mexer
+  # esta semana", "Número da semana") saem sem o merge dele. Condições: título "Brasil 23:59 — ...",
+  # conferência acima ok, só pastas fila/AAAA-MM-DD-brasil2359-*/, e TODA legenda com a frase
+  # "Este post não mexe no relógio." Post que mexe no relógio (post do dia, vídeo do relógio, resumo de
+  # domingo, ajuste do mês) não leva a frase e continua esperando o Luiz.
+  merge-automatico-brasil2359:
+    needs: conferir
+    if: startsWith(github.event.pull_request.title, 'Brasil 23:59') && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - name: Conferir se nenhum post mexe no relógio e fazer o merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          arquivos=$(gh api "repos/$REPO/pulls/$PR/files" --paginate --jq '.[] | select(.status != "removed") | .filename')
+          fora=$(echo "$arquivos" | grep -vE '^fila/[0-9]{4}-[0-9]{2}-[0-9]{2}-brasil2359-[a-z0-9-]+/[^/]+$' || true)
+          if [ -n "$fora" ]; then
+            gh api "repos/$REPO/issues/$PR/comments" -f body="⏸️ Não mesclei sozinho: o PR mexe em arquivos fora de fila/*-brasil2359-*/. Fica para o Luiz aprovar."
+            exit 0
+          fi
+          motivo=$(echo "$arquivos" | python3 -c "
+          import sys, json, pathlib
+          pastas = sorted({str(pathlib.Path(l.strip()).parent) for l in sys.stdin if l.strip()})
+          for p in pastas:
+              f = pathlib.Path(p) / 'post.json'
+              if not f.exists():
+                  print(f'{p} sem post.json'); break
+              d = json.loads(f.read_text(encoding='utf-8'))
+              if d.get('conta') != 'brasil2359':
+                  print(f'{p}: conta não é brasil2359'); break
+              if 'não mexe no relógio' not in d.get('legenda', ''):
+                  print(f'{p}: a legenda não diz que o post não mexe no relógio'); break
+          ")
+          if [ -n "$motivo" ]; then
+            gh api "repos/$REPO/issues/$PR/comments" -f body="⏸️ Não mesclei sozinho ($motivo): post que mexe no relógio espera o Luiz aprovar."
+            exit 0
+          fi
+          gh api -X PUT "repos/$REPO/pulls/$PR/merge" -f merge_method=squash
+          gh api "repos/$REPO/issues/$PR/comments" -f body="✅ Mesclado automaticamente: post do Brasil 23:59 que não mexe no relógio (regra aprovada pelo Luiz em 20/11/2026)."

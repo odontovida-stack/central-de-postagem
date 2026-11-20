@@ -1,0 +1,66 @@
+{
+ "dia": "19/11/2026",
+ "apurado_em": "2026-11-19",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "frente-a-frente-tite-ancelotti",
+    "quando": "2026-11-19T19:30:00-03:00",
+    "cards": [
+     {
+      "tipo": "frente",
+      "pilula": "FRENTE A FRENTE",
+      "chamada": "SELEÇÃO BRASILEIRA · TÉCNICOS",
+      "titulo": "Tite x Ancelotti",
+      "lados": [
+       {
+        "nome": "Tite",
+        "periodo": "2016 a 2022",
+        "cor": "#FFD23F",
+        "grande": "6",
+        "grande_rotulo": "derrotas em 81 jogos",
+        "chips": ["Argentina", "Argentina", "Argentina", "Bélgica", "Peru", "Camarões"]
+       },
+       {
+        "nome": "Ancelotti",
+        "periodo": "desde junho de 2025",
+        "cor": "#4C9AFF",
+        "grande": "5",
+        "grande_rotulo": "derrotas em 22 jogos",
+        "chips": ["Bolívia", "Japão", "França", "Noruega", "Japão"]
+       }
+      ],
+      "linhas": [
+       ["Jogos", "81", "22", ""],
+       ["Vitórias", "60", "13", ""],
+       ["Empates", "15", "4", ""],
+       ["Aproveitamento", "80,2%", "65,2%", "a"],
+       ["1 derrota a cada", "13,5 jogos", "4,4 jogos", "a"]
+      ],
+      "fonte": "Até 19/11/2026 · Gazeta Esportiva, CNN Brasil e Revista Oeste",
+      "cta": "Arraste →",
+      "alt": "Frente a frente na Seleção: Tite, de 2016 a 2022, perdeu 6 jogos em 81 (para Argentina 3 vezes, Bélgica, Peru e Camarões), com 80,2% de aproveitamento. Ancelotti, desde junho de 2025, perdeu 5 em 22 (Bolívia, Japão, França, Noruega e Japão), com 65,2%."
+     },
+     {
+      "tipo": "pergunta",
+      "pilula": "SUA VEZ",
+      "chamada": "FRENTE A FRENTE",
+      "titulo": "Esse número preocupa?",
+      "contexto": "Ancelotti perde, em média, 1 jogo a cada 4,4. Com Tite, era 1 a cada 13,5.",
+      "opcoes": [
+       "Preocupa, e muito",
+       "É cedo para comparar",
+       "O que importa é a Copa",
+       "Tite era melhor mesmo"
+      ],
+      "fonte": "Até 19/11/2026",
+      "cta": "Responda A, B, C ou D",
+      "alt": "Pergunta: esse número preocupa? A, preocupa, e muito; B, é cedo para comparar; C, o que importa é a Copa; D, Tite era melhor mesmo"
+     }
+    ],
+    "legenda": "⚖️ FRENTE A FRENTE: Tite x Ancelotti na Seleção\n\n🟡 Tite (2016 a 2022)\n81 jogos · 60 vitórias · 15 empates · 6 derrotas\nAproveitamento: 80,2%\nDerrotas: Argentina (3), Bélgica, Peru e Camarões\n\n🔵 Ancelotti (desde junho de 2025)\n22 jogos · 13 vitórias · 4 empates · 5 derrotas\nAproveitamento: 65,2%\nDerrotas: Bolívia, Japão (2), França e Noruega\n\n📉 Com Tite, o Brasil perdia 1 jogo a cada 13,5. Com Ancelotti, 1 a cada 4,4.\n\nEsse número preocupa? Responda A, B, C ou D 👇\n\nNúmeros até 19/11/2026, já com o 7 x 0 em Singapura. Fontes: Gazeta Esportiva, CNN Brasil e Revista Oeste.\n\nToda semana tem um novo Frente a Frente. Siga @esportesnatela.\n\n#selecaobrasileira #ancelotti #tite #futebol #frenteafrente"
+   }
+  ]
+ }
+}

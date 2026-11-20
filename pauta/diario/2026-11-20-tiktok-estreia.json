@@ -1,0 +1,91 @@
+{
+  "dia": "20/11/2026",
+  "apurado_em": "2026-11-20",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-maratona",
+        "redes": ["tiktok"],
+        "quando": "2026-11-20T19:00:00-03:00",
+        "alt": "Maratona do fim de semana: Os 12 Signos de Valentina na Netflix, 12 12 12 na Apple TV e Madden: O Homem e o Jogo no Prime Video",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "streaming-sofa",
+            "pilula": "MARATONA DO FIM DE SEMANA",
+            "chamada": "STREAMING · 20 A 22/11",
+            "titulo": "3 escolhas para o sofá",
+            "caixas": [
+              ["Netflix", "Valentina"],
+              ["Apple TV", "12 12 12"],
+              ["Prime Video", "Madden"]
+            ],
+            "nota": "Comédia romântica, assalto e futebol americano. Sem spoiler.",
+            "fonte": "Conferido em 20/11 às 11h · Netflix, Amazon, AdoroCinema, Omelete, Antenados",
+            "cta": "Arraste →",
+            "alt": "Capa: maratona do fim de semana de 20 a 22/11 com 3 escolhas: Os 12 Signos de Valentina na Netflix, 12 12 12 na Apple TV e Madden no Prime Video"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE BRASILEIRA",
+            "chamada": "NETFLIX · 8 EPISÓDIOS",
+            "titulo": "Os 12 Signos de Valentina",
+            "texto": "Depois de uma traição, Valentina decide sair com um homem de cada signo e contar tudo num videocast.",
+            "topicos": [
+              "Comédia romântica com Giovanna Grigio",
+              "Baseada no livro de Ray Tavares",
+              "Temporada completa desde 18/11"
+            ],
+            "fonte": "Conferido em 20/11 às 11h · Netflix, AdoroCinema",
+            "alt": "Os 12 Signos de Valentina, série brasileira da Netflix com 8 episódios, todos disponíveis desde 18/11: comédia romântica com Giovanna Grigio, baseada no livro de Ray Tavares"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE",
+            "chamada": "APPLE TV · EPISÓDIO NOVO TODA SEXTA",
+            "titulo": "12 12 12",
+            "texto": "Um assalto a um cofre em Zurique junta um agente do FBI e um criminoso profissional.",
+            "topicos": [
+              "Anthony Mackie e Jamie Dornan",
+              "Suspense de assalto",
+              "Episódio 3 sai hoje, 20/11"
+            ],
+            "fonte": "Conferido em 20/11 às 11h · Omelete, Antenados, Observatório do Cinema",
+            "alt": "12 12 12, série de suspense da Apple TV com Anthony Mackie e Jamie Dornan sobre um assalto a um cofre em Zurique; episódio novo toda sexta, o terceiro sai em 20/11"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "FILME",
+            "chamada": "PRIME VIDEO · DESDE 18/11",
+            "titulo": "Madden: O Homem e o Jogo",
+            "texto": "A trajetória de John Madden, do futebol americano à TV e aos videogames.",
+            "topicos": [
+              "Nicolas Cage e Christian Bale",
+              "Direção de David O. Russell",
+              "Drama biográfico e esportivo"
+            ],
+            "fonte": "Conferido em 20/11 às 11h · Amazon, Omelete",
+            "alt": "Madden: O Homem e o Jogo, filme do Prime Video desde 18/11, com Nicolas Cage e Christian Bale, direção de David O. Russell, sobre a trajetória de John Madden"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "tv-controle",
+            "pilula": "MARATONA",
+            "chamada": "RESPONDA",
+            "titulo": "Qual vai ser o seu play?",
+            "opcoes": [
+              "Os 12 Signos de Valentina",
+              "12 12 12",
+              "Madden",
+              "Já tenho outra maratona"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual vai ser o seu play no fim de semana? A) Os 12 Signos de Valentina, B) 12 12 12, C) Madden, D) Já tenho outra maratona"
+          }
+        ],
+        "legenda": "🛋️ Sem ideia do que ver no fim de semana? Toma 3 maratonas 👇\n\n♈ Os 12 Signos de Valentina · Netflix · comédia romântica brasileira, 8 episódios\n💼 12 12 12 · Apple TV · assalto com Anthony Mackie e Jamie Dornan, ep. 3 hoje\n🏈 Madden · Prime Video · Nicolas Cage e Christian Bale\n🍿 Tudo sem spoiler\n\nQual vai ser o seu play? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#series #filmes #netflix #oquever #maratona"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_como_usar": "Radar de preço (pedido do Luiz em 20/11/2026). Para cada produto: 'meu_anuncio' = link ou código MLB do NOSSO anúncio no Mercado Livre; 'buscas' = o que o cliente digita para achar o produto; 'limite' = quantos concorrentes por busca. 'meus_vendedores' = id de vendedor das nossas contas (para não comparar com a gente mesmo). 'ativo': false pausa o produto.",
+  "meus_vendedores": [],
+  "produtos": [
+    {
+      "nome": "Nobrasa HeatBlock",
+      "ativo": true,
+      "meu_anuncio": "",
+      "buscas": ["pano termico churrasqueira", "manta termica churrasco", "protetor termico churrasqueira"],
+      "limite": 15
+    }
+  ]
+}
