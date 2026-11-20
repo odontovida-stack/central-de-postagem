@@ -280,3 +280,23 @@ Pedido do Luiz em 20/11/2026 ("precisamos de mais conteúdo no Brazil on a Budge
 - Aprovação (decidido pelo Luiz em 20/11/2026): o PR se chama `Posts do dia DD/MM — Brazil on a Budget (semana ...)`, então
   sai sozinho enquanto o modo férias (`config/ferias.json`) estiver ligado. Com o modo férias desligado, ele espera o
   merge do Luiz (atenção: o robô "Posts do dia" da madrugada fecha PR "Posts do dia" de data passada; aprove no mesmo dia).
+
+## Números de cada post e relatório semanal (20/11/2026)
+
+O "nosso Supermetrics", pedido do Luiz em 20/11/2026. Grátis, roda no GitHub Actions com os tokens que já existem.
+
+- **Coleta por post** (`scripts/coletar_posts.py`, todo dia às 6:23 junto com o `metricas.yml`): para cada post publicado pela
+  Central, pede à Meta alcance, visualizações, curtidas, comentários, compartilhamentos, salvamentos e interações (Instagram) e
+  reações, comentários e compartilhamentos (Facebook: a Meta não dá mais alcance por post na Página). Guarda em `dados/posts.json`
+  a leitura de 1, 3 e 7 dias depois de publicar (`fotos.d1/d3/d7`) e a última (`ultimo`), junto com conta, formato, dia, hora,
+  idioma e assunto. Posts antigos entram de uma vez, como `d7` (150 por rede por dia; o resto entra no dia seguinte).
+  Stories só têm números nas 24 h em que ficam no ar.
+- **YouTube**: os vídeos de `dados/painel/youtube_videos.json` entram no mesmo arquivo, com histórico.
+- **TikTok**: `python scripts/tiktok.py videos` grava `dados/painel/tiktok_videos.json` (views, curtidas, comentários e
+  compartilhamentos de cada vídeo). Precisa da permissão `video.list`: 1) no portal de desenvolvedor do TikTok, adicionar o escopo
+  `video.list` no app (Login Kit / Scopes); 2) reconectar cada conta uma vez em
+  `https://odontovida-stack.github.io/central-de-postagem/tiktok/conectar.html?videos=1`. Sem isso, o resto funciona normal.
+- **Relatório semanal** (`scripts/relatorio_redes.py`, workflow `relatorio.yml`, toda segunda às 8:17): resumo por conta contra a
+  semana anterior, os 5 melhores posts, comparação de formato, horário, dia da semana e idioma, e alertas de alcance perto de zero.
+  Fica em `dados/relatorios/AAAA-MM-DD.md` e é comentado na issue "📊 Relatório semanal das redes", que avisa o Luiz no celular.
+- **Painel**: seção "Melhores posts do período" e alcance médio por formato.
