@@ -5,7 +5,7 @@
   "tudooqueestreia": [
    {
     "tipo": "carrossel",
-    "quando": "2026-11-20T09:00:00-03:00",
+    "quando": "2026-11-21T09:00:00-03:00",
     "sufixo": "estreias-da-semana",
     "alt": "Estreias da semana de 20 a 26 de novembro: 40 estreias, 29 filmes e 11 séries, por plataforma",
     "cards": [
@@ -311,7 +311,7 @@
    },
    {
     "tipo": "destaque",
-    "quando": "2026-11-20T15:30:00-03:00",
+    "quando": "2026-11-21T15:30:00-03:00",
     "sufixo": "quinzenal",
     "foto": "grupo:estreia",
     "pilula": "20/11 A 03/12",
