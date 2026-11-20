@@ -623,5 +623,15 @@
     "nome": "gramado-rua-coberta",
     "busca": "Rua Coberta Gramado",
     "opcao": 1
+  },
+  {
+    "nome": "futebol-americano-campo",
+    "busca": "American football field stadium",
+    "opcao": 1
+  },
+  {
+    "nome": "rugby-campo",
+    "busca": "rugby pitch stadium",
+    "opcao": 1
   }
 ]

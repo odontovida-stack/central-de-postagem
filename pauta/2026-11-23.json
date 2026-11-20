@@ -1,0 +1,1110 @@
+{
+ "semana": "23 a 29 de novembro de 2026 (estreias: 20 a 26/11)",
+ "apurado_em": "2026-11-19",
+ "contas": {
+  "tudooqueestreia": [
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-21T09:00:00-03:00",
+    "sufixo": "estreias-da-semana",
+    "alt": "Estreias da semana de 20 a 26 de novembro: 40 estreias, 29 filmes e 11 séries, por plataforma",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:estreia",
+      "pilula": "20–26 NOV",
+      "chamada": "ESTREIAS DA SEMANA · 20 a 26/11",
+      "grande": "40",
+      "titulo": "estreias esta semana",
+      "caixas": [
+       [
+        "Filmes",
+        "29"
+       ],
+       [
+        "Séries",
+        "11"
+       ]
+      ],
+      "nota": "Netflix, Prime Video, Disney+, HBO Max, Globoplay, Paramount+ e cinema",
+      "fonte": "Fontes: Oficina da Net · Omelete · Showmetech · AdoroCinema · Ingresso.com",
+      "cta": "Arraste →",
+      "alt": "Capa: 40 estreias esta semana, de 20 a 26 de novembro: 29 filmes e 11 séries"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "20–26 NOV",
+      "chamada": "OS 4 DESTAQUES",
+      "titulo": "O mais esperado",
+      "itens": [
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Percy Jackson e os Olimpianos · T3",
+        "detalhe": "Disney+ · a Maldição do Titã chega à série"
+       },
+       {
+        "data": "25/11",
+        "sub": "QUA",
+        "titulo": "Blade Runner 2099",
+        "detalhe": "Prime Video · Michelle Yeoh, 50 anos após 2049"
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "Enfeitiçadas: Bem-Vindos a Hexe",
+        "detalhe": "Cinema · nova animação da Disney"
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "Entrando Numa Grande Fria",
+        "detalhe": "Cinema · o 4º filme, com De Niro e Stiller"
+       }
+      ],
+      "fonte": "Fontes: Omelete · Amazon · AdoroCinema",
+      "cta": "Arraste →",
+      "alt": "Os 4 destaques: Percy Jackson 3ª temporada (Disney+, 20/11), Blade Runner 2099 (Prime Video, 25/11), Enfeitiçadas: Bem-Vindos a Hexe e Entrando Numa Grande Fria (cinema, 26/11)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "20–26 NOV",
+      "chamada": "NETFLIX",
+      "titulo": "Na Netflix",
+      "itens": [
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Vicentina Pede Desculpas",
+        "detalhe": "filme · brasileiro"
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Tipo Irmãs",
+        "detalhe": "filme · animação"
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Bem-Vindos ao El Bulli",
+        "detalhe": "série"
+       },
+       {
+        "data": "23/11",
+        "sub": "SEG",
+        "titulo": "De Volta à Vila Sésamo · vol. 4",
+        "detalhe": "série · infantil"
+       },
+       {
+        "data": "25/11",
+        "sub": "QUA",
+        "titulo": "The Mosquito Bowl",
+        "detalhe": "filme"
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "Casadas e Caçadoras · T2",
+        "detalhe": "série"
+       }
+      ],
+      "fonte": "Fontes: Omelete · Oficina da Net",
+      "cta": "Arraste →",
+      "alt": "Netflix: Vicentina Pede Desculpas, Tipo Irmãs e Bem-Vindos ao El Bulli (20/11), De Volta à Vila Sésamo vol. 4 (23/11), The Mosquito Bowl (25/11) e Casadas e Caçadoras 2ª temporada (26/11)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "20–26 NOV",
+      "chamada": "PRIME VIDEO",
+      "titulo": "No Prime Video",
+      "itens": [
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Perfeitos Mentirosos",
+        "detalhe": "filme"
+       },
+       {
+        "data": "23/11",
+        "sub": "SEG",
+        "titulo": "Clashing Through the Snow",
+        "detalhe": "filme"
+       },
+       {
+        "data": "25/11",
+        "sub": "QUA",
+        "titulo": "Blade Runner 2099",
+        "detalhe": "série · os 8 episódios de uma vez"
+       }
+      ],
+      "fonte": "Fontes: Oficina da Net · Amazon",
+      "cta": "Arraste →",
+      "alt": "Prime Video: Perfeitos Mentirosos (20/11), Clashing Through the Snow (23/11) e Blade Runner 2099 (25/11)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "20–26 NOV",
+      "chamada": "DISNEY+",
+      "titulo": "No Disney+",
+      "itens": [
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Percy Jackson e os Olimpianos · T3",
+        "detalhe": "série · 2 episódios por sexta"
+       },
+       {
+        "data": "21/11",
+        "sub": "SÁB",
+        "titulo": "Outlander: Blood of My Blood · T2",
+        "detalhe": "série · final de temporada"
+       }
+      ],
+      "fonte": "Fonte: Omelete",
+      "cta": "Arraste →",
+      "alt": "Disney+: Percy Jackson e os Olimpianos 3ª temporada (20/11) e o final da 2ª temporada de Outlander: Blood of My Blood (21/11)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "20–26 NOV",
+      "chamada": "HBO MAX",
+      "titulo": "Na HBO Max",
+      "itens": [
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "O Advogado de Deus",
+        "detalhe": "filme"
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Ravalear",
+        "detalhe": "série"
+       },
+       {
+        "data": "22/11",
+        "sub": "DOM",
+        "titulo": "Oobah: Scams for a Better Tomorrow",
+        "detalhe": "doc · série de comédia"
+       }
+      ],
+      "fonte": "Fonte: Oficina da Net",
+      "cta": "Arraste →",
+      "alt": "HBO Max: O Advogado de Deus e Ravalear (20/11) e Oobah: Scams for a Better Tomorrow (22/11)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "20–26 NOV",
+      "chamada": "GLOBOPLAY",
+      "titulo": "No Globoplay",
+      "itens": [
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Ayô",
+        "detalhe": "série · nacional, no plano grátis",
+        "gratis": true
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Malês",
+        "detalhe": "filme · de Antônio Pitanga"
+       },
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "O Legado do Apocalipse",
+        "detalhe": "filme · no Telecine"
+       }
+      ],
+      "fonte": "Fonte: Showmetech",
+      "cta": "Arraste →",
+      "alt": "Globoplay, 20/11: a série Ayô, no plano grátis, e os filmes Malês e O Legado do Apocalipse"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "20–26 NOV",
+      "chamada": "PARAMOUNT+",
+      "titulo": "No Paramount+",
+      "itens": [
+       {
+        "data": "20/11",
+        "sub": "SEX",
+        "titulo": "Yellowjackets · T4",
+        "detalhe": "série"
+       },
+       {
+        "data": "22/11",
+        "sub": "DOM",
+        "titulo": "Era Uma Vez Minha Primeira Vez",
+        "detalhe": "filme · brasileiro"
+       },
+       {
+        "data": "22/11",
+        "sub": "DOM",
+        "titulo": "The Thickness of Dust",
+        "detalhe": "filme"
+       },
+       {
+        "data": "24/11",
+        "sub": "TER",
+        "titulo": "Vingança Brutal",
+        "detalhe": "filme · faroeste"
+       }
+      ],
+      "fonte": "Fonte: Showmetech",
+      "cta": "Arraste →",
+      "alt": "Paramount+: Yellowjackets 4ª temporada (20/11), Era Uma Vez Minha Primeira Vez e The Thickness of Dust (22/11) e Vingança Brutal (24/11)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUI 26/11",
+      "chamada": "CINEMA",
+      "titulo": "Nos cinemas",
+      "itens": [
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "Enfeitiçadas: Bem-Vindos a Hexe",
+        "detalhe": "filme · animação da Disney"
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "Entrando Numa Grande Fria",
+        "detalhe": "filme · comédia"
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "Pecadora",
+        "detalhe": "filme · brasileiro"
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "O Ser Querido",
+        "detalhe": "filme · com Javier Bardem"
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "O Sentido da Vida",
+        "detalhe": "filme · de Ryusuke Hamaguchi"
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI",
+        "titulo": "Tudo Pode Ser Visto",
+        "detalhe": "doc · sobre Elizabeth Holmes"
+       }
+      ],
+      "fonte": "Fontes: AdoroCinema · Ingresso.com",
+      "cta": "Salve a lista",
+      "alt": "Cinema, quinta 26/11: Enfeitiçadas: Bem-Vindos a Hexe, Entrando Numa Grande Fria, Pecadora, O Ser Querido, O Sentido da Vida e Tudo Pode Ser Visto, entre 18 estreias"
+     }
+    ],
+    "legenda": "🎬 40 estreias esta semana (20 a 26/11): 29 filmes e 11 séries\n\nOs 4 destaques:\n⚡ Sex 20/11 · Percy Jackson e os Olimpianos T3 · Disney+\n🤖 Qua 25/11 · Blade Runner 2099 · Prime Video (temporada inteira)\n🧙 Qui 26/11 · Enfeitiçadas: Bem-Vindos a Hexe · cinema\n😬 Qui 26/11 · Entrando Numa Grande Fria · cinema\n\n📺 Netflix: Vicentina Pede Desculpas, Tipo Irmãs e Bem-Vindos ao El Bulli (20), Vila Sésamo vol. 4 (23), The Mosquito Bowl (25) e Casadas e Caçadoras T2 (26)\n📦 Prime Video: Perfeitos Mentirosos (20), Clashing Through the Snow (23) e Blade Runner 2099 (25)\n🏰 Disney+: Percy Jackson T3 (20) e o final de Outlander: Blood of My Blood T2 (21)\n🎞️ HBO Max: O Advogado de Deus e Ravalear (20) e Oobah (22)\n🟠 Globoplay: Ayô (plano grátis), Malês e O Legado do Apocalipse (20)\n⛰️ Paramount+: Yellowjackets T4 (20), Era Uma Vez Minha Primeira Vez e The Thickness of Dust (22) e Vingança Brutal (24)\n🍿 Cinema, qui 26/11: Enfeitiçadas, Entrando Numa Grande Fria, Pecadora, O Ser Querido, O Sentido da Vida e Tudo Pode Ser Visto (os destaques entre 18 estreias)\n📡 TV: 13 Canções para Entender o Samba (Cultura) e Falas Negras (Globo) no dia 20; A Dona do Pedaço volta à Globo no dia 23\n\n📌 Salve para escolher o que ver no fim de semana\n📤 Mande para quem divide o sofá com você\n\nQual vai ser o primeiro? Comenta aí 👇\nSiga @tudooqueestreia para saber tudo o que estreia, toda sexta.\n\nFontes: Oficina da Net, Omelete, Amazon, Showmetech, AdoroCinema, Ingresso.com, Jornal do Comércio, O Tempo e DCI.\n\n#estreias #netflix #primevideo #disneyplus #percyjackson #bladerunner #cinema #series"
+   },
+   {
+    "tipo": "destaque",
+    "quando": "2026-11-21T15:30:00-03:00",
+    "sufixo": "quinzenal",
+    "foto": "grupo:estreia",
+    "pilula": "20/11 A 03/12",
+    "chamada": "AS ESTREIAS DA QUINZENA",
+    "titulo": "4 estreias para não perder",
+    "linhas": [
+     [
+      "20/11",
+      "Percy Jackson T3",
+      "Disney+ · 2 episódios por sexta"
+     ],
+     [
+      "25/11",
+      "Blade Runner 2099",
+      "Prime Video · temporada inteira"
+     ],
+     [
+      "26/11",
+      "Enfeitiçadas",
+      "Cinema · animação da Disney"
+     ],
+     [
+      "27/11",
+      "Quasimodo",
+      "Netflix · A Alma de Paris"
+     ]
+    ],
+    "fonte": "Fontes: Omelete · Amazon · AdoroCinema",
+    "cta": "Salve para lembrar",
+    "alt": "As estreias da quinzena: Percy Jackson 3ª temporada (Disney+, 20/11), Blade Runner 2099 (Prime Video, 25/11), Enfeitiçadas (cinema, 26/11) e Quasimodo: A Alma de Paris (Netflix, 27/11)",
+    "legenda": "🗓️ Duas semanas, 4 estreias grandes: a sua quinzena de séries e filmes já está montada.\n\n⚡ Sex 20/11 · Percy Jackson e os Olimpianos T3 · Disney+ (2 episódios; depois 27/11, 4/12 e 11/12)\n🤖 Qua 25/11 · Blade Runner 2099 · Prime Video (os 8 episódios de uma vez)\n🧙 Qui 26/11 · Enfeitiçadas: Bem-Vindos a Hexe · cinema\n🔔 Sex 27/11 · Quasimodo: A Alma de Paris · Netflix\n➕ E mais: Mickey: Esqueceram de Mim (Disney+, 27/11), O Zoológico Amaldiçoado (HBO Max, 27/11) e South Park T29 (Paramount+, 28/11)\n\n📌 Salve para lembrar\n📤 Mande para quem maratona com você\n\nQual você espera mais: A, B, C ou D? 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFontes: Omelete, Amazon, AdoroCinema, Oficina da Net e Showmetech.\n\n#estreias #percyjackson #bladerunner #disney #netflix #primevideo #cinema"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-25T20:00:00-03:00",
+    "sufixo": "estreias-mais-esperadas",
+    "alt": "As estreias mais esperadas: Blade Runner 2099, no Prime Video em 25/11, e Enfeitiçadas: Bem-Vindos a Hexe, nos cinemas em 26/11",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:estreia",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "STREAMING + CINEMA · 25 E 26/11",
+      "titulo": "As 2 estreias da semana",
+      "caixas": [
+       [
+        "Prime Video · qua 25",
+        "Blade Runner 2099"
+       ],
+       [
+        "Cinema · qui 26",
+        "Enfeitiçadas"
+       ]
+      ],
+      "nota": "Sem spoiler. Arraste.",
+      "fonte": "Fontes: Amazon · Omelete",
+      "cta": "Arraste →",
+      "alt": "Capa: as 2 estreias da semana, Blade Runner 2099 no Prime Video na quarta 25/11 e Enfeitiçadas no cinema na quinta 26/11"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "BLADE RUNNER 2099 · PRIME VIDEO",
+      "titulo": "Do que se trata",
+      "texto": "50 anos depois de Blade Runner 2049, a fugitiva Cora assume a identidade de um Blade Runner. Ela se alia a Olwen, uma replicante perto do fim, para caçar um fugitivo que guarda um segredo capaz de derrubar a cidade.",
+      "fonte": "Fonte: Amazon (About Amazon)",
+      "alt": "Blade Runner 2099 se passa 50 anos depois de Blade Runner 2049: a fugitiva Cora assume a identidade de um Blade Runner e se alia à replicante Olwen"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "BLADE RUNNER 2099 · POR QUE VER",
+      "titulo": "A 1ª série da franquia",
+      "topicos": [
+       "Michelle Yeoh e Hunter Schafer no elenco",
+       "Criação e comando: Silka Luisa",
+       "Os 8 episódios saem juntos, qua 25/11",
+       "Na nossa visão: feita para maratonar no fim de semana"
+      ],
+      "fonte": "Fonte: Amazon · opinião da página",
+      "alt": "Por que ver Blade Runner 2099: primeira série da franquia, com Michelle Yeoh e Hunter Schafer, criada por Silka Luisa; os 8 episódios saem juntos em 25/11"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "ENFEITIÇADAS · CINEMA",
+      "titulo": "Do que se trata",
+      "texto": "Billie, uma adolescente impulsiva expulsa da escola, descobre os poderes que a mãe, Alice, tentava esconder. As duas vão parar em Hexe, um reino secreto de bruxas, e esbarram em segredos da família.",
+      "fonte": "Fontes: Omelete · Ingresso.com",
+      "alt": "Enfeitiçadas: Billie descobre os poderes que a mãe escondia e as duas vão parar em Hexe, um reino secreto de bruxas"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "ENFEITIÇADAS · POR QUE VER",
+      "titulo": "Disney original",
+      "topicos": [
+       "Animação original do Walt Disney Animation Studios",
+       "Vozes: Hailee Steinfeld, Rashida Jones e Jodie Foster",
+       "Na dublagem, Letícia Spiller é a vilã Rainha Celeste",
+       "Direção: Fawn Veerasunthorn e Jason Hand"
+      ],
+      "fonte": "Fontes: Omelete · Rotten Tomatoes",
+      "alt": "Por que ver Enfeitiçadas: animação original da Disney com vozes de Hailee Steinfeld, Rashida Jones e Jodie Foster; na dublagem, Letícia Spiller é a Rainha Celeste"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "ONDE E QUANDO",
+      "titulo": "Anote",
+      "topicos": [
+       "Blade Runner 2099: Prime Video, qua 25/11",
+       "Enfeitiçadas: nos cinemas a partir de qui 26/11",
+       "Classificação indicativa no Brasil: a confirmar",
+       "Nos EUA, Enfeitiçadas é para todas as idades com orientação (PG)"
+      ],
+      "texto": "Na nossa visão: Blade Runner para ver em casa, Enfeitiçadas para levar a família ao cinema.",
+      "fonte": "Fontes: Amazon · AdoroCinema · Rotten Tomatoes",
+      "alt": "Onde e quando: Blade Runner 2099 no Prime Video em 25/11 e Enfeitiçadas nos cinemas a partir de 26/11; classificação indicativa no Brasil a confirmar"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "grupo:estreia",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "RESPONDA",
+      "titulo": "Qual você vai ver primeiro?",
+      "opcoes": [
+       "Blade Runner 2099",
+       "Enfeitiçadas",
+       "As duas",
+       "Nenhuma"
+      ],
+      "fonte": "",
+      "cta": "Responda A, B, C ou D"
+     }
+    ],
+    "legenda": "🍿 Uma série para maratonar e um filme para o cinema: as 2 estreias mais esperadas da semana.\n\n🤖 Blade Runner 2099 · Prime Video · quarta, 25/11 · os 8 episódios de uma vez\n👥 Michelle Yeoh e Hunter Schafer · criação de Silka Luisa\n\n🧙 Enfeitiçadas: Bem-Vindos a Hexe · cinemas · a partir de quinta, 26/11\n🎙️ Vozes de Hailee Steinfeld, Rashida Jones e Jodie Foster; na dublagem, Letícia Spiller é a vilã\n\n🔞 Classificação indicativa no Brasil: a confirmar\nA análise nos slides é a visão da página. Sem spoiler.\n\n📌 Salve para não esquecer\n📤 Mande para quem vai ver com você\n\nQual você vai ver primeiro: A, B, C ou D? 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFontes: Amazon (About Amazon), Omelete, Ingresso.com, AdoroCinema e Rotten Tomatoes.\n\n#bladerunner #bladerunner2099 #enfeiticadas #disney #primevideo #estreias #cinema"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-23T09:00:00-03:00",
+    "sufixo": "semana",
+    "pilula": "23–29 NOV",
+    "chamada": "LANÇAMENTOS DA SEMANA",
+    "titulo": "Semana de Black Friday",
+    "itens": [
+     {
+      "data": "24/11",
+      "sub": "TER · 11h",
+      "titulo": "Gothic 3 Classic",
+      "detalhe": "PS5 · Xbox Series · Switch 2 · preço a confirmar"
+     },
+     {
+      "data": "26/11",
+      "sub": "QUI",
+      "titulo": "Hello Kitty and Friends: Freeze Tag Party",
+      "detalhe": "Switch 2 · preço a confirmar"
+     },
+     {
+      "data": "26/11",
+      "sub": "QUI",
+      "titulo": "Expelled from Paradise: The Stellar Angel",
+      "detalhe": "Switch · PC · preço a confirmar"
+     },
+     {
+      "data": "26/11",
+      "sub": "QUI",
+      "titulo": "Grime II no Switch",
+      "detalhe": "Switch e Switch 2 · data pode ser 27/11"
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX",
+      "titulo": "Arkheron",
+      "detalhe": "PC · PS5 · Xbox · grátis de 27 a 29/11",
+      "gratis": true
+     }
+    ],
+    "fonte": "Fontes: RPG Site · PlayNews · Canaltech · KeenGamer · Worthplaying",
+    "cta": "Qual você vai jogar?",
+    "alt": "Lançamentos de games de 23 a 29 de novembro: Gothic 3 Classic (24/11), Hello Kitty and Friends: Freeze Tag Party, Expelled from Paradise: The Stellar Angel e Grime II no Switch (26/11) e Arkheron, grátis no fim de semana de estreia (27/11)",
+    "legenda": "🎮 Semana mais calma depois do GTA VI, mas tem jogo grátis no fim de semana! Os lançamentos:\n\n🗡️ Ter 24/11, 11h · Gothic 3 Classic · PS5, Xbox Series e Switch 2 · preço em real a confirmar\n🎀 Qui 26/11 · Hello Kitty and Friends: Freeze Tag Party · Switch 2 · preço a confirmar\n🚀 Qui 26/11 · Expelled from Paradise: The Stellar Angel · Switch e PC · preço a confirmar\n🦴 Qui 26/11 · Grime II chega ao Switch e ao Switch 2 (há fonte dizendo 27/11)\n🆓 Sex 27/11 · Arkheron · PC, PS5 e Xbox Series · acesso antecipado, grátis para todos de 27 a 29/11\n\n📌 Salve para não perder as datas\n📤 Mande para quem joga com você\n\nQual você vai jogar? 👇\nSiga @lancamentosdegames para os lançamentos toda semana.\n\nFontes: RPG Site, PlayNews, Canaltech, KeenGamer, Critical Hits, Worthplaying e MassivelyOP.\n\n#games #lancamentos #gothic #arkheron #nintendoswitch2 #ps5 #xbox"
+   },
+   {
+    "tipo": "destaque",
+    "quando": "2026-11-27T18:00:00-03:00",
+    "sufixo": "arkheron-gratis",
+    "foto": "grupo:games",
+    "pilula": "GRÁTIS NO FIM DE SEMANA",
+    "chamada": "ARKHERON · ACESSO ANTECIPADO",
+    "grande": "3 dias",
+    "titulo": "Arkheron de graça até domingo",
+    "caixas": [
+     [
+      "Quando",
+      "27 a 29/11"
+     ],
+     [
+      "Onde",
+      "PC · PS5 · Xbox"
+     ]
+    ],
+    "nota": "Fim de semana grátis de estreia. Preço em real: a confirmar na loja.",
+    "fonte": "Fontes: Worthplaying · MassivelyOP",
+    "cta": "Vai testar?",
+    "alt": "Arkheron, PvP online em equipe da Bonfire Studios, grátis para todos no fim de semana de estreia, de 27 a 29/11, no PC, PS5 e Xbox Series",
+    "legenda": "🆓 Estreou hoje e dá para jogar de graça até domingo!\n\n🗼 Arkheron · PvP online em equipe da Bonfire Studios: um battle royale em que os times sobem uma torre\n📅 Grátis para todos de sexta 27/11 a domingo 29/11 (fim de semana de estreia)\n🎮 PC (Steam), PS5 e Xbox Series\n🧪 É acesso antecipado: o jogo ainda está em desenvolvimento\n💰 Preço em real: a confirmar na loja oficial\n\n📌 Salve para lembrar no fim de semana\n📤 Mande para o seu time\n\nVai testar? Sim ou não 👇\nSiga @lancamentosdegames para não perder nenhum jogo grátis.\n\nFontes: Worthplaying, MassivelyOP e Steam.\n\n#arkheron #jogosgratis #games #ps5 #xbox #pcgamer"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-23T12:00:00-03:00",
+    "sufixo": "semana",
+    "pilula": "23–29 NOV",
+    "chamada": "JOGOS DA SEMANA · HORÁRIO DE BRASÍLIA",
+    "titulo": "Semana de final",
+    "itens": [
+     {
+      "data": "24/11",
+      "sub": "TER · 17h",
+      "titulo": "Arsenal x Dortmund",
+      "detalhe": "Champions · HBO Max"
+     },
+     {
+      "data": "24/11",
+      "sub": "TER · 18h",
+      "titulo": "Chapecoense x Palmeiras",
+      "detalhe": "Brasileirão · Record · CazéTV · Premiere",
+      "gratis": true
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX · 20h",
+      "titulo": "Fluminense x Cruzeiro",
+      "detalhe": "Brasileirão · SporTV · Premiere"
+     },
+     {
+      "data": "28/11",
+      "sub": "SÁB · 17h",
+      "titulo": "Palmeiras x Estudiantes",
+      "detalhe": "Final da Libertadores · Globo · GETV · ESPN",
+      "gratis": true,
+      "destaque": true
+     },
+     {
+      "data": "29/11",
+      "sub": "DOM · 16h",
+      "titulo": "Coritiba x Flamengo",
+      "detalhe": "Brasileirão · Globo · Premiere",
+      "gratis": true
+     },
+     {
+      "data": "29/11",
+      "sub": "DOM · 18h30",
+      "titulo": "Corinthians x Grêmio",
+      "detalhe": "Brasileirão · Prime Video"
+     }
+    ],
+    "fonte": "Fontes: Conmebol · CBF · UEFA · Flashscore · Trivela",
+    "cta": "Salve a agenda",
+    "alt": "Jogos de 23 a 29 de novembro: Arsenal x Dortmund e Chapecoense x Palmeiras (24/11), Fluminense x Cruzeiro (27/11), a final da Libertadores Palmeiras x Estudiantes (28/11, 17h), Coritiba x Flamengo e Corinthians x Grêmio (29/11)",
+    "legenda": "🏆 Semana de final da Libertadores e de reta final do Brasileirão (horário de Brasília):\n\n⭐ Ter 24/11, 17h · Arsenal x Dortmund · Champions · HBO Max\n🟢 Ter 24/11, 18h · Chapecoense x Palmeiras · Brasileirão · Record e CazéTV (grátis) e Premiere\n🔵 Sex 27/11, 20h · Fluminense x Cruzeiro · Brasileirão · SporTV e Premiere\n🏆 Sáb 28/11, 17h · Palmeiras x Estudiantes · FINAL DA LIBERTADORES · Centenário, Montevidéu · Globo e GETV (grátis), ESPN e Disney+\n🔴 Dom 29/11, 16h · Coritiba x Flamengo · Brasileirão · Globo (grátis) e Premiere\n⚫ Dom 29/11, 18h30 · Corinthians x Grêmio · Brasileirão · Prime Video\n➕ Na Champions, qua 25/11, 17h: PSG x Roma e Lille x Bayern (HBO Max)\n\n📌 Salve para não perder nenhum\n📤 Mande para quem torce com você\n\nQual jogo você não perde? Comenta aí 👇\nSiga @jogosnatela para a agenda de futebol toda semana.\n\nFontes: Conmebol (via DGABC e O Liberal), CBF (via Flashscore e Tribuna de Jundiaí), UEFA, Sportschau, A Crítica e Trivela.\n\n#futebol #libertadores #brasileirao #championsleague #palmeiras #flamengo #ondeassistir"
+   },
+   {
+    "tipo": "destaque",
+    "quando": "2026-11-25T18:00:00-03:00",
+    "sufixo": "final-copa-do-brasil",
+    "foto": "futebol-gramado",
+    "pilula": "COPA DO BRASIL",
+    "chamada": "A FINAL JÁ TEM DATA E LUGAR",
+    "grande": "06/12",
+    "titulo": "Grêmio x Palmeiras, jogo único",
+    "caixas": [
+     [
+      "Onde",
+      "Mané Garrincha"
+     ],
+     [
+      "Horário",
+      "a confirmar"
+     ]
+    ],
+    "nota": "Final em jogo único, em Brasília. Faltam 11 dias.",
+    "fonte": "Fonte: Correio da Manhã",
+    "cta": "Quem leva?",
+    "alt": "Final da Copa do Brasil: Grêmio x Palmeiras, em jogo único, no domingo 6 de dezembro, no Mané Garrincha, em Brasília; horário a confirmar",
+    "legenda": "🏆 A Copa do Brasil se decide em 90 minutos (ou nos pênaltis), daqui a 11 dias.\n\n⚽ Grêmio x Palmeiras · final em jogo único\n📅 Domingo, 06/12 · horário a confirmar\n📍 Mané Garrincha, Brasília\n🔙 Semis: o Grêmio passou pelo Atlético-MG (2 x 0 e 1 x 1); o Palmeiras eliminou o Vasco nos pênaltis (5 x 4)\n🗓️ Antes disso, o Palmeiras joga a final da Libertadores, sáb 28/11\n\n📌 Salve para não esquecer\n📤 Mande para o gremista ou o palmeirense da sua vida\n\nQuem leva: Grêmio ou Palmeiras? 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFonte: Correio da Manhã.\n\n#copadobrasil #gremio #palmeiras #futebol #finaldacopadobrasil #ondeassistir"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-27T19:00:00-03:00",
+    "sufixo": "jogo-da-semana",
+    "alt": "O jogo da semana: Palmeiras x Estudiantes, final da Libertadores, sábado 28/11 às 17h de Brasília, no Centenário, em Montevidéu, com Globo, GETV, ESPN e Disney+",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "estadio-maracana",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "FINAL DA LIBERTADORES · SÁBADO, 28/11",
+      "titulo": "Palmeiras x Estudiantes: 5 coisas da final",
+      "caixas": [
+       [
+        "Quando",
+        "Sáb 28/11 · 17h"
+       ],
+       [
+        "Onde assistir",
+        "Globo (grátis) · ESPN"
+       ]
+      ],
+      "nota": "Jogo único no Centenário, em Montevidéu. Horário de Brasília.",
+      "fonte": "Fontes: Conmebol via DGABC · A Crítica",
+      "cta": "Arraste →",
+      "alt": "Capa: Palmeiras x Estudiantes, final da Libertadores, sábado 28/11, 17h, na Globo e na ESPN"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "O QUE ESTÁ EM JOGO",
+      "titulo": "Tetra ou penta",
+      "topicos": [
+       "Palmeiras busca o 4º título (1999, 2020 e 2021)",
+       "Estudiantes busca o 5º (1968, 69, 70 e 2009)",
+       "Campeão leva US$ 25 milhões; o vice, US$ 7 milhões",
+       "E vaga na Copa Intercontinental da FIFA"
+      ],
+      "fonte": "Fontes: DGABC · Lance · Tribuna de Jundiaí",
+      "alt": "O que está em jogo: o 4º título do Palmeiras ou o 5º do Estudiantes; o campeão leva 25 milhões de dólares e vaga na Copa Intercontinental"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "A CAMPANHA",
+      "titulo": "Como chegaram",
+      "topicos": [
+       "Palmeiras: 2º do grupo F; passou Cerro Porteño e LDU (nos pênaltis)",
+       "Na semi, tirou o Fluminense nos pênaltis (5 x 3)",
+       "Estudiantes: 2º do grupo A; passou U. Católica e Corinthians",
+       "Na semi, tirou o Flamengo nos pênaltis (3 x 2), no Maracanã"
+      ],
+      "fonte": "Fontes: Conmebol · Tribuna de Jundiaí · El Economista",
+      "alt": "Campanhas: o Palmeiras eliminou Cerro Porteño, LDU e Fluminense; o Estudiantes eliminou Universidad Católica, Corinthians e Flamengo"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "TÉCNICOS E MOMENTO",
+      "titulo": "Quem comanda",
+      "topicos": [
+       "Palmeiras: Abel Ferreira; 2ª final seguida do clube",
+       "Estudiantes: o uruguaio Alexander Medina, desde fevereiro",
+       "Palmeiras briga pelo título do Brasileirão",
+       "Estudiantes ganhou a Supercopa Argentina e chega 15 dias sem jogar"
+      ],
+      "fonte": "Fontes: Conmebol · DGABC · Tribuna de Jundiaí",
+      "alt": "Técnicos: Abel Ferreira no Palmeiras, na 2ª final seguida do clube, e Alexander Medina no Estudiantes, que ganhou a Supercopa Argentina e chega 15 dias sem jogar"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "FIQUE DE OLHO",
+      "titulo": "Os nomes da final",
+      "topicos": [
+       "Carlos Miguel: pegou 3 pênaltis no mata-mata",
+       "Arias: 3 gols só na fase de grupos",
+       "Muslera, 40 anos: pegou 3 pênaltis na semifinal",
+       "Carrillo, capitão: 3 gols na Libertadores"
+      ],
+      "fonte": "Fonte: Conmebol",
+      "alt": "Fique de olho: os goleiros Carlos Miguel, do Palmeiras, e Muslera, do Estudiantes, que pegaram 3 pênaltis cada; Arias e Carrillo, com 3 gols cada"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "RETROSPECTO E DESFALQUES",
+      "titulo": "Revanche de 1968",
+      "texto": "Na final de 1968, cada time ganhou um jogo e o Estudiantes levou a taça no jogo extra. Piquerez, do Palmeiras, deve ficar fora por lesão, e Joaquín Correa, do Estudiantes, é dúvida. Na visão da página, o Palmeiras é favorito, mas o Estudiantes não perdeu nenhum jogo no mata-mata.",
+      "fonte": "Fontes: Tribuna de Jundiaí · ABC do ABC · A Crítica · opinião da página",
+      "alt": "Retrospecto: na final de 1968, o Estudiantes venceu no jogo extra. Piquerez deve ser desfalque do Palmeiras e Joaquín Correa é dúvida no Estudiantes. Na visão da página, o Palmeiras é favorito"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "estadio-maracana",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "SEU PALPITE",
+      "titulo": "Quem leva a Libertadores?",
+      "opcoes": [
+       "Palmeiras, sem pênaltis",
+       "Palmeiras, nos pênaltis",
+       "Estudiantes, sem pênaltis",
+       "Estudiantes, nos pênaltis"
+      ],
+      "fonte": "",
+      "cta": "Responda A, B, C ou D"
+     }
+    ],
+    "legenda": "🏆 Amanhã tem final de Libertadores! O Palmeiras quer o tetra; o Estudiantes, o penta.\n\n⚽ Palmeiras x Estudiantes · final em jogo único\n📅 Sábado, 28/11, às 17h (Brasília)\n📍 Estádio Centenário, Montevidéu (Uruguai)\n📺 Globo (TV aberta, grátis), GETV no YouTube (grátis), ESPN e Disney+\n💰 Campeão leva US$ 25 milhões e vaga na Copa Intercontinental\n👀 Fique de olho: Carlos Miguel e Arias de um lado, Muslera e Carrillo do outro\n🔙 Os dois só se enfrentaram na final de 1968, vencida pelo Estudiantes\n\nA análise nos slides é a visão da página.\n\n📌 Salve para não perder o horário\n📤 Mande para o palmeirense da sua vida\n\nO palpite é seu: A, B, C ou D? 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFontes: Conmebol (via DGABC e O Liberal), Lance, A Crítica, Tribuna de Jundiaí, El Economista e ABC do ABC.\n\n#libertadores #palmeiras #estudiantes #finaldalibertadores #futebol #ondeassistir #gloriaeterna"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-23T12:30:00-03:00",
+    "sufixo": "semana",
+    "pilula": "23–29 NOV",
+    "chamada": "ESPORTES DA SEMANA · HORÁRIO DE BRASÍLIA",
+    "titulo": "6 esportes, 1 semana",
+    "itens": [
+     {
+      "data": "26/11",
+      "sub": "QUI · 18h30",
+      "titulo": "Eagles x Cowboys",
+      "detalhe": "NFL · Ação de Graças · canal a confirmar"
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX · 20h10",
+      "titulo": "Brasil x EUA",
+      "detalhe": "Basquete · Eliminatórias da Copa · CazéTV",
+      "gratis": true
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX · 21h",
+      "titulo": "Sada Cruzeiro x Itambé Minas",
+      "detalhe": "Vôlei · Superliga Masculina · canal a confirmar"
+     },
+     {
+      "data": "29/11",
+      "sub": "DOM · 11h",
+      "titulo": "Final da Copa Davis",
+      "detalhe": "Tênis · em Bolonha · canal a confirmar"
+     },
+     {
+      "data": "29/11",
+      "sub": "DOM · 13h",
+      "titulo": "GP do Catar",
+      "detalhe": "F1 · com Bortoleto · Globo · SporTV",
+      "gratis": true
+     },
+     {
+      "data": "29/11",
+      "sub": "DOM · 13h40",
+      "titulo": "Final do Nations Championship",
+      "detalhe": "Rúgbi · em Twickenham · canal a confirmar"
+     }
+    ],
+    "fonte": "Fontes: Formula 1 · Olimpíada Todo Dia · O Tempo · Fox Sports · Tennis Tour Talk",
+    "cta": "Salve a agenda",
+    "alt": "Esportes de 23 a 29 de novembro: Eagles x Cowboys na NFL (26/11), Brasil x EUA no basquete e Sada Cruzeiro x Itambé Minas no vôlei (27/11), final da Copa Davis, GP do Catar de F1 e final do Nations Championship de rúgbi (29/11)",
+    "legenda": "🏀 Seleção no Ibirapuera, F1 no Catar e 2 finais no domingo (horário de Brasília):\n\n🏈 Qui 26/11, 18h30 · Eagles x Cowboys · NFL, Ação de Graças · canal a confirmar\n🏀 Sex 27/11, 20h10 · Brasil x EUA · Eliminatórias da Copa de basquete, no Ibirapuera · CazéTV (grátis)\n🏐 Sex 27/11, 21h · Sada Cruzeiro x Itambé Minas · Superliga Masculina · canal a confirmar\n🎾 Dom 29/11, 11h · Final da Copa Davis, em Bolonha · canal a confirmar\n🏎️ Dom 29/11, 13h · GP do Catar de F1 · Gabriel Bortoleto · Globo (grátis) e SporTV\n🏉 Dom 29/11, 13h40 · Final do Nations Championship de rúgbi, em Twickenham · canal a confirmar\n➕ Seg 30/11, 20h10: Brasil x México no basquete, de novo no Ibirapuera (CazéTV)\n\n📌 Salve para não perder nada\n📤 Mande para quem torce com você\n\nQual você não perde? Comenta aí 👇\nSiga @esportesnatela para a agenda de todos os esportes, toda semana.\n\nFontes: Formula 1, Game Over Drive, Olimpíada Todo Dia, O Tempo, Fox Sports, Tennis Tour Talk e World Rugby (via Flashscore).\n\n#esportes #basquete #nfl #volei #superliga #f1 #copadavis #rugby"
+   },
+   {
+    "tipo": "destaque",
+    "quando": "2026-11-25T18:00:00-03:00",
+    "sufixo": "nfl-acao-de-gracas",
+    "pilula": "NFL · AÇÃO DE GRAÇAS",
+    "chamada": "4 JOGOS EM 2 DIAS · HORÁRIO DE BRASÍLIA",
+    "titulo": "O feriado da NFL",
+    "linhas": [
+     [
+      "25/11",
+      "Packers x Rams",
+      "qua · 22h · Netflix"
+     ],
+     [
+      "26/11",
+      "Bears x Lions",
+      "qui · 15h"
+     ],
+     [
+      "26/11",
+      "Eagles x Cowboys",
+      "qui · 18h30"
+     ],
+     [
+      "26/11",
+      "Chiefs x Bills",
+      "qui · 22h20"
+     ]
+    ],
+    "nota": "Canais dos jogos de quinta no Brasil: a confirmar.",
+    "fonte": "Fontes: Fox Sports · Sports Illustrated · Omelete",
+    "cta": "Pra quem você torce?",
+    "alt": "Ação de Graças na NFL: Packers x Rams na quarta 25/11 às 22h na Netflix; na quinta 26/11, Bears x Lions às 15h, Eagles x Cowboys às 18h30 e Chiefs x Bills às 22h20",
+    "legenda": "🦃 Feriado nos EUA é dia de NFL: são 4 jogos entre hoje e amanhã (horário de Brasília).\n\n🏈 Qua 25/11, 22h · Packers x Rams, em Los Angeles · Netflix\n🏈 Qui 26/11, 15h · Bears x Lions, em Detroit\n🏈 Qui 26/11, 18h30 · Eagles x Cowboys, em Arlington\n🏈 Qui 26/11, 22h20 · Chiefs x Bills, em Orchard Park\n➕ Sex 27/11, 17h · Broncos x Steelers, na Black Friday\n📺 Canais dos jogos de quinta e sexta no Brasil: a confirmar\n\n📌 Salve para não perder\n📤 Mande para quem assiste NFL com você\n\nPra quem você torce? Comenta o time 👇\nSiga @esportesnatela para todos os esportes.\n\nFontes: Fox Sports, Sports Illustrated, Omelete e Ovício.\n\n#nfl #thanksgiving #acaodegracas #futebolamericano #netflix #esportes"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-28T10:00:00-03:00",
+    "sufixo": "evento-da-semana",
+    "alt": "O evento da semana: a seleção masculina de basquete no Ibirapuera pelas Eliminatórias da Copa de 2027; Brasil x México na segunda 30/11, às 20h10, na CazéTV",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "quadra-basquete",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "BASQUETE · ELIMINATÓRIAS DA COPA",
+      "titulo": "Segunda tem decisão no Ibirapuera",
+      "caixas": [
+       [
+        "Brasil x México",
+        "Seg 30/11 · 20h10"
+       ],
+       [
+        "Onde assistir",
+        "CazéTV (grátis)"
+       ]
+      ],
+      "nota": "Na sexta, o Brasil enfrentou os EUA no mesmo ginásio.",
+      "fonte": "Fontes: Olimpíada Todo Dia · Surto Olímpico",
+      "cta": "Arraste →",
+      "alt": "Capa: Brasil x México no basquete, segunda 30/11 às 20h10, no Ibirapuera, na CazéTV"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "O ESSENCIAL",
+      "titulo": "Vaga na Copa de 2027",
+      "topicos": [
+       "Os 3 primeiros do grupo vão à Copa, no Catar",
+       "O melhor 4º colocado das 2 chaves também vai",
+       "Antes desta janela: Brasil 3º, com 6 vitórias e 2 derrotas",
+       "Ganhar os 2 jogos da janela garante a vaga"
+      ],
+      "fonte": "Fontes: Olimpíada Todo Dia · LNB",
+      "alt": "O essencial: os 3 primeiros do grupo e o melhor 4º colocado vão à Copa de 2027; antes desta janela o Brasil era 3º, com 6 vitórias e 2 derrotas; vencer os 2 jogos garante a vaga"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "A CONTA CONTRA O MÉXICO",
+      "titulo": "Vencer por 6",
+      "grande": "+6",
+      "texto": "Em agosto, o México venceu por 79 a 74, em Zacatecas. Ganhar por 6 pontos ou mais dá ao Brasil a vantagem no confronto direto, se os dois terminarem empatados.",
+      "fonte": "Fontes: Récord · Pista e Campo",
+      "alt": "A conta: o México venceu por 79 a 74 em agosto; vencer por 6 pontos ou mais dá ao Brasil a vantagem no confronto direto"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "A CAMPANHA",
+      "titulo": "Do 6 a 0 ao alerta",
+      "topicos": [
+       "1ª fase: 6 vitórias em 6 jogos",
+       "Ganhou duas vezes de Chile, Venezuela e Colômbia",
+       "2ª fase: perdeu da Rep. Dominicana (94 x 90)",
+       "E do México (79 x 74), fora de casa"
+      ],
+      "fonte": "Fontes: CNN Brasil · Pista e Campo · Récord",
+      "alt": "Campanha: 6 vitórias em 6 jogos na 1ª fase, contra Chile, Venezuela e Colômbia; na 2ª fase, derrotas para a República Dominicana e para o México"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "OS CONVOCADOS",
+      "titulo": "O time de Petrovic",
+      "topicos": [
+       "Técnico: Aleksandar Petrovic",
+       "Nomes: Yago, Raulzinho, Benite e Léo Meindl",
+       "Felipe dos Anjos volta pela 1ª vez desde a Copa de 2023",
+       "Fora: Gui Santos, Bruno Caboclo e Didi Louzada"
+      ],
+      "fonte": "Fonte: Olimpíada Todo Dia",
+      "alt": "Convocados de Aleksandar Petrovic: Yago, Raulzinho, Vitor Benite e Léo Meindl entre os 12; Felipe dos Anjos volta; Gui Santos, Bruno Caboclo e Didi Louzada estão fora"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "O PALCO",
+      "titulo": "Ibirapuera, 42 anos depois",
+      "texto": "A seleção não fazia um jogo oficial no Ibirapuera desde 1984. Em 2023, o Brasil bateu os EUA por 83 a 76 e carimbou a vaga na Copa daquele ano. Na nossa visão, com o ginásio cheio, dá para repetir a festa.",
+      "fonte": "Fontes: Pista e Campo · Flashscore · opinião da página",
+      "alt": "O palco: a seleção não jogava oficialmente no Ibirapuera desde 1984; em 2023, venceu os EUA por 83 a 76 e garantiu a vaga na Copa"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "quadra-basquete",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "SEU PALPITE",
+      "titulo": "Quem leva Brasil x México?",
+      "opcoes": [
+       "Brasil, por 6 ou mais",
+       "Brasil, por menos de 6",
+       "México"
+      ],
+      "fonte": "",
+      "cta": "Responda A, B ou C"
+     }
+    ],
+    "legenda": "🏀 A seleção joga em casa por uma vaga na Copa do Mundo, e a decisão é na segunda.\n\n🇧🇷 Brasil x México · Eliminatórias da Copa de 2027\n📅 Segunda, 30/11, às 20h10 (Brasília)\n📍 Ginásio do Ibirapuera, São Paulo\n📺 CazéTV (grátis)\n🔢 Antes da janela, o Brasil era 3º do grupo (6V e 2D); vencer por 6 ou mais dá a vantagem no confronto direto com o México\n🏟️ A seleção não fazia jogo oficial no Ibirapuera desde 1984\n\nA análise nos slides é a visão da página.\n\n📌 Salve para não perder o horário\n📤 Mande para quem joga basquete com você\n\nO palpite é seu: A, B ou C? 👇\nSiga @esportesnatela para todos os esportes.\n\nFontes: Olimpíada Todo Dia, Surto Olímpico, Pista e Campo, Récord, CNN Brasil e Flashscore.\n\n#basquete #selecaobrasileira #eliminatorias #copadomundo #ibirapuera #cazetv #esportes"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-23T19:00:00-03:00",
+    "sufixo": "semana",
+    "pilula": "23–29 NOV",
+    "chamada": "SHOWS DA SEMANA",
+    "titulo": "Onde tem show",
+    "itens": [
+     {
+      "data": "25–28",
+      "sub": "NOV",
+      "titulo": "Seal",
+      "detalhe": "Brasília (25) · Rio (26) · São Paulo (28)"
+     },
+     {
+      "data": "26/11",
+      "sub": "QUI",
+      "titulo": "Of Monsters and Men",
+      "detalhe": "Audio, São Paulo · Ingresse"
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX",
+      "titulo": "A Perfect Circle",
+      "detalhe": "Suhai Music Hall, São Paulo · Ticketmaster"
+     },
+     {
+      "data": "28/11",
+      "sub": "SÁB",
+      "titulo": "BABYMETAL",
+      "detalhe": "Espaço Unimed, São Paulo · esgotado"
+     },
+     {
+      "data": "28/11",
+      "sub": "SÁB",
+      "titulo": "Jão",
+      "detalhe": "Geraldão, Recife · Eventim"
+     }
+    ],
+    "fonte": "Fontes: Rolling Stone Brasil · Metrópoles · POPline · Rio Times · Diario de Pernambuco",
+    "cta": "Marque quem vai",
+    "alt": "Shows de 23 a 29 de novembro: Seal em Brasília, no Rio e em São Paulo; Of Monsters and Men, A Perfect Circle e BABYMETAL (esgotado) em São Paulo; Jão em Recife",
+    "legenda": "🎤 Semana de Seal no estádio, BABYMETAL esgotado e mais 3 shows grandes:\n\n🌹 Seal · Brasília (25/11, Ulysses Centro de Convenções) · Rio (26/11, Qualistage) · São Paulo (28/11, Nubank Parque) · Eventim (no DF, site do Festival Estilo Brasil)\n🇮🇸 Of Monsters and Men · qui 26/11 · Audio, SP · Ingresse\n🌀 A Perfect Circle · sex 27/11 · Suhai Music Hall, SP · Ticketmaster\n🦊 BABYMETAL · sáb 28/11 · Espaço Unimed, SP · esgotado\n💜 Jão · sáb 28/11 · Geraldão, Recife (única data no Nordeste) · Eventim\n\n⚠️ Compre só na vendedora oficial. Desconfie de revenda e de Pix para desconhecidos.\n\n📌 Salve para não esquecer\n📤 Mande para quem vai com você\n\nVai em qual? Comenta aí 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Rolling Stone Brasil, Metrópoles, Omelete, POPline, Rio Times e Diario de Pernambuco.\n\n#shows #showsnobrasil #seal #babymetal #jao #aperfectcircle #agendadeshows"
+   },
+   {
+    "tipo": "destaque",
+    "quando": "2026-11-25T18:00:00-03:00",
+    "sufixo": "sul",
+    "foto": "grupo:shows",
+    "pilula": "SUL",
+    "chamada": "SHOWS CONFIRMADOS NO SUL",
+    "titulo": "Grandes shows no Sul",
+    "linhas": [
+     [
+      "01/12",
+      "Seal",
+      "Igloo Super Hall, Curitiba · Eventim"
+     ],
+     [
+      "02/12",
+      "Seal",
+      "Araújo Vianna, Porto Alegre · Eventim"
+     ],
+     [
+      "18/02",
+      "Jack Johnson",
+      "Stage Music Park, Florianópolis · Livepass"
+     ],
+     [
+      "26/02",
+      "Placebo",
+      "Live Curitiba · Bilheteria Digital"
+     ]
+    ],
+    "fonte": "Fontes: Jornal do Comércio · Billboard Brasil · Game Over Drive",
+    "cta": "Marque quem vai",
+    "alt": "Shows no Sul: Seal em Curitiba (01/12) e Porto Alegre (02/12), Jack Johnson em Florianópolis (18/02) e Placebo em Curitiba (26/02) e Porto Alegre (28/02)",
+    "legenda": "📍 O Sul tem 5 shows grandes confirmados até fevereiro!\n\n🌹 Ter 01/12 · Seal · Igloo Super Hall, Curitiba · Eventim\n🌹 Qua 02/12 · Seal · Auditório Araújo Vianna, Porto Alegre · Eventim\n🏄 Qui 18/02 · Jack Johnson, com Donavon Frankenreiter e G. Love · Stage Music Park, Florianópolis · Livepass\n🖤 Sex 26/02 · Placebo · Live Curitiba · Bilheteria Digital\n🖤 Dom 28/02 · Placebo · Araújo Vianna, Porto Alegre · Bilheteria Digital\n➕ E mais: Curitiba Folia, com Tomate, Xanddy Harmonia e Parangolé, sáb 12/12, na Pedreira Paulo Leminski (Bluetickt)\n\n⚠️ Compre só na vendedora oficial. Desconfie de perfil vendendo ingresso por Pix.\n\n📌 Salve para não esquecer\n📤 Mande para quem é do Sul\n\nVai em qual? Comenta aí 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Jornal do Comércio, Prensa Mercosur, Billboard Brasil, Game Over Drive e Tribuna do Sertão.\n\n#shows #curitiba #portoalegre #florianopolis #seal #placebo #jackjohnson #agendadeshows"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-26T19:00:00-03:00",
+    "sufixo": "show-da-semana",
+    "alt": "O show da semana: Seal no Nubank Parque, em São Paulo, no sábado 28/11, com abertura de Seu Jorge; turnê dos 30 anos dos discos Seal e Seal II",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:shows",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "SEAL · 30 ANOS DE CLÁSSICOS",
+      "titulo": "Seal no estádio: 5 coisas antes de sábado",
+      "caixas": [
+       [
+        "Quando",
+        "Sáb 28/11"
+       ],
+       [
+        "Onde",
+        "Nubank Parque, SP"
+       ]
+      ],
+      "nota": "Portões às 16h. Abertura de Seu Jorge. Venda oficial: Eventim.",
+      "fonte": "Fontes: Rolling Stone Brasil · Visite São Paulo",
+      "cta": "Arraste →",
+      "alt": "Capa: Seal no Nubank Parque, em São Paulo, sábado 28/11; portões às 16h, abertura de Seu Jorge, venda na Eventim"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "O ESSENCIAL",
+      "titulo": "A turnê",
+      "topicos": [
+       "Celebra os 30 anos dos discos Seal (1991) e Seal II (1994)",
+       "5 shows: Brasília, Rio, São Paulo, Curitiba e Porto Alegre",
+       "Seu Jorge abre no Rio e em São Paulo",
+       "Em SP, o palco é o Nubank Parque, um estádio"
+      ],
+      "fonte": "Fontes: Billboard Brasil · Rolling Stone Brasil · setlist.fm",
+      "alt": "A turnê celebra os 30 anos dos discos Seal e Seal II, com 5 shows no Brasil; Seu Jorge abre no Rio e em São Paulo"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "O QUE ESPERAR",
+      "titulo": "Os hits",
+      "texto": "Em Colônia, em julho, o show passou pelos dois discos e pelos maiores sucessos.",
+      "topicos": [
+       "Killer · Prayer for the Dying · Bring It On",
+       "Kiss From a Rose",
+       "Future Love Paradise · Deep Water",
+       "No bis: Crazy e Love's Divine"
+      ],
+      "fonte": "Fontes: Reflections of Darkness · setlist.fm",
+      "alt": "O que esperar: em Colônia, em julho de 2026, o setlist teve Killer, Prayer for the Dying, Kiss From a Rose, Future Love Paradise, Deep Water e, no bis, Crazy e Love's Divine"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "CIDADES E LOCAIS",
+      "titulo": "As 5 datas",
+      "topicos": [
+       "25/11 · Brasília · Ulysses Centro de Convenções",
+       "26/11 · Rio · Qualistage",
+       "28/11 · São Paulo · Nubank Parque",
+       "01/12 · Curitiba (Igloo) · 02/12 · Porto Alegre (Araújo Vianna)"
+      ],
+      "fonte": "Fontes: setlist.fm · Metrópoles · Rolling Stone Brasil",
+      "alt": "As 5 datas: Brasília 25/11, Rio 26/11, São Paulo 28/11, Curitiba 01/12 e Porto Alegre 02/12"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "INGRESSOS EM SP",
+      "titulo": "Quanto custa",
+      "topicos": [
+       "Cadeira Superior: R$ 345 (meia R$ 172,50)",
+       "Cadeira Inferior Leste/Oeste: R$ 595 (meia R$ 297,50)",
+       "Platinum: R$ 895 · Diamond: R$ 1.095",
+       "VIP Itaú Personnalité: R$ 1.795 (meia R$ 897,50)"
+      ],
+      "texto": "Preços do anúncio, sem taxa. Se ainda há ingresso, confira na Eventim.",
+      "fonte": "Fonte: Rolling Stone Brasil",
+      "alt": "Ingressos em São Paulo: Cadeira Superior R$ 345, Cadeira Inferior Leste e Oeste R$ 595, Platinum R$ 895, Diamond R$ 1.095 e VIP Itaú Personnalité R$ 1.795, com meia-entrada"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "ALERTA DE GOLPE",
+      "titulo": "Só no link oficial",
+      "topicos": [
+       "Compre só na Eventim ou na bilheteria oficial",
+       "Limite: 6 ingressos por CPF, até 2 meias",
+       "Desconfie de perfil vendendo por Pix",
+       "Ingresso barato demais costuma ser golpe"
+      ],
+      "fonte": "Fonte: Rolling Stone Brasil",
+      "alt": "Alerta de golpe: compre só na Eventim ou na bilheteria oficial; limite de 6 ingressos por CPF; desconfie de venda por Pix em rede social"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "grupo:shows",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "RESPONDA",
+      "titulo": "Você vai?",
+      "opcoes": [
+       "Vou em São Paulo",
+       "Vou no Rio ou em Brasília",
+       "Vou no Sul",
+       "Desta vez não"
+      ],
+      "fonte": "",
+      "cta": "Responda A, B, C ou D"
+     }
+    ],
+    "legenda": "🌹 Kiss From a Rose num estádio: Seal canta em São Paulo no sábado.\n\n🎤 Seal · turnê dos 30 anos dos discos Seal (1991) e Seal II (1994)\n📅 Sábado, 28/11 · portões às 16h · abertura de Seu Jorge\n📍 Nubank Parque, São Paulo\n🎟️ Cadeira Superior R$ 345 (meia R$ 172,50) · Cadeira Inferior Leste/Oeste R$ 595 · VIP R$ 1.795 · venda na Eventim\n🗺️ Também em Brasília (25/11), no Rio (26/11), em Curitiba (01/12) e em Porto Alegre (02/12)\n\n⚠️ Cuidado com golpe: só compre na Eventim ou na bilheteria oficial.\n\n📌 Salve para não esquecer\n📤 Mande para quem vai com você\n\nVocê vai? Responda A, B, C ou D 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Rolling Stone Brasil, Billboard Brasil, Metrópoles, Visite São Paulo, Reflections of Darkness e setlist.fm.\n\n#seal #shows #showsnobrasil #nubankparque #seujorge #saopaulo #agendadeshows"
+   }
+  ]
+ }
+}
