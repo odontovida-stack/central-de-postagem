@@ -261,3 +261,19 @@ Decidido pelo Luiz em 20/11/2026, porque a página ficou 15 dias sem post enquan
    Reels de ~8 s com `python gerador/relogio_video.py dados.json fila/AAAA-MM-DD-brasil2359-relogio-video/`
    (dados: `data`, `de` = hora antes, `itens` = [{texto, orgao, delta}], `fonte`). Ele vai no mesmo PR do
    post do dia, para o Luiz aprovar junto. Fontes locais: `npm i @fontsource-variable/archivo @fontsource/jetbrains-mono`.
+
+## Brazil on a Budget: 1 post por dia (20/11/2026)
+
+Pedido do Luiz em 20/11/2026 ("precisamos de mais conteúdo no Brazil on a Budget"). A tarefa agendada
+"Brazil on a Budget — semana" roda toda sexta e completa os próximos 8 dias sem post do @brazil.onabudget.
+
+- Gerador: `python gerador/bob.py pauta.json [--previa]` (tipos capa, lista, preco, passos; o slide final
+  "Comment GUIDE / Comenta GUÍA" entra sozinho). Visual igual ao dos carrosséis de novembro. Fontes locais:
+  `npm i @fontsource-variable/bricolage-grotesque @fontsource-variable/instrument-sans`.
+- Reels: `python gerador/reel_carrossel.py fila/<carrossel>/ fila/<reel>/` (post.json do reel escrito à parte).
+- Rodízio da semana (horário de Brasília): seg 18:30 "What <lugar> really costs" (EN) · ter 14:40 Reel ·
+  qua 18:30 "¿Cuánto cuesta <lugar>?" (ES) · qui 18:30 dicas práticas (EN) · sex 14:40 Reel (ES ou EN) ·
+  sáb 18:30 evento/estação (Réveillon, Carnaval, verão...) · dom 18:30 "1 coisa, 1 preço" (EN/ES alternado).
+- Preços sempre conferidos em fonte oficial ou confiável na semana, com "Prices checked <mês ano>" e a cotação
+  do dólar usada. Fotos só do banco (`fotos/banco/`), sem pessoa identificável nem marca:
+  **não usar `rio-copacabana`** (aparece a marca de um banco no quiosque).
