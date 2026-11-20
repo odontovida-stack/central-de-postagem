@@ -277,3 +277,6 @@ Pedido do Luiz em 20/11/2026 ("precisamos de mais conteúdo no Brazil on a Budge
 - Preços sempre conferidos em fonte oficial ou confiável na semana, com "Prices checked <mês ano>" e a cotação
   do dólar usada. Fotos só do banco (`fotos/banco/`), sem pessoa identificável nem marca:
   **não usar `rio-copacabana`** (aparece a marca de um banco no quiosque).
+- Aprovação (decidido pelo Luiz em 20/11/2026): o PR se chama `Posts do dia DD/MM — Brazil on a Budget (semana ...)`, então
+  sai sozinho enquanto o modo férias (`config/ferias.json`) estiver ligado. Com o modo férias desligado, ele espera o
+  merge do Luiz (atenção: o robô "Posts do dia" da madrugada fecha PR "Posts do dia" de data passada; aprove no mesmo dia).
