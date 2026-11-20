@@ -156,6 +156,12 @@ def enviar_rascunho(conta, pasta, midias, legenda):
     if json.dumps(cofre, sort_keys=True) != antes:
         gravar_cofre(cofre)  # o TikTok pode trocar o refresh_token na renovação
     legenda = limitar_hashtags(legenda)
+    if midias and str(midias[0]).lower().endswith(".mp4"):
+        # Vídeo (Reels, ex.: vídeo do relógio do Brasil 23:59, 20/11/2026): vai para a caixa de entrada.
+        # O endpoint de vídeo em rascunho não recebe legenda: o Luiz cola a legenda ao publicar no app.
+        res = _post(f"{API}/post/publish/inbox/video/init/",
+                    {"source_info": {"source": "PULL_FROM_URL", "video_url": url_midia(pasta, midias[0])}}, token=tok)
+        return res.get("data", {}).get("publish_id")
     linhas = [l for l in legenda.strip().split("\n") if l.strip()]
     titulo = (linhas[0] if linhas else "")[:89]
     corpo = {"post_info": {"title": titulo, "description": legenda.strip()[:3990]},
