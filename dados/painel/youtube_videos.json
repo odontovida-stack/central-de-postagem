@@ -7,7 +7,7 @@
    "status": "public",
    "agendado": "",
    "views": 3,
-   "likes": 1,
+   "likes": 0,
    "comentarios": 0
   },
   {
@@ -46,7 +46,7 @@
    "publicado": "2026-11-17",
    "status": "public",
    "agendado": "",
-   "views": 61,
+   "views": 63,
    "likes": 1,
    "comentarios": 0
   },
@@ -56,7 +56,7 @@
    "publicado": "2026-11-16",
    "status": "public",
    "agendado": "",
-   "views": 14,
+   "views": 12,
    "likes": 0,
    "comentarios": 0
   },
@@ -66,7 +66,7 @@
    "publicado": "2026-11-16",
    "status": "public",
    "agendado": "",
-   "views": 45,
+   "views": 44,
    "likes": 1,
    "comentarios": 0
   },
@@ -106,7 +106,7 @@
    "publicado": "2026-11-13",
    "status": "public",
    "agendado": "",
-   "views": 14,
+   "views": 15,
    "likes": 0,
    "comentarios": 0
   },
@@ -203,12 +203,22 @@
  ],
  "Before History Changed": [
   {
+   "id": "w61PfYPxjM4",
+   "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
+   "publicado": "2026-11-19",
+   "status": "public",
+   "agendado": "",
+   "views": 21,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
    "id": "9W30eEL-Wwk",
    "titulo": "Churchill's odds: a thousand to one #shorts",
    "publicado": "2026-11-18",
    "status": "public",
    "agendado": "",
-   "views": 14,
+   "views": 16,
    "likes": 1,
    "comentarios": 0
   },
@@ -218,7 +228,7 @@
    "publicado": "2026-11-12",
    "status": "public",
    "agendado": "",
-   "views": 2,
+   "views": 3,
    "likes": 0,
    "comentarios": 0
   },
@@ -268,16 +278,6 @@
    "publicado": "2026-11-02",
    "status": "private",
    "agendado": "2026-11-26T19:00",
-   "views": 0,
-   "likes": 0,
-   "comentarios": 0
-  },
-  {
-   "id": "w61PfYPxjM4",
-   "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
-   "publicado": "2026-11-02",
-   "status": "private",
-   "agendado": "2026-11-19T19:00",
    "views": 0,
    "likes": 0,
    "comentarios": 0
