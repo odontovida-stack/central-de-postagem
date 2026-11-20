@@ -244,3 +244,20 @@ Desde 04/11/2026, todo post com `"tiktok"` em `redes` vai como **rascunho** para
 ## Vendas da Amazon no painel (12/11/2026)
 
 O painel da Amazon não deixa leitura automática. Uma vez por mês (ou quando quiser), o Luiz baixa o relatório em Associados → Relatórios → Baixar relatórios (CSV ou XLSX, vem num .zip) e manda o arquivo na conversa. Aí roda `python scripts/vendas_amazon.py <arquivo> br` (ou `us` para a Amazon dos EUA): ele soma comissão, vendas geradas, itens e cliques e atualiza a linha da Amazon em `dados/painel/vendas.json`. Só os totais ficam guardados.
+
+## Brasil 23:59: merge automático, 1 post por dia e vídeo do relógio (20/11/2026)
+
+Decidido pelo Luiz em 20/11/2026, porque a página ficou 15 dias sem post enquanto os PRs esperavam merge.
+
+1. **Merge automático do que não mexe no relógio.** O job `merge-automatico-brasil2359` do workflow
+   "Conferir post novo" mescla sozinho o PR com título `Brasil 23:59 — ...` quando: a conferência passou,
+   o PR só tem pastas `fila/AAAA-MM-DD-brasil2359-*/` e **toda** legenda traz a frase
+   "Este post não mexe no relógio." Post que mexe no relógio (post do dia, vídeo do relógio, resumo de
+   domingo, ajuste do mês) não leva a frase e continua esperando o merge do Luiz.
+2. **1 post por dia.** A tarefa "Brasil 23:59 — formatos fixos da semana" faz um formato por dia, de
+   segunda a domingo (sexta: "O número da semana"). Se o dia já tiver post do Brasil 23:59 (fila ou PR
+   aberto), ela não faz outro.
+3. **Vídeo do relógio.** Toda vez que o relógio anda, a tarefa "Brasil 23:59 — post do dia" também gera um
+   Reels de ~8 s com `python gerador/relogio_video.py dados.json fila/AAAA-MM-DD-brasil2359-relogio-video/`
+   (dados: `data`, `de` = hora antes, `itens` = [{texto, orgao, delta}], `fonte`). Ele vai no mesmo PR do
+   post do dia, para o Luiz aprovar junto. Fontes locais: `npm i @fontsource-variable/archivo @fontsource/jetbrains-mono`.
