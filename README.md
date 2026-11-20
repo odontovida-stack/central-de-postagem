@@ -322,3 +322,9 @@ O "nosso Supermetrics", pedido do Luiz em 20/11/2026. Grátis, roda no GitHub Ac
 que o nosso anúncio ou baixa o preço 5% ou mais. Histórico de 90 dias em `dados/radar_precos.json`.
 Para ligar: pôr o link do nosso anúncio em `meu_anuncio`. Se o Mercado Livre pedir login, criar um app em
 developers.mercadolivre.com.br e pôr o token no secret `ML_ACCESS_TOKEN`. A Shopee não tem API pública de busca.
+## Aprendizados de conteúdo (20/11/2026)
+
+Guia em `docs/aprendizados-conteudo.md`, tirado de 53 prints de posts de alto desempenho mandados pelo Luiz. **Todo robô ou
+tarefa que monta post lê esse guia antes**: capa com número, prova no slide 2, um item por slide com número de prova,
+CTA de palavra-chave no rodapé de todos os slides, DM com algo grátis e uma pergunta, métrica principal = envios + salvamentos,
+revisão semanal PARAR / MANTER / DOBRAR / TESTAR e, no YouTube, a regra de originalidade.
