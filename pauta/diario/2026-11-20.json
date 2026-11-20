@@ -1,0 +1,144 @@
+{
+ "dia": "20/11/2026",
+ "apurado_em": "2026-11-20",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-20T08:00:00-03:00",
+    "pilula": "SEX 20/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "20/11",
+      "sub": "SEX · 10h",
+      "titulo": "Alcaraz x Cobolli",
+      "detalhe": "Tênis · ATP Finals · ESPN 3"
+     },
+     {
+      "data": "20/11",
+      "sub": "SEX · 14h",
+      "titulo": "Brasil x Canadá",
+      "detalhe": "Tênis · Billie Jean King Cup · ESPN 3",
+      "destaque": true
+     },
+     {
+      "data": "20/11",
+      "sub": "SEX · 16h30",
+      "titulo": "Medvedev x Tiafoe",
+      "detalhe": "Tênis · ATP Finals, vale a semi · ESPN 3"
+     },
+     {
+      "data": "20/11",
+      "sub": "SEX · 21h30",
+      "titulo": "F1 em Las Vegas: treino livre 3",
+      "detalhe": "F1 · sportv3 e Globoplay"
+     },
+     {
+      "data": "21/11",
+      "sub": "SÁB · 01h",
+      "titulo": "F1 em Las Vegas: classificação",
+      "detalhe": "F1 · sportv3 e Globoplay"
+     }
+    ],
+    "fonte": "Conferido em 20/11 à 1h · Antenados na TV, ATP, Grande Prêmio, Gazeta Esportiva",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: Alcaraz x Cobolli no ATP Finals às 10h na ESPN 3; Brasil x Canadá na Billie Jean King Cup às 14h na ESPN 3; Medvedev x Tiafoe no ATP Finals, valendo vaga na semifinal, às 16h30 na ESPN 3; treino livre 3 da F1 em Las Vegas às 21h30 no sportv3 e no Globoplay; e a classificação à 1h da madrugada de sábado, no sportv3 e no Globoplay",
+    "legenda": "🎾🏎️ Brasil em quadra pela Billie Jean King Cup, ATP Finals e F1 em Las Vegas!\n\n⏰ Horário de Brasília:\n🎾 10h · Alcaraz x Cobolli, no ATP Finals · ESPN 3\n🇧🇷 14h · Brasil x Canadá, em Vitória (ES), valendo vaga nos Qualifiers de 2027 · ESPN 3\n🎾 16h30 · Medvedev x Tiafoe: quem vencer vai à semifinal do ATP Finals · ESPN 3\n🏎️ 21h30 · Treino livre 3 da F1 em Las Vegas · sportv3 e Globoplay\n🏁 1h (madrugada de sábado) · Classificação em Las Vegas, com Bortoleto no grid · sportv3 e Globoplay\n\n📌 Salve para não perder o horário\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Antenados na TV, ATP, Grande Prêmio e Gazeta Esportiva.\n\n#esportes #hojetem #billiejeankingcup #tenis #atpfinals #f1 #lasvegasgp #bortoleto"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-20T12:00:00-03:00",
+    "foto": "quadra-tenis",
+    "pilula": "PALPITE",
+    "chamada": "BILLIE JEAN KING CUP · PLAYOFF",
+    "titulo": "Brasil x Canadá: quem leva?",
+    "contexto": "Hoje, 14h, em Vitória (ES) · ESPN 3 · vale vaga nos Qualifiers de 2027.",
+    "opcoes": [
+     "Brasil, pela 1ª vez",
+     "Canadá"
+    ],
+    "fonte": "",
+    "cta": "Responda A ou B",
+    "alt": "Palpite: Brasil x Canadá na Billie Jean King Cup, quem leva? Hoje às 14h, em Vitória, no Espírito Santo, na ESPN 3, valendo vaga nos Qualifiers de 2027. A: Brasil, pela primeira vez. B: Canadá.",
+    "legenda": "🇧🇷 Brasil x Canadá na Billie Jean King Cup: quem leva o confronto?\n\nA) Brasil, pela 1ª vez\nB) Canadá\n\n🎾 Hoje, 14h (Brasília), em Vitória (ES), com 2 jogos de simples · ESPN 3\n🏆 Vale vaga nos Qualifiers de 2027\n👊 No time: Luisa Stefani, Laura Pigossi, Gabriela Cé, Luiza Fullana e Nauhany Silva\n📊 O Brasil nunca venceu o Canadá: são 12 derrotas em 12 confrontos\n\n📌 Salve e volte depois dos jogos\n📤 Mande para quem joga tênis com você\n\nResponda só com a letra: A ou B 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Gazeta Esportiva, Tennis Canada e Antenados na TV.\n\n#tenis #billiejeankingcup #brasil #luisastefani #laurapigossi #esportes"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-20T13:00:00-03:00",
+    "foto": "quadra-futsal",
+    "pilula": "SEX 20/11",
+    "chamada": "CAMPEÃO · FUTSAL",
+    "grande": "5 × 4",
+    "titulo": "Sporting é campeão do Intercontinental",
+    "caixas": [
+     [
+      "Final",
+      "Sporting 5 x 4 Palma, em Pato Branco (PR)"
+     ],
+     [
+      "Títulos",
+      "1º do Sporting no torneio"
+     ]
+    ],
+    "nota": "O Sporting fez 4 a 0 no 1º tempo e segurou a reação do Palma, o atual campeão.",
+    "fonte": "Conferido em 20/11 à 1h · CNN Portugal, Executive Digest",
+    "cta": "Mande para quem joga futsal com você",
+    "alt": "Campeão no futsal: o Sporting venceu o Palma por 5 a 4 na final do Intercontinental de futsal, em Pato Branco, no Paraná, e conquistou o primeiro título do torneio. O Sporting fez 4 a 0 no primeiro tempo e segurou a reação do Palma, o atual campeão",
+    "legenda": "🏆 Título inédito: o Sporting é campeão do Mundial de clubes de futsal, em Pato Branco!\n\n⚽ Final: Sporting 5 x 4 Palma\n🔥 O Sporting abriu 4 a 0 no 1º tempo e segurou a reação do Palma, o atual campeão\n🎯 Gols do Sporting: Merlim, Chiskala, Tomás Paço (2) e Diogo Santos\n🥇 É o 1º título do Sporting no Intercontinental\n\n📌 Salve para lembrar desta final\n📤 Mande para quem joga futsal com você\n\nVocê viu a final? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: CNN Portugal e Executive Digest.\n\n#futsal #intercontinental #sporting #palma #patobranco #esportes"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-20T12:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "BRASILEIRÃO · 35ª RODADA",
+    "titulo": "Vasco 2 x 1 Inter: o Inter escapa?",
+    "contexto": "O Inter perdeu em São Januário e entrou no Z4 a 3 rodadas do fim.",
+    "opcoes": [
+     "Escapa do Z4",
+     "Cai para a Série B",
+     "Decide na última rodada"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "O que achou? Vasco 2 x 1 Internacional: o Inter perdeu em São Januário e entrou na zona de rebaixamento a 3 rodadas do fim. A: Escapa do Z4. B: Cai para a Série B. C: Decide na última rodada.",
+    "legenda": "🔴 Vasco 2 x 1 Internacional: o Inter escapa do rebaixamento?\n\nA) Escapa do Z4\nB) Cai para a Série B\nC) Decide na última rodada\n\n⚽ Gols de Thiago Mendes e Colidio para o Vasco; Juninho descontou\n📉 O Inter ficou com 38 pontos, em 17º, e entrou no Z4\n📅 Faltam 3 rodadas · o próximo jogo do Inter é Internacional x Vitória, segunda, 23/11, 19h30\n\n📌 Salve e volte no fim do campeonato\n📤 Mande para o colorado da sua vida\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: CNN Brasil e Lance!.\n\n#brasileirao #internacional #inter #vasco #rebaixamento #futebol"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-20T12:00:00-03:00",
+    "foto": "grupo:shows",
+    "pilula": "SEX 20/11",
+    "chamada": "HOJE TEM SHOW",
+    "grande": "HOJE",
+    "titulo": "Eddie Vedder em São Paulo",
+    "caixas": [
+     [
+      "📍 Onde",
+      "Best of Blues and Rock · Parque Ibirapuera"
+     ],
+     [
+      "📅 No fim de semana",
+      "Sáb 21/11: Roger Daltrey e Chris Isaak"
+     ]
+    ],
+    "nota": "Horários e ingressos: só no site oficial do festival.",
+    "fonte": "Conferido em 20/11 à 1h · Billboard Brasil, Rolling Stone Brasil",
+    "cta": "Mande para quem vai com você",
+    "alt": "Hoje tem show: Eddie Vedder toca nesta sexta, 20/11, no festival Best of Blues and Rock, no Parque Ibirapuera, em São Paulo. No sábado, 21/11, o festival tem Roger Daltrey e Chris Isaak. Horários e ingressos só no site oficial do festival",
+    "legenda": "🎸 É hoje: Eddie Vedder sobe ao palco do Best of Blues and Rock, em São Paulo!\n\n🎤 Eddie Vedder · sexta, 20/11\n📍 Parque Ibirapuera, São Paulo\n📅 Sábado, 21/11: Roger Daltrey e Chris Isaak\n⏰ Horários: confira no site e nas redes oficiais do festival\n\n⚠️ Cuidado com golpe: ingresso só no canal oficial do festival\n📌 Salve para não esquecer\n📤 Mande para quem vai com você\n\nVocê vai? 👇\nSiga @showsconfirmados para os shows antes de todo mundo.\n\nFontes: Billboard Brasil e Rolling Stone Brasil.\n\n#eddievedder #bestofbluesandrock #ibirapuera #saopaulo #shows #showsconfirmados"
+   }
+  ]
+ }
+}
