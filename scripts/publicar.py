@@ -119,6 +119,9 @@ def main():
                         resultado[rede] = f"RASCUNHO no TikTok ({pid}): abra o app, confira e toque em Publicar" if pid else manual
                     except Exception as e:  # noqa: BLE001 - TikTok nunca derruba o Instagram/Facebook
                         resultado[rede] = f"{manual} (o envio automático falhou: {str(e)[:150]})"
+                    if p["tipo"] != "story":
+                        import avisos  # avisa o Luiz no celular pelo app do GitHub (pedido dele em 20/11/2026)
+                        avisos.rascunho_tiktok(p["conta"], pasta, p, resultado[rede])
             if not simular:
                 p["status"] = "publicado"
                 p["publicado_em"] = agora.isoformat(timespec="seconds")
