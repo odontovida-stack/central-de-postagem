@@ -1,0 +1,100 @@
+{
+  "_fontes": {
+    "cotacao": "PTAX venda 19/11/2026 R$ 5,8889 (Banco Central, via piranot.com.br e revistaempreende.com.br)",
+    "reveillon": "riotur.rio/editorial/rio-reveillon-2027-programacao (19/11/2026); abihrj.com.br; transporte 2025/26: sbtnews.sbt.com.br; dicas: riotimesonline.com",
+    "gorjeta": "mpce.mp.br/decon (Lei 13.419/2017); cnnbrasil.com.br (12-15%); tudogostoso.com.br (couvert artístico); smartertravel.com, tripmasters.com, lonelyplanet.com (táxi, hotel, guia)",
+    "natal_luz": "melhoresdestinos.com.br/natal-luz-gramado-2026.html (18/11/2026); viajepragramado.com.br; natalluz.com.br (revendedora credenciada)"
+  },
+  "posts": [
+    {
+      "sufixo": "reveillon-rio",
+      "quando": "2026-11-21T18:30:00-03:00",
+      "idioma": "en",
+      "cards": [
+        {"tipo": "capa", "pilula": "NEW YEAR'S EVE", "selo": "Prices checked Nov 2026", "foto": "rio-reveillon-fogos", "credito": "Photo: Porto Bay Hotels & Resorts · CC BY 2.0 · Wikimedia Commons",
+         "titulo": "Rio New Year's Eve: what it costs", "sub": "Copacabana on Dec 31: free on the sand, 12 minutes of fireworks"},
+        {"tipo": "lista", "pilula": "THE NIGHT", "chamada": "DEC 31 · COPACABANA", "titulo": "The big night",
+         "linhas": [["Party on the beach", "Free"], ["Main stage opens", "6 pm"], ["Fireworks at midnight", "12 min"], ["Barges at sea", "19"], ["Stages across Rio", "13"]],
+         "nota": "Djavan and Pedro Sampaio are on the main stage, plus a drone show over the sea.",
+         "rodape": "Source: Riotur, Nov 19, 2026"},
+        {"tipo": "lista", "pilula": "GETTING THERE", "chamada": "BASED ON LAST YEAR'S PLAN", "titulo": "Take the metro",
+         "linhas": [["Metro round trip", "R$ 15 · US$ 2.55"], ["How to buy", "Online only"], ["Avenida Atlântica", "Closed all day"], ["Cars near the beach", "None after 9 pm"]],
+         "nota": "Figures from the 2025/26 plan: an online-only metro pass with set departure times. The 2026/27 plan comes out in December, so check MetrôRio before you go.",
+         "rodape": "US$ 1 ≈ R$ 5.89 (PTAX Nov 19)"},
+        {"tipo": "passos", "pilula": "LOCAL TIPS", "chamada": "DO IT LIKE A CARIOCA", "titulo": "4 tips for the night",
+         "itens": [["Wear white", "Locals dress in white for luck, and many jump 7 waves at midnight."],
+                   ["Carry little", "Phone in a front pocket, one card, a little cash. No glass on the sand."],
+                   ["Pick a meeting point", "Phone networks jam at midnight. Use a numbered lifeguard post."],
+                   ["Want more space?", "Leme and the Posto 6 end are less packed than the middle."]],
+         "rodape": "Source: Riotur, Rio Times"},
+        {"tipo": "preco", "pilula": "BONUS", "chamada": "FREE WARM-UP · DEC 26", "grande": "R$ 0",
+         "texto": "A free Christmas samba show on the Copacabana main stage, five nights before New Year.",
+         "dica_titulo": "Book your bed now", "dica": "Rio fills up for New Year. Staying near a metro station makes the night much easier.",
+         "rodape": "Source: Riotur, Nov 19, 2026"}
+      ],
+      "alt": ["Cover: Rio New Year's Eve, what it costs. Fireworks over Copacabana beach",
+              "Dec 31 in Copacabana: free beach party, main stage from 6 pm, 12 minutes of fireworks from 19 barges, 13 stages across Rio",
+              "Getting there: last year's metro round trip cost R$ 15, about US$ 2.55, sold online only; Avenida Atlântica closed; no cars after 9 pm",
+              "Four tips: wear white, carry little, pick a meeting point, Leme and Posto 6 are less crowded",
+              "Bonus: free Christmas samba show on Dec 26 on the Copacabana main stage",
+              "Comment GUIDE and we'll DM you the full plan"],
+      "legenda": "Rio New Year's Eve costs R$ 0 on the sand, and 12 minutes of fireworks 🎆\n🏖️ Copacabana beach party on Dec 31: free\n🎤 Main stage from 6 pm, 13 stages across the city\n🎆 Fireworks at midnight from 19 barges: 12 minutes\n🚇 Metro: last year's round-trip pass was R$ 15 (≈ US$ 2.55), online only. 2026/27 details in December\n🎶 Bonus: free Christmas samba show on Dec 26\n🤍 Wear white, carry little, pick a meeting point\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 Año Nuevo en Copacabana: gratis en la arena, 12 minutos de fuegos a la medianoche. Comenta GUÍA y te mandamos el plan por DM.\n\nUS$ 1 ≈ R$ 5.89 (PTAX Nov 19, 2026). Source: Riotur.\n📷 Cover photo: Porto Bay Hotels & Resorts (CC BY 2.0), Wikimedia Commons\n\n#brazil #braziltravel #budgettravel #riodejaneiro #newyearseve #copacabana #reveillon"
+    },
+    {
+      "sufixo": "gorjeta",
+      "quando": "2026-11-26T18:30:00-03:00",
+      "idioma": "en",
+      "cards": [
+        {"tipo": "capa", "pilula": "TRAVEL TIPS", "selo": "Checked Nov 2026", "foto": "salvador-pelourinho",
+         "titulo": "Tipping in Brazil: who and how much", "sub": "Spoiler: the 10% on your bill is already the tip, and it's optional"},
+        {"tipo": "preco", "pilula": "RESTAURANTS", "chamada": "THE \"SERVIÇO\" LINE", "grande": "10%",
+         "texto": "That's the tip, already on the bill. By law (Lei 13.419/2017) it's optional, but most people pay it when service was good.",
+         "dica_titulo": "No double tipping", "dica": "If the 10% is on the bill, you don't need to leave more. Some upscale places charge 12–15%.",
+         "rodape": "Sources: MP-CE, CNN Brasil"},
+        {"tipo": "lista", "pilula": "EVERYONE ELSE", "chamada": "ALL OPTIONAL", "titulo": "Typical tips",
+         "linhas": [["Taxi", "Round up"], ["Hotel porter", "R$ 5 a bag · US$ 1"], ["Housekeeping", "R$ 5–10 a day"], ["Great tour guide", "Up to 10%"], ["Bar, table service", "10% on bill"]],
+         "nota": "Housekeeping R$ 5–10 ≈ US$ 1–2. Nobody expects US-style 20%.",
+         "rodape": "US$ 1 ≈ R$ 5.89 (PTAX Nov 19)"},
+        {"tipo": "passos", "pilula": "BEFORE YOU PAY", "chamada": "CHECK THE BILL", "titulo": "4 quick checks",
+         "itens": [["Find the \"serviço\" line", "That's the 10%. If service was bad, you can ask to take it off."],
+                   ["Live music charge", "The \"couvert artístico\" is only owed if it was announced first, on a sign or the menu."],
+                   ["Card machine", "Read the total on the screen before you tap."],
+                   ["Something wrong?", "Ask the staff to fix it and keep the bill."]],
+         "rodape": "Sources: MP-CE, TudoGostoso"}
+      ],
+      "alt": ["Cover: Tipping in Brazil, who and how much",
+              "Restaurants: the 10% service line on the bill is the tip, optional by law; some places charge 12 to 15%",
+              "Typical tips: round up taxis, R$ 5 a bag for porters, R$ 5 to 10 a day for housekeeping, up to 10% for a great guide, 10% at bars with table service",
+              "Four checks before paying: find the service line, live music charge only if announced, check the card machine, ask staff to fix errors",
+              "Comment GUIDE and we'll DM you the full plan"],
+      "legenda": "Tipping in Brazil: the 10% on your bill is already the tip 💸\n🍽️ Restaurants: 10% \"serviço\" on the bill, optional by law (some charge 12–15%)\n🚕 Taxis: just round up\n🧳 Hotel porter: about R$ 5 a bag (≈ US$ 1)\n🛏️ Housekeeping: R$ 5–10 a day (≈ US$ 1–2)\n🧭 Great tour guide: up to 10%\n🎶 Live music charge only if it was announced first\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 Propinas en Brasil: el 10% de la cuenta ya es la propina y es opcional por ley. Taxi: redondea. Comenta GUÍA y te mandamos el plan por DM.\n\nUS$ 1 ≈ R$ 5.89 (PTAX Nov 19, 2026).\n📷 Cover photo: Paul R. Burley (CC BY-SA 4.0), Wikimedia Commons\n\n#brazil #braziltravel #budgettravel #traveltips #tipping #brasil #viajarbarato"
+    },
+    {
+      "sufixo": "natal-gramado",
+      "quando": "2026-11-28T18:30:00-03:00",
+      "idioma": "en",
+      "cards": [
+        {"tipo": "capa", "pilula": "CHRISTMAS IN BRAZIL", "selo": "Prices checked Nov 2026", "foto": "gramado-lago-negro",
+         "titulo": "Christmas in Gramado: what it costs", "sub": "Natal Luz runs until Jan 17, 2027, and lots of it is free"},
+        {"tipo": "lista", "pilula": "FREE", "chamada": "COSTS NOTHING", "titulo": "Free in Gramado",
+         "linhas": [["Lighting show, 8 pm", "Daily"], ["Christmas Village", "Daily"], ["Street parade (Parada)", "Fri–Sun"], ["Rua Coberta stage", "Tue–Sun"]],
+         "nota": "The lighting show is on the Palácio dos Festivais facade; the village is at Praça das Etnias. Times vary, check the official program.",
+         "rodape": "Sources: Melhores Destinos, Viaje pra Gramado"},
+        {"tipo": "lista", "pilula": "PAID SHOWS", "chamada": "FULL-PRICE TICKETS", "titulo": "The big shows",
+         "linhas": [["Grande Desfile parade", "R$ 420 · US$ 71"], ["Nativitaten lake show", "R$ 360+ · US$ 61"], ["Orchestra and light shows", "R$ 120+ · US$ 20"]],
+         "nota": "Half-price (meia) tickets exist for some groups. Prices change by date and seat: buy from sellers authorized by GramadoTur.",
+         "rodape": "US$ 1 ≈ R$ 5.89 (PTAX Nov 19)"},
+        {"tipo": "preco", "pilula": "WHEN", "chamada": "NATAL LUZ 2026/27", "grande": "Oct 22–Jan 17",
+         "texto": "The 41st edition is on now: 88 days of lights, parades and shows in the mountains of southern Brazil.",
+         "dica_titulo": "Plan your nights first", "dica": "The Grande Desfile runs Wed, Fri and Sun; the lake show Thu and Sat, both at 8 pm. Pick your shows, then book the hotel.",
+         "rodape": "Sources: Melhores Destinos, Viaje pra Gramado"}
+      ],
+      "alt": ["Cover: Christmas in Gramado, what it costs. Lago Negro lake surrounded by trees",
+              "Free in Gramado: daily 8 pm lighting show, Christmas Village, street parade Friday to Sunday, Rua Coberta stage Tuesday to Sunday",
+              "Paid shows: Grande Desfile parade R$ 420, about US$ 71; Nativitaten lake show from R$ 360, about US$ 61; orchestra and light shows from R$ 120, about US$ 20",
+              "Natal Luz 2026/27 runs October 22 to January 17, 41st edition",
+              "Comment GUIDE and we'll DM you the full plan"],
+      "legenda": "Christmas in Gramado: the lights are free, the big shows start at US$ 20 🎄\n✨ Lighting show every night at 8 pm: free\n🎅 Christmas Village and weekend street parade: free\n🎭 Grande Desfile de Natal parade: R$ 420 (≈ US$ 71)\n🌊 Nativitaten lake show: from R$ 360 (≈ US$ 61)\n🎻 Orchestra and light shows: from R$ 120 (≈ US$ 20)\n📅 Natal Luz runs until Jan 17, 2027\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 Navidad en Gramado: el show de luces de las 20 h es gratis y los grandes shows cuestan desde R$ 120 (≈ US$ 20). Hasta el 17 de enero. Comenta GUÍA y te mandamos el plan por DM.\n\nUS$ 1 ≈ R$ 5.89 (PTAX Nov 19, 2026). Full-price tickets; prices vary by date and seat.\n📷 Cover photo: Dalton Scavassa (CC BY-SA 4.0), Wikimedia Commons\n\n#brazil #braziltravel #budgettravel #gramado #christmas #natalluz #riograndedosul"
+    }
+  ]
+}
