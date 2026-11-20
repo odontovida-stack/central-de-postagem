@@ -207,6 +207,20 @@ Para publicar a tela de consentimento, ponha o app do Google Cloud "Em produçã
 
 Thumbnail personalizada só funciona em canal verificado por telefone (youtube.com/verify).
 
+### O que funciona no YouTube (dados de 20/11/2026)
+- **TAF:** os 3 vídeos com mais views são Shorts que juntam a notícia de hoje com a última vez que aconteceu ("California just
+  moved to empty death row. It happened once before.": 413; "The closest Senate race in history came down to 2 votes": 298;
+  "The US spends $1 trillion a year on its military": 149). Os vídeos longos ficaram entre 2 e 6 views. **Dobrar** esse
+  formato de Short: gancho com fato de hoje + "a última vez foi em AAAA" no título e nos 2 primeiros segundos.
+- Todo Short que acompanha um longo termina apontando para ele ("Full story on the channel") e o longo é ligado ao Short no
+  YouTube Studio (vídeo relacionado).
+- **BHC:** o melhor foi o longo do Churchill (35 views). Testar ganchos de "o que quase aconteceu".
+- **Regra de originalidade:** os dois canais são feitos com IA. Cada vídeo precisa de ângulo, roteiro e análise próprios;
+  variar estrutura, abertura e ritmo; nunca publicar em série vídeos com o mesmo molde. O YouTube pune conteúdo repetitivo
+  ou produzido em massa.
+- Roteiro: gancho nos primeiros 5 a 15 s, prova rápida, quebra de padrão a cada 20 a 30 s, teaser no meio e final que leva
+  ao próximo vídeo. Título, thumbnail (no máximo 4 palavras) e gancho são planejados juntos.
+
 ### Fotos de fundo nos slides (combinado em 30/10/2026)
 - Qualquer slide do `slides.json` aceita `"foto": "<nome>"`: a foto `fotos/banco/<nome>.jpg` entra de fundo, em tela cheia, sob um véu escuro na cor do tema (azul-marinho no TAF, sépia no BHC), e o crédito "Photo: autor · licença · Wikimedia Commons" fica no canto de baixo, à direita. Opcional: `"foto_pos": "center 30%"` para mudar o enquadramento.
 - Se a foto ainda não foi baixada, o slide sai igual a antes (sem foto) e o robô só avisa no log.
@@ -300,3 +314,11 @@ O "nosso Supermetrics", pedido do Luiz em 20/11/2026. Grátis, roda no GitHub Ac
   semana anterior, os 5 melhores posts, comparação de formato, horário, dia da semana e idioma, e alertas de alcance perto de zero.
   Fica em `dados/relatorios/AAAA-MM-DD.md` e é comentado na issue "📊 Relatório semanal das redes", que avisa o Luiz no celular.
 - **Painel**: seção "Melhores posts do período" e alcance médio por formato.
+
+## Radar de preço do e-commerce (20/11/2026)
+
+`scripts/radar_precos.py` (workflow `radar.yml`, todo dia às 8:43) busca no Mercado Livre os concorrentes de cada produto de
+`config/radar_precos.json` e comenta na issue "💲 Radar de preço" (aviso no celular) quando um concorrente fica mais barato
+que o nosso anúncio ou baixa o preço 5% ou mais. Histórico de 90 dias em `dados/radar_precos.json`.
+Para ligar: pôr o link do nosso anúncio em `meu_anuncio`. Se o Mercado Livre pedir login, criar um app em
+developers.mercadolivre.com.br e pôr o token no secret `ML_ACCESS_TOKEN`. A Shopee não tem API pública de busca.
