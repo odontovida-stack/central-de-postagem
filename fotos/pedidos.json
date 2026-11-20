@@ -612,6 +612,21 @@
   {
     "nome": "gramado-centro",
     "busca": "Gramado Rio Grande do Sul city",
+    "opcao": 2
+  },
+  {
+    "nome": "gramado-lago-negro",
+    "busca": "Lago Negro Gramado",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-natal-arvore",
+    "busca": "Gramado Natal Luz arvore",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-rua-coberta",
+    "busca": "Rua Coberta Gramado",
     "opcao": 1
   }
 ]
