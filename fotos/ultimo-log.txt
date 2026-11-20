@@ -1,3 +1,5 @@
 NADA para tatame-lutas (judo tatami mat)
 NADA para judo-tatame (judo tatami mat competition)
 NADA para ringue-lutas (empty boxing ring)
+NADA para gramado-natal-luz (Natal Luz Gramado Christmas lights)
+NADA para gramado-natal-arvore (Gramado Natal Luz arvore)

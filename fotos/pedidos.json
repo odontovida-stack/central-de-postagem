@@ -598,5 +598,30 @@
     "busca": "California State Capitol dome Sacramento",
     "formato": "paisagem",
     "opcao": 1
+  },
+  {
+    "nome": "rio-reveillon-fogos",
+    "busca": "Copacabana New Year fireworks Rio de Janeiro",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-natal-luz",
+    "busca": "Natal Luz Gramado Christmas lights",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-lago-negro",
+    "busca": "Lago Negro Gramado",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-natal-arvore",
+    "busca": "Gramado Natal Luz arvore",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-rua-coberta",
+    "busca": "Rua Coberta Gramado",
+    "opcao": 1
   }
 ]
