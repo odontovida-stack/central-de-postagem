@@ -1,0 +1,30 @@
+name: Radar de preço
+
+on:
+  schedule:
+    - cron: "43 11 * * *"   # todo dia às 8:43 de Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Conferir preços e avisar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ML_ACCESS_TOKEN: ${{ secrets.ML_ACCESS_TOKEN }}
+        run: python scripts/radar_precos.py --avisar
+      - name: Gravar
+        run: |
+          git config user.name "central-de-postagem"
+          git config user.email "actions@users.noreply.github.com"
+          git add dados/radar_precos.json
+          git diff --cached --quiet || (git commit -m "Radar de preço $(date -u +%F)" && (git push || (git pull --rebase && git push)))
