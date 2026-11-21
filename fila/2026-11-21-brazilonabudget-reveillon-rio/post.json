@@ -7,7 +7,7 @@
     "tiktok"
   ],
   "quando": "2026-11-21T18:30:00-03:00",
-  "status": "aprovado",
+  "status": "erro",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -24,5 +24,8 @@
     "Bonus: free Christmas samba show on Dec 26 on the Copacabana main stage",
     "Comment GUIDE and we'll DM you the full plan"
   ],
-  "legenda": "Rio New Year's Eve costs R$ 0 on the sand, and 12 minutes of fireworks 🎆\n🏖️ Copacabana beach party on Dec 31: free\n🎤 Main stage from 6 pm, 13 stages across the city\n🎆 Fireworks at midnight from 19 barges: 12 minutes\n🚇 Metro: last year's round-trip pass was R$ 15 (≈ US$ 2.55), online only. 2026/27 details in December\n🎶 Bonus: free Christmas samba show on Dec 26\n🤍 Wear white, carry little, pick a meeting point\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 Año Nuevo en Copacabana: gratis en la arena, 12 minutos de fuegos a la medianoche. Comenta GUÍA y te mandamos el plan por DM.\n\nUS$ 1 ≈ R$ 5.89 (PTAX Nov 19, 2026). Source: Riotur.\n📷 Cover photo: Porto Bay Hotels & Resorts (CC BY 2.0), Wikimedia Commons\n\n#brazil #braziltravel #budgettravel #riodejaneiro #newyearseve #copacabana #reveillon"
+  "legenda": "Rio New Year's Eve costs R$ 0 on the sand, and 12 minutes of fireworks 🎆\n🏖️ Copacabana beach party on Dec 31: free\n🎤 Main stage from 6 pm, 13 stages across the city\n🎆 Fireworks at midnight from 19 barges: 12 minutes\n🚇 Metro: last year's round-trip pass was R$ 15 (≈ US$ 2.55), online only. 2026/27 details in December\n🎶 Bonus: free Christmas samba show on Dec 26\n🤍 Wear white, carry little, pick a meeting point\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 Año Nuevo en Copacabana: gratis en la arena, 12 minutos de fuegos a la medianoche. Comenta GUÍA y te mandamos el plan por DM.\n\nUS$ 1 ≈ R$ 5.89 (PTAX Nov 19, 2026). Source: Riotur.\n📷 Cover photo: Porto Bay Hotels & Resorts (CC BY 2.0), Wikimedia Commons\n\n#brazil #braziltravel #budgettravel #riodejaneiro #newyearseve #copacabana #reveillon",
+  "resultado": {},
+  "erro": "POST 17841446955704566/media_publish: Application request limit reached (código 4)",
+  "tentativas": 1
 }
