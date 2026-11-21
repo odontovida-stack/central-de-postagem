@@ -1,0 +1,219 @@
+{
+ "dia": "21/11/2026",
+ "apurado_em": "2026-11-21",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-21T08:00:00-03:00",
+    "pilula": "SÁB 21/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "21/11",
+      "sub": "SÁB · 10h30",
+      "titulo": "Alcaraz x Shelton",
+      "detalhe": "Tênis · semifinal do ATP Finals · ESPN 2"
+     },
+     {
+      "data": "21/11",
+      "sub": "SÁB · 12h",
+      "titulo": "MotoGP: corrida sprint",
+      "detalhe": "Moto · GP de Portugal, com Diogo Moreira · ESPN 4"
+     },
+     {
+      "data": "21/11",
+      "sub": "SÁB · 13h40",
+      "titulo": "Irlanda x África do Sul",
+      "detalhe": "Rúgbi · Nations Championship · ESPN 2"
+     },
+     {
+      "data": "21/11",
+      "sub": "SÁB · 15h",
+      "titulo": "UFC Catar: Procházka x Stirling",
+      "detalhe": "Lutas · card principal · Paramount+"
+     },
+     {
+      "data": "22/11",
+      "sub": "DOM · 01h",
+      "titulo": "F1: GP de Las Vegas",
+      "detalhe": "F1 · corrida, com Bortoleto · Globo e sportv3",
+      "gratis": true
+     }
+    ],
+    "fonte": "Conferido em 21/11 à 1h · ATP, Grande Prêmio, Planet Rugby, UFC, Antenados na TV",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: Alcaraz x Shelton na semifinal do ATP Finals às 10h30 na ESPN 2; corrida sprint da MotoGP no GP de Portugal, com Diogo Moreira, às 12h na ESPN 4; Irlanda x África do Sul no rúgbi às 13h40 na ESPN 2; UFC Catar com Procházka x Stirling no card principal às 15h no Paramount+; e, na madrugada de domingo, à 1h, o GP de Las Vegas de F1, com Bortoleto, grátis na Globo e também no sportv3",
+    "legenda": "🏍️🎾🏉 Sábado cheio: sprint da MotoGP, semi do ATP Finals, rúgbi, UFC e F1 de madrugada!\n\n⏰ Horário de Brasília:\n🎾 10h30 · Alcaraz x Shelton, semifinal do ATP Finals · ESPN 2\n🏍️ 12h · Sprint da MotoGP em Portugal, com o brasileiro Diogo Moreira · ESPN 4\n🏉 13h40 · Irlanda x África do Sul, no Nations Championship · ESPN 2\n🥊 15h · UFC Catar: Procházka x Stirling · Paramount+ (3 brasileiros no card preliminar, a partir das 12h)\n🏁 1h (madrugada de domingo) · GP de Las Vegas de F1, com Bortoleto · Globo 🆓 e sportv3\n🇧🇷 E tem Brasil x Canadá na Billie Jean King Cup, empatado em 1 a 1 (horário a confirmar · ESPN 3)\n\n🆓 = transmissão grátis\n📌 Salve para não perder o horário\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: ATP, Grande Prêmio, Planet Rugby, UFC, A Gazeta (ES) e Antenados na TV.\n\n#esportes #hojetem #motogp #atpfinals #rugby #ufc #f1 #bortoleto"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-21T10:30:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "SÁB 21/11",
+    "chamada": "DESFALQUE · BAYERN",
+    "grande": "3 meses",
+    "titulo": "Bayern perde Harry Kane",
+    "caixas": [
+     [
+      "🩹 Lesão",
+      "Ruptura da sindesmose do tornozelo, no 1 × 1 com o Colônia"
+     ],
+     [
+      "🗣️ Quem confirmou",
+      "Max Eberl, diretor do Bayern, à Sportschau"
+     ]
+    ],
+    "nota": "Olise também saiu lesionado no intervalo e ainda não tem diagnóstico.",
+    "fonte": "Conferido em 21/11 à 1h · Sportschau, Sport1",
+    "cta": "Mande para quem acompanha a Bundesliga",
+    "alt": "Desfalque no Bayern: Harry Kane rompeu a sindesmose do tornozelo no empate de 1 a 1 com o Colônia e deve ficar cerca de 3 meses fora, segundo o diretor Max Eberl à Sportschau. Olise também saiu lesionado no intervalo e ainda não tem diagnóstico",
+    "legenda": "🚨 Baque no Bayern: Harry Kane deve ficar cerca de 3 meses fora!\n\n🩹 Ruptura da sindesmose do tornozelo, depois de uma pancada no 1º tempo do 1 x 1 com o Colônia, na sexta\n🗣️ \"Harry vai ficar três meses fora\", disse o diretor Max Eberl à Sportschau\n🤕 Michael Olise também saiu lesionado no intervalo e ainda não tem diagnóstico\n📊 O Bayern segue líder e invicto na Bundesliga, empatado em pontos com o Dortmund\n\n📌 Salve para acompanhar a recuperação\n📤 Mande para quem acompanha a Bundesliga\n\nQuem o Bayern deveria contratar para o lugar dele? 👇\nSiga @jogosnatela para o futebol do mundo todo, todo dia.\n\nFontes: Sportschau e Sport1.\n\n#bayern #harrykane #kane #bundesliga #futebol #futebolinternacional"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-21T12:30:00-03:00",
+    "foto": "estadio-maracana",
+    "pilula": "SÁB 21/11",
+    "chamada": "JOGO DO DIA",
+    "grande": "16h30",
+    "titulo": "Palmeiras x Flamengo",
+    "caixas": [
+     [
+      "📺 Onde assistir",
+      "Globo e GETV (grátis) e Premiere"
+     ],
+     [
+      "🏆 Competição",
+      "Brasileirão · 36ª rodada · Nubank Parque"
+     ]
+    ],
+    "nota": "Flamengo 79 x 73 Palmeiras: se não perder, o Fla é campeão hoje.",
+    "fonte": "Conferido em 21/11 à 1h · CBF (via Lance), CNN Brasil",
+    "cta": "Salve e mande para quem torce com você",
+    "alt": "Jogo do dia: Palmeiras x Flamengo, hoje às 16h30, no Nubank Parque, pela 36ª rodada do Brasileirão, grátis na Globo e na GETV e também no Premiere. O Flamengo tem 79 pontos e o Palmeiras 73: se não perder, o Flamengo é campeão hoje",
+    "legenda": "🔥 Hoje pode sair o campeão brasileiro: se não perder, o Flamengo levanta a taça no Nubank Parque!\n\n⚽ Palmeiras x Flamengo · 36ª rodada do Brasileirão\n⏰ Hoje, 16h30 (Brasília)\n📍 Nubank Parque, São Paulo\n📺 Globo 🆓, GETV no YouTube 🆓 e Premiere\n📊 Flamengo 79 x 73 Palmeiras, a 3 rodadas do fim\n🚫 Suspensos: Barboza, no Palmeiras; Léo Pereira e Pulgar, no Flamengo\n\n📌 Salve para não perder o horário\n📤 Mande para o palmeirense ou o flamenguista da sua vida\n\nSai o título hoje? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: CBF (via Lance), CNN Brasil, 365Scores e Tribuna de Jundiaí.\n\n#brasileirao #palmeiras #flamengo #palmeirasxflamengo #futebol #ondeassistir"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-21T14:30:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "PALPITE",
+    "chamada": "BRASILEIRÃO · 36ª RODADA",
+    "titulo": "Palmeiras x Flamengo: sai o título hoje?",
+    "contexto": "Hoje, 16h30, no Nubank Parque · Globo e GETV (grátis) · o Fla é campeão se não perder.",
+    "opcoes": [
+     "Palmeiras vence e adia a festa",
+     "Empate: Flamengo campeão",
+     "Flamengo vence e é campeão"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Palmeiras x Flamengo, sai o título hoje? Hoje às 16h30, no Nubank Parque, grátis na Globo e na GETV. O Flamengo é campeão se não perder. A: Palmeiras vence e adia a festa. B: Empate, Flamengo campeão. C: Flamengo vence e é campeão.",
+    "legenda": "🏆 Palmeiras x Flamengo: sai o título hoje?\n\nA) Palmeiras vence e adia a festa\nB) Empate: Flamengo campeão\nC) Flamengo vence e é campeão\n\n⏰ Hoje, 16h30 (Brasília), no Nubank Parque\n📺 Globo 🆓, GETV 🆓 e Premiere\n📊 Flamengo 79 x 73 Palmeiras, a 3 rodadas do fim\n\n📌 Salve e volte depois do jogo\n📤 Mande para quem vai ver o jogo com você\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: CBF (via Lance) e CNN Brasil.\n\n#brasileirao #palmeiras #flamengo #palpite #futebol"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-21T13:00:00-03:00",
+    "foto": "game-controle",
+    "pilula": "SÁB 21/11",
+    "chamada": "RECORDE · GTA VI",
+    "grande": "US$ 3,79 bi",
+    "titulo": "GTA VI bate recorde no 1º dia",
+    "caixas": [
+     [
+      "💰 1º dia",
+      "US$ 3,79 bilhões em vendas no varejo, recorde do entretenimento"
+     ],
+     [
+      "🔙 Antes",
+      "GTA V: US$ 800 milhões no 1º dia, em 2013"
+     ]
+    ],
+    "nota": "Também: 32,5 milhões de cópias vendidas antes do lançamento, outro recorde.",
+    "fonte": "Conferido em 21/11 à 1h · Take-Two (comunicado de 20/11)",
+    "cta": "Mande para quem já está jogando",
+    "alt": "Recorde: GTA VI fez 3,79 bilhões de dólares em vendas no varejo no primeiro dia, segundo a Take-Two, o maior lançamento do entretenimento. Em 2013, o GTA V fez 800 milhões de dólares no primeiro dia. O jogo também vendeu 32,5 milhões de cópias antes do lançamento",
+    "legenda": "💰 US$ 3,79 bilhões em um dia: GTA VI é o maior lançamento da história do entretenimento!\n\n🎮 Vendas no varejo no 1º dia: US$ 3,79 bilhões, segundo a Take-Two\n📦 32,5 milhões de cópias vendidas antes do lançamento, recorde em todas as plataformas\n⭐ Nota 99 no Metacritic\n🔙 Em 2013, o GTA V fez US$ 800 milhões no 1º dia\nℹ️ Os números são estimativas da empresa até o fim de 19/11\n\n📌 Salve para lembrar deste recorde\n📤 Mande para quem já está jogando\n\nVocê já comprou? Sim ou não 👇\nSiga @lancamentosdegames para os lançamentos e os jogos grátis.\n\nFonte: Take-Two, comunicado de 20/11 enviado à SEC.\n\n#gta6 #gtavi #rockstargames #recorde #games #ps5 #xbox"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "enquete",
+    "quando": "2026-11-21T20:00:00-03:00",
+    "foto": "grupo:estreia",
+    "pilula": "ENQUETE",
+    "chamada": "FIM DE SEMANA",
+    "titulo": "O que você vai assistir neste fim de semana?",
+    "contexto": "As estreias mais comentadas da semana, no streaming e no cinema.",
+    "opcoes": [
+     "Percy Jackson T3 · Disney+",
+     "Jogos Vorazes: Amanhecer na Colheita · cinema",
+     "Yellowjackets T4 · Paramount+",
+     "Perfeitos Mentirosos · Prime Video"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Enquete: o que você vai assistir neste fim de semana? A: Percy Jackson, 3ª temporada, no Disney+. B: Jogos Vorazes: Amanhecer na Colheita, no cinema. C: Yellowjackets, 4ª temporada, no Paramount+. D: Perfeitos Mentirosos, no Prime Video.",
+    "legenda": "🍿 O que você vai assistir neste fim de semana?\n\nA) Percy Jackson e os Olimpianos, 3ª temporada · Disney+\nB) Jogos Vorazes: Amanhecer na Colheita · cinema\nC) Yellowjackets, 4ª temporada · Paramount+\nD) Perfeitos Mentirosos · Prime Video\n\n📌 Salve para montar a sua lista\n📤 Mande para quem divide o sofá com você\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @tudooqueestreia para saber tudo o que estreia, toda semana.\n\n#estreias #fimdesemana #percyjackson #jogosvorazes #yellowjackets #streaming"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-21T16:00:00-03:00",
+    "pilula": "SÁB 21/11",
+    "chamada": "HOJE TEM SHOW",
+    "titulo": "Shows de hoje",
+    "itens": [
+     {
+      "data": "21/11",
+      "sub": "SÁB · 21h",
+      "titulo": "Mariah Carey",
+      "detalhe": "Rio · área externa da Farmasi Arena · portões 18h"
+     },
+     {
+      "data": "21/11",
+      "sub": "SÁB · 20h",
+      "titulo": "Roger Daltrey",
+      "detalhe": "SP · Best of Blues and Rock · Chris Isaak às 18h15"
+     },
+     {
+      "data": "21/11",
+      "sub": "SÁB · 21h",
+      "titulo": "Jão",
+      "detalhe": "BH · Mineirinho · Memórias Póstumas"
+     },
+     {
+      "data": "21/11",
+      "sub": "SÁB · 21h",
+      "titulo": "ZZ Top",
+      "detalhe": "SP · Suhai Music Hall · portões 19h"
+     },
+     {
+      "data": "21/11",
+      "sub": "SÁB · 21h",
+      "titulo": "Pitty",
+      "detalhe": "BH · Arena Hall · esgotado"
+     }
+    ],
+    "fonte": "Conferido em 21/11 à 1h · Billboard Brasil, Eventim, Rio Times, NC News",
+    "cta": "Mande para quem vai com você",
+    "alt": "Hoje tem show: Mariah Carey às 21h na área externa da Farmasi Arena, no Rio, com portões às 18h; Roger Daltrey às 20h no Best of Blues and Rock, no Ibirapuera, em São Paulo, com Chris Isaak às 18h15; Jão às 21h no Mineirinho, em Belo Horizonte; ZZ Top às 21h no Suhai Music Hall, em São Paulo, com portões às 19h; e Pitty às 21h na Arena Hall, em Belo Horizonte, com ingressos esgotados",
+    "legenda": "🎤 Sábado de show: Mariah Carey no Rio, Roger Daltrey e ZZ Top em SP, Jão e Pitty em BH!\n\n🎄 Mariah Carey · 21h · área externa da Farmasi Arena, Rio · portões às 18h\n🎸 Roger Daltrey · 20h · Best of Blues and Rock, Parque Ibirapuera, SP · Chris Isaak às 18h15\n💜 Jão · 21h · Mineirinho, BH · turnê Memórias Póstumas\n🤠 ZZ Top · 21h · Suhai Music Hall, SP · portões às 19h · 18+\n🖤 Pitty · 21h · Arena Hall, BH · esgotado\n\n⚠️ Cuidado com golpe: só compre no site oficial de cada show. Nada de Pix para desconhecidos.\n📌 Salve para não perder o horário\n📤 Mande para quem vai com você\n\nVai em qual? 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Billboard Brasil, Eventim, Rio Times e NC News.\n\n#shows #mariahcarey #rogerdaltrey #jao #zztop #pitty #agendadeshows"
+   }
+  ]
+ }
+}
