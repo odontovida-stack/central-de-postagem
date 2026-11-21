@@ -1,0 +1,90 @@
+{
+  "dia": "21/11/2026",
+  "apurado_em": "2026-11-21",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-escondido",
+        "redes": ["tiktok"],
+        "quando": "2026-11-21T19:00:00-03:00",
+        "alt": "Escondido no streaming: 3 séries ótimas e pouco comentadas, Inacreditável na Netflix, Patriot no Prime Video e Bad Sisters na Apple TV",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "grupo:estreia",
+            "pilula": "ESCONDIDO NO STREAMING",
+            "chamada": "3 SÉRIES QUE POUCA GENTE VIU",
+            "titulo": "Joias escondidas no seu streaming",
+            "caixas": [
+              ["Netflix", "Inacreditável"],
+              ["Prime Video", "Patriot"]
+            ],
+            "nota": "E mais uma na Apple TV. Sem spoiler.",
+            "fonte": "Conferido em 21/11 às 10h · Netflix, AdoroCinema, Rotten Tomatoes",
+            "cta": "Arraste →",
+            "alt": "Capa: joias escondidas no streaming, 3 séries que pouca gente viu, como Inacreditável na Netflix e Patriot no Prime Video"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "MINISSÉRIE",
+            "chamada": "NETFLIX · 8 EPISÓDIOS · 16 ANOS",
+            "titulo": "Inacreditável",
+            "texto": "Uma jovem faz uma denúncia e ninguém acredita nela. Anos depois, duas detetives investigam casos muito parecidos.",
+            "topicos": [
+              "Inspirada em fatos reais",
+              "Toni Collette, Merritt Wever e Kaitlyn Dever",
+              "98% da crítica no Rotten Tomatoes"
+            ],
+            "fonte": "Conferido em 21/11 às 10h · Netflix, AdoroCinema",
+            "alt": "Inacreditável, minissérie da Netflix com 8 episódios, 16 anos, inspirada em fatos reais, com Toni Collette, Merritt Wever e Kaitlyn Dever, 98% da crítica no Rotten Tomatoes"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE",
+            "chamada": "PRIME VIDEO · 2 TEMPORADAS",
+            "titulo": "Patriot",
+            "texto": "Um agente secreto precisa impedir que o Irã tenha a bomba e, para isso, arruma um emprego comum numa firma de tubulações.",
+            "topicos": [
+              "Espionagem com humor seco",
+              "Criada por Steve Conrad",
+              "2ª temporada com 100% no Rotten Tomatoes"
+            ],
+            "fonte": "Conferido em 21/11 às 10h · AdoroCinema, Rotten Tomatoes",
+            "alt": "Patriot, série do Prime Video com 2 temporadas, espionagem com humor seco criada por Steve Conrad, segunda temporada com 100% no Rotten Tomatoes"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "SÉRIE",
+            "chamada": "APPLE TV · 2 TEMPORADAS",
+            "titulo": "Bad Sisters",
+            "texto": "Quatro irmãs muito unidas sonhavam em se livrar do cunhado insuportável. Quando ele morre de verdade, tudo vira de cabeça para baixo.",
+            "topicos": [
+              "Comédia de humor ácido com suspense",
+              "Com Sharon Horgan",
+              "1ª temporada com 100% no Rotten Tomatoes"
+            ],
+            "fonte": "Conferido em 21/11 às 10h · Rotten Tomatoes, Apple TV",
+            "alt": "Bad Sisters, série da Apple TV com 2 temporadas, comédia de humor ácido com suspense, com Sharon Horgan, primeira temporada com 100% no Rotten Tomatoes"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "grupo:estreia",
+            "pilula": "ESCONDIDO NO STREAMING",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você já conhecia?",
+            "opcoes": [
+              "Inacreditável",
+              "Patriot",
+              "Bad Sisters",
+              "Nenhuma, vou ver hoje"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual você já conhecia? A) Inacreditável, B) Patriot, C) Bad Sisters, D) Nenhuma, vou ver hoje"
+          }
+        ],
+        "legenda": "🤫 3 séries nota 10 que quase ninguém comenta (e já estão no seu streaming) 👇\n\n🔎 Inacreditável · Netflix · minissérie inspirada em fatos reais, 8 episódios\n🕵️ Patriot · Prime Video · espionagem com humor seco\n🖤 Bad Sisters · Apple TV · 4 irmãs, 1 cunhado insuportável\n🍿 Tudo sem spoiler\n\nQual você já conhecia? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#series #netflix #streaming #oquever #filmes"
+      }
+    ]
+  }
+}
