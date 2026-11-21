@@ -1,4 +1,56 @@
 {
+ "ig:17953674738056110": {
+  "rede": "instagram",
+  "id": "17953674738056110",
+  "conta": "brasil2359",
+  "pasta": "2026-11-19-brasil2359-entenda",
+  "tipo": "carrossel",
+  "publicado_em": "2026-11-20T22:04:55+00:00",
+  "dia_semana": "Fri",
+  "hora": 19,
+  "idioma": "pt",
+  "assunto": "entenda",
+  "titulo": "Entenda o número #1: IPCA, a inflação oficial do Brasil."
+ },
+ "fb:1340041825868177_122112397539521412": {
+  "rede": "facebook",
+  "id": "1340041825868177_122112397539521412",
+  "conta": "brasil2359",
+  "pasta": "2026-11-19-brasil2359-entenda",
+  "tipo": "carrossel",
+  "publicado_em": "2026-11-20T22:04:55+00:00",
+  "dia_semana": "Fri",
+  "hora": 19,
+  "idioma": "pt",
+  "assunto": "entenda",
+  "titulo": "Entenda o número #1: IPCA, a inflação oficial do Brasil."
+ },
+ "ig:18171933418486704": {
+  "rede": "instagram",
+  "id": "18171933418486704",
+  "conta": "jogosnatela",
+  "pasta": "2026-11-20-jogosnatela-carrossel-jogo-da-semana",
+  "tipo": "carrossel",
+  "publicado_em": "2026-11-20T22:04:55+00:00",
+  "dia_semana": "Fri",
+  "hora": 19,
+  "idioma": "pt",
+  "assunto": "carrossel-jogo-da-semana",
+  "titulo": "🏆 Amanhã tem final! O Galo nunca ganhou a Sul-Americana. O Boca quer a terceira."
+ },
+ "fb:1142393848963140_122137020471362772": {
+  "rede": "facebook",
+  "id": "1142393848963140_122137020471362772",
+  "conta": "jogosnatela",
+  "pasta": "2026-11-20-jogosnatela-carrossel-jogo-da-semana",
+  "tipo": "carrossel",
+  "publicado_em": "2026-11-20T22:04:55+00:00",
+  "dia_semana": "Fri",
+  "hora": 19,
+  "idioma": "pt",
+  "assunto": "carrossel-jogo-da-semana",
+  "titulo": "🏆 Amanhã tem final! O Galo nunca ganhou a Sul-Americana. O Boca quer a terceira."
+ },
  "ig:18062561276643749": {
   "rede": "instagram",
   "id": "18062561276643749",
@@ -10,7 +62,18 @@
   "hora": 14,
   "idioma": "es",
   "assunto": "reel-camboriu",
-  "titulo": "¿Camboriú este verano? Esto es lo que necesitas antes de salir 🇧🇷"
+  "titulo": "¿Camboriú este verano? Esto es lo que necesitas antes de salir 🇧🇷",
+  "ultimo": {
+   "alcance": 20,
+   "visualizacoes": 20,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "tempo_medio_ms": 1771,
+   "em": "2026-11-21T09:43:17+00:00"
+  }
  },
  "fb:1357380613039154": {
   "rede": "facebook",
@@ -23,7 +86,12 @@
   "hora": 14,
   "idioma": "es",
   "assunto": "reel-camboriu",
-  "titulo": "¿Camboriú este verano? Esto es lo que necesitas antes de salir 🇧🇷"
+  "titulo": "¿Camboriú este verano? Esto es lo que necesitas antes de salir 🇧🇷",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:43:59+00:00"
+  }
  },
  "ig:18113626337233525": {
   "rede": "instagram",
@@ -36,7 +104,17 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏆 Título inédito: o Sporting é campeão do Mundial de clubes de futsal, em Pato Branco!"
+  "titulo": "🏆 Título inédito: o Sporting é campeão do Mundial de clubes de futsal, em Pato Branco!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:17+00:00"
+  }
  },
  "fb:122126953851372104": {
   "rede": "facebook",
@@ -49,7 +127,12 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏆 Título inédito: o Sporting é campeão do Mundial de clubes de futsal, em Pato Branco!"
+  "titulo": "🏆 Título inédito: o Sporting é campeão do Mundial de clubes de futsal, em Pato Branco!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:01+00:00"
+  }
  },
  "ig:18134067388815662": {
   "rede": "instagram",
@@ -62,7 +145,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "dolar",
-  "titulo": "Brasil em 1 número: R$ 5,89."
+  "titulo": "Brasil em 1 número: R$ 5,89.",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:17+00:00"
+  }
  },
  "fb:122112321369521412": {
   "rede": "facebook",
@@ -75,7 +168,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "dolar",
-  "titulo": "Brasil em 1 número: R$ 5,89."
+  "titulo": "Brasil em 1 número: R$ 5,89.",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:02+00:00"
+  }
  },
  "ig:18112501498933639": {
   "rede": "instagram",
@@ -88,7 +186,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🇧🇷 Brasil x Canadá na Billie Jean King Cup: quem leva o confronto?"
+  "titulo": "🇧🇷 Brasil x Canadá na Billie Jean King Cup: quem leva o confronto?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:18+00:00"
+  }
  },
  "fb:122126948451372104": {
   "rede": "facebook",
@@ -101,7 +209,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🇧🇷 Brasil x Canadá na Billie Jean King Cup: quem leva o confronto?"
+  "titulo": "🇧🇷 Brasil x Canadá na Billie Jean King Cup: quem leva o confronto?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:02+00:00"
+  }
  },
  "ig:18066369398793450": {
   "rede": "instagram",
@@ -114,7 +227,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "🎸 É hoje: Eddie Vedder sobe ao palco do Best of Blues and Rock, em São Paulo!"
+  "titulo": "🎸 É hoje: Eddie Vedder sobe ao palco do Best of Blues and Rock, em São Paulo!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:18+00:00"
+  }
  },
  "fb:122128431867365966": {
   "rede": "facebook",
@@ -127,7 +250,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "🎸 É hoje: Eddie Vedder sobe ao palco do Best of Blues and Rock, em São Paulo!"
+  "titulo": "🎸 É hoje: Eddie Vedder sobe ao palco do Best of Blues and Rock, em São Paulo!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:04+00:00"
+  }
  },
  "ig:18059313191583450": {
   "rede": "instagram",
@@ -140,7 +268,17 @@
   "hora": 8,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🎾🏎️ Brasil em quadra pela Billie Jean King Cup, ATP Finals e F1 em Las Vegas!"
+  "titulo": "🎾🏎️ Brasil em quadra pela Billie Jean King Cup, ATP Finals e F1 em Las Vegas!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:19+00:00"
+  }
  },
  "fb:122126916501372104": {
   "rede": "facebook",
@@ -153,7 +291,12 @@
   "hora": 8,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🎾🏎️ Brasil em quadra pela Billie Jean King Cup, ATP Finals e F1 em Las Vegas!"
+  "titulo": "🎾🏎️ Brasil em quadra pela Billie Jean King Cup, ATP Finals e F1 em Las Vegas!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:05+00:00"
+  }
  },
  "ig:18087626579734676": {
   "rede": "instagram",
@@ -166,7 +309,17 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "⚽ Vasco vence e o Inter cai para o Z4 a 3 rodadas do fim!"
+  "titulo": "⚽ Vasco vence e o Inter cai para o Z4 a 3 rodadas do fim!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:20+00:00"
+  }
  },
  "fb:1142393848963140_122136943557362772": {
   "rede": "facebook",
@@ -192,7 +345,17 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-agenda-completa",
-  "titulo": "📺 Agenda esportiva de sexta-feira, 20/11 (horário de Brasília)"
+  "titulo": "📺 Agenda esportiva de sexta-feira, 20/11 (horário de Brasília)",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:21+00:00"
+  }
  },
  "fb:1208306652358113_122126911377372104": {
   "rede": "facebook",
@@ -227,7 +390,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:02+00:00"
+   "em": "2026-11-21T09:43:21+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:21+00:00"
+   }
   }
  },
  "fb:1198133490049538_122128348905365966": {
@@ -665,7 +840,7 @@
    "visualizacoes": 3,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d1": {
@@ -687,10 +862,10 @@
   "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 35,
+   "visualizacoes": 43,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d1": {
@@ -1509,7 +1684,7 @@
    "visualizacoes": 17,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d1": {
@@ -1696,7 +1871,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:16+00:00"
+   "em": "2026-11-21T09:43:22+00:00"
   },
   "fotos": {
    "d1": {
@@ -1708,6 +1883,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:16+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:22+00:00"
    }
   }
  },
@@ -1744,7 +1929,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:16+00:00"
+   "em": "2026-11-21T09:43:22+00:00"
   },
   "fotos": {
    "d1": {
@@ -1756,6 +1941,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:16+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:22+00:00"
    }
   }
  },
@@ -1774,13 +1969,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:48+00:00"
+   "em": "2026-11-21T09:44:17+00:00"
   },
   "fotos": {
    "d1": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:48+00:00"
+   },
+   "d3": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:44:17+00:00"
    }
   }
  },
@@ -1804,7 +2004,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:17+00:00"
+   "em": "2026-11-21T09:43:23+00:00"
   },
   "fotos": {
    "d1": {
@@ -1816,6 +2016,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:17+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:23+00:00"
    }
   }
  },
@@ -1834,13 +2044,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:49+00:00"
+   "em": "2026-11-21T09:44:18+00:00"
   },
   "fotos": {
    "d1": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:49+00:00"
+   },
+   "d3": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:44:18+00:00"
    }
   }
  },
@@ -2038,7 +2253,7 @@
    "visualizacoes": 2,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d3": {
@@ -2063,7 +2278,7 @@
    "visualizacoes": 63,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d3": {
@@ -2834,7 +3049,7 @@
    "visualizacoes": 12,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d3": {
@@ -2859,7 +3074,7 @@
    "visualizacoes": 44,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d3": {
@@ -3280,7 +3495,7 @@
    "visualizacoes": 413,
    "curtidas": 7,
    "comentarios": 2,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d3": {
@@ -3871,7 +4086,7 @@
    "visualizacoes": 39,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d3": {
@@ -4010,7 +4225,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:35+00:00"
+   "em": "2026-11-21T09:43:23+00:00"
   },
   "fotos": {
    "d3": {
@@ -4022,6 +4237,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:35+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:23+00:00"
    }
   }
  },
@@ -4058,7 +4283,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:36+00:00"
+   "em": "2026-11-21T09:43:24+00:00"
   },
   "fotos": {
    "d3": {
@@ -4070,6 +4295,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:36+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:24+00:00"
    }
   }
  },
@@ -4106,7 +4341,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:36+00:00"
+   "em": "2026-11-21T09:43:25+00:00"
   },
   "fotos": {
    "d3": {
@@ -4118,6 +4353,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:36+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:25+00:00"
    }
   }
  },
@@ -4136,13 +4381,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:47:23+00:00"
+   "em": "2026-11-21T09:44:27+00:00"
   },
   "fotos": {
    "d3": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:47:23+00:00"
+   },
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:44:27+00:00"
    }
   }
  },
@@ -4166,7 +4416,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:37+00:00"
+   "em": "2026-11-21T09:43:25+00:00"
   },
   "fotos": {
    "d3": {
@@ -4178,6 +4428,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:37+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:25+00:00"
    }
   }
  },
@@ -4496,7 +4756,7 @@
    "visualizacoes": 15,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -4893,7 +5153,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -4918,7 +5178,7 @@
    "visualizacoes": 3,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -5375,7 +5635,7 @@
    "visualizacoes": 74,
    "curtidas": 5,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -5400,7 +5660,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -6037,7 +6297,7 @@
    "visualizacoes": 6,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -6062,7 +6322,7 @@
    "visualizacoes": 43,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -6831,7 +7091,7 @@
    "visualizacoes": 5,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -6856,7 +7116,7 @@
    "visualizacoes": 40,
    "curtidas": 1,
    "comentarios": 1,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -8551,7 +8811,7 @@
    "visualizacoes": 298,
    "curtidas": 10,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -8995,7 +9255,29 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🎾 Alcaraz x Berrettini: quem leva?"
+  "titulo": "🎾 Alcaraz x Berrettini: quem leva?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:25+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:25+00:00"
+   }
+  }
  },
  "fb:122125077135372104": {
   "rede": "facebook",
@@ -9008,7 +9290,19 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🎾 Alcaraz x Berrettini: quem leva?"
+  "titulo": "🎾 Alcaraz x Berrettini: quem leva?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:57+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:44:57+00:00"
+   }
+  }
  },
  "ig:18225572956340248": {
   "rede": "instagram",
@@ -9021,7 +9315,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-o-que-achou",
-  "titulo": "🤔 São Paulo 0x0 Corinthians: quem saiu no lucro com o empate?"
+  "titulo": "🤔 São Paulo 0x0 Corinthians: quem saiu no lucro com o empate?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:26+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:26+00:00"
+   }
+  }
  },
  "fb:122134530111362772": {
   "rede": "facebook",
@@ -9034,7 +9350,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-o-que-achou",
-  "titulo": "🤔 São Paulo 0x0 Corinthians: quem saiu no lucro com o empate?"
+  "titulo": "🤔 São Paulo 0x0 Corinthians: quem saiu no lucro com o empate?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:57+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:44:57+00:00"
+   }
+  }
  },
  "ig:18119298908003772": {
   "rede": "instagram",
@@ -9047,7 +9375,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🦖 Quinta de estreia: Godzilla volta aos cinemas hoje!"
+  "titulo": "🦖 Quinta de estreia: Godzilla volta aos cinemas hoje!",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:26+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:26+00:00"
+   }
+  }
  },
  "fb:122139431691378589": {
   "rede": "facebook",
@@ -9060,7 +9410,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🦖 Quinta de estreia: Godzilla volta aos cinemas hoje!"
+  "titulo": "🦖 Quinta de estreia: Godzilla volta aos cinemas hoje!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:58+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:44:58+00:00"
+   }
+  }
  },
  "ig:18093079850233059": {
   "rede": "instagram",
@@ -9073,7 +9435,29 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🎾🏐🏈 Quinta com Alcaraz em Paris, brasileiro em casa, Superliga e NFL de graça!"
+  "titulo": "🎾🏐🏈 Quinta com Alcaraz em Paris, brasileiro em casa, Superliga e NFL de graça!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:27+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:27+00:00"
+   }
+  }
  },
  "fb:122125069239372104": {
   "rede": "facebook",
@@ -9086,7 +9470,19 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🎾🏐🏈 Quinta com Alcaraz em Paris, brasileiro em casa, Superliga e NFL de graça!"
+  "titulo": "🎾🏐🏈 Quinta com Alcaraz em Paris, brasileiro em casa, Superliga e NFL de graça!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:59+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:44:59+00:00"
+   }
+  }
  },
  "ig:18119816197986244": {
   "rede": "instagram",
@@ -9099,7 +9495,29 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-sai-hoje",
-  "titulo": "🗡️ Chegou o dia: o remake de Ocarina of Time sai hoje!"
+  "titulo": "🗡️ Chegou o dia: o remake de Ocarina of Time sai hoje!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:27+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:27+00:00"
+   }
+  }
  },
  "fb:122124750153368510": {
   "rede": "facebook",
@@ -9112,7 +9530,19 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-sai-hoje",
-  "titulo": "🗡️ Chegou o dia: o remake de Ocarina of Time sai hoje!"
+  "titulo": "🗡️ Chegou o dia: o remake de Ocarina of Time sai hoje!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:44:59+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:44:59+00:00"
+   }
+  }
  },
  "ig:18481916557119460": {
   "rede": "instagram",
@@ -9125,7 +9555,29 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "carrossel-comece-por-aqui",
-  "titulo": "📌 Comece por aqui: o que o @showsconfirmados posta e quando"
+  "titulo": "📌 Comece por aqui: o que o @showsconfirmados posta e quando",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:28+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:28+00:00"
+   }
+  }
  },
  "fb:1198133490049538_122126465565365966": {
   "rede": "facebook",
@@ -9151,7 +9603,29 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "carrossel-comece-por-aqui",
-  "titulo": "📌 Comece por aqui: o que o @lancamentosdegames posta e quando"
+  "titulo": "📌 Comece por aqui: o que o @lancamentosdegames posta e quando",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:28+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:28+00:00"
+   }
+  }
  },
  "fb:1155011061031746_122124747231368510": {
   "rede": "facebook",
@@ -9177,7 +9651,29 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "carrossel-comece-por-aqui",
-  "titulo": "📌 Comece por aqui: o que o @esportesnatela posta e quando"
+  "titulo": "📌 Comece por aqui: o que o @esportesnatela posta e quando",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:29+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:29+00:00"
+   }
+  }
  },
  "fb:1208306652358113_122125059987372104": {
   "rede": "facebook",
@@ -9203,7 +9699,29 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "carrossel-comece-por-aqui",
-  "titulo": "📌 Comece por aqui: o que o @tudooqueestreia posta e quando"
+  "titulo": "📌 Comece por aqui: o que o @tudooqueestreia posta e quando",
+  "ultimo": {
+   "alcance": 2,
+   "visualizacoes": 5,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:29+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 2,
+    "visualizacoes": 5,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:29+00:00"
+   }
+  }
  },
  "fb:1126954220509063_122139400947378589": {
   "rede": "facebook",
@@ -9229,7 +9747,29 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "carrossel-comece-por-aqui",
-  "titulo": "📌 Comece por aqui: o que o @jogosnatela posta e quando"
+  "titulo": "📌 Comece por aqui: o que o @jogosnatela posta e quando",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:30+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:30+00:00"
+   }
+  }
  },
  "fb:1142393848963140_122134510521362772": {
   "rede": "facebook",
@@ -9258,7 +9798,7 @@
    "visualizacoes": 4,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -9280,7 +9820,29 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "⚽ Real Madrid virou nos acréscimos, o Como fez 9 na França e o Flamengo abriu 6 pontos. Hoje tem Palmeiras e Europa Leag"
+  "titulo": "⚽ Real Madrid virou nos acréscimos, o Como fez 9 na França e o Flamengo abriu 6 pontos. Hoje tem Palmeiras e Europa Leag",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:30+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:30+00:00"
+   }
+  }
  },
  "fb:1142393848963140_122134494825362772": {
   "rede": "facebook",
@@ -9306,7 +9868,29 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-agenda-completa",
-  "titulo": "📺 Agenda esportiva de quinta-feira, 05/11 (horário de Brasília)"
+  "titulo": "📺 Agenda esportiva de quinta-feira, 05/11 (horário de Brasília)",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:31+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:31+00:00"
+   }
+  }
  },
  "fb:1208306652358113_122125041033372104": {
   "rede": "facebook",
@@ -9332,7 +9916,29 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-vai-comprar",
-  "titulo": "🗡️ Ocarina of Time está de volta amanhã: vai comprar no lançamento?"
+  "titulo": "🗡️ Ocarina of Time está de volta amanhã: vai comprar no lançamento?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:32+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:32+00:00"
+   }
+  }
  },
  "fb:122124669939368510": {
   "rede": "facebook",
@@ -9345,7 +9951,19 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-vai-comprar",
-  "titulo": "🗡️ Ocarina of Time está de volta amanhã: vai comprar no lançamento?"
+  "titulo": "🗡️ Ocarina of Time está de volta amanhã: vai comprar no lançamento?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:05+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:05+00:00"
+   }
+  }
  },
  "ig:18120304273778055": {
   "rede": "instagram",
@@ -9358,7 +9976,29 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-enquete",
-  "titulo": "🎤 Qual destes shows você mais quer ver?"
+  "titulo": "🎤 Qual destes shows você mais quer ver?",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:33+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:33+00:00"
+   }
+  }
  },
  "fb:122126400651365966": {
   "rede": "facebook",
@@ -9371,7 +10011,19 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-enquete",
-  "titulo": "🎤 Qual destes shows você mais quer ver?"
+  "titulo": "🎤 Qual destes shows você mais quer ver?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:06+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:06+00:00"
+   }
+  }
  },
  "ig:18437330593179251": {
   "rede": "instagram",
@@ -9384,7 +10036,29 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "carrossel-estreias-esperadas",
-  "titulo": "🍿 Quinta tem estreia no sofá e no cinema. Qual vai ser a sua?"
+  "titulo": "🍿 Quinta tem estreia no sofá e no cinema. Qual vai ser a sua?",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:33+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:33+00:00"
+   }
+  }
  },
  "fb:1126954220509063_122139292473378589": {
   "rede": "facebook",
@@ -9410,7 +10084,29 @@
   "hora": 18,
   "idioma": "en",
   "assunto": "foz",
-  "titulo": "What does Iguazu Falls really cost in 2026?"
+  "titulo": "What does Iguazu Falls really cost in 2026?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:33+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:33+00:00"
+   }
+  }
  },
  "fb:1539525865901774_122100890499536722": {
   "rede": "facebook",
@@ -9436,7 +10132,29 @@
   "hora": 18,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🔴⚪⚫ São Paulo x Corinthians: quem vence o clássico de hoje?"
+  "titulo": "🔴⚪⚫ São Paulo x Corinthians: quem vence o clássico de hoje?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:34+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:34+00:00"
+   }
+  }
  },
  "fb:122134411341362772": {
   "rede": "facebook",
@@ -9449,7 +10167,19 @@
   "hora": 18,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🔴⚪⚫ São Paulo x Corinthians: quem vence o clássico de hoje?"
+  "titulo": "🔴⚪⚫ São Paulo x Corinthians: quem vence o clássico de hoje?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:08+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:08+00:00"
+   }
+  }
  },
  "ig:17976568263156203": {
   "rede": "instagram",
@@ -9462,7 +10192,29 @@
   "hora": 18,
   "idioma": "pt",
   "assunto": "destaque",
-  "titulo": "🌴 Faltam 15 dias para GTA VI!"
+  "titulo": "🌴 Faltam 15 dias para GTA VI!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:34+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:34+00:00"
+   }
+  }
  },
  "fb:122124660873368510": {
   "rede": "facebook",
@@ -9475,7 +10227,19 @@
   "hora": 18,
   "idioma": "pt",
   "assunto": "destaque",
-  "titulo": "🌴 Faltam 15 dias para GTA VI!"
+  "titulo": "🌴 Faltam 15 dias para GTA VI!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:08+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:08+00:00"
+   }
+  }
  },
  "ig:18105332132042428": {
   "rede": "instagram",
@@ -9488,7 +10252,29 @@
   "hora": 17,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Hoje tem Majestoso de graça na TV aberta!"
+  "titulo": "🔥 Hoje tem Majestoso de graça na TV aberta!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:35+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:35+00:00"
+   }
+  }
  },
  "fb:122134404063362772": {
   "rede": "facebook",
@@ -9501,7 +10287,19 @@
   "hora": 17,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Hoje tem Majestoso de graça na TV aberta!"
+  "titulo": "🔥 Hoje tem Majestoso de graça na TV aberta!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:09+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:09+00:00"
+   }
+  }
  },
  "ig:17952575769056423": {
   "rede": "instagram",
@@ -9514,7 +10312,29 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🥇 Primeiro ouro do Brasil nos Jogos Olímpicos da Juventude!"
+  "titulo": "🥇 Primeiro ouro do Brasil nos Jogos Olímpicos da Juventude!",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:35+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:35+00:00"
+   }
+  }
  },
  "fb:122124956787372104": {
   "rede": "facebook",
@@ -9527,7 +10347,19 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🥇 Primeiro ouro do Brasil nos Jogos Olímpicos da Juventude!"
+  "titulo": "🥇 Primeiro ouro do Brasil nos Jogos Olímpicos da Juventude!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:10+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:10+00:00"
+   }
+  }
  },
  "yo:ePdHl9K3uQI": {
   "rede": "youtube",
@@ -9543,7 +10375,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -9565,7 +10397,29 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "⚽ Tem clássico São Paulo x Corinthians de graça hoje, e a noite de Champions teve 6 a 0 e virada!"
+  "titulo": "⚽ Tem clássico São Paulo x Corinthians de graça hoje, e a noite de Champions teve 6 a 0 e virada!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:36+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:36+00:00"
+   }
+  }
  },
  "fb:1142393848963140_122134333059362772": {
   "rede": "facebook",
@@ -9591,7 +10445,29 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-agenda-completa",
-  "titulo": "📺 Agenda esportiva de quarta-feira, 04/11 (horário de Brasília)"
+  "titulo": "📺 Agenda esportiva de quarta-feira, 04/11 (horário de Brasília)",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:37+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:37+00:00"
+   }
+  }
  },
  "fb:1208306652358113_122124919773372104": {
   "rede": "facebook",
@@ -9617,7 +10493,29 @@
   "hora": 19,
   "idioma": "pt",
   "assunto": "era0",
-  "titulo": "Era 0 · 2019–2022: a régua do governo anterior 📏"
+  "titulo": "Era 0 · 2019–2022: a régua do governo anterior 📏",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:37+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:37+00:00"
+   }
+  }
  },
  "fb:1340041825868177_122106825321521412": {
   "rede": "facebook",
@@ -9643,7 +10541,29 @@
   "hora": 19,
   "idioma": "pt",
   "assunto": "carrossel-game-da-semana",
-  "titulo": "🗡️ Um dos jogos mais amados da história volta refeito do zero nesta quinta."
+  "titulo": "🗡️ Um dos jogos mais amados da história volta refeito do zero nesta quinta.",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:38+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:38+00:00"
+   }
+  }
  },
  "fb:1155011061031746_122124537921368510": {
   "rede": "facebook",
@@ -9669,7 +10589,29 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "carrossel-gratis",
-  "titulo": "⏰ Você tem 47h para pegar o terror grátis da Epic!"
+  "titulo": "⏰ Você tem 47h para pegar o terror grátis da Epic!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:39+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:39+00:00"
+   }
+  }
  },
  "fb:1155011061031746_122124521055368510": {
   "rede": "facebook",
@@ -9695,7 +10637,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "regra",
-  "titulo": "Como funciona o Brasil 23:59 ⏱️ A regra do jogo, em 4 slides."
+  "titulo": "Como funciona o Brasil 23:59 ⏱️ A regra do jogo, em 4 slides.",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:39+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:39+00:00"
+   }
+  }
  },
  "fb:1340041825868177_122106694863521412": {
   "rede": "facebook",
@@ -9721,10 +10685,10 @@
   "titulo": "The US Military Budget: $1 Trillion a Year — More Than the Next 6 Countries Combined",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 6,
+   "visualizacoes": 9,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -9746,7 +10710,29 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-agenda-completa",
-  "titulo": "📺 Agenda esportiva de terça-feira, 03/11 (horário de Brasília)"
+  "titulo": "📺 Agenda esportiva de terça-feira, 03/11 (horário de Brasília)",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:40+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:40+00:00"
+   }
+  }
  },
  "fb:1208306652358113_122124817407372104": {
   "rede": "facebook",
@@ -9772,7 +10758,29 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-enquete",
-  "titulo": "🏆 Quem foi o melhor time da rodada?"
+  "titulo": "🏆 Quem foi o melhor time da rodada?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:40+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:40+00:00"
+   }
+  }
  },
  "fb:122134106367362772": {
   "rede": "facebook",
@@ -9785,7 +10793,19 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-enquete",
-  "titulo": "🏆 Quem foi o melhor time da rodada?"
+  "titulo": "🏆 Quem foi o melhor time da rodada?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:16+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:16+00:00"
+   }
+  }
  },
  "ig:18130303448510325": {
   "rede": "instagram",
@@ -9798,7 +10818,29 @@
   "hora": 19,
   "idioma": "pt",
   "assunto": "ajuste-outubro",
-  "titulo": "O ajuste de outubro: +20 segundos ⏱️"
+  "titulo": "O ajuste de outubro: +20 segundos ⏱️",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:40+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:40+00:00"
+   }
+  }
  },
  "fb:1340041825868177_122106450081521412": {
   "rede": "facebook",
@@ -9824,7 +10866,29 @@
   "hora": 19,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "🎤 Os grandes shows de novembro no Brasil:"
+  "titulo": "🎤 Os grandes shows de novembro no Brasil:",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:41+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:41+00:00"
+   }
+  }
  },
  "fb:122126143977365966": {
   "rede": "facebook",
@@ -9837,7 +10901,19 @@
   "hora": 19,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "🎤 Os grandes shows de novembro no Brasil:"
+  "titulo": "🎤 Os grandes shows de novembro no Brasil:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:17+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:17+00:00"
+   }
+  }
  },
  "ig:18199510405387343": {
   "rede": "instagram",
@@ -9850,7 +10926,29 @@
   "hora": 18,
   "idioma": "en",
   "assunto": "rio",
-  "titulo": "What does Rio really cost in 2026? We checked the prices:"
+  "titulo": "What does Rio really cost in 2026? We checked the prices:",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 4,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:41+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 4,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:41+00:00"
+   }
+  }
  },
  "fb:1539525865901774_122098932063536722": {
   "rede": "facebook",
@@ -9876,7 +10974,29 @@
   "hora": 17,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏆 Kimi Antonelli é campeão mundial de Fórmula 1 aos 20 anos!"
+  "titulo": "🏆 Kimi Antonelli é campeão mundial de Fórmula 1 aos 20 anos!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:42+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:42+00:00"
+   }
+  }
  },
  "fb:122124712209372104": {
   "rede": "facebook",
@@ -9889,7 +11009,19 @@
   "hora": 17,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏆 Kimi Antonelli é campeão mundial de Fórmula 1 aos 20 anos!"
+  "titulo": "🏆 Kimi Antonelli é campeão mundial de Fórmula 1 aos 20 anos!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:18+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:18+00:00"
+   }
+  }
  },
  "ig:18037217591904811": {
   "rede": "instagram",
@@ -9902,7 +11034,29 @@
   "hora": 17,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "🍿 O que estreia nesta semana:"
+  "titulo": "🍿 O que estreia nesta semana:",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:42+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:42+00:00"
+   }
+  }
  },
  "fb:122138844099378589": {
   "rede": "facebook",
@@ -9915,7 +11069,19 @@
   "hora": 17,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "🍿 O que estreia nesta semana:"
+  "titulo": "🍿 O que estreia nesta semana:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:19+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:19+00:00"
+   }
+  }
  },
  "ig:18400934308207903": {
   "rede": "instagram",
@@ -9928,7 +11094,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "🏁 A semana tem F1 em casa e brasileiro na luta principal do UFC (horário de Brasília):"
+  "titulo": "🏁 A semana tem F1 em casa e brasileiro na luta principal do UFC (horário de Brasília):",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:42+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:42+00:00"
+   }
+  }
  },
  "fb:122124690483372104": {
   "rede": "facebook",
@@ -9941,7 +11129,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "🏁 A semana tem F1 em casa e brasileiro na luta principal do UFC (horário de Brasília):"
+  "titulo": "🏁 A semana tem F1 em casa e brasileiro na luta principal do UFC (horário de Brasília):",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:20+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:20+00:00"
+   }
+  }
  },
  "ig:18110760758246253": {
   "rede": "instagram",
@@ -9954,7 +11154,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "⚽ Os jogos da semana e onde assistir (horário de Brasília):"
+  "titulo": "⚽ Os jogos da semana e onde assistir (horário de Brasília):",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:43+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:43+00:00"
+   }
+  }
  },
  "fb:122134057359362772": {
   "rede": "facebook",
@@ -9967,7 +11189,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "⚽ Os jogos da semana e onde assistir (horário de Brasília):"
+  "titulo": "⚽ Os jogos da semana e onde assistir (horário de Brasília):",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:20+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:20+00:00"
+   }
+  }
  },
  "ig:18116632946031924": {
   "rede": "instagram",
@@ -9980,7 +11214,29 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "🎮 Os lançamentos da semana:"
+  "titulo": "🎮 Os lançamentos da semana:",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:44+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:44+00:00"
+   }
+  }
  },
  "fb:122124342633368510": {
   "rede": "facebook",
@@ -9993,7 +11249,19 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "agenda",
-  "titulo": "🎮 Os lançamentos da semana:"
+  "titulo": "🎮 Os lançamentos da semana:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:21+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:21+00:00"
+   }
+  }
  },
  "yo:PPQIsgO9rHQ": {
   "rede": "youtube",
@@ -10009,7 +11277,7 @@
    "visualizacoes": 149,
    "curtidas": 4,
    "comentarios": 0,
-   "em": "2026-11-20T20:48:40+00:00"
+   "em": "2026-11-21T09:45:40+00:00"
   },
   "fotos": {
    "d7": {
@@ -10031,7 +11299,29 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "⚽ Palmeiras e Grêmio largaram na frente nas semis da Copa do Brasil, e o Arsenal venceu em Anfield!"
+  "titulo": "⚽ Palmeiras e Grêmio largaram na frente nas semis da Copa do Brasil, e o Arsenal venceu em Anfield!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:44+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:44+00:00"
+   }
+  }
  },
  "fb:1142393848963140_122134015653362772": {
   "rede": "facebook",
@@ -10057,7 +11347,29 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-enquete",
-  "titulo": "🎮 Qual grátis da semana vale o resgate?"
+  "titulo": "🎮 Qual grátis da semana vale o resgate?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:45+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:45+00:00"
+   }
+  }
  },
  "fb:122124279315368510": {
   "rede": "facebook",
@@ -10070,7 +11382,19 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-enquete",
-  "titulo": "🎮 Qual grátis da semana vale o resgate?"
+  "titulo": "🎮 Qual grátis da semana vale o resgate?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:22+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:22+00:00"
+   }
+  }
  },
  "ig:18219869572357202": {
   "rede": "instagram",
@@ -10083,7 +11407,29 @@
   "hora": 19,
   "idioma": "pt",
   "assunto": "fixado",
-  "titulo": "Comece por aqui: o que é o Brasil 23:59 ⏱️"
+  "titulo": "Comece por aqui: o que é o Brasil 23:59 ⏱️",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:45+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:45+00:00"
+   }
+  }
  },
  "fb:1340041825868177_122106096519521412": {
   "rede": "facebook",
@@ -10109,7 +11455,29 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:46+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:46+00:00"
+   }
+  }
  },
  "fb:122124587625372104": {
   "rede": "facebook",
@@ -10122,7 +11490,19 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:23+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:23+00:00"
+   }
+  }
  },
  "ig:18639299626050227": {
   "rede": "instagram",
@@ -10135,7 +11515,29 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:46+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:46+00:00"
+   }
+  }
  },
  "fb:122133914643362772": {
   "rede": "facebook",
@@ -10148,7 +11550,19 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:24+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:24+00:00"
+   }
+  }
  },
  "ig:18341245171276835": {
   "rede": "instagram",
@@ -10161,7 +11575,29 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:47+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:47+00:00"
+   }
+  }
  },
  "fb:122124255189368510": {
   "rede": "facebook",
@@ -10174,7 +11610,19 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:25+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:25+00:00"
+   }
+  }
  },
  "ig:17995810002105078": {
   "rede": "instagram",
@@ -10187,7 +11635,29 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:47+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:47+00:00"
+   }
+  }
  },
  "fb:122126000637365966": {
   "rede": "facebook",
@@ -10200,7 +11670,19 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:25+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:25+00:00"
+   }
+  }
  },
  "ig:18080680394723916": {
   "rede": "instagram",
@@ -10213,7 +11695,29 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "alcance": 2,
+   "visualizacoes": 4,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:48+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 2,
+    "visualizacoes": 4,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:48+00:00"
+   }
+  }
  },
  "fb:122138624019378589": {
   "rede": "facebook",
@@ -10226,7 +11730,19 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "texto-paginas-irmas",
-  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:"
+  "titulo": "👋 Gosta daqui? Então vai curtir as nossas páginas irmãs:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:26+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:26+00:00"
+   }
+  }
  },
  "ig:18100908377550923": {
   "rede": "instagram",
@@ -10239,7 +11755,29 @@
   "hora": 14,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🏆 Kimi Antonelli sai campeão da F1 hoje, no México?"
+  "titulo": "🏆 Kimi Antonelli sai campeão da F1 hoje, no México?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:48+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:48+00:00"
+   }
+  }
  },
  "fb:122124583863372104": {
   "rede": "facebook",
@@ -10252,7 +11790,19 @@
   "hora": 14,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🏆 Kimi Antonelli sai campeão da F1 hoje, no México?"
+  "titulo": "🏆 Kimi Antonelli sai campeão da F1 hoje, no México?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:26+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:26+00:00"
+   }
+  }
  },
  "ig:17877128052587117": {
   "rede": "instagram",
@@ -10265,7 +11815,29 @@
   "hora": 14,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🟢⚫ Palmeiras x Vasco: quem vence o jogo de ida da semifinal?"
+  "titulo": "🟢⚫ Palmeiras x Vasco: quem vence o jogo de ida da semifinal?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:48+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:48+00:00"
+   }
+  }
  },
  "fb:122133908289362772": {
   "rede": "facebook",
@@ -10278,7 +11850,19 @@
   "hora": 14,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🟢⚫ Palmeiras x Vasco: quem vence o jogo de ida da semifinal?"
+  "titulo": "🟢⚫ Palmeiras x Vasco: quem vence o jogo de ida da semifinal?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:27+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:27+00:00"
+   }
+  }
  },
  "ig:18104973845282877": {
   "rede": "instagram",
@@ -10291,7 +11875,29 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏎️ Aos 41 anos, Lewis Hamilton voltou à pole!"
+  "titulo": "🏎️ Aos 41 anos, Lewis Hamilton voltou à pole!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:49+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:49+00:00"
+   }
+  }
  },
  "fb:122124578205372104": {
   "rede": "facebook",
@@ -10304,7 +11910,19 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏎️ Aos 41 anos, Lewis Hamilton voltou à pole!"
+  "titulo": "🏎️ Aos 41 anos, Lewis Hamilton voltou à pole!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:28+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:28+00:00"
+   }
+  }
  },
  "ig:17944741719368643": {
   "rede": "instagram",
@@ -10317,7 +11935,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Hoje tem semifinal da Copa do Brasil na TV aberta!"
+  "titulo": "🔥 Hoje tem semifinal da Copa do Brasil na TV aberta!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:49+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:49+00:00"
+   }
+  }
  },
  "fb:122133894147362772": {
   "rede": "facebook",
@@ -10330,7 +11970,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Hoje tem semifinal da Copa do Brasil na TV aberta!"
+  "titulo": "🔥 Hoje tem semifinal da Copa do Brasil na TV aberta!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:28+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:28+00:00"
+   }
+  }
  },
  "ig:18037366220893898": {
   "rede": "instagram",
@@ -10343,7 +11995,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "🎩 A Idade Dourada está de volta hoje!"
+  "titulo": "🎩 A Idade Dourada está de volta hoje!",
+  "ultimo": {
+   "alcance": 9,
+   "visualizacoes": 15,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:50+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 9,
+    "visualizacoes": 15,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:50+00:00"
+   }
+  }
  },
  "fb:122138606007378589": {
   "rede": "facebook",
@@ -10356,7 +12030,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "🎩 A Idade Dourada está de volta hoje!"
+  "titulo": "🎩 A Idade Dourada está de volta hoje!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:29+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:29+00:00"
+   }
+  }
  },
  "ig:18341694361257866": {
   "rede": "instagram",
@@ -10369,7 +12055,29 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🎤 Domingo de show: Ivete na serra, um Rolling Stone e M.I.A. em São Paulo!"
+  "titulo": "🎤 Domingo de show: Ivete na serra, um Rolling Stone e M.I.A. em São Paulo!",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:50+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:50+00:00"
+   }
+  }
  },
  "fb:122125983405365966": {
   "rede": "facebook",
@@ -10382,7 +12090,19 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🎤 Domingo de show: Ivete na serra, um Rolling Stone e M.I.A. em São Paulo!"
+  "titulo": "🎤 Domingo de show: Ivete na serra, um Rolling Stone e M.I.A. em São Paulo!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:30+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:30+00:00"
+   }
+  }
  },
  "ig:17977943658139692": {
   "rede": "instagram",
@@ -10395,7 +12115,29 @@
   "hora": 8,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏁🏈🏓 Domingo com F1 valendo título, NFL e brasileiro na semifinal!"
+  "titulo": "🏁🏈🏓 Domingo com F1 valendo título, NFL e brasileiro na semifinal!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:51+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:51+00:00"
+   }
+  }
  },
  "fb:122124549099372104": {
   "rede": "facebook",
@@ -10408,7 +12150,19 @@
   "hora": 8,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏁🏈🏓 Domingo com F1 valendo título, NFL e brasileiro na semifinal!"
+  "titulo": "🏁🏈🏓 Domingo com F1 valendo título, NFL e brasileiro na semifinal!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:30+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:30+00:00"
+   }
+  }
  },
  "ig:18147529489595766": {
   "rede": "instagram",
@@ -10421,7 +12175,29 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "⚽ Milan venceu o dérbi, o Barça fez 6, o Cruzeiro é campeão da Libertadores Feminina e hoje tem semifinal da Copa do Bra"
+  "titulo": "⚽ Milan venceu o dérbi, o Barça fez 6, o Cruzeiro é campeão da Libertadores Feminina e hoje tem semifinal da Copa do Bra",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:51+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:51+00:00"
+   }
+  }
  },
  "fb:1142393848963140_122133855837362772": {
   "rede": "facebook",
@@ -10447,7 +12223,29 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-enquete",
-  "titulo": "🎃 Fim de semana de Halloween: o que você vai assistir?"
+  "titulo": "🎃 Fim de semana de Halloween: o que você vai assistir?",
+  "ultimo": {
+   "alcance": 2,
+   "visualizacoes": 3,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:51+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 2,
+    "visualizacoes": 3,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:51+00:00"
+   }
+  }
  },
  "fb:122138474487378589": {
   "rede": "facebook",
@@ -10460,7 +12258,19 @@
   "hora": 20,
   "idioma": "pt",
   "assunto": "pergunta-enquete",
-  "titulo": "🎃 Fim de semana de Halloween: o que você vai assistir?"
+  "titulo": "🎃 Fim de semana de Halloween: o que você vai assistir?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:32+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:32+00:00"
+   }
+  }
  },
  "ig:18187709455418896": {
   "rede": "instagram",
@@ -10473,7 +12283,29 @@
   "hora": 16,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "💜 Hoje é a despedida do BTS de São Paulo!"
+  "titulo": "💜 Hoje é a despedida do BTS de São Paulo!",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:52+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:52+00:00"
+   }
+  }
  },
  "fb:122125891221365966": {
   "rede": "facebook",
@@ -10486,7 +12318,19 @@
   "hora": 16,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "💜 Hoje é a despedida do BTS de São Paulo!"
+  "titulo": "💜 Hoje é a despedida do BTS de São Paulo!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:32+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:32+00:00"
+   }
+  }
  },
  "ig:18337891459261990": {
   "rede": "instagram",
@@ -10499,7 +12343,29 @@
   "hora": 15,
   "idioma": "pt",
   "assunto": "carrossel-evento-da-semana",
-  "titulo": "🥊 Brasileiro na luta principal do UFC hoje! Moicano encara o embalado Tom Nolan."
+  "titulo": "🥊 Brasileiro na luta principal do UFC hoje! Moicano encara o embalado Tom Nolan.",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:52+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:52+00:00"
+   }
+  }
  },
  "fb:1208306652358113_122124435153372104": {
   "rede": "facebook",
@@ -10525,7 +12391,29 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🔴⚫🔵 Milan x Inter: quem vence o clássico de Milão?"
+  "titulo": "🔴⚫🔵 Milan x Inter: quem vence o clássico de Milão?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:53+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:53+00:00"
+   }
+  }
  },
  "fb:122133735531362772": {
   "rede": "facebook",
@@ -10538,7 +12426,19 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🔴⚫🔵 Milan x Inter: quem vence o clássico de Milão?"
+  "titulo": "🔴⚫🔵 Milan x Inter: quem vence o clássico de Milão?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:34+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:34+00:00"
+   }
+  }
  },
  "ig:18002375102812708": {
   "rede": "instagram",
@@ -10551,7 +12451,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Hoje tem o clássico da Alemanha valendo a liderança!"
+  "titulo": "🔥 Hoje tem o clássico da Alemanha valendo a liderança!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:53+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:53+00:00"
+   }
+  }
  },
  "fb:122133725043362772": {
   "rede": "facebook",
@@ -10564,7 +12486,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Hoje tem o clássico da Alemanha valendo a liderança!"
+  "titulo": "🔥 Hoje tem o clássico da Alemanha valendo a liderança!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:34+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:34+00:00"
+   }
+  }
  },
  "ig:18159715351449310": {
   "rede": "instagram",
@@ -10577,7 +12511,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-o-que-achou",
-  "titulo": "💜 Foi ao show do BTS no MorumBIS? Conta como foi!"
+  "titulo": "💜 Foi ao show do BTS no MorumBIS? Conta como foi!",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:54+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:54+00:00"
+   }
+  }
  },
  "fb:122125870293365966": {
   "rede": "facebook",
@@ -10590,7 +12546,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-o-que-achou",
-  "titulo": "💜 Foi ao show do BTS no MorumBIS? Conta como foi!"
+  "titulo": "💜 Foi ao show do BTS no MorumBIS? Conta como foi!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:35+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:35+00:00"
+   }
+  }
  },
  "ig:18346404985257010": {
   "rede": "instagram",
@@ -10603,7 +12571,29 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏁🥊🏐 Sábado cheio: F1 decidindo o grid, brasileiro na luta principal do UFC e Superliga!"
+  "titulo": "🏁🥊🏐 Sábado cheio: F1 decidindo o grid, brasileiro na luta principal do UFC e Superliga!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:54+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:54+00:00"
+   }
+  }
  },
  "fb:122124416103372104": {
   "rede": "facebook",
@@ -10616,7 +12606,19 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏁🥊🏐 Sábado cheio: F1 decidindo o grid, brasileiro na luta principal do UFC e Superliga!"
+  "titulo": "🏁🥊🏐 Sábado cheio: F1 decidindo o grid, brasileiro na luta principal do UFC e Superliga!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:36+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:36+00:00"
+   }
+  }
  },
  "ig:18077371199505951": {
   "rede": "instagram",
@@ -10629,7 +12631,29 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "carrossel-gratis-da-semana",
-  "titulo": "🎁 Um terror premiado de graça até 05/11. Vale o resgate?"
+  "titulo": "🎁 Um terror premiado de graça até 05/11. Vale o resgate?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:55+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:55+00:00"
+   }
+  }
  },
  "fb:1155011061031746_122124098967368510": {
   "rede": "facebook",
@@ -10655,7 +12679,29 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏁 A F1 pode ter campeão já neste domingo, no México!"
+  "titulo": "🏁 A F1 pode ter campeão já neste domingo, no México!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:55+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:55+00:00"
+   }
+  }
  },
  "fb:122124410421372104": {
   "rede": "facebook",
@@ -10668,7 +12714,19 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏁 A F1 pode ter campeão já neste domingo, no México!"
+  "titulo": "🏁 A F1 pode ter campeão já neste domingo, no México!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:37+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:37+00:00"
+   }
+  }
  },
  "ig:18370558486213398": {
   "rede": "instagram",
@@ -10681,7 +12739,29 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "⚽ O Corinthians voltou a vencer, o PSG fez 5 e hoje tem Bayern x Dortmund e clássico de Milão!"
+  "titulo": "⚽ O Corinthians voltou a vencer, o PSG fez 5 e hoje tem Bayern x Dortmund e clássico de Milão!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:56+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:56+00:00"
+   }
+  }
  },
  "fb:1142393848963140_122133700995362772": {
   "rede": "facebook",
@@ -10707,7 +12787,29 @@
   "hora": 16,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "💜 Hoje é dia de BTS em São Paulo!"
+  "titulo": "💜 Hoje é dia de BTS em São Paulo!",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 2,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:56+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 2,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:56+00:00"
+   }
+  }
  },
  "fb:122125761159365966": {
   "rede": "facebook",
@@ -10720,7 +12822,19 @@
   "hora": 16,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "💜 Hoje é dia de BTS em São Paulo!"
+  "titulo": "💜 Hoje é dia de BTS em São Paulo!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:39+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:39+00:00"
+   }
+  }
  },
  "ig:17892638091617466": {
   "rede": "instagram",
@@ -10733,7 +12847,29 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-o-que-achou",
-  "titulo": "🤔 Depois do 4 a 1 no Vasco, o Flamengo já é favorito ao título?"
+  "titulo": "🤔 Depois do 4 a 1 no Vasco, o Flamengo já é favorito ao título?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:57+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:57+00:00"
+   }
+  }
  },
  "fb:122133553701362772": {
   "rede": "facebook",
@@ -10746,7 +12882,19 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-o-que-achou",
-  "titulo": "🤔 Depois do 4 a 1 no Vasco, o Flamengo já é favorito ao título?"
+  "titulo": "🤔 Depois do 4 a 1 no Vasco, o Flamengo já é favorito ao título?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:39+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:39+00:00"
+   }
+  }
  },
  "ig:18100165886548786": {
   "rede": "instagram",
@@ -10759,7 +12907,29 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🔴⚫ O Flamengo está sozinho na ponta do Brasileirão!"
+  "titulo": "🔴⚫ O Flamengo está sozinho na ponta do Brasileirão!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:57+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:57+00:00"
+   }
+  }
  },
  "fb:122133542895362772": {
   "rede": "facebook",
@@ -10772,7 +12942,19 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🔴⚫ O Flamengo está sozinho na ponta do Brasileirão!"
+  "titulo": "🔴⚫ O Flamengo está sozinho na ponta do Brasileirão!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-21T09:45:40+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-21T09:45:40+00:00"
+   }
+  }
  },
  "ig:18111416081074881": {
   "rede": "instagram",
@@ -10785,7 +12967,29 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "⚽ Flamengo atropela o Vasco, Cruzeiro vence o clássico e o Grêmio sai do Z4. E hoje tem Corinthians!"
+  "titulo": "⚽ Flamengo atropela o Vasco, Cruzeiro vence o clássico e o Grêmio sai do Z4. E hoje tem Corinthians!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-21T09:43:57+00:00"
+  },
+  "fotos": {
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-21T09:43:57+00:00"
+   }
+  }
  },
  "fb:1142393848963140_122133540345362772": {
   "rede": "facebook",
