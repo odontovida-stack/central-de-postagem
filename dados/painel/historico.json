@@ -3112,7 +3112,7 @@
   "canal": "Brasil 23:59",
   "plataforma": "Instagram",
   "seguidores": 0,
-  "posts_total": 7,
+  "posts_total": 9,
   "alcance_dia": 0,
   "visualizacoes_dia": 0,
   "interacoes_dia": 0,
@@ -3150,7 +3150,7 @@
   "canal": "@jogosnatela",
   "plataforma": "Instagram",
   "seguidores": 0,
-  "posts_total": 77,
+  "posts_total": 83,
   "alcance_dia": 0,
   "visualizacoes_dia": 0,
   "interacoes_dia": 0,
@@ -3169,7 +3169,7 @@
   "canal": "@tudooqueestreia",
   "plataforma": "Instagram",
   "seguidores": 0,
-  "posts_total": 22,
+  "posts_total": 24,
   "alcance_dia": 0,
   "visualizacoes_dia": 0,
   "interacoes_dia": 0,
@@ -3188,7 +3188,7 @@
   "canal": "@esportesnatela",
   "plataforma": "Instagram",
   "seguidores": 0,
-  "posts_total": 60,
+  "posts_total": 63,
   "alcance_dia": 0,
   "visualizacoes_dia": 0,
   "interacoes_dia": 0,
@@ -3207,7 +3207,7 @@
   "canal": "@lancamentosdegames",
   "plataforma": "Instagram",
   "seguidores": 0,
-  "posts_total": 28,
+  "posts_total": 30,
   "alcance_dia": 0,
   "visualizacoes_dia": 0,
   "interacoes_dia": 0,
@@ -3245,8 +3245,8 @@
   "canal": "The American File",
   "plataforma": "YouTube",
   "seguidores": 6,
-  "posts_total": 17,
-  "visualizacoes_total": 1212
+  "posts_total": 18,
+  "visualizacoes_total": 1215
  },
  {
   "data": "2026-11-21",
@@ -3255,13 +3255,13 @@
   "plataforma": "YouTube",
   "seguidores": 1,
   "posts_total": 6,
-  "visualizacoes_total": 65
+  "visualizacoes_total": 67
  },
  {
   "operacao": "Brasil 23:59",
   "canal": "Brasil 23:59",
   "plataforma": "TikTok",
-  "seguidores": 1,
+  "seguidores": 2,
   "posts_total": 6,
   "interacoes_dia": null,
   "data": "2026-11-21"
@@ -3280,7 +3280,7 @@
   "canal": "@tudooqueestreia",
   "plataforma": "TikTok",
   "seguidores": 8,
-  "posts_total": 17,
+  "posts_total": 18,
   "interacoes_dia": null,
   "data": "2026-11-21"
  },
@@ -3289,7 +3289,7 @@
   "canal": "@jogosnatela",
   "plataforma": "TikTok",
   "seguidores": 6,
-  "posts_total": 46,
+  "posts_total": 49,
   "interacoes_dia": null,
   "data": "2026-11-21"
  }
