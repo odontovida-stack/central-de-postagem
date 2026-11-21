@@ -1,0 +1,407 @@
+{
+ "dia": "21/11/2026",
+ "apurado_em": "2026-11-21",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-21T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de sábado, 21/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 21/11",
+      "linhas": [
+       {
+        "hora": "07h10",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Portugal",
+        "jogo": "Treino livre 2",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "07h50",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Portugal",
+        "jogo": "Classificação (Diogo Moreira no Q1)",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "08h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · semi de duplas",
+        "jogo": "Arévalo/Pavic x Harrison/Skupski",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h00",
+        "esporte": "outros",
+        "competicao": "SailGP · Emirados Árabes",
+        "jogo": "Regatas do dia",
+        "canal": "BandSports"
+       },
+       {
+        "hora": "08h00",
+        "esporte": "surfe",
+        "competicao": "Surf Brasil · Guarda do Embaú",
+        "jogo": "Etapa do dia",
+        "canal": "XSports"
+       },
+       {
+        "hora": "10h30",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · semifinal",
+        "jogo": "Alcaraz x Shelton",
+        "canal": "ESPN 2 · Disney+"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "futebol",
+        "competicao": "Paulistão Feminino",
+        "jogo": "São Paulo x Santos",
+        "canal": "CazéTV · Record News · HBO Max",
+        "gratis": true
+       },
+       {
+        "hora": "11h10",
+        "esporte": "rugby",
+        "competicao": "Nations Championship",
+        "jogo": "Inglaterra x Nova Zelândia",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h10",
+        "esporte": "rugby",
+        "competicao": "Nations Championship",
+        "jogo": "Escócia x Japão",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "12h00",
+        "esporte": "lutas",
+        "competicao": "UFC Catar · card preliminar",
+        "jogo": "Tallison Teixeira x Shamil Gaziev",
+        "canal": "Paramount+"
+       },
+       {
+        "hora": "12h00",
+        "esporte": "futebol",
+        "competicao": "Mundial Sub-17 · Grupo I",
+        "jogo": "Brasil x Irlanda",
+        "canal": "CazéTV · sportv",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 21/11 à 1h · Antenados na TV, ATP, UFC, Grande Prêmio, CBF, Conmebol, Planet Rugby, WebVôlei",
+      "cta": "Arraste →",
+      "alt": "Agenda de sábado, 21/11, parte 1 de 3: Treino livre 2 às 07h10 (MotoGP · GP de Portugal, ESPN 4 · Disney+), Classificação (Diogo Moreira no Q1) às 07h50 (MotoGP · GP de Portugal, ESPN 4 · Disney+), Arévalo/Pavic x Harrison/Skupski às 08h00 (ATP Finals · semi de duplas, a confirmar), Regatas do dia às 08h00 (SailGP · Emirados Árabes, BandSports), Etapa do dia às 08h00 (Surf Brasil · Guarda do Embaú, XSports), Alcaraz x Shelton às 10h30 (ATP Finals · semifinal, ESPN 2 · Disney+), São Paulo x Santos às 11h00 (Paulistão Feminino, CazéTV · Record News · HBO Max, grátis), Inglaterra x Nova Zelândia às 11h10 (Nations Championship, a confirmar), Escócia x Japão às 11h10 (Nations Championship, a confirmar), Tallison Teixeira x Shamil Gaziev às 12h00 (UFC Catar · card preliminar, Paramount+), Brasil x Irlanda às 12h00 (Mundial Sub-17 · Grupo I, CazéTV · sportv, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 21/11",
+      "linhas": [
+       {
+        "hora": "12h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Portugal",
+        "jogo": "Corrida sprint",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "12h30",
+        "esporte": "automobilismo",
+        "competicao": "Porsche Cup · Interlagos",
+        "jogo": "Corrida 1 da decisão",
+        "canal": "Band · BandSports",
+        "gratis": true
+       },
+       {
+        "hora": "13h15",
+        "esporte": "futebol",
+        "competicao": "Ligue 1",
+        "jogo": "Nice x PSG",
+        "canal": "CazéTV · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "13h40",
+        "esporte": "rugby",
+        "competicao": "Nations Championship",
+        "jogo": "Irlanda x África do Sul",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · semi de duplas",
+        "jogo": "Krawietz/Pütz x Arribagé/Olivetti",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Newcastle x Arsenal",
+        "canal": "CazéTV · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "15h00",
+        "esporte": "lutas",
+        "competicao": "UFC Catar · card principal",
+        "jogo": "Procházka x Stirling",
+        "canal": "Paramount+"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "volei",
+        "competicao": "Superliga masculina",
+        "jogo": "São José x Sada Cruzeiro",
+        "canal": "GETV (YouTube)",
+        "gratis": true
+       },
+       {
+        "hora": "16h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Osasco x Cruzeiro",
+        "canal": "YouTube NBB",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 36ª rodada",
+        "jogo": "Palmeiras x Flamengo",
+        "canal": "Globo · GETV · Premiere",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · semifinal",
+        "jogo": "Zverev x Medvedev",
+        "canal": "ESPN 2 · Disney+"
+       }
+      ],
+      "fonte": "Conferido em 21/11 à 1h · Antenados na TV, ATP, UFC, Grande Prêmio, CBF, Conmebol, Planet Rugby, WebVôlei",
+      "cta": "Arraste →",
+      "alt": "Agenda de sábado, 21/11, parte 2 de 3: Corrida sprint às 12h00 (MotoGP · GP de Portugal, ESPN 4 · Disney+), Corrida 1 da decisão às 12h30 (Porsche Cup · Interlagos, Band · BandSports, grátis), Nice x PSG às 13h15 (Ligue 1, CazéTV · XSports, grátis), Irlanda x África do Sul às 13h40 (Nations Championship, ESPN 2), Krawietz/Pütz x Arribagé/Olivetti às 14h00 (ATP Finals · semi de duplas, a confirmar), Newcastle x Arsenal às 14h30 (Premier League, CazéTV · Disney+, grátis), Procházka x Stirling às 15h00 (UFC Catar · card principal, Paramount+), São José x Sada Cruzeiro às 16h00 (Superliga masculina, GETV (YouTube), grátis), Osasco x Cruzeiro às 16h00 (NBB, YouTube NBB, grátis), Palmeiras x Flamengo às 16h30 (Brasileirão · 36ª rodada, Globo · GETV · Premiere, grátis), Zverev x Medvedev às 16h30 (ATP Finals · semifinal, ESPN 2 · Disney+)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 21/11",
+      "linhas": [
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "La Liga",
+        "jogo": "Real Madrid x Celta",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "17h10",
+        "esporte": "rugby",
+        "competicao": "Nations Championship",
+        "jogo": "França x Argentina",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "17h10",
+        "esporte": "rugby",
+        "competicao": "Nations Championship",
+        "jogo": "País de Gales x Austrália",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga masculina",
+        "jogo": "Suzano x Itambé Minas",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Pinheiros x Minas",
+        "canal": "YouTube NBB · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "19h00",
+        "esporte": "outros",
+        "competicao": "Futsal · LNF · semifinal",
+        "jogo": "Atlântico x Carlos Barbosa",
+        "canal": "YouTube LNF TV · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Sul-Americana · FINAL",
+        "jogo": "Atlético-MG x Boca Juniors",
+        "canal": "SBT · ESPN · Disney+ · Paramount+",
+        "gratis": true
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Knicks x Trail Blazers",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "futebol",
+        "competicao": "NWSL · final",
+        "jogo": "Kansas City x Washington Spirit",
+        "canal": "XSports · ESPN 3"
+       },
+       {
+        "hora": "01h00",
+        "esporte": "f1",
+        "competicao": "GP de Las Vegas",
+        "jogo": "Corrida · madrugada de domingo",
+        "canal": "Globo · sportv3",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 21/11 à 1h · Antenados na TV, ATP, UFC, Grande Prêmio, CBF, Conmebol, Planet Rugby, WebVôlei",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de sábado, 21/11, parte 3 de 3: Real Madrid x Celta às 17h00 (La Liga, CazéTV, grátis), França x Argentina às 17h10 (Nations Championship, a confirmar), País de Gales x Austrália às 17h10 (Nations Championship, a confirmar), Suzano x Itambé Minas às 18h30 (Superliga masculina, sportv2), Pinheiros x Minas às 19h00 (NBB, YouTube NBB · XSports, grátis), Atlântico x Carlos Barbosa às 19h00 (Futsal · LNF · semifinal, YouTube LNF TV · XSports, grátis), Atlético-MG x Boca Juniors às 19h30 (Sul-Americana · FINAL, SBT · ESPN · Disney+ · Paramount+, grátis), Knicks x Trail Blazers às 21h30 (NBA, ESPN 2), Kansas City x Washington Spirit às 22h00 (NWSL · final, XSports · ESPN 3), Corrida · madrugada de domingo às 01h00 (GP de Las Vegas, Globo · sportv3, grátis)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de sábado, 21/11 (horário de Brasília)\n\n⚽ 16h30 · Palmeiras x Flamengo: o Fla é campeão se não perder · Globo 🆓\n🏆 19h30 · Final da Sul-Americana: Atlético-MG x Boca · SBT 🆓\n🏍️ 12h · Sprint da MotoGP em Portugal, com Diogo Moreira no grid\n🎾 10h30 e 16h30 · Semifinais do ATP Finals: Alcaraz x Shelton e Zverev x Medvedev\n🏉 Dia de rúgbi: Inglaterra x Nova Zelândia, Irlanda x África do Sul e França x Argentina\n🏁 1h (madrugada de domingo) · GP de Las Vegas de F1, com Bortoleto · Globo 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia.\n\nFontes: Antenados na TV, ATP, UFC, Grande Prêmio, CBF, Conmebol, Planet Rugby e WebVôlei.\n\n#esportes #agendaesportiva #ondeassistir #motogp #atpfinals #rugby #f1 #ufc"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-21T07:30:00-03:00",
+    "alt": "Resultados de sexta-feira e jogos de sábado, 21/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "SEX 20/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Bundesliga e La Liga",
+        "jogos": [
+         {
+          "casa": "Bayern",
+          "gc": 1,
+          "fora": "Colônia",
+          "gf": 1
+         },
+         {
+          "casa": "Athletic Bilbao",
+          "gc": 0,
+          "fora": "Espanyol",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Taça de Portugal",
+        "jogos": [
+         {
+          "casa": "Porto",
+          "gc": 1,
+          "fora": "Paredes",
+          "gf": 1,
+          "pc": 3,
+          "pf": 1,
+          "avanca": "casa"
+         }
+        ]
+       },
+       {
+        "competicao": "Liga Saudita",
+        "jogos": [
+         {
+          "casa": "Al-Ahli",
+          "gc": 3,
+          "fora": "Al-Nassr",
+          "gf": 1
+         }
+        ]
+       }
+      ],
+      "destaque": "Kane se lesiona e fica 3 meses fora",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 21/11 à 1h · Sportschau, ESPN, A Bola, Placar",
+      "cta": "Arraste →",
+      "alt": "Resultados de sexta-feira, 20/11. Bundesliga: Bayern 1 x 1 Colônia. La Liga: Athletic Bilbao 0 x 1 Espanyol. Taça de Portugal: Porto 1 x 1 Paredes, Porto avança nos pênaltis por 3 x 1. Liga Saudita: Al-Ahli 3 x 1 Al-Nassr. Destaque: Harry Kane se lesionou no empate do Bayern e deve ficar 3 meses fora"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SÁB 21/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "21/11",
+        "sub": "SÁB · 16h30",
+        "titulo": "Palmeiras x Flamengo",
+        "detalhe": "Brasileirão · Globo, GETV, Premiere",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "21/11",
+        "sub": "SÁB · 19h30",
+        "titulo": "Atlético-MG x Boca Juniors",
+        "detalhe": "Final da Sul-Americana · SBT, ESPN, Disney+",
+        "gratis": true
+       },
+       {
+        "data": "21/11",
+        "sub": "SÁB · 14h30",
+        "titulo": "Newcastle x Arsenal",
+        "detalhe": "Premier League · CazéTV, Disney+",
+        "gratis": true
+       },
+       {
+        "data": "21/11",
+        "sub": "SÁB · 17h",
+        "titulo": "Real Madrid x Celta",
+        "detalhe": "La Liga · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "21/11",
+        "sub": "SÁB · 13h15",
+        "titulo": "Nice x PSG",
+        "detalhe": "Ligue 1 · CazéTV, XSports",
+        "gratis": true
+       },
+       {
+        "data": "21/11",
+        "sub": "SÁB · 12h",
+        "titulo": "Brasil x Irlanda",
+        "detalhe": "Mundial Sub-17 · CazéTV, sportv",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 21/11 à 1h · CBF, Conmebol, Lance, Antenados na TV",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de sábado, 21/11: jogo do dia Palmeiras x Flamengo às 16h30, grátis na Globo e na GETV e também no Premiere, pelo Brasileirão; final da Sul-Americana Atlético-MG x Boca Juniors às 19h30, grátis no SBT e também na ESPN e no Disney+; Newcastle x Arsenal às 14h30, grátis na CazéTV; Real Madrid x Celta às 17h, grátis na CazéTV; Nice x PSG às 13h15, grátis na CazéTV; Brasil x Irlanda pelo Mundial Sub-17 às 12h, grátis na CazéTV"
+     }
+    ],
+    "legenda": "🔥 Sábado de decisão: o Flamengo pode ser campeão hoje, e o Galo joga a final da Sul-Americana!\n\n🔴 Ontem: Bayern 1 x 1 Colônia, e Harry Kane fica cerca de 3 meses fora com lesão no tornozelo\n🇵🇹 Porto 1 x 1 Paredes, Porto avança nos pênaltis (3 x 1)\n🇸🇦 Al-Ahli 3 x 1 Al-Nassr: CR7 marcou, mas perdeu um pênalti\n⚽ Athletic Bilbao 0 x 1 Espanyol, na La Liga\n\n★ Jogo do dia: Palmeiras x Flamengo, 16h30 · Globo 🆓, GETV 🆓 e Premiere\n🏆 Atlético-MG x Boca Juniors, final da Sul-Americana, 19h30 · SBT 🆓, ESPN e Disney+\n⚽ Newcastle x Arsenal, 14h30 · CazéTV 🆓\n⚽ Real Madrid x Celta, 17h · CazéTV 🆓\n⚽ Nice x PSG, 13h15 · CazéTV 🆓\n🇧🇷 Brasil x Irlanda, Mundial Sub-17, 12h · CazéTV 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: Sportschau, ESPN, La Nación, A Bola, Placar, CBF, Conmebol, Lance e Antenados na TV.\n\n#futebol #brasileirao #palmeiras #flamengo #sulamericana #atleticomg #ondeassistir"
+   }
+  ]
+ }
+}

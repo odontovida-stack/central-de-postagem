@@ -943,5 +943,37 @@
    "#E2001A"
   ],
   "texto": "#FFFFFF"
+ },
+ "Porto": {
+  "sigla": "POR",
+  "cores": [
+   "#0047AB",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Al-Nassr": {
+  "sigla": "NAS",
+  "cores": [
+   "#FFD100",
+   "#003DA5"
+  ],
+  "texto": "#003DA5"
+ },
+ "Al-Ahli": {
+  "sigla": "AHL",
+  "cores": [
+   "#00843D",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Athletic Bilbao": {
+  "sigla": "ATH",
+  "cores": [
+   "#EE2523",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
