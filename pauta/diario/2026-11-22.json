@@ -1,0 +1,234 @@
+{
+ "dia": "22/11/2026",
+ "apurado_em": "2026-11-22",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-22T08:00:00-03:00",
+    "pilula": "DOM 22/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "22/11",
+      "sub": "DOM · 10h",
+      "titulo": "MotoGP: GP de Portugal",
+      "detalhe": "Moto · Márquez pode ser campeão · ESPN 4"
+     },
+     {
+      "data": "22/11",
+      "sub": "DOM · 14h",
+      "titulo": "Alcaraz x Zverev",
+      "detalhe": "Tênis · final do ATP Finals · ESPN 2"
+     },
+     {
+      "data": "22/11",
+      "sub": "DOM · 15h",
+      "titulo": "Cardinals x Chiefs",
+      "detalhe": "NFL · sportv2"
+     },
+     {
+      "data": "22/11",
+      "sub": "DOM · 22h20",
+      "titulo": "Vikings x 49ers",
+      "detalhe": "NFL · na Cidade do México · sportv2"
+     },
+     {
+      "data": "22/11",
+      "sub": "DOM · 22h30",
+      "titulo": "Celtics x Warriors",
+      "detalhe": "NBA · Prime Video"
+     }
+    ],
+    "fonte": "Conferido em 22/11 à 0h · Crash.net, ATP, Antenados na TV, NFL",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: GP de Portugal de MotoGP às 10h na ESPN 4, com Marc Márquez podendo ser campeão; Alcaraz x Zverev na final do ATP Finals às 14h na ESPN 2; Cardinals x Chiefs pela NFL às 15h no sportv2; Vikings x 49ers, na Cidade do México, às 22h20 no sportv2; e Celtics x Warriors pela NBA às 22h30 no Prime Video",
+    "legenda": "🏍️🎾🏈 Domingo de decisão: Márquez pode ser campeão da MotoGP e Alcaraz e Zverev disputam o ATP Finals!\n\n⏰ Horário de Brasília:\n🏍️ 10h · GP de Portugal de MotoGP: Márquez lidera com 55 pontos de vantagem e é campeão se terminar em 9º ou melhor · ESPN 4\n🎾 14h · Alcaraz x Zverev, final do ATP Finals, em Turim · ESPN 2\n🏈 15h · Cardinals x Chiefs · sportv2\n🏈 22h20 · Vikings x 49ers, na Cidade do México · sportv2\n🏀 22h30 · Celtics x Warriors · Prime Video\n\n📌 Salve para não perder o horário\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Crash.net, MCNews, ATP, ESPN, Antenados na TV e NFL.\n\n#esportes #hojetem #motogp #marcmarquez #atpfinals #alcaraz #nfl #nba"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-22T12:00:00-03:00",
+    "foto": "quadra-tenis",
+    "pilula": "PALPITE",
+    "chamada": "FINAL DO ATP FINALS",
+    "titulo": "Alcaraz x Zverev: quem leva?",
+    "contexto": "Hoje, 14h (Brasília), em Turim · ESPN 2.",
+    "opcoes": [
+     "Alcaraz em 2 sets",
+     "Alcaraz em 3 sets",
+     "Zverev em 2 sets",
+     "Zverev em 3 sets"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Palpite: Alcaraz x Zverev, quem leva a final do ATP Finals? Hoje às 14h de Brasília, em Turim, na ESPN 2. A: Alcaraz em 2 sets. B: Alcaraz em 3 sets. C: Zverev em 2 sets. D: Zverev em 3 sets.",
+    "legenda": "🎾 Alcaraz x Zverev: quem leva o ATP Finals?\n\nA) Alcaraz em 2 sets\nB) Alcaraz em 3 sets\nC) Zverev em 2 sets\nD) Zverev em 3 sets\n\n⏰ Hoje, 14h (Brasília), em Turim · ESPN 2\n🔙 Na semi, Alcaraz virou contra Shelton (3-6, 6-3, 7-6) e Zverev bateu Medvedev (7-6, 6-4)\n\n📌 Salve e volte depois da final\n📤 Mande para quem joga tênis com você\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @esportesnatela para todos os esportes.\n\n#tenis #atpfinals #alcaraz #zverev #palpite #esportes"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-22T09:30:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "DOM 22/11",
+    "chamada": "JOGO DO DIA",
+    "grande": "13h30",
+    "titulo": "Liverpool x Manchester United",
+    "caixas": [
+     [
+      "📺 Onde assistir",
+      "ESPN e Disney+"
+     ],
+     [
+      "🏆 Competição",
+      "Premier League · Anfield"
+     ]
+    ],
+    "nota": "Horário de Brasília · clássico em Anfield, a casa do Liverpool.",
+    "fonte": "Conferido em 22/11 à 0h · Liverpool FC, O Povo, Antenados na TV",
+    "cta": "Salve e mande para quem torce com você",
+    "alt": "Jogo do dia: Liverpool x Manchester United, hoje às 13h30 de Brasília, em Anfield, pela Premier League, na ESPN e no Disney+",
+    "legenda": "🔥 Domingo de clássico na Inglaterra: Liverpool x Manchester United, em Anfield!\n\n⚽ Liverpool x Manchester United · Premier League\n⏰ Hoje, 13h30 (Brasília)\n📍 Anfield, Liverpool\n📺 ESPN e Disney+\n\n📌 Salve para não perder o horário\n📤 Mande para o torcedor do Liverpool ou do United da sua vida\n\nQuem leva o clássico? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: Liverpool FC, O Povo e Antenados na TV.\n\n#liverpool #manchesterunited #premierleague #futebol #futebolinternacional #ondeassistir"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-22T11:30:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "PALPITE",
+    "chamada": "PREMIER LEAGUE",
+    "titulo": "Liverpool x Manchester United: quem vence?",
+    "contexto": "Hoje, 13h30, em Anfield · ESPN e Disney+.",
+    "opcoes": [
+     "Liverpool",
+     "Empate",
+     "Manchester United"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B ou C",
+    "alt": "Palpite: Liverpool x Manchester United, quem vence? Hoje às 13h30, em Anfield, na ESPN e no Disney+. A: Liverpool. B: Empate. C: Manchester United.",
+    "legenda": "⚽ Liverpool x Manchester United: quem vence?\n\nA) Liverpool\nB) Empate\nC) Manchester United\n\n⏰ Hoje, 13h30 (Brasília), em Anfield\n📺 ESPN e Disney+\n\n📌 Salve e volte depois do jogo\n📤 Mande para quem vai ver o clássico com você\n\nResponda só com a letra: A, B ou C 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#liverpool #manchesterunited #premierleague #palpite #futebol"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-22T13:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "DOM 22/11",
+    "chamada": "CAMPEÃO · BRASILEIRÃO",
+    "grande": "10º título",
+    "titulo": "Flamengo é campeão brasileiro",
+    "caixas": [
+     [
+      "🏆 Como foi",
+      "1 × 1 com o Palmeiras, a 2 rodadas do fim"
+     ],
+     [
+      "📊 Tabela",
+      "Flamengo 80 × 74 Palmeiras"
+     ]
+    ],
+    "nota": "Na conta do clube, com a Copa União de 1987.",
+    "fonte": "Conferido em 22/11 à 0h · ESPN, Campo Grande News",
+    "cta": "Mande para um flamenguista",
+    "alt": "Campeão: o Flamengo é campeão brasileiro de 2026 depois de empatar por 1 a 1 com o Palmeiras no Nubank Parque, a duas rodadas do fim. Tem 80 pontos, contra 74 do Palmeiras. É o 10º título, na conta do clube, que inclui a Copa União de 1987, e o terceiro bicampeonato seguido da história do Flamengo",
+    "legenda": "🏆 É campeão! O Flamengo conquistou o Brasileirão 2026 na casa do Palmeiras, a 2 rodadas do fim.\n\n⚽ Palmeiras 1 x 1 Flamengo, no Nubank Parque: Arias abriu o placar e Samuel Lino empatou no 2º tempo\n📊 Flamengo 80 pontos x 74 do Palmeiras, com 2 rodadas ainda por jogar\n🔟 10º título brasileiro na conta do clube (a Copa União de 1987 ainda é disputada com o Sport)\n🔁 Bicampeão seguido (2025 e 2026), pela 3ª vez na história\n\n📌 Salve para lembrar deste título\n📤 Mande para o flamenguista da sua vida\n\nQual foi o melhor jogador do Fla no campeonato? 👇\nSiga @jogosnatela para o futebol do Brasil e do mundo, todo dia.\n\nFontes: ESPN e Campo Grande News.\n\n#flamengo #campeaobrasileiro #brasileirao #mengao #futebol #decacampeao"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-22T11:00:00-03:00",
+    "foto": "show-palco-luzes",
+    "pilula": "DOM 22/11",
+    "chamada": "HOJE TEM SHOW",
+    "grande": "15h30",
+    "titulo": "Eddie Vedder em SP",
+    "caixas": [
+     [
+      "📍 Onde",
+      "Parque Ibirapuera · Best of Blues and Rock"
+     ],
+     [
+      "🎤 Line-up",
+      "Eddie Vedder, Glen Hansard e Vitor Kley"
+     ]
+    ],
+    "nota": "Portões às 13h30 e início às 15h30. Horário de cada atração: confira no canal oficial do festival.",
+    "fonte": "Conferido em 22/11 à 0h · Exame, Billboard Brasil",
+    "cta": "Mande para quem vai com você",
+    "alt": "Hoje tem show: Eddie Vedder no Best of Blues and Rock, no Parque Ibirapuera, em São Paulo, com Glen Hansard e Vitor Kley. Portões às 13h30 e início às 15h30",
+    "legenda": "🎤 Último dia do Best of Blues and Rock: Eddie Vedder fecha o festival hoje no Ibirapuera!\n\n🎸 Eddie Vedder, Glen Hansard e Vitor Kley\n📍 Parque Ibirapuera, São Paulo\n🚪 Portões às 13h30 · início às 15h30\n🎟️ Ingressos: só pela Ticketmaster\n\n⚠️ Cuidado com golpe: nada de Pix para desconhecidos nem revenda sem garantia.\n📌 Salve para não perder o horário\n📤 Mande para quem vai com você\n\nVai? 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Exame e Billboard Brasil.\n\n#shows #eddievedder #pearljam #bestofbluesandrock #ibirapuera #agendadeshows"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-22T12:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "MARIAH CAREY NO RIO",
+    "titulo": "Foi ao show da Mariah Carey? Conta como foi",
+    "contexto": "Sábado, 21/11, na área externa da Farmasi Arena, no Rio.",
+    "opcoes": [
+     "Fui e amei",
+     "Fui, mas esperava mais",
+     "Não fui, mas queria",
+     "Vi pelos vídeos"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "O que achou? Foi ao show da Mariah Carey? Conta como foi. Sábado, 21/11, na área externa da Farmasi Arena, no Rio. A: Fui e amei. B: Fui, mas esperava mais. C: Não fui, mas queria. D: Vi pelos vídeos.",
+    "legenda": "🎄 Foi ao show da Mariah Carey no Rio? Conta como foi!\n\nA) Fui e amei\nB) Fui, mas esperava mais\nC) Não fui, mas queria\nD) Vi pelos vídeos\n\n📍 Sábado, 21/11, área externa da Farmasi Arena, Rio\n\n📤 Mande para quem foi com você\n\nResponda com a letra e conte o melhor momento 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\n#mariahcarey #shows #rio #christmastime #agendadeshows"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-22T20:00:00-03:00",
+    "foto": "cinema-claquete",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "ESTREIA DA SEMANA",
+    "titulo": "Já viu Jogos Vorazes: Amanhecer na Colheita? O que achou?",
+    "contexto": "Nos cinemas desde quinta, 19/11.",
+    "opcoes": [
+     "Amei",
+     "Gostei",
+     "Não curti",
+     "Ainda não vi"
+    ],
+    "fonte": "Sem spoiler nos comentários!",
+    "cta": "Responda A, B, C ou D",
+    "alt": "O que achou? Já viu Jogos Vorazes: Amanhecer na Colheita? Nos cinemas desde quinta, 19/11. A: Amei. B: Gostei. C: Não curti. D: Ainda não vi. Sem spoiler nos comentários.",
+    "legenda": "🏹 Já viu Jogos Vorazes: Amanhecer na Colheita? O que achou?\n\nA) Amei\nB) Gostei\nC) Não curti\nD) Ainda não vi\n\n🎬 Nos cinemas desde quinta, 19/11\n🤐 Sem spoiler nos comentários!\n\n📤 Mande para quem foi ao cinema com você\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @tudooqueestreia para saber tudo o que estreia, toda semana.\n\n#jogosvorazes #amanhecernacolheita #cinema #filmes #estreias"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "enquete",
+    "quando": "2026-11-22T20:00:00-03:00",
+    "foto": "game-controle",
+    "pilula": "ENQUETE",
+    "chamada": "GRÁTIS DA SEMANA",
+    "titulo": "Qual grátis da semana vale o resgate?",
+    "contexto": "Os da Epic ficam grátis até quinta, 26/11, às 13h.",
+    "opcoes": [
+     "Alien: Isolation · Epic",
+     "Mark of the Deep · Epic",
+     "Dead Island 2 · PS Plus Essential",
+     "Tomb Raider IV-VI Remastered · PS Plus"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Enquete: qual grátis da semana vale o resgate? A: Alien: Isolation, na Epic. B: Mark of the Deep, na Epic. C: Dead Island 2, no PS Plus Essential. D: Tomb Raider IV-VI Remastered, no PS Plus Essential. Os da Epic ficam grátis até quinta, 26/11, às 13h.",
+    "legenda": "🎁 Qual grátis da semana vale o resgate?\n\nA) Alien: Isolation · Epic Games, grátis até quinta, 26/11, às 13h\nB) Mark of the Deep · Epic Games, grátis até quinta, 26/11, às 13h\nC) Dead Island 2 · PS Plus Essential\nD) Tomb Raider IV-VI Remastered · PS Plus Essential\n\n⏰ Os da Epic saem na quinta. Ainda dá tempo!\n\n📌 Salve para lembrar de resgatar\n📤 Mande para aquele amigo que adora jogo grátis\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\n#jogosgratis #epicgames #psplus #alienisolation #deadisland2 #games"
+   }
+  ]
+ }
+}
