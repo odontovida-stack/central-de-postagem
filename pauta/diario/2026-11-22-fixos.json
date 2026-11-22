@@ -1,0 +1,393 @@
+{
+ "dia": "22/11/2026",
+ "apurado_em": "2026-11-22",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-22T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de domingo, 22/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Domingo, 22/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Portugal",
+        "jogo": "Corrida da Moto3",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "08h00",
+        "esporte": "outros",
+        "competicao": "SailGP · Emirados Árabes",
+        "jogo": "Regatas do dia",
+        "canal": "sportv2 · BandSports"
+       },
+       {
+        "hora": "08h15",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Portugal",
+        "jogo": "Corrida da Moto2",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "08h15",
+        "esporte": "automobilismo",
+        "competicao": "Fórmula 4 · Interlagos",
+        "jogo": "Corrida 2",
+        "canal": "YouTube (Band)",
+        "gratis": true
+       },
+       {
+        "hora": "09h30",
+        "esporte": "automobilismo",
+        "competicao": "Porsche Cup · Interlagos",
+        "jogo": "Corrida 2",
+        "canal": "BandSports · YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "10h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Portugal",
+        "jogo": "Corrida da MotoGP",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "futebol",
+        "competicao": "LaLiga",
+        "jogo": "Barcelona x Villarreal",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "11h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals",
+        "jogo": "Final de duplas",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "São José x Corinthians",
+        "canal": "YouTube (NBB)",
+        "gratis": true
+       },
+       {
+        "hora": "11h00",
+        "esporte": "futebol",
+        "competicao": "Paulistão Feminino",
+        "jogo": "Corinthians x RB Bragantino",
+        "canal": "sportv"
+       }
+      ],
+      "fonte": "Conferido em 22/11 à 0h · Antenados na TV, O Povo, Crash.net, ATP, NFL, LNB",
+      "cta": "Arraste →",
+      "alt": "Agenda de domingo, 22/11, parte 1 de 3: Corrida da Moto3 às 07h00 (MotoGP · GP de Portugal, ESPN 4), Regatas do dia às 08h00 (SailGP · Emirados Árabes, sportv2 · BandSports), Corrida da Moto2 às 08h15 (MotoGP · GP de Portugal, ESPN 4), Corrida 2 às 08h15 (Fórmula 4 · Interlagos, YouTube (Band), grátis), Corrida 2 às 09h30 (Porsche Cup · Interlagos, BandSports · YouTube, grátis), Corrida da MotoGP às 10h00 (MotoGP · GP de Portugal, ESPN 4 · Disney+), Barcelona x Villarreal às 10h00 (LaLiga, CazéTV, grátis), Final de duplas às 11h00 (ATP Finals, ESPN 2), São José x Corinthians às 11h00 (NBB, YouTube (NBB), grátis), Corinthians x RB Bragantino às 11h00 (Paulistão Feminino, sportv)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Domingo, 22/11",
+      "linhas": [
+       {
+        "hora": "11h15",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Brasília x Pato",
+        "canal": "YouTube (NBB)",
+        "gratis": true
+       },
+       {
+        "hora": "13h00",
+        "esporte": "automobilismo",
+        "competicao": "Porsche Cup · Interlagos",
+        "jogo": "Corrida 3",
+        "canal": "BandSports · YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "13h15",
+        "esporte": "outros",
+        "competicao": "Futsal feminino · amistoso",
+        "jogo": "Brasil x Portugal",
+        "canal": "sportv · Canal GOL BR",
+        "gratis": true
+       },
+       {
+        "hora": "13h30",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Liverpool x Manchester United",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "tenis",
+        "competicao": "ATP Finals · final",
+        "jogo": "Alcaraz x Zverev",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "outros",
+        "competicao": "Hipismo",
+        "jogo": "Troféu Roberto Marinho",
+        "canal": "sportv3"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "nfl",
+        "competicao": "NFL",
+        "jogo": "Lions x Buccaneers",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "nfl",
+        "competicao": "NFL",
+        "jogo": "Cardinals x Chiefs",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "automobilismo",
+        "competicao": "Fórmula 4 · Interlagos",
+        "jogo": "Corrida 3",
+        "canal": "BandSports · YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "16h00",
+        "esporte": "futebol",
+        "competicao": "Série B · playoff (ida)",
+        "jogo": "Criciúma x Fortaleza",
+        "canal": "RedeTV · Disney+",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 22/11 à 0h · Antenados na TV, O Povo, Crash.net, ATP, NFL, LNB",
+      "cta": "Arraste →",
+      "alt": "Agenda de domingo, 22/11, parte 2 de 3: Brasília x Pato às 11h15 (NBB, YouTube (NBB), grátis), Corrida 3 às 13h00 (Porsche Cup · Interlagos, BandSports · YouTube, grátis), Brasil x Portugal às 13h15 (Futsal feminino · amistoso, sportv · Canal GOL BR, grátis), Liverpool x Manchester United às 13h30 (Premier League, ESPN · Disney+), Alcaraz x Zverev às 14h00 (ATP Finals · final, ESPN 2), Troféu Roberto Marinho às 14h00 (Hipismo, sportv3), Lions x Buccaneers às 15h00 (NFL, ESPN 3), Cardinals x Chiefs às 15h00 (NFL, sportv2), Corrida 3 às 15h00 (Fórmula 4 · Interlagos, BandSports · YouTube, grátis), Criciúma x Fortaleza às 16h00 (Série B · playoff (ida), RedeTV · Disney+, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Domingo, 22/11",
+      "linhas": [
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Serie A",
+        "jogo": "Atalanta x Inter",
+        "canal": "ESPN"
+       },
+       {
+        "hora": "18h00",
+        "esporte": "basquete",
+        "competicao": "NBB",
+        "jogo": "Bauru x União Corinthians",
+        "canal": "YouTube (NBB)",
+        "gratis": true
+       },
+       {
+        "hora": "18h25",
+        "esporte": "nfl",
+        "competicao": "NFL",
+        "jogo": "Broncos x Raiders",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "18h25",
+        "esporte": "nfl",
+        "competicao": "NFL",
+        "jogo": "Jaguars x Giants",
+        "canal": "GETV · sportv2",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão",
+        "jogo": "Fluminense x Mirassol",
+        "canal": "Record · CazéTV · Premiere",
+        "gratis": true
+       },
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão",
+        "jogo": "RB Bragantino x Vasco",
+        "canal": "sportv · Premiere"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Thunder x Heat",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "outros",
+        "competicao": "NHL (hóquei)",
+        "jogo": "Stars x Penguins",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "22h20",
+        "esporte": "nfl",
+        "competicao": "NFL · Cidade do México",
+        "jogo": "Vikings x 49ers",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "22h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Celtics x Warriors",
+        "canal": "Prime Video"
+       }
+      ],
+      "fonte": "Conferido em 22/11 à 0h · Antenados na TV, O Povo, Crash.net, ATP, NFL, LNB",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de domingo, 22/11, parte 3 de 3: Atalanta x Inter às 16h45 (Serie A, ESPN), Bauru x União Corinthians às 18h00 (NBB, YouTube (NBB), grátis), Broncos x Raiders às 18h25 (NFL, ESPN 2), Jaguars x Giants às 18h25 (NFL, GETV · sportv2, grátis), Fluminense x Mirassol às 18h30 (Brasileirão, Record · CazéTV · Premiere, grátis), RB Bragantino x Vasco às 19h30 (Brasileirão, sportv · Premiere), Thunder x Heat às 20h00 (NBA, Prime Video), Stars x Penguins às 21h00 (NHL (hóquei), ESPN 3), Vikings x 49ers às 22h20 (NFL · Cidade do México, sportv2), Celtics x Warriors às 22h30 (NBA, Prime Video)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de domingo, 22/11 (horário de Brasília)\n\n🏍️ 10h · MotoGP em Portimão: Marc Márquez pode ser campeão · ESPN 4\n🎾 14h · Final do ATP Finals: Alcaraz x Zverev · ESPN 2\n⚽ 13h30 · Liverpool x Manchester United, em Anfield · ESPN\n🏈 Domingo de NFL: Cardinals x Chiefs às 15h e Vikings x 49ers, no México, às 22h20 · sportv2\n🏎️ Porsche Cup e Fórmula 4 em Interlagos, com transmissão grátis no YouTube 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia.\n\nFontes: Antenados na TV, O Povo, Crash.net, ATP, NFL e LNB.\n\n#esportes #agendaesportiva #ondeassistir #motogp #atpfinals #nfl #nbb #porschecup"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-22T07:30:00-03:00",
+    "alt": "Resultados de sábado e jogos de domingo, 22/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "SÁB 21/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão e Sul-Americana",
+        "jogos": [
+         {
+          "casa": "Palmeiras",
+          "gc": 1,
+          "fora": "Flamengo",
+          "gf": 1
+         },
+         {
+          "casa": "Atlético-MG",
+          "gc": 0,
+          "fora": "Boca Juniors",
+          "gf": 2,
+          "nota": "Final · Boca campeão"
+         }
+        ]
+       },
+       {
+        "competicao": "Premier League e LaLiga",
+        "jogos": [
+         {
+          "casa": "Newcastle",
+          "gc": 2,
+          "fora": "Arsenal",
+          "gf": 2
+         },
+         {
+          "casa": "Real Madrid",
+          "gc": 2,
+          "fora": "Celta",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Mundial Sub-17",
+        "jogos": [
+         {
+          "casa": "Brasil",
+          "gc": 2,
+          "fora": "Irlanda",
+          "gf": 1
+         }
+        ]
+       }
+      ],
+      "destaque": "Flamengo campeão brasileiro de 2026",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 22/11 à 0h · ESPN, Campo Grande News, VAVEL, NBC Sports, Flashscore, CBF",
+      "cta": "Arraste →",
+      "alt": "Resultados de sábado, 21/11. Brasileirão: Palmeiras 1 x 1 Flamengo. Final da Sul-Americana: Atlético-MG 0 x 2 Boca Juniors. Premier League: Newcastle 2 x 2 Arsenal. LaLiga: Real Madrid 2 x 1 Celta. Mundial Sub-17: Brasil 2 x 1 Irlanda. Destaque: o Flamengo é campeão brasileiro com 2 rodadas de antecedência"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "DOM 22/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "22/11",
+        "sub": "DOM · 13h30",
+        "titulo": "Liverpool x Manchester United",
+        "detalhe": "Premier League · ESPN, Disney+",
+        "destaque": true
+       },
+       {
+        "data": "22/11",
+        "sub": "DOM · 10h",
+        "titulo": "Barcelona x Villarreal",
+        "detalhe": "LaLiga · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "22/11",
+        "sub": "DOM · 16h",
+        "titulo": "Criciúma x Fortaleza",
+        "detalhe": "Série B, playoff · RedeTV, SportyNet, Disney+",
+        "gratis": true
+       },
+       {
+        "data": "22/11",
+        "sub": "DOM · 16h45",
+        "titulo": "Atalanta x Inter",
+        "detalhe": "Serie A · ESPN"
+       },
+       {
+        "data": "22/11",
+        "sub": "DOM · 18h30",
+        "titulo": "Fluminense x Mirassol",
+        "detalhe": "Brasileirão · Record, CazéTV, Premiere",
+        "gratis": true
+       },
+       {
+        "data": "22/11",
+        "sub": "DOM · 19h30",
+        "titulo": "RB Bragantino x Vasco",
+        "detalhe": "Brasileirão · sportv, Premiere"
+       }
+      ],
+      "fonte": "Conferido em 22/11 à 0h · Liverpool FC, O Povo, Antenados na TV",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de domingo, 22/11: jogo do dia Liverpool x Manchester United às 13h30, pela Premier League, na ESPN e no Disney+; Barcelona x Villarreal às 10h, grátis na CazéTV; Criciúma x Fortaleza, playoff da Série B, às 16h, grátis na RedeTV e também na SportyNet e no Disney+; Atalanta x Inter às 16h45 na ESPN; Fluminense x Mirassol às 18h30, grátis na Record e na CazéTV e também no Premiere; RB Bragantino x Vasco às 19h30 no sportv e no Premiere"
+     }
+    ],
+    "legenda": "🏆 O Flamengo é campeão brasileiro! E hoje tem Liverpool x Manchester United.\n\n🔴⚫ Ontem: Palmeiras 1 x 1 Flamengo, e o Fla levantou a taça a 2 rodadas do fim\n💙💛 Boca Juniors 2 x 0 Atlético-MG: o Boca é campeão da Sul-Americana, em Barranquilla\n⚽ Newcastle 2 x 2 Arsenal e Real Madrid 2 x 1 Celta, de virada\n🇧🇷 Brasil 2 x 1 Irlanda, na estreia do Mundial Sub-17\n\n★ Jogo do dia: Liverpool x Manchester United, 13h30 · ESPN e Disney+\n⚽ Barcelona x Villarreal, 10h · CazéTV 🆓\n⚽ Criciúma x Fortaleza, playoff da Série B, 16h · RedeTV 🆓\n⚽ Atalanta x Inter, 16h45 · ESPN\n⚽ Fluminense x Mirassol, 18h30 · Record 🆓, CazéTV 🆓 e Premiere\n⚽ RB Bragantino x Vasco, 19h30 · sportv e Premiere\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: ESPN, Campo Grande News, VAVEL, NBC Sports, Flashscore, CBF, Liverpool FC, O Povo e Antenados na TV.\n\n#futebol #flamengo #brasileirao #sulamericana #liverpool #manchesterunited #ondeassistir"
+   }
+  ]
+ }
+}

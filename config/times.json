@@ -975,5 +975,13 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Irlanda": {
+  "sigla": "IRL",
+  "cores": [
+   "#169B62",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
