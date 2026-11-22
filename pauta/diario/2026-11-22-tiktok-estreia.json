@@ -1,0 +1,90 @@
+{
+  "dia": "22/11/2026",
+  "apurado_em": "2026-11-22",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-top3",
+        "redes": ["tiktok"],
+        "quando": "2026-11-22T19:00:00-03:00",
+        "alt": "Top 3 da semana na Netflix: a minissérie Os Altruístas, a animação Tipo Irmãs e a comédia romântica Protegendo Estrelas",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "streaming-sofa",
+            "pilula": "TOP 3 DA SEMANA",
+            "chamada": "3 ESTREIAS QUE VOCÊ PODE TER PERDIDO",
+            "titulo": "Chegou nesta semana na Netflix",
+            "caixas": [
+              ["Série", "Os Altruístas"],
+              ["Filmes", "Tipo Irmãs e mais 1"]
+            ],
+            "nota": "Sem spoiler. Arraste para ver do que se trata.",
+            "fonte": "Conferido em 22/11 às 11h · Netflix Tudum, Oficina da Net, A Crítica",
+            "cta": "Arraste →",
+            "alt": "Capa: top 3 da semana, 3 estreias da Netflix que você pode ter perdido"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "1 · MINISSÉRIE",
+            "chamada": "NETFLIX · DESDE 19/11",
+            "titulo": "Os Altruístas",
+            "texto": "A história real da ascensão e queda da FTX, a corretora de criptomoedas de Sam Bankman-Fried e Caroline Ellison.",
+            "topicos": [
+              "Julia Garner é Caroline Ellison",
+              "Anthony Boyle é Sam Bankman-Fried",
+              "8 episódios · baseada em fatos reais"
+            ],
+            "fonte": "Conferido em 22/11 às 11h · Netflix Tudum, Oficina da Net",
+            "alt": "Os Altruístas, minissérie da Netflix desde 19/11, com Julia Garner e Anthony Boyle, 8 episódios sobre a FTX"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "2 · ANIMAÇÃO",
+            "chamada": "NETFLIX · DESDE 20/11",
+            "titulo": "Tipo Irmãs",
+            "texto": "A história da Cinderela contada pelo lado de Lilith, a meia-irmã que todo mundo acha que é a vilã.",
+            "topicos": [
+              "Vozes de Ali Wong, Amanda Seyfried e Daniel Radcliffe",
+              "Música inédita de JENNIE, do BLACKPINK",
+              "Filme de 1h47 · para a família toda"
+            ],
+            "fonte": "Conferido em 22/11 às 11h · Netflix Tudum, Omelete",
+            "alt": "Tipo Irmãs, animação da Netflix desde 20/11 que reconta a Cinderela pelo lado da meia-irmã, com música de JENNIE"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "3 · COMÉDIA ROMÂNTICA",
+            "chamada": "NETFLIX · DESDE 18/11",
+            "titulo": "Protegendo Estrelas",
+            "texto": "Uma guarda-costas leva um ator famoso para um rancho em Montana, e o namoro de mentira dos dois começa a virar de verdade.",
+            "topicos": [
+              "Leighton Meester e Jared Padalecki",
+              "Andie MacDowell no elenco",
+              "Clima de Natal para ver no sofá"
+            ],
+            "fonte": "Conferido em 22/11 às 11h · A Crítica, Oficina da Net",
+            "alt": "Protegendo Estrelas, comédia romântica natalina da Netflix desde 18/11, com Leighton Meester e Jared Padalecki"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "tv-controle",
+            "pilula": "TOP 3 DA SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você vai ver primeiro?",
+            "opcoes": [
+              "Os Altruístas",
+              "Tipo Irmãs",
+              "Protegendo Estrelas",
+              "Outra estreia (conta qual!)"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual você vai ver primeiro? A) Os Altruístas, B) Tipo Irmãs, C) Protegendo Estrelas, D) Outra estreia"
+          }
+        ],
+        "legenda": "🏆 3 estreias da Netflix desta semana que passaram batido 👇\n\n💸 Os Altruístas · minissérie · Julia Garner e Anthony Boyle na história real da FTX\n👠 Tipo Irmãs · animação · a Cinderela pelo lado da meia-irmã\n🤠 Protegendo Estrelas · comédia romântica de Natal com Leighton Meester\n🍿 Tudo sem spoiler\n\nQual você vai ver primeiro? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#filmes #series #netflix #oquever #estreias"
+      }
+    ]
+  }
+}
