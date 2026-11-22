@@ -1,4 +1,153 @@
 {
+ "ig:18646356442039486": {
+  "rede": "instagram",
+  "id": "18646356442039486",
+  "conta": "tudooqueestreia",
+  "pasta": "2026-11-21-tudooqueestreia-pergunta-enquete",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-21T23:01:25+00:00",
+  "dia_semana": "Sat",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-enquete",
+  "titulo": "🍿 O que você vai assistir neste fim de semana?"
+ },
+ "fb:122142554865378589": {
+  "rede": "facebook",
+  "id": "122142554865378589",
+  "conta": "tudooqueestreia",
+  "pasta": "2026-11-21-tudooqueestreia-pergunta-enquete",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-21T23:01:25+00:00",
+  "dia_semana": "Sat",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-enquete",
+  "titulo": "🍿 O que você vai assistir neste fim de semana?"
+ },
+ "ig:17877026046638831": {
+  "rede": "instagram",
+  "id": "17877026046638831",
+  "conta": "showsconfirmados",
+  "pasta": "2026-11-21-showsconfirmados-agenda-hoje",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-21T19:01:17+00:00",
+  "dia_semana": "Sat",
+  "hora": 16,
+  "idioma": "pt",
+  "assunto": "agenda-hoje",
+  "titulo": "🎤 Sábado de show: Mariah Carey no Rio, Roger Daltrey e ZZ Top em SP, Jão e Pitty em BH!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:25+00:00"
+  }
+ },
+ "fb:122128581267365966": {
+  "rede": "facebook",
+  "id": "122128581267365966",
+  "conta": "showsconfirmados",
+  "pasta": "2026-11-21-showsconfirmados-agenda-hoje",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-21T19:01:17+00:00",
+  "dia_semana": "Sat",
+  "hora": 16,
+  "idioma": "pt",
+  "assunto": "agenda-hoje",
+  "titulo": "🎤 Sábado de show: Mariah Carey no Rio, Roger Daltrey e ZZ Top em SP, Jão e Pitty em BH!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:35+00:00"
+  }
+ },
+ "ig:18391636219231134": {
+  "rede": "instagram",
+  "id": "18391636219231134",
+  "conta": "tudooqueestreia",
+  "pasta": "2026-11-21-tudooqueestreia-destaque-quinzenal",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-21T18:33:09+00:00",
+  "dia_semana": "Sat",
+  "hora": 15,
+  "idioma": "pt",
+  "assunto": "destaque-quinzenal",
+  "titulo": "🗓️ Duas semanas, 4 estreias grandes: a sua quinzena de séries e filmes já está montada.",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:25+00:00"
+  }
+ },
+ "fb:122142523665378589": {
+  "rede": "facebook",
+  "id": "122142523665378589",
+  "conta": "tudooqueestreia",
+  "pasta": "2026-11-21-tudooqueestreia-destaque-quinzenal",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-21T18:33:09+00:00",
+  "dia_semana": "Sat",
+  "hora": 15,
+  "idioma": "pt",
+  "assunto": "destaque-quinzenal",
+  "titulo": "🗓️ Duas semanas, 4 estreias grandes: a sua quinzena de séries e filmes já está montada.",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:36+00:00"
+  }
+ },
+ "ig:18111527135303679": {
+  "rede": "instagram",
+  "id": "18111527135303679",
+  "conta": "jogosnatela",
+  "pasta": "2026-11-21-jogosnatela-pergunta-palpite",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-21T17:33:28+00:00",
+  "dia_semana": "Sat",
+  "hora": 14,
+  "idioma": "pt",
+  "assunto": "pergunta-palpite",
+  "titulo": "🏆 Palmeiras x Flamengo: sai o título hoje?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:26+00:00"
+  }
+ },
+ "fb:122137153137362772": {
+  "rede": "facebook",
+  "id": "122137153137362772",
+  "conta": "jogosnatela",
+  "pasta": "2026-11-21-jogosnatela-pergunta-palpite",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-21T17:33:28+00:00",
+  "dia_semana": "Sat",
+  "hora": 14,
+  "idioma": "pt",
+  "assunto": "pergunta-palpite",
+  "titulo": "🏆 Palmeiras x Flamengo: sai o título hoje?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:38+00:00"
+  }
+ },
  "ig:18131718046873871": {
   "rede": "instagram",
   "id": "18131718046873871",
@@ -10,7 +159,17 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "💰 US$ 3,79 bilhões em um dia: GTA VI é o maior lançamento da história do entretenimento!"
+  "titulo": "💰 US$ 3,79 bilhões em um dia: GTA VI é o maior lançamento da história do entretenimento!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:26+00:00"
+  }
  },
  "fb:122126772675368510": {
   "rede": "facebook",
@@ -23,7 +182,12 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "💰 US$ 3,79 bilhões em um dia: GTA VI é o maior lançamento da história do entretenimento!"
+  "titulo": "💰 US$ 3,79 bilhões em um dia: GTA VI é o maior lançamento da história do entretenimento!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:40+00:00"
+  }
  },
  "ig:18110471396363526": {
   "rede": "instagram",
@@ -36,7 +200,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Hoje pode sair o campeão brasileiro: se não perder, o Flamengo levanta a taça no Nubank Parque!"
+  "titulo": "🔥 Hoje pode sair o campeão brasileiro: se não perder, o Flamengo levanta a taça no Nubank Parque!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:26+00:00"
+  }
  },
  "fb:122137141269362772": {
   "rede": "facebook",
@@ -49,7 +223,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Hoje pode sair o campeão brasileiro: se não perder, o Flamengo levanta a taça no Nubank Parque!"
+  "titulo": "🔥 Hoje pode sair o campeão brasileiro: se não perder, o Flamengo levanta a taça no Nubank Parque!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:40+00:00"
+  }
  },
  "ig:18109558595458285": {
   "rede": "instagram",
@@ -62,7 +241,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "numero",
-  "titulo": "Brasil em 1 número: 55,2."
+  "titulo": "Brasil em 1 número: 55,2.",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:27+00:00"
+  }
  },
  "fb:122112551175521412": {
   "rede": "facebook",
@@ -75,7 +264,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "numero",
-  "titulo": "Brasil em 1 número: 55,2."
+  "titulo": "Brasil em 1 número: 55,2.",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:41+00:00"
+  }
  },
  "ig:18427736356158481": {
   "rede": "instagram",
@@ -88,7 +282,17 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "pergunta",
-  "titulo": "Pergunta da semana: qual destes números mais pesa no seu bolso?"
+  "titulo": "Pergunta da semana: qual destes números mais pesa no seu bolso?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:27+00:00"
+  }
  },
  "fb:122112541227521412": {
   "rede": "facebook",
@@ -101,7 +305,12 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "pergunta",
-  "titulo": "Pergunta da semana: qual destes números mais pesa no seu bolso?"
+  "titulo": "Pergunta da semana: qual destes números mais pesa no seu bolso?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:42+00:00"
+  }
  },
  "ig:18361573678217349": {
   "rede": "instagram",
@@ -114,7 +323,17 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🚨 Baque no Bayern: Harry Kane deve ficar cerca de 3 meses fora!"
+  "titulo": "🚨 Baque no Bayern: Harry Kane deve ficar cerca de 3 meses fora!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:27+00:00"
+  }
  },
  "fb:122137123581362772": {
   "rede": "facebook",
@@ -127,7 +346,12 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🚨 Baque no Bayern: Harry Kane deve ficar cerca de 3 meses fora!"
+  "titulo": "🚨 Baque no Bayern: Harry Kane deve ficar cerca de 3 meses fora!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:42+00:00"
+  }
  },
  "ig:18111142714946616": {
   "rede": "instagram",
@@ -140,7 +364,17 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "carrossel-evento-da-semana",
-  "titulo": "🌃 A F1 corre na madrugada: o GP de Las Vegas larga à 1h de domingo (Brasília). O título já tem dono, mas o vice está abe"
+  "titulo": "🌃 A F1 corre na madrugada: o GP de Las Vegas larga à 1h de domingo (Brasília). O título já tem dono, mas o vice está abe",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:28+00:00"
+  }
  },
  "fb:1208306652358113_122127048045372104": {
   "rede": "facebook",
@@ -166,7 +400,17 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "carrossel-estreias-da-semana",
-  "titulo": "🎬 40 estreias esta semana (20 a 26/11): 29 filmes e 11 séries"
+  "titulo": "🎬 40 estreias esta semana (20 a 26/11): 29 filmes e 11 séries",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:28+00:00"
+  }
  },
  "fb:1126954220509063_122142446295378589": {
   "rede": "facebook",
@@ -192,10 +436,10 @@
   "titulo": "Microsoft just went down worldwide. Remember CrowdStrike? #shorts",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 1,
+   "visualizacoes": 8,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   }
  },
  "ig:18177867859457161": {
@@ -209,7 +453,17 @@
   "hora": 8,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏍️🎾🏉 Sábado cheio: sprint da MotoGP, semi do ATP Finals, rúgbi, UFC e F1 de madrugada!"
+  "titulo": "🏍️🎾🏉 Sábado cheio: sprint da MotoGP, semi do ATP Finals, rúgbi, UFC e F1 de madrugada!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:28+00:00"
+  }
  },
  "fb:122127035517372104": {
   "rede": "facebook",
@@ -222,7 +476,12 @@
   "hora": 8,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏍️🎾🏉 Sábado cheio: sprint da MotoGP, semi do ATP Finals, rúgbi, UFC e F1 de madrugada!"
+  "titulo": "🏍️🎾🏉 Sábado cheio: sprint da MotoGP, semi do ATP Finals, rúgbi, UFC e F1 de madrugada!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-22T09:43:44+00:00"
+  }
  },
  "ig:18122423887957145": {
   "rede": "instagram",
@@ -235,7 +494,17 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "🔥 Sábado de decisão: o Flamengo pode ser campeão hoje, e o Galo joga a final da Sul-Americana!"
+  "titulo": "🔥 Sábado de decisão: o Flamengo pode ser campeão hoje, e o Galo joga a final da Sul-Americana!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:29+00:00"
+  }
  },
  "fb:1142393848963140_122137095477362772": {
   "rede": "facebook",
@@ -261,7 +530,17 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-agenda-completa",
-  "titulo": "📺 Agenda esportiva de sábado, 21/11 (horário de Brasília)"
+  "titulo": "📺 Agenda esportiva de sábado, 21/11 (horário de Brasília)",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-22T09:43:29+00:00"
+  }
  },
  "fb:1208306652358113_122127027381372104": {
   "rede": "facebook",
@@ -296,7 +575,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-21T16:52:29+00:00"
+   "em": "2026-11-22T09:43:29+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:29+00:00"
+   }
   }
  },
  "fb:1340041825868177_122112397539521412": {
@@ -332,7 +623,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-21T16:52:29+00:00"
+   "em": "2026-11-22T09:43:30+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:30+00:00"
+   }
   }
  },
  "fb:1142393848963140_122137020471362772": {
@@ -369,7 +672,20 @@
    "salvamentos": 0,
    "interacoes": 0,
    "tempo_medio_ms": 1750,
-   "em": "2026-11-21T16:52:30+00:00"
+   "em": "2026-11-22T09:43:30+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 23,
+    "visualizacoes": 23,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "tempo_medio_ms": 1750,
+    "em": "2026-11-22T09:43:30+00:00"
+   }
   }
  },
  "fb:1357380613039154": {
@@ -387,7 +703,14 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:52:43+00:00"
+   "em": "2026-11-22T09:43:47+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:43:47+00:00"
+   }
   }
  },
  "ig:18113626337233525": {
@@ -1253,10 +1576,10 @@
   "titulo": "America just lost its measles-free status. It held since 2000. #shorts",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 3,
+   "visualizacoes": 2,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d1": {
@@ -1281,7 +1604,7 @@
    "visualizacoes": 43,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d1": {
@@ -1468,7 +1791,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:08+00:00"
+   "em": "2026-11-22T09:43:30+00:00"
   },
   "fotos": {
    "d1": {
@@ -1480,6 +1803,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:08+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:30+00:00"
    }
   }
  },
@@ -1498,13 +1831,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:34+00:00"
+   "em": "2026-11-22T09:43:51+00:00"
   },
   "fotos": {
    "d1": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:34+00:00"
+   },
+   "d3": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:43:51+00:00"
    }
   }
  },
@@ -1528,7 +1866,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:09+00:00"
+   "em": "2026-11-22T09:43:31+00:00"
   },
   "fotos": {
    "d1": {
@@ -1540,6 +1878,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:09+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:31+00:00"
    }
   }
  },
@@ -1576,7 +1924,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:09+00:00"
+   "em": "2026-11-22T09:43:31+00:00"
   },
   "fotos": {
    "d1": {
@@ -1588,6 +1936,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:09+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:31+00:00"
    }
   }
  },
@@ -1606,13 +1964,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:36+00:00"
+   "em": "2026-11-22T09:43:52+00:00"
   },
   "fotos": {
    "d1": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:36+00:00"
+   },
+   "d3": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:43:52+00:00"
    }
   }
  },
@@ -1636,7 +1999,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:10+00:00"
+   "em": "2026-11-22T09:43:32+00:00"
   },
   "fotos": {
    "d1": {
@@ -1648,6 +2011,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:10+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:32+00:00"
    }
   }
  },
@@ -1684,7 +2057,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:10+00:00"
+   "em": "2026-11-22T09:43:32+00:00"
   },
   "fotos": {
    "d1": {
@@ -1696,6 +2069,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:10+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:32+00:00"
    }
   }
  },
@@ -1714,13 +2097,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:39+00:00"
+   "em": "2026-11-22T09:43:53+00:00"
   },
   "fotos": {
    "d1": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:39+00:00"
+   },
+   "d3": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:43:53+00:00"
    }
   }
  },
@@ -1737,14 +2125,14 @@
   "assunto": "destaque-bh-mg",
   "titulo": "📍 BH tem 3 shows grandes confirmados até dezembro!",
   "ultimo": {
-   "alcance": 0,
-   "visualizacoes": 0,
+   "alcance": 2,
+   "visualizacoes": 2,
    "curtidas": 0,
    "comentarios": 0,
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:11+00:00"
+   "em": "2026-11-22T09:43:32+00:00"
   },
   "fotos": {
    "d1": {
@@ -1756,6 +2144,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:11+00:00"
+   },
+   "d3": {
+    "alcance": 2,
+    "visualizacoes": 2,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:32+00:00"
    }
   }
  },
@@ -1774,13 +2172,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:39+00:00"
+   "em": "2026-11-22T09:43:53+00:00"
   },
   "fotos": {
    "d1": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:39+00:00"
+   },
+   "d3": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:43:53+00:00"
    }
   }
  },
@@ -1805,7 +2208,7 @@
    "salvamentos": 0,
    "interacoes": 0,
    "tempo_medio_ms": 1075,
-   "em": "2026-11-20T20:45:12+00:00"
+   "em": "2026-11-22T09:43:33+00:00"
   },
   "fotos": {
    "d1": {
@@ -1818,6 +2221,17 @@
     "interacoes": 0,
     "tempo_medio_ms": 1075,
     "em": "2026-11-20T20:45:12+00:00"
+   },
+   "d3": {
+    "alcance": 3,
+    "visualizacoes": 3,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "tempo_medio_ms": 1075,
+    "em": "2026-11-22T09:43:33+00:00"
    }
   }
  },
@@ -1836,13 +2250,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:40+00:00"
+   "em": "2026-11-22T09:43:54+00:00"
   },
   "fotos": {
    "d1": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:40+00:00"
+   },
+   "d3": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:43:54+00:00"
    }
   }
  },
@@ -2160,7 +2579,7 @@
    "visualizacoes": 17,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d1": {
@@ -2770,7 +3189,7 @@
    "visualizacoes": 2,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d3": {
@@ -2795,7 +3214,7 @@
    "visualizacoes": 63,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d3": {
@@ -3566,7 +3985,7 @@
    "visualizacoes": 12,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d3": {
@@ -3591,7 +4010,7 @@
    "visualizacoes": 44,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d3": {
@@ -4012,7 +4431,7 @@
    "visualizacoes": 413,
    "curtidas": 7,
    "comentarios": 2,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d3": {
@@ -4199,7 +4618,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:31+00:00"
+   "em": "2026-11-22T09:43:33+00:00"
   },
   "fotos": {
    "d3": {
@@ -4211,6 +4630,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:31+00:00"
+   },
+   "d7": {
+    "alcance": 1,
+    "visualizacoes": 1,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:33+00:00"
    }
   }
  },
@@ -4229,13 +4658,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:47:13+00:00"
+   "em": "2026-11-22T09:43:59+00:00"
   },
   "fotos": {
    "d3": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:47:13+00:00"
+   },
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:43:59+00:00"
    }
   }
  },
@@ -4259,7 +4693,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:31+00:00"
+   "em": "2026-11-22T09:43:33+00:00"
   },
   "fotos": {
    "d3": {
@@ -4271,6 +4705,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:31+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-22T09:43:33+00:00"
    }
   }
  },
@@ -4289,13 +4733,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:47:14+00:00"
+   "em": "2026-11-22T09:43:59+00:00"
   },
   "fotos": {
    "d3": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:47:14+00:00"
+   },
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:43:59+00:00"
    }
   }
  },
@@ -4320,7 +4769,7 @@
    "salvamentos": 0,
    "interacoes": 0,
    "tempo_medio_ms": 728,
-   "em": "2026-11-20T20:45:32+00:00"
+   "em": "2026-11-22T09:43:34+00:00"
   },
   "fotos": {
    "d3": {
@@ -4333,6 +4782,17 @@
     "interacoes": 0,
     "tempo_medio_ms": 728,
     "em": "2026-11-20T20:45:32+00:00"
+   },
+   "d7": {
+    "alcance": 15,
+    "visualizacoes": 15,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "tempo_medio_ms": 728,
+    "em": "2026-11-22T09:43:34+00:00"
    }
   }
  },
@@ -4351,13 +4811,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:47:15+00:00"
+   "em": "2026-11-22T09:44:00+00:00"
   },
   "fotos": {
    "d3": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:47:15+00:00"
+   },
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-22T09:44:00+00:00"
    }
   }
  },
@@ -4658,7 +5123,7 @@
    "visualizacoes": 39,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d3": {
@@ -5359,7 +5824,7 @@
    "visualizacoes": 15,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -5756,7 +6221,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -5778,10 +6243,10 @@
   "titulo": "Why the Wright Brothers' First Airplane Spent 20 Years in London (1928)",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 3,
+   "visualizacoes": 4,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -6238,7 +6703,7 @@
    "visualizacoes": 74,
    "curtidas": 5,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -6263,7 +6728,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -6900,7 +7365,7 @@
    "visualizacoes": 6,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -6925,7 +7390,7 @@
    "visualizacoes": 43,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -7694,7 +8159,7 @@
    "visualizacoes": 5,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -7719,7 +8184,7 @@
    "visualizacoes": 40,
    "curtidas": 1,
    "comentarios": 1,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -9414,7 +9879,7 @@
    "visualizacoes": 298,
    "curtidas": 10,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -10398,10 +10863,10 @@
   "titulo": "The Letter Einstein Regretted — and Why It Almost Didn't Matter (1939)",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 4,
+   "visualizacoes": 7,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -10978,7 +11443,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -11291,7 +11756,7 @@
    "visualizacoes": 9,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
@@ -11880,7 +12345,7 @@
    "visualizacoes": 149,
    "curtidas": 4,
    "comentarios": 0,
-   "em": "2026-11-21T16:53:58+00:00"
+   "em": "2026-11-22T09:44:35+00:00"
   },
   "fotos": {
    "d7": {
