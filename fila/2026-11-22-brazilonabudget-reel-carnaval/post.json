@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-11-22T14:40:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.mp4"
   ],
@@ -23,5 +23,10 @@
       "titulo": "Carnaval de Río 2027 – guía PDF (ES)",
       "url": "https://go.hotmart.com/O108357924I"
     }
-  ]
+  ],
+  "publicado_em": "2026-11-22T17:45:35+00:00",
+  "resultado": {
+    "instagram": "18129690857005024",
+    "facebook": "984819907625928"
+  }
 }
