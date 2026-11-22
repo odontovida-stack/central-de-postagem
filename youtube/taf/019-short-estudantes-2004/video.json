@@ -1,0 +1,28 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "New international students in the U.S. are falling again. The last time was after 9/11. #shorts",
+  "quando": "2026-11-27T12:00:00-03:00",
+  "tags": [
+    "international students",
+    "open doors 2026",
+    "student visa",
+    "higher education",
+    "college enrollment",
+    "9/11",
+    "us history",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso semanal (notícia da semana + paralelo histórico), montado pelo Craudio em 22/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}

@@ -1,0 +1,112 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "New international students are falling again",
+  "sub": "It happened once before, after 9/11",
+  "px": 110,
+  "stamp": "FILE #019",
+  "stamp_top": 150,
+  "file": "019"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "NEW INTERNATIONAL STUDENTS · 2025–26",
+  "valor": "−18%",
+  "px": 260,
+  "texto": "The second annual drop in a row",
+  "fonte": "IIE Open Doors 2026, via Higher Ed Dive, Nov. 16, 2026",
+  "file": "019"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "FALL 2026 SNAPSHOT · NEW STUDENTS",
+  "valor": "About −15%",
+  "px": 200,
+  "texto": "Early survey of 800+ U.S. colleges",
+  "fonte": "IIE Fall 2026 Snapshot, via Higher Ed Dive",
+  "file": "019"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "COLLEGES SURVEYED",
+  "valor": "Nearly 9 in 10",
+  "px": 180,
+  "texto": "said the visa process hurt their enrollment",
+  "fonte": "IIE, via Higher Ed Dive, Nov. 16, 2026",
+  "file": "019"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "IT HAPPENED BEFORE",
+  "titulo": "November 2004.",
+  "file": "019"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "OPEN DOORS 2004 · TOTAL FOREIGN ENROLLMENT",
+  "valor": "−2.4%",
+  "px": 260,
+  "texto": "The first decline since 1971–72",
+  "fonte": "Chronicle of Higher Education, Nov. 10, 2004",
+  "file": "019"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "What officials blamed in 2004",
+  "itens": [
+   "Student visa delays after 9/11",
+   "Rising U.S. tuition",
+   "Britain, Canada and Australia recruiting harder"
+  ],
+  "fonte": "Chronicle of Higher Education; CORDIS; Christian Science Monitor",
+  "file": "019"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "International students in the U.S.",
+  "itens": [
+   [
+    "2003–04",
+    "572,509",
+    "after the first drop in 32 years"
+   ],
+   [
+    "2025–26",
+    "1,146,163",
+    "about twice as many"
+   ]
+  ],
+  "fonte": "IIE Open Doors, via Chronicle (2004) and China Daily (2026)",
+  "file": "019"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "International students in America",
+  "marcos": [
+   [
+    "1971–72",
+    "Last decline before 2004"
+   ],
+   [
+    "2003–04",
+    "First drop in 32 years"
+   ],
+   [
+    "2025–26",
+    "New students down 18%"
+   ],
+   [
+    "FALL 2026",
+    "Down again"
+   ]
+  ],
+  "fonte": "IIE Open Doors",
+  "file": "019"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "A slide like 2004, on a market twice as big.",
+  "file": "019"
+ }
+]
