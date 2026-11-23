@@ -1,0 +1,80 @@
+{
+  "dia": "23/11/2026",
+  "apurado_em": "2026-11-23",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-top10",
+        "redes": ["tiktok"],
+        "quando": "2026-11-23T19:00:00-03:00",
+        "alt": "Top 10 de séries da Netflix no Brasil na semana de 9 a 15 de novembro: A Imperatriz lidera, com Lupin, Dom de Iludir e Black Doves na lista",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "grupo:estreia",
+            "pilula": "TOP 10 DA NETFLIX NO BRASIL",
+            "chamada": "AS 10 SÉRIES MAIS VISTAS DA SEMANA",
+            "titulo": "O que o Brasil maratonou",
+            "caixas": [
+              ["Nº 1", "A Imperatriz"],
+              ["Brasileira no top", "Dom de Iludir"]
+            ],
+            "nota": "Ranking oficial da Netflix, semana de 9 a 15/11. Sem spoiler.",
+            "fonte": "Conferido em 23/11 às 11h · Netflix Top 10 (Tudum)",
+            "cta": "Arraste →",
+            "alt": "Capa: top 10 da Netflix no Brasil, as 10 séries mais vistas da semana de 9 a 15/11, com A Imperatriz em 1º"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "TOP 10 DA NETFLIX NO BRASIL",
+            "chamada": "SEMANA DE 9 A 15/11",
+            "titulo": "Do 1º ao 5º",
+            "itens": [
+              {"data": "1º", "sub": "T3", "titulo": "A Imperatriz", "detalhe": "Drama de época: Sissi na corte de Viena"},
+              {"data": "2º", "sub": "T1", "titulo": "Doozie's Doghouse", "detalhe": "Infantil: a Doozie e seus amigos cães"},
+              {"data": "3º", "sub": "PARTE 4", "titulo": "Lupin", "detalhe": "O ladrão inspirado em Arsène Lupin"},
+              {"data": "4º", "sub": "T1", "titulo": "The Body (O Corpo)", "detalhe": "Terror teen: um trote de Halloween dá errado"},
+              {"data": "5º", "sub": "T1", "titulo": "Dom de Iludir", "detalhe": "Brasileira: golpe e segredos de família no Rio"}
+            ],
+            "fonte": "Conferido em 23/11 às 11h · Netflix Top 10 (Tudum), Netflix Brasil, Ei Nerd",
+            "cta": "Arraste →",
+            "alt": "Do 1º ao 5º: A Imperatriz temporada 3, Doozie's Doghouse, Lupin parte 4, The Body e a brasileira Dom de Iludir"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "TOP 10 DA NETFLIX NO BRASIL",
+            "chamada": "SEMANA DE 9 A 15/11",
+            "titulo": "Do 6º ao 10º",
+            "itens": [
+              {"data": "6º", "sub": "T1", "titulo": "Anestesia", "detalhe": "Polonesa: neurocirurgião recomeça do zero"},
+              {"data": "7º", "sub": "T2", "titulo": "Black Doves", "detalhe": "Espionagem com Keira Knightley"},
+              {"data": "8º", "sub": "PARTE 1", "titulo": "Lupin", "detalhe": "Quem chega pela Parte 4 volta ao começo"},
+              {"data": "9º", "sub": "DOC", "titulo": "Caso Natalee Holloway", "detalhe": "Série documental: o sumiço em Aruba, 2005"},
+              {"data": "10º", "sub": "T1", "titulo": "Black Doves", "detalhe": "A 1ª temporada também voltou ao top"}
+            ],
+            "fonte": "Conferido em 23/11 às 11h · Netflix Top 10 (Tudum), BNews, Overdrive",
+            "cta": "Arraste →",
+            "alt": "Do 6º ao 10º: Anestesia, Black Doves temporada 2, Lupin parte 1, a série documental sobre Natalee Holloway e Black Doves temporada 1"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "grupo:estreia",
+            "pilula": "TOP 10 DA NETFLIX NO BRASIL",
+            "chamada": "RESPONDA",
+            "titulo": "Qual desse top 10 você já viu?",
+            "opcoes": [
+              "A Imperatriz",
+              "Lupin",
+              "Dom de Iludir",
+              "Nenhuma (conta o que você vê!)"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual desse top 10 você já viu? A) A Imperatriz, B) Lupin, C) Dom de Iludir, D) Nenhuma"
+          }
+        ],
+        "legenda": "📺 As 10 séries que o Brasil mais viu na Netflix na última semana 👇\n\n👑 1º A Imperatriz · 3ª temporada do drama de época\n🎩 3º Lupin · Parte 4 (e a Parte 1 voltou ao top)\n🇧🇷 5º Dom de Iludir · a brasileira da lista\n🕵️ Black Doves aparece duas vezes: 7º e 10º\n🍿 Ranking oficial da Netflix, semana de 9 a 15/11\n\nQual você já viu? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#series #netflix #top10 #oquever #maratona"
+      }
+    ]
+  }
+}
