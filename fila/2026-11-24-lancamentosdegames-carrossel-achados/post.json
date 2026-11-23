@@ -1,0 +1,44 @@
+{
+  "conta": "lancamentosdegames",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook"
+  ],
+  "quando": "2026-11-24T12:30:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para a semana gamer. Links na bio ou comente LINK",
+    "Os achados: Controle Xbox sem fio: Xbox Series e PC; Headset Logitech G335: leve, para jogar com o time; Cartão presente Xbox, para jogos e Game Pass; Cartão Nintendo eShop, para jogos do Switch 2",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @lancamentosdegames e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🎮 Arkheron grátis no fim de semana e Hello Kitty no Switch 2: 4 achados para gamer.\n\n🕹️ Controle Xbox sem fio\n🎧 Headset Logitech G335\n🎁 Cartão presente Xbox\n🍄 Cartão Nintendo eShop\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @lancamentosdegames para os achados toda semana.\n\n#games #arkheron #xbox #nintendoswitch2 #achadosamazon\n\n📷 Foto: George Becker · CC0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Controle Xbox sem fio",
+      "url": "https://www.amazon.com.br/s?k=controle+xbox+series+sem+fio&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Headset Logitech G335",
+      "url": "https://www.amazon.com.br/s?k=headset+logitech+g335&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Cartão presente Xbox",
+      "url": "https://www.amazon.com.br/s?k=cartao+presente+xbox+gift+card&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Cartão Nintendo eShop",
+      "url": "https://www.amazon.com.br/s?k=cartao+presente+nintendo+eshop&tag=llshop0d-20"
+    }
+  ],
+  "fotos": [
+    "game-arcade"
+  ]
+}
