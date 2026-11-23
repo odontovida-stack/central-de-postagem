@@ -1,0 +1,140 @@
+{
+ "dia": "23/11/2026",
+ "apurado_em": "2026-11-23",
+ "contas": {
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "anunciado",
+    "quando": "2026-11-23T10:00:00-03:00",
+    "pilula": "SHOW ANUNCIADO",
+    "chamada": "SHOW ANUNCIADO",
+    "grande": "4 shows",
+    "titulo": "Shakira",
+    "caixas": [
+     [
+      "📅 Datas",
+      "31/12, 03/01, 06/01 e 09/01"
+     ],
+     [
+      "📍 Cidades",
+      "Balneário Camboriú, Cariacica, Salvador e Fortaleza"
+     ],
+     [
+      "🎟️ Vendas",
+      "Qui 26/11: pré 10h · geral 12h"
+     ]
+    ],
+    "nota": "Fonte oficial: Fenix Entertainment e Verão Atmosphere · ingressos na Fever",
+    "fonte": "Conferido em 23/11 à 1h · Billboard Brasil, O Povo",
+    "cta": "Salve e mande",
+    "alt": "Show anunciado: Shakira confirmou 4 shows no Brasil: 31/12 no Réveillon de Balneário Camboriú, 03/01 no Estádio Kleber Andrade em Cariacica, 06/01 na Arena Fonte Nova em Salvador e 09/01 na Arena Castelão em Fortaleza. Pré-venda para cadastrados na quinta, 26/11, às 10h, e venda geral às 12h, na Fever",
+    "legenda": "💃 É oficial: Shakira volta ao Brasil com 4 shows entre o Réveillon e janeiro!\n\n📅 Datas: 31/12 (Balneário Camboriú, Réveillon) · 03/01 (Cariacica) · 06/01 (Salvador) · 09/01 (Fortaleza)\n📍 Cidades: Av. Atlântica, em Balneário Camboriú · Estádio Kleber Andrade, em Cariacica · Arena Fonte Nova, em Salvador · Arena Castelão, em Fortaleza\n🎟️ Vendas: quinta, 26/11 · pré-venda às 10h para quem se cadastrou na lista de espera · venda geral às 12h · na Fever\n\n🔔 Siga e ative as notificações: a gente avisa na véspera e no dia da venda\n⚠️ Cuidado com golpe: só o link oficial (Fever)\n📤 Mande para quem vai com você\n\nVai? Em qual cidade? 👇\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\nFontes: Billboard Brasil, O Povo, bahia.ba e Diário do Nordeste.\n\n#shakira #shows #ingressos #salvador #fortaleza #balneariocamboriu #showsconfirmados"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-23T11:00:00-03:00",
+    "pilula": "SEG 23/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Esportes de hoje",
+    "itens": [
+     {
+      "data": "23/11",
+      "sub": "SEG · 18h30",
+      "titulo": "Minas x Sesi Bauru",
+      "detalhe": "Vôlei · Superliga Feminina · GETV",
+      "gratis": true
+     },
+     {
+      "data": "23/11",
+      "sub": "SEG · 21h",
+      "titulo": "Flamengo x Osasco",
+      "detalhe": "Vôlei · Superliga Feminina · sportv2"
+     },
+     {
+      "data": "23/11",
+      "sub": "SEG · 22h15",
+      "titulo": "Commanders x Bengals",
+      "detalhe": "NFL · Monday Night Football · ESPN 2"
+     }
+    ],
+    "fonte": "Conferido em 23/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Commanders",
+    "cta": "Salve a agenda",
+    "alt": "Hoje tem: Minas x Sesi Bauru pela Superliga Feminina às 18h30, grátis na GETV; Flamengo x Osasco pela Superliga Feminina às 21h no sportv2; e Commanders x Bengals no Monday Night Football da NFL às 22h15 na ESPN 2",
+    "legenda": "🏐🏈 Segunda tem Superliga em dose dupla e Monday Night na NFL!\n\n⏰ Horário de Brasília:\n🏐 18h30 · Minas x Sesi Bauru, Superliga Feminina · GETV 🆓\n🏐 21h · Flamengo x Osasco, no Maracanãzinho, Superliga Feminina · sportv2\n🏈 22h15 · Commanders x Bengals, Monday Night Football · ESPN 2\n\n🆓 = transmissão grátis\n📌 Salve para não perder o horário\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: Antenados na TV, Olimpíada Todo Dia e Washington Commanders.\n\n#esportes #hojetem #superliga #volei #voleifeminino #nfl #mondaynightfootball"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "noticia",
+    "quando": "2026-11-23T13:00:00-03:00",
+    "foto": "quadra-tenis",
+    "pilula": "SEG 23/11",
+    "chamada": "CAMPEÃO · ATP FINALS",
+    "grande": "1º título",
+    "titulo": "Alcaraz é campeão do ATP Finals",
+    "caixas": [
+     [
+      "🎾 A final",
+      "6-2, 7-6(7) em Zverev"
+     ],
+     [
+      "🏆 Na carreira",
+      "30 títulos, 6 só em 2026"
+     ]
+    ],
+    "nota": "Salvou 3 set points no tie-break. É o 3º espanhol campeão do torneio.",
+    "fonte": "Conferido em 23/11 à 1h · ATP Tour",
+    "cta": "Mande para quem joga tênis com você",
+    "alt": "Campeão: Carlos Alcaraz venceu Alexander Zverev por 6-2 e 7-6 na final do ATP Finals, em Turim, e conquistou o torneio pela primeira vez. Salvou três set points no tie-break do segundo set. É o 30º título da carreira e o 6º da temporada, e ele é o terceiro espanhol campeão do torneio",
+    "legenda": "🏆 Enfim! Carlos Alcaraz é campeão do ATP Finals pela primeira vez.\n\n🎾 Final em Turim: Alcaraz 6-2, 7-6(7) Zverev\n😮 Salvou 3 set points no tie-break do 2º set\n🏆 30º título da carreira e 6º só em 2026\n🇪🇸 É o 3º espanhol a vencer o torneio dos 8 melhores do ano\n\n📌 Salve para lembrar\n📤 Mande para quem joga tênis com você\n\nQuem vai dominar 2027: Alcaraz ou Sinner? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFonte: ATP Tour.\n\n#tenis #alcaraz #atpfinals #zverev #turim #tennis"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "enquete",
+    "quando": "2026-11-23T20:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "ENQUETE",
+    "chamada": "FIM DE SEMANA",
+    "titulo": "Quem foi o melhor time do fim de semana?",
+    "contexto": "Vitória no fim, goleada no clássico e virada no Camp Nou.",
+    "opcoes": [
+     "Fluminense",
+     "Athletico-PR",
+     "Liverpool",
+     "Barcelona"
+    ],
+    "fonte": "",
+    "cta": "Responda A, B, C ou D",
+    "alt": "Enquete: quem foi o melhor time do fim de semana? A: Fluminense, que venceu o Mirassol com gol nos acréscimos. B: Athletico-PR, que fez 4 a 2 no Remo. C: Liverpool, que fez 4 a 0 no Manchester United. D: Barcelona, que virou para 3 a 2 sobre o Villarreal.",
+    "legenda": "🏆 Quem foi o melhor time do fim de semana?\n\nA) Fluminense: 1 x 0 no Mirassol, gol de Riquelme nos acréscimos\nB) Athletico-PR: 4 x 2 no Remo\nC) Liverpool: 4 x 0 no Manchester United, em Anfield\nD) Barcelona: virou de 0 x 2 para 3 x 2 sobre o Villarreal\n\n📤 Mande para quem torce com você\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#futebol #enquete #fluminense #athletico #liverpool #barcelona"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "pergunta",
+    "sufixo": "o-que-achou",
+    "quando": "2026-11-23T20:00:00-03:00",
+    "foto": "grupo:estreia",
+    "pilula": "O QUE ACHOU?",
+    "chamada": "ESTREIA DA SEMANA",
+    "titulo": "Já viu a 3ª temporada de Percy Jackson? O que achou?",
+    "contexto": "No Disney+ desde sexta, 20/11.",
+    "opcoes": [
+     "Amei",
+     "Gostei",
+     "Não curti",
+     "Ainda não vi"
+    ],
+    "fonte": "Sem spoiler nos comentários!",
+    "cta": "Responda A, B, C ou D",
+    "alt": "O que achou? Já viu a 3ª temporada de Percy Jackson e os Olimpianos? No Disney+ desde sexta, 20/11. A: Amei. B: Gostei. C: Não curti. D: Ainda não vi. Sem spoiler nos comentários.",
+    "legenda": "⚡ Já viu a 3ª temporada de Percy Jackson e os Olimpianos? O que achou?\n\nA) Amei\nB) Gostei\nC) Não curti\nD) Ainda não vi\n\n📺 No Disney+ desde sexta, 20/11 (novos episódios toda sexta)\n🤐 Sem spoiler nos comentários!\n\n📤 Mande para quem maratona com você\n\nResponda só com a letra: A, B, C ou D 👇\nSiga @tudooqueestreia para saber tudo o que estreia, toda semana.\n\n#percyjackson #disneyplus #series #estreias #tudooqueestreia"
+   }
+  ]
+ }
+}
