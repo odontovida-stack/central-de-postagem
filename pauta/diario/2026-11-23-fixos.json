@@ -1,0 +1,292 @@
+{
+ "dia": "23/11/2026",
+ "apurado_em": "2026-11-23",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-23T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de segunda-feira, 23/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Segunda-feira, 23/11",
+      "linhas": [
+       {
+        "hora": "10h45",
+        "esporte": "futebol",
+        "competicao": "AFC Champions League Elite",
+        "jogo": "Neftchi Fergana x Al Hilal",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "surfe",
+        "competicao": "Surf Brasil · Guarda do Embaú",
+        "jogo": "Etapa de Guarda do Embaú",
+        "canal": "XSports · YouTube",
+        "gratis": true
+       },
+       {
+        "hora": "11h00",
+        "esporte": "outros",
+        "competicao": "Tiro · Campeonato das Américas",
+        "jogo": "Skeet masculino, com 3 brasileiros",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "outros",
+        "competicao": "Tiro · Campeonato das Américas",
+        "jogo": "Pistola de tiro rápido 25 m",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "futebol",
+        "competicao": "Campeonato Dinamarquês",
+        "jogo": "Brøndby x Midtjylland",
+        "canal": "Canal GOL BR (YouTube)",
+        "gratis": true
+       },
+       {
+        "hora": "15h00",
+        "esporte": "outros",
+        "competicao": "Softbol · Pan-Americano Sub-18",
+        "jogo": "Brasil x Peru",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "outros",
+        "competicao": "Tiro · Campeonato das Américas",
+        "jogo": "Final da pistola de ar feminina",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "outros",
+        "competicao": "Futsal · Campeonato Espanhol",
+        "jogo": "Palma x Inter",
+        "canal": "Canal GOL BR (YouTube)",
+        "gratis": true
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Serie A",
+        "jogo": "Monza x Fiorentina",
+        "canal": "SportyNet · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "LaLiga",
+        "jogo": "Levante x Elche",
+        "canal": "CazéTV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 23/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Mantos do Futebol",
+      "cta": "Arraste →",
+      "alt": "Agenda de segunda-feira, 23/11, parte 1 de 2: Neftchi Fergana x Al Hilal às 10h45 (AFC Champions League Elite, ESPN 4 · Disney+), Etapa de Guarda do Embaú às 11h00 (Surf Brasil · Guarda do Embaú, XSports · YouTube, grátis), Skeet masculino, com 3 brasileiros às 11h00 (Tiro · Campeonato das Américas, a confirmar), Pistola de tiro rápido 25 m às 11h00 (Tiro · Campeonato das Américas, a confirmar), Brøndby x Midtjylland às 15h00 (Campeonato Dinamarquês, Canal GOL BR (YouTube), grátis), Brasil x Peru às 15h00 (Softbol · Pan-Americano Sub-18, a confirmar), Final da pistola de ar feminina às 16h00 (Tiro · Campeonato das Américas, a confirmar), Palma x Inter às 16h30 (Futsal · Campeonato Espanhol, Canal GOL BR (YouTube), grátis), Monza x Fiorentina às 16h45 (Serie A, SportyNet · Disney+, grátis), Levante x Elche às 17h00 (LaLiga, CazéTV, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/2",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Segunda-feira, 23/11",
+      "linhas": [
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Brentford x Everton",
+        "canal": "ESPN · Disney+"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Minas x Sesi Bauru",
+        "canal": "GETV",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Sesi Bauru x Norde Vôlei",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "futebol",
+        "competicao": "Brasileirão",
+        "jogo": "Internacional x Vitória",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão",
+        "jogo": "Botafogo x São Paulo",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão",
+        "jogo": "Santos x Grêmio",
+        "canal": "sportv · Premiere"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Flamengo x Osasco",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Timberwolves x Nets",
+        "canal": "ESPN 4"
+       },
+       {
+        "hora": "22h15",
+        "esporte": "nfl",
+        "competicao": "NFL · Monday Night",
+        "jogo": "Commanders x Bengals",
+        "canal": "ESPN 2"
+       }
+      ],
+      "fonte": "Conferido em 23/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Mantos do Futebol",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de segunda-feira, 23/11, parte 2 de 2: Brentford x Everton às 17h00 (Premier League, ESPN · Disney+), Minas x Sesi Bauru às 18h30 (Superliga Feminina, GETV, grátis), Sesi Bauru x Norde Vôlei às 18h30 (Superliga Masculina, sportv2), Internacional x Vitória às 19h30 (Brasileirão, Premiere), Botafogo x São Paulo às 20h00 (Brasileirão, Prime Video), Santos x Grêmio às 21h00 (Brasileirão, sportv · Premiere), Flamengo x Osasco às 21h00 (Superliga Feminina, sportv2), Timberwolves x Nets às 21h30 (NBA, ESPN 4), Commanders x Bengals às 22h15 (NFL · Monday Night, ESPN 2)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de segunda-feira, 23/11 (horário de Brasília)\n\n🏐 Superliga: Minas x Sesi Bauru às 18h30 (GETV 🆓) e Flamengo x Osasco às 21h · sportv2\n⚽ Brasileirão: Botafogo x São Paulo às 20h · Prime Video, e Santos x Grêmio às 21h · sportv\n🏈 Monday Night: Commanders x Bengals às 22h15 · ESPN 2\n🏄 Surf Brasil em Guarda do Embaú a partir das 11h · XSports 🆓\n🎯 Brasileiros no Campeonato das Américas de tiro, em Lima\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia.\n\nFontes: Antenados na TV, Olimpíada Todo Dia e Mantos do Futebol.\n\n#esportes #agendaesportiva #ondeassistir #superliga #volei #nfl #brasileirao #surfe"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-23T07:30:00-03:00",
+    "alt": "Resultados de domingo e jogos de segunda-feira, 23/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "DOM 22/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão e Série B",
+        "jogos": [
+         {
+          "casa": "Fluminense",
+          "gc": 1,
+          "fora": "Mirassol",
+          "gf": 0
+         },
+         {
+          "casa": "Athletico-PR",
+          "gc": 4,
+          "fora": "Remo",
+          "gf": 2
+         },
+         {
+          "casa": "Criciúma",
+          "gc": 1,
+          "fora": "Fortaleza",
+          "gf": 0
+         }
+        ]
+       },
+       {
+        "competicao": "Premier League e LaLiga",
+        "jogos": [
+         {
+          "casa": "Liverpool",
+          "gc": 4,
+          "fora": "Manchester United",
+          "gf": 0
+         },
+         {
+          "casa": "Barcelona",
+          "gc": 3,
+          "fora": "Villarreal",
+          "gf": 2
+         }
+        ]
+       }
+      ],
+      "destaque": "Liverpool 4 × 0 Manchester United, em Anfield",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 23/11 à 1h · Metrópoles, Gazeta Esportiva, ESPN, NBC Sports, Liverpool FC, Yahoo/dpa",
+      "cta": "Arraste →",
+      "alt": "Resultados de domingo, 22/11. Brasileirão: Fluminense 1 x 0 Mirassol e Athletico-PR 4 x 2 Remo. Série B, ida do playoff: Criciúma 1 x 0 Fortaleza. Premier League: Liverpool 4 x 0 Manchester United. LaLiga: Barcelona 3 x 2 Villarreal. Destaque: Liverpool 4 x 0 Manchester United, em Anfield"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SEG 23/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "23/11",
+        "sub": "SEG · 20h",
+        "titulo": "Botafogo x São Paulo",
+        "detalhe": "Brasileirão · Prime Video",
+        "destaque": true
+       },
+       {
+        "data": "23/11",
+        "sub": "SEG · 16h45",
+        "titulo": "Monza x Fiorentina",
+        "detalhe": "Serie A · SportyNet, Disney+",
+        "gratis": true
+       },
+       {
+        "data": "23/11",
+        "sub": "SEG · 17h",
+        "titulo": "Levante x Elche",
+        "detalhe": "LaLiga · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "23/11",
+        "sub": "SEG · 17h",
+        "titulo": "Brentford x Everton",
+        "detalhe": "Premier League · ESPN, Disney+"
+       },
+       {
+        "data": "23/11",
+        "sub": "SEG · 19h30",
+        "titulo": "Internacional x Vitória",
+        "detalhe": "Brasileirão · Premiere"
+       },
+       {
+        "data": "23/11",
+        "sub": "SEG · 21h",
+        "titulo": "Santos x Grêmio",
+        "detalhe": "Brasileirão · sportv, Premiere"
+       }
+      ],
+      "fonte": "Conferido em 23/11 à 1h · Antenados na TV, Mantos do Futebol, Lance!",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de segunda-feira, 23/11: jogo do dia Botafogo x São Paulo às 20h, pelo Brasileirão, no Prime Video; Monza x Fiorentina às 16h45, grátis na SportyNet e também no Disney+; Levante x Elche às 17h, grátis na CazéTV; Brentford x Everton às 17h na ESPN e no Disney+; Internacional x Vitória às 19h30 no Premiere; Santos x Grêmio às 21h no sportv e no Premiere"
+     }
+    ],
+    "legenda": "🔴 Liverpool 4 x 0 no United! E hoje fecha a 36ª rodada do Brasileirão.\n\n🟢 Fluminense 1 x 0 Mirassol, com gol de Riquelme nos acréscimos: Flu chega a 63 pontos\n⚪ Red Bull Bragantino 1 x 0 Vasco\n🌪️ Athletico-PR 4 x 2 Remo, e o Remo está rebaixado\n🐯 Criciúma 1 x 0 Fortaleza na ida do playoff da Série B: a volta é sábado, 28/11, no Castelão\n⚽ Liverpool 4 x 0 Manchester United, em Anfield, e Barcelona 3 x 2 Villarreal, de virada\n\n★ Jogo do dia: Botafogo x São Paulo, 20h · Prime Video\n⚽ Monza x Fiorentina, 16h45 · SportyNet 🆓 e Disney+\n⚽ Levante x Elche, 17h · CazéTV 🆓\n⚽ Brentford x Everton, 17h · ESPN e Disney+\n⚽ Internacional x Vitória, 19h30 · Premiere\n⚽ Santos x Grêmio, 21h · sportv e Premiere\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: Metrópoles, Gazeta Esportiva, ESPN, NBC Sports, Liverpool FC, Yahoo/dpa, Antenados na TV, Mantos do Futebol e Lance!.\n\n#futebol #brasileirao #liverpool #manchesterunited #botafogo #saopaulo #ondeassistir"
+   }
+  ]
+ }
+}
