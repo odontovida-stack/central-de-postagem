@@ -1,4 +1,98 @@
 {
+ "ig:17902724928609104": {
+  "rede": "instagram",
+  "id": "17902724928609104",
+  "conta": "lancamentosdegames",
+  "pasta": "2026-11-22-lancamentosdegames-pergunta-enquete",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-22T23:02:46+00:00",
+  "dia_semana": "Sun",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-enquete",
+  "titulo": "🎁 Qual grátis da semana vale o resgate?"
+ },
+ "fb:122126945205368510": {
+  "rede": "facebook",
+  "id": "122126945205368510",
+  "conta": "lancamentosdegames",
+  "pasta": "2026-11-22-lancamentosdegames-pergunta-enquete",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-22T23:02:46+00:00",
+  "dia_semana": "Sun",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-enquete",
+  "titulo": "🎁 Qual grátis da semana vale o resgate?"
+ },
+ "ig:17982595352922134": {
+  "rede": "instagram",
+  "id": "17982595352922134",
+  "conta": "tudooqueestreia",
+  "pasta": "2026-11-22-tudooqueestreia-pergunta-o-que-achou",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-22T23:02:46+00:00",
+  "dia_semana": "Sun",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-o-que-achou",
+  "titulo": "🏹 Já viu Jogos Vorazes: Amanhecer na Colheita? O que achou?"
+ },
+ "fb:122142744051378589": {
+  "rede": "facebook",
+  "id": "122142744051378589",
+  "conta": "tudooqueestreia",
+  "pasta": "2026-11-22-tudooqueestreia-pergunta-o-que-achou",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-22T23:02:46+00:00",
+  "dia_semana": "Sun",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-o-que-achou",
+  "titulo": "🏹 Já viu Jogos Vorazes: Amanhecer na Colheita? O que achou?"
+ },
+ "ig:18129690857005024": {
+  "rede": "instagram",
+  "id": "18129690857005024",
+  "conta": "brazilonabudget",
+  "pasta": "2026-11-22-brazilonabudget-reel-carnaval",
+  "tipo": "reels",
+  "publicado_em": "2026-11-22T17:45:35+00:00",
+  "dia_semana": "Sun",
+  "hora": 14,
+  "idioma": "en",
+  "assunto": "reel-carnaval",
+  "titulo": "Going to Rio Carnival in February? Here's what it really costs in 2027 🎭",
+  "ultimo": {
+   "alcance": 52,
+   "visualizacoes": 56,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "tempo_medio_ms": 1863,
+   "em": "2026-11-23T09:43:09+00:00"
+  }
+ },
+ "fb:984819907625928": {
+  "rede": "facebook",
+  "id": "984819907625928",
+  "conta": "brazilonabudget",
+  "pasta": "2026-11-22-brazilonabudget-reel-carnaval",
+  "tipo": "reels",
+  "publicado_em": "2026-11-22T17:45:35+00:00",
+  "dia_semana": "Sun",
+  "hora": 14,
+  "idioma": "en",
+  "assunto": "reel-carnaval",
+  "titulo": "Going to Rio Carnival in February? Here's what it really costs in 2027 🎭",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-23T09:43:15+00:00"
+  }
+ },
  "ig:18108760892631569": {
   "rede": "instagram",
   "id": "18108760892631569",
@@ -10,7 +104,17 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏆 É campeão! O Flamengo conquistou o Brasileirão 2026 na casa do Palmeiras, a 2 rodadas do fim."
+  "titulo": "🏆 É campeão! O Flamengo conquistou o Brasileirão 2026 na casa do Palmeiras, a 2 rodadas do fim.",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:09+00:00"
+  }
  },
  "fb:122137292541362772": {
   "rede": "facebook",
@@ -23,7 +127,12 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏆 É campeão! O Flamengo conquistou o Brasileirão 2026 na casa do Palmeiras, a 2 rodadas do fim."
+  "titulo": "🏆 É campeão! O Flamengo conquistou o Brasileirão 2026 na casa do Palmeiras, a 2 rodadas do fim.",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-23T09:43:16+00:00"
+  }
  },
  "ig:18137981251675680": {
   "rede": "instagram",
@@ -36,7 +145,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🎾 Alcaraz x Zverev: quem leva o ATP Finals?"
+  "titulo": "🎾 Alcaraz x Zverev: quem leva o ATP Finals?",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:09+00:00"
+  }
  },
  "fb:122127175617372104": {
   "rede": "facebook",
@@ -49,7 +168,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "🎾 Alcaraz x Zverev: quem leva o ATP Finals?"
+  "titulo": "🎾 Alcaraz x Zverev: quem leva o ATP Finals?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-23T09:43:17+00:00"
+  }
  },
  "ig:18203170792378680": {
   "rede": "instagram",
@@ -62,7 +186,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-o-que-achou",
-  "titulo": "🎄 Foi ao show da Mariah Carey no Rio? Conta como foi!"
+  "titulo": "🎄 Foi ao show da Mariah Carey no Rio? Conta como foi!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:10+00:00"
+  }
  },
  "fb:122128673799365966": {
   "rede": "facebook",
@@ -75,7 +209,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "pergunta-o-que-achou",
-  "titulo": "🎄 Foi ao show da Mariah Carey no Rio? Conta como foi!"
+  "titulo": "🎄 Foi ao show da Mariah Carey no Rio? Conta como foi!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-23T09:43:18+00:00"
+  }
  },
  "ig:17933379687423070": {
   "rede": "instagram",
@@ -88,7 +227,17 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "⚽ Liverpool x Manchester United: quem vence?"
+  "titulo": "⚽ Liverpool x Manchester United: quem vence?",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:10+00:00"
+  }
  },
  "fb:122137281351362772": {
   "rede": "facebook",
@@ -101,7 +250,12 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "pergunta-palpite",
-  "titulo": "⚽ Liverpool x Manchester United: quem vence?"
+  "titulo": "⚽ Liverpool x Manchester United: quem vence?",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-23T09:43:18+00:00"
+  }
  },
  "ig:17990994278880202": {
   "rede": "instagram",
@@ -114,7 +268,17 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "🎤 Último dia do Best of Blues and Rock: Eddie Vedder fecha o festival hoje no Ibirapuera!"
+  "titulo": "🎤 Último dia do Best of Blues and Rock: Eddie Vedder fecha o festival hoje no Ibirapuera!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:10+00:00"
+  }
  },
  "fb:122128667469365966": {
   "rede": "facebook",
@@ -127,7 +291,12 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "destaque-hoje",
-  "titulo": "🎤 Último dia do Best of Blues and Rock: Eddie Vedder fecha o festival hoje no Ibirapuera!"
+  "titulo": "🎤 Último dia do Best of Blues and Rock: Eddie Vedder fecha o festival hoje no Ibirapuera!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-23T09:43:18+00:00"
+  }
  },
  "ig:18133827244761225": {
   "rede": "instagram",
@@ -140,7 +309,17 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Domingo de clássico na Inglaterra: Liverpool x Manchester United, em Anfield!"
+  "titulo": "🔥 Domingo de clássico na Inglaterra: Liverpool x Manchester United, em Anfield!",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:11+00:00"
+  }
  },
  "fb:122137266627362772": {
   "rede": "facebook",
@@ -153,7 +332,12 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "destaque-jogo-do-dia",
-  "titulo": "🔥 Domingo de clássico na Inglaterra: Liverpool x Manchester United, em Anfield!"
+  "titulo": "🔥 Domingo de clássico na Inglaterra: Liverpool x Manchester United, em Anfield!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-23T09:43:19+00:00"
+  }
  },
  "ig:17909286549671684": {
   "rede": "instagram",
@@ -166,7 +350,17 @@
   "hora": 8,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏍️🎾🏈 Domingo de decisão: Márquez pode ser campeão da MotoGP e Alcaraz e Zverev disputam o ATP Finals!"
+  "titulo": "🏍️🎾🏈 Domingo de decisão: Márquez pode ser campeão da MotoGP e Alcaraz e Zverev disputam o ATP Finals!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:11+00:00"
+  }
  },
  "fb:122127154131372104": {
   "rede": "facebook",
@@ -179,7 +373,12 @@
   "hora": 8,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏍️🎾🏈 Domingo de decisão: Márquez pode ser campeão da MotoGP e Alcaraz e Zverev disputam o ATP Finals!"
+  "titulo": "🏍️🎾🏈 Domingo de decisão: Márquez pode ser campeão da MotoGP e Alcaraz e Zverev disputam o ATP Finals!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-23T09:43:19+00:00"
+  }
  },
  "ig:18112857659363778": {
   "rede": "instagram",
@@ -192,7 +391,17 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "🏆 O Flamengo é campeão brasileiro! E hoje tem Liverpool x Manchester United."
+  "titulo": "🏆 O Flamengo é campeão brasileiro! E hoje tem Liverpool x Manchester United.",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:11+00:00"
+  }
  },
  "fb:1142393848963140_122137252689362772": {
   "rede": "facebook",
@@ -218,7 +427,17 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-agenda-completa",
-  "titulo": "📺 Agenda esportiva de domingo, 22/11 (horário de Brasília)"
+  "titulo": "📺 Agenda esportiva de domingo, 22/11 (horário de Brasília)",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-23T09:43:11+00:00"
+  }
  },
  "fb:1208306652358113_122127143283372104": {
   "rede": "facebook",
@@ -253,7 +472,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-22T17:15:32+00:00"
+   "em": "2026-11-23T09:43:12+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-23T09:43:12+00:00"
+   }
   }
  },
  "fb:122142554865378589": {
@@ -271,7 +502,14 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:15:44+00:00"
+   "em": "2026-11-23T09:43:21+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-23T09:43:21+00:00"
+   }
   }
  },
  "ig:17877026046638831": {
@@ -294,7 +532,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-22T17:15:33+00:00"
+   "em": "2026-11-23T09:43:12+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-23T09:43:12+00:00"
+   }
   }
  },
  "fb:122128581267365966": {
@@ -312,7 +562,14 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:15:45+00:00"
+   "em": "2026-11-23T09:43:22+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-23T09:43:22+00:00"
+   }
   }
  },
  "ig:18391636219231134": {
@@ -335,7 +592,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-22T17:15:33+00:00"
+   "em": "2026-11-23T09:43:12+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-23T09:43:12+00:00"
+   }
   }
  },
  "fb:122142523665378589": {
@@ -353,7 +622,14 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:15:45+00:00"
+   "em": "2026-11-23T09:43:23+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-23T09:43:23+00:00"
+   }
   }
  },
  "ig:18111527135303679": {
@@ -376,7 +652,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-22T17:15:33+00:00"
+   "em": "2026-11-23T09:43:13+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-23T09:43:13+00:00"
+   }
   }
  },
  "fb:122137153137362772": {
@@ -394,7 +682,14 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:15:46+00:00"
+   "em": "2026-11-23T09:43:23+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-23T09:43:23+00:00"
+   }
   }
  },
  "ig:18131718046873871": {
@@ -807,7 +1102,7 @@
    "visualizacoes": 8,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d1": {
@@ -1548,7 +1843,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-21T09:43:21+00:00"
+   "em": "2026-11-23T09:43:13+00:00"
   },
   "fotos": {
    "d1": {
@@ -1560,6 +1855,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-21T09:43:21+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-23T09:43:13+00:00"
    }
   }
  },
@@ -1596,7 +1901,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:02+00:00"
+   "em": "2026-11-23T09:43:13+00:00"
   },
   "fotos": {
    "d1": {
@@ -1608,6 +1913,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:02+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-23T09:43:13+00:00"
    }
   }
  },
@@ -1626,13 +1941,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:22+00:00"
+   "em": "2026-11-23T09:43:28+00:00"
   },
   "fotos": {
    "d1": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:22+00:00"
+   },
+   "d3": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-23T09:43:28+00:00"
    }
   }
  },
@@ -2083,7 +2403,7 @@
    "visualizacoes": 2,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d1": {
@@ -2111,10 +2431,10 @@
   "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 43,
+   "visualizacoes": 44,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d1": {
@@ -3130,7 +3450,7 @@
    "visualizacoes": 17,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d1": {
@@ -3737,10 +4057,10 @@
   "titulo": "Did America Create ISIS? The Two 2003 Orders and What Came Next",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 2,
+   "visualizacoes": 4,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d3": {
@@ -3765,7 +4085,7 @@
    "visualizacoes": 63,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d3": {
@@ -4533,10 +4853,10 @@
   "titulo": "One order in 2003. A \"caliphate\" in 2014. #shorts",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 12,
+   "visualizacoes": 13,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d3": {
@@ -4561,7 +4881,7 @@
    "visualizacoes": 44,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d3": {
@@ -4688,7 +5008,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:27+00:00"
+   "em": "2026-11-23T09:43:13+00:00"
   },
   "fotos": {
    "d3": {
@@ -4700,6 +5020,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:27+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-23T09:43:13+00:00"
    }
   }
  },
@@ -4718,13 +5048,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:47:06+00:00"
+   "em": "2026-11-23T09:43:35+00:00"
   },
   "fotos": {
    "d3": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:47:06+00:00"
+   },
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-23T09:43:35+00:00"
    }
   }
  },
@@ -5042,7 +5377,7 @@
    "visualizacoes": 413,
    "curtidas": 7,
    "comentarios": 2,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d3": {
@@ -5775,7 +6110,7 @@
    "visualizacoes": 39,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d3": {
@@ -6476,7 +6811,7 @@
    "visualizacoes": 15,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -6873,7 +7208,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -6895,10 +7230,10 @@
   "titulo": "Why the Wright Brothers' First Airplane Spent 20 Years in London (1928)",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 4,
+   "visualizacoes": 3,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -7355,7 +7690,7 @@
    "visualizacoes": 74,
    "curtidas": 5,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -7380,7 +7715,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -8017,7 +8352,7 @@
    "visualizacoes": 6,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -8042,7 +8377,7 @@
    "visualizacoes": 43,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -8811,7 +9146,7 @@
    "visualizacoes": 5,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -8836,7 +9171,7 @@
    "visualizacoes": 40,
    "curtidas": 1,
    "comentarios": 1,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -10531,7 +10866,7 @@
    "visualizacoes": 298,
    "curtidas": 10,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -11515,10 +11850,10 @@
   "titulo": "The Letter Einstein Regretted — and Why It Almost Didn't Matter (1939)",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 7,
+   "visualizacoes": 9,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -12095,7 +12430,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -12408,7 +12743,7 @@
    "visualizacoes": 9,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
@@ -12997,7 +13332,7 @@
    "visualizacoes": 149,
    "curtidas": 4,
    "comentarios": 0,
-   "em": "2026-11-22T17:16:42+00:00"
+   "em": "2026-11-23T09:44:07+00:00"
   },
   "fotos": {
    "d7": {
