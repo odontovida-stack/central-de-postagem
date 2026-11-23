@@ -329,3 +329,27 @@ Guia em `docs/aprendizados-conteudo.md`, tirado de 53 prints de posts de alto de
 tarefa que monta post lê esse guia antes**: capa com número, prova no slide 2, um item por slide com número de prova,
 CTA de palavra-chave no rodapé de todos os slides, DM com algo grátis e uma pergunta, métrica principal = envios + salvamentos,
 revisão semanal PARAR / MANTER / DOBRAR / TESTAR e, no YouTube, a regra de originalidade.
+
+## Duelo: "isto ou aquilo" nas páginas (23/11/2026)
+
+Pedido do Luiz em 23/11/2026: os posts que pedem opinião são os que mais têm interação. O card `duelo` do
+`gerador/llshop.py` mostra A vs B, um de cada lado, e o público responde nos comentários (A ou B). Sem foto,
+marca, logo ou pôster: só os nomes em texto. No dia seguinte sai o RESULTADO com a porcentagem
+(campo `"resultado": {"a": 64, "b": 36}`, contando os comentários A/B do post no Instagram, no Facebook e no TikTok).
+
+```json
+{"tipo": "duelo", "sufixo": "duelo", "quando": "...", "pilula": "DUELO", "chamada": "VOCÊ ESCOLHE",
+ "pergunta": "Livro ou filme?", "a": {"nome": "Livro", "detalhe": "Ler a história primeiro"},
+ "b": {"nome": "Filme", "detalhe": "Ver na tela antes"}, "fonte": "Responda nos comentários",
+ "cta": "Comente A ou B", "alt": "...", "legenda": "..."}
+```
+
+Calendário (20h, no lugar da pergunta do dia): @tudooqueestreia ter e sex · @jogosnatela qua e sáb ·
+@esportesnatela dom · @lancamentosdegames seg e qui · @showsconfirmados ter e sáb. Resultado às 12h do dia seguinte
+(sufixo `duelo-resultado`). Nada de política nem bebida.
+
+### Números das páginas (diagnóstico de 23/11/2026)
+
+A coleta por post está certa: o workflow "Diagnóstico de métricas" (manual, só leitura) confirmou que a própria Meta
+devolve 0 seguidores e alcance perto de zero nas contas de Instagram/Facebook das páginas. O crescimento hoje está no
+TikTok (@tudooqueestreia: 9 seguidores, 117 curtidas em 23 vídeos).

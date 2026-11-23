@@ -358,6 +358,45 @@ def frente(conta, card):
     return moldura(miolo, card)
 
 
+def duelo(conta, card):
+    """Formato "Duelo" (pedido do Luiz em 23/11/2026): A vs B, um de cada lado, e o público escolhe nos comentários.
+    Sem foto, marca, logo ou pôster: só os nomes em texto e uma cor por lado.
+    card: {"tipo": "duelo", "pilula": "DUELO", "chamada", "pergunta", "a": {"nome", "detalhe", "cor"?}, "b": {...},
+           "resultado"?: {"a": 64, "b": 36} (no post do resultado), "fonte", "cta"}"""
+    cor = PAGINAS[conta]["cor"]
+    a, b = card["a"], card["b"]
+    ca, cb = a.get("cor", cor), b.get("cor", "#F3EFE6")
+    res = card.get("resultado")
+
+    def lado(l, c, letra, pct):
+        maior = max(len(w) for w in l["nome"].split()) if l["nome"].split() else 1
+        tam = int(min(96, 360 / (0.5 * maior), 96 if len(l["nome"]) <= 14 else 74 if len(l["nome"]) <= 24 else 58))
+        barra = (f'<div style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: 120px; line-height: .9; color: {c}">{pct}%</div>'
+                 if pct is not None else "")
+        return f'''<div style="flex: 1; min-width: 0; background: {CARD}; border-radius: 22px; border-top: 12px solid {c}; padding: 34px 40px; display: flex; flex-direction: column; justify-content: center; gap: 18px; text-align: center">
+<span style="align-self: center; width: 84px; height: 84px; border-radius: 50%; background: {c}; color: {BG}; display: flex; align-items: center; justify-content: center; font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 56px">{letra}</span>
+<span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: {tam}px; line-height: .92; text-transform: uppercase">{e(l["nome"])}</span>
+{f'<span style="font-size: 28px; color: {MUTED}; line-height: 1.3">{e(l["detalhe"])}</span>' if l.get("detalhe") else ""}
+{barra}
+</div>'''
+
+    pa = pb = None
+    if res:
+        pa, pb = res.get("a"), res.get("b")
+    miolo = f'''{topo(conta, cor, card.get("pilula", "DUELO"), True)}
+<div style="display: flex; flex-direction: column; gap: 8px">
+<span style="font-weight: 700; font-size: 30px; letter-spacing: 0.12em; color: {cor}">{e(card.get("chamada", ""))}</span>
+<h1 style="margin: 0; font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 92px; line-height: 0.92; text-transform: uppercase">{e(card["pergunta"])}</h1>
+</div>
+<div style="flex-grow: 1; display: flex; align-items: stretch; gap: 0; position: relative">
+{lado(a, ca, "A", pa)}
+<div style="width: 48px; position: relative"><span style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 108px; height: 108px; border-radius: 50%; background: {BG}; border: 6px solid {cor}; display: flex; align-items: center; justify-content: center; font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 52px; z-index: 2">VS</span></div>
+{lado(b, cb, "B", pb)}
+</div>
+{rodape(card["fonte"], card.get("cta", "Comente A ou B"))}'''
+    return moldura(miolo, card)
+
+
 def pergunta(conta, card):
     """Card de engajamento: uma pergunta grande e até 4 opções para responder nos comentários."""
     cor = PAGINAS[conta]["cor"]
@@ -482,7 +521,7 @@ def main():
                     usadas_conta.add(sub["foto"])
                     fotos_post.append(sub["foto"])
             for i, sub in enumerate(subcards, 1):
-                htm = {"agenda": agenda, "placar": placar, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir, "grade": grade, "frente": frente}[sub["tipo"]](conta, sub)
+                htm = {"agenda": agenda, "placar": placar, "destaque": destaque, "pergunta": pergunta, "texto": texto, "seguir": seguir, "grade": grade, "frente": frente, "duelo": duelo}[sub["tipo"]](conta, sub)
                 arq = f"{i:02d}.jpg"
                 img = pasta / (f"{nome}-{arq}" if previa else arq)
                 trabalhos.append((htm, img))
