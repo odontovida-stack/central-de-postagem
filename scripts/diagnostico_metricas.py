@@ -15,6 +15,22 @@ por_conta = {}
 for uid, r in sorted(dados.items(), key=lambda x: x[1].get("publicado_em", ""), reverse=True):
     if r.get("rede") in ("instagram", "facebook") and r.get("ultimo") and not any((r["ultimo"].get(k) or 0) for k in r["ultimo"] if k != "em"):
         por_conta.setdefault((r["conta"], r["rede"]), []).append(r)
+print("===== CONTAS =====")
+for conta, cfg in contas.items():
+    tok = os.environ.get(cfg.get("token_secret", ""), "")
+    try:
+        r = meta.get(cfg["instagram_user_id"], tok, fields="username,followers_count,follows_count,media_count")
+        print(conta, r)
+        ins = meta.get(f"{cfg['instagram_user_id']}/insights", tok, metric="reach,views,accounts_engaged", period="day", metric_type="total_value")
+        print("  últimas 24h:", {i["name"]: i.get("total_value", {}).get("value") for i in ins.get("data", [])})
+    except meta.MetaError as e:
+        print(conta, "ERRO", e)
+    try:
+        pt = meta.page_token(cfg["facebook_page_id"], tok)
+        r = meta.get(cfg["facebook_page_id"], pt, fields="name,followers_count,fan_count")
+        print("  facebook:", r)
+    except meta.MetaError as e:
+        print("  facebook ERRO", e)
 for (conta, rede), regs in sorted(por_conta.items()):
     cfg = contas.get(conta) or {}
     tok = os.environ.get(cfg.get("token_secret", ""), "")
