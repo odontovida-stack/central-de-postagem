@@ -1,0 +1,23 @@
+name: Diagnóstico de métricas
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnostico:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ver o que a Meta devolve para os posts zerados
+        env:
+          GRAPH_VERSION: ${{ vars.GRAPH_VERSION || 'v23.0' }}
+          TOKEN_BRASIL2359: ${{ secrets.TOKEN_BRASIL2359 }}
+          TOKEN_BRAZILONABUDGET: ${{ secrets.TOKEN_BRAZILONABUDGET }}
+          TOKEN_LLSHOP: ${{ secrets.TOKEN_LLSHOP }}
+        run: python scripts/diagnostico_metricas.py
