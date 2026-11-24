@@ -348,6 +348,10 @@ Calendário (20h, no lugar da pergunta do dia): @tudooqueestreia ter e sex · @j
 @esportesnatela dom · @lancamentosdegames seg e qui · @showsconfirmados ter e sáb. Resultado às 12h do dia seguinte
 (sufixo `duelo-resultado`). Nada de política nem bebida.
 
+Os votos são contados pelo workflow "Contar votos dos duelos" (00:11, antes do robô das 00:41), que lê os comentários
+do Instagram e do Facebook dos duelos das últimas 48 h e grava `dados/duelos.json` (`a`, `b`, `total`). Vale 1 voto por
+pessoa e por rede: "A", "B", 🅰️/🅱️, "letra A", ou o nome da opção. O resultado só sai com pelo menos 5 votos.
+
 ### Números das páginas (diagnóstico de 23/11/2026)
 
 A coleta por post está certa: o workflow "Diagnóstico de métricas" (manual, só leitura) confirmou que a própria Meta
