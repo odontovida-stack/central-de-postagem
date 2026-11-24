@@ -1,0 +1,359 @@
+{
+ "dia": "24/11/2026",
+ "apurado_em": "2026-11-24",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-24T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de terça-feira, 24/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 24/11",
+      "linhas": [
+       {
+        "hora": "08h00",
+        "esporte": "outros",
+        "competicao": "Parabadminton · Int. da Tailândia",
+        "jogo": "Frederico Chanoft x Marinus Davids",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h25",
+        "esporte": "outros",
+        "competicao": "Tênis de mesa · WTT Düsseldorf",
+        "jogo": "Thiago Monteiro x Tom Closset",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "08h30",
+        "esporte": "natacao",
+        "competicao": "Brasileiro Interclubes de Verão",
+        "jogo": "Eliminatórias (finais às 17h)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "Challenger de Florianópolis",
+        "jogo": "Daniel Dutra x Franco Roncadelli",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "surfe",
+        "competicao": "Surf Brasil Pro · Guarda do Embaú",
+        "jogo": "Etapa de Guarda do Embaú",
+        "canal": "XSports"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "outros",
+        "competicao": "Tiro · Pan-Americano",
+        "jogo": "Skeet masculino, com brasileiros",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "tenis",
+        "competicao": "Challenger de Florianópolis",
+        "jogo": "Eduardo Ribeiro x Andrey Chepelev",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "12h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Mundo Sub-17",
+        "jogo": "Brasil x Tanzânia",
+        "canal": "CazéTV · sportv",
+        "gratis": true
+       },
+       {
+        "hora": "12h00",
+        "esporte": "tenis",
+        "competicao": "Copa Davis",
+        "jogo": "República Tcheca x Canadá",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "13h30",
+        "esporte": "tenis",
+        "competicao": "Challenger de Florianópolis",
+        "jogo": "Pedro Boscardin x Johan Nikles",
+        "canal": "a confirmar"
+       }
+      ],
+      "fonte": "Conferido em 24/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Mantos do Futebol, CBF",
+      "cta": "Arraste →",
+      "alt": "Agenda de terça-feira, 24/11, parte 1 de 3: Frederico Chanoft x Marinus Davids às 08h00 (Parabadminton · Int. da Tailândia, a confirmar), Thiago Monteiro x Tom Closset às 08h25 (Tênis de mesa · WTT Düsseldorf, a confirmar), Eliminatórias (finais às 17h) às 08h30 (Brasileiro Interclubes de Verão, a confirmar), Daniel Dutra x Franco Roncadelli às 10h00 (Challenger de Florianópolis, a confirmar), Etapa de Guarda do Embaú às 11h00 (Surf Brasil Pro · Guarda do Embaú, XSports), Skeet masculino, com brasileiros às 11h00 (Tiro · Pan-Americano, a confirmar), Eduardo Ribeiro x Andrey Chepelev às 11h30 (Challenger de Florianópolis, a confirmar), Brasil x Tanzânia às 12h00 (Copa do Mundo Sub-17, CazéTV · sportv, grátis), República Tcheca x Canadá às 12h00 (Copa Davis, CazéTV, grátis), Pedro Boscardin x Johan Nikles às 13h30 (Challenger de Florianópolis, a confirmar)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 24/11",
+      "linhas": [
+       {
+        "hora": "13h45",
+        "esporte": "outros",
+        "competicao": "Tiro · Pan-Americano",
+        "jogo": "Carabina 50 m 3 posições masculina",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions League",
+        "jogo": "Galatasaray x Aston Villa",
+        "canal": "TNT · HBO Max"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "outros",
+        "competicao": "Tiro · Pan-Americano",
+        "jogo": "Final da pistola de ar feminina",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "basquete",
+        "competicao": "Euroliga",
+        "jogo": "Valência x Panathinaikos",
+        "canal": "XSports"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League",
+        "jogo": "Real Madrid x PSV",
+        "canal": "SBT · TNT · HBO Max",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League",
+        "jogo": "Arsenal x Borussia Dortmund",
+        "canal": "HBO Max"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League",
+        "jogo": "Manchester City x Napoli",
+        "canal": "Space · HBO Max"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "natacao",
+        "competicao": "Brasileiro Interclubes de Verão",
+        "jogo": "Finais do dia",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "18h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão",
+        "jogo": "Chapecoense x Palmeiras",
+        "canal": "Record · CazéTV · Premiere",
+        "gratis": true
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Brasília x Pinheiros",
+        "canal": "GETV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 24/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Mantos do Futebol, CBF",
+      "cta": "Arraste →",
+      "alt": "Agenda de terça-feira, 24/11, parte 2 de 3: Carabina 50 m 3 posições masculina às 13h45 (Tiro · Pan-Americano, a confirmar), Galatasaray x Aston Villa às 14h45 (Champions League, TNT · HBO Max), Final da pistola de ar feminina às 16h00 (Tiro · Pan-Americano, a confirmar), Valência x Panathinaikos às 16h30 (Euroliga, XSports), Real Madrid x PSV às 17h00 (Champions League, SBT · TNT · HBO Max, grátis), Arsenal x Borussia Dortmund às 17h00 (Champions League, HBO Max), Manchester City x Napoli às 17h00 (Champions League, Space · HBO Max), Finais do dia às 17h00 (Brasileiro Interclubes de Verão, a confirmar), Chapecoense x Palmeiras às 18h00 (Brasileirão, Record · CazéTV · Premiere, grátis), Brasília x Pinheiros às 18h30 (Superliga Feminina, GETV, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Terça-feira, 24/11",
+      "linhas": [
+       {
+        "hora": "19h00",
+        "esporte": "futebol",
+        "competicao": "Copinha Feminina",
+        "jogo": "Flamengo x Vasco",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "19h00",
+        "esporte": "tenis",
+        "competicao": "Challenger de Florianópolis",
+        "jogo": "Matheus Pucinelli x Carlos Zárate",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "outros",
+        "competicao": "Futsal feminino · Amistoso",
+        "jogo": "Brasil x Portugal",
+        "canal": "Canal GOL BR · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "tenis",
+        "competicao": "Challenger de San Salvador",
+        "jogo": "Guto Miguel x Matteo Covato",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "20h45",
+        "esporte": "outros",
+        "competicao": "Polo aquático · Liga Nacional Fem.",
+        "jogo": "ABDA x Pinheiros",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Praia Clube x Fluminense",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "futebol",
+        "competicao": "Copinha Feminina",
+        "jogo": "Palmeiras x Tarumã-AM",
+        "canal": "YouTube Paulistão · TV Brasil",
+        "gratis": true
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Celtics x Wizards",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "outros",
+        "competicao": "NHL",
+        "jogo": "Oilers x Golden Knights",
+        "canal": "ESPN 3"
+       }
+      ],
+      "fonte": "Conferido em 24/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Mantos do Futebol, CBF",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de terça-feira, 24/11, parte 3 de 3: Flamengo x Vasco às 19h00 (Copinha Feminina, CazéTV, grátis), Matheus Pucinelli x Carlos Zárate às 19h00 (Challenger de Florianópolis, a confirmar), Brasil x Portugal às 19h30 (Futsal feminino · Amistoso, Canal GOL BR · XSports, grátis), Guto Miguel x Matteo Covato às 20h00 (Challenger de San Salvador, a confirmar), ABDA x Pinheiros às 20h45 (Polo aquático · Liga Nacional Fem., a confirmar), Praia Clube x Fluminense às 21h00 (Superliga Feminina, a confirmar), Palmeiras x Tarumã-AM às 21h30 (Copinha Feminina, YouTube Paulistão · TV Brasil, grátis), Celtics x Wizards às 22h00 (NBA Cup, Prime Video), Oilers x Golden Knights às 22h00 (NHL, ESPN 3)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de terça-feira, 24/11 (horário de Brasília)\n\n⚽ Champions: Real Madrid x PSV às 17h · SBT 🆓, e Arsenal x Dortmund e City x Napoli no mesmo horário\n🔰 Seleção feminina de futsal: Brasil x Portugal às 19h30, em Paranaguá · Canal GOL BR 🆓\n🎾 Copa Davis: República Tcheca x Canadá às 12h · CazéTV 🆓\n🏐 Superliga Feminina: Brasília x Pinheiros às 18h30 · GETV 🆓\n🏀 NBA Cup: Celtics x Wizards às 22h · Prime Video\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa todo dia.\n\nFontes: Antenados na TV, Olimpíada Todo Dia, Mantos do Futebol e CBF.\n\n#esportes #agendaesportiva #ondeassistir #championsleague #futsal #copadavis #superliga #nba"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-24T07:30:00-03:00",
+    "alt": "Resultados de segunda-feira e jogos de terça-feira, 24/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "SEG 23/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão · 36ª rodada",
+        "jogos": [
+         {
+          "casa": "Internacional",
+          "gc": 2,
+          "fora": "Vitória",
+          "gf": 5
+         },
+         {
+          "casa": "Botafogo",
+          "gc": 1,
+          "fora": "São Paulo",
+          "gf": 1
+         },
+         {
+          "casa": "Santos",
+          "gc": 0,
+          "fora": "Grêmio",
+          "gf": 2
+         }
+        ]
+       }
+      ],
+      "destaque": "Vitória 5 × 2 Internacional, no Beira-Rio",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 24/11 à 1h · Portal Morada, 365Scores, FogãoNET, GPS Brasília",
+      "cta": "Arraste →",
+      "alt": "Resultados de segunda-feira, 23/11, pelo Brasileirão: Internacional 2 x 5 Vitória, Botafogo 1 x 1 São Paulo e Santos 0 x 2 Grêmio. Destaque: Vitória 5 x 2 Internacional, no Beira-Rio"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "TER 24/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "24/11",
+        "sub": "TER · 17h",
+        "titulo": "Real Madrid x PSV",
+        "detalhe": "Champions League · SBT, TNT, HBO Max",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "24/11",
+        "sub": "TER · 17h",
+        "titulo": "Arsenal x Borussia Dortmund",
+        "detalhe": "Champions League · HBO Max"
+       },
+       {
+        "data": "24/11",
+        "sub": "TER · 17h",
+        "titulo": "Manchester City x Napoli",
+        "detalhe": "Champions League · Space, HBO Max"
+       },
+       {
+        "data": "24/11",
+        "sub": "TER · 18h",
+        "titulo": "Chapecoense x Palmeiras",
+        "detalhe": "Brasileirão · Record, CazéTV, Premiere",
+        "gratis": true
+       },
+       {
+        "data": "24/11",
+        "sub": "TER · 14h45",
+        "titulo": "Galatasaray x Aston Villa",
+        "detalhe": "Champions League · TNT, HBO Max"
+       },
+       {
+        "data": "24/11",
+        "sub": "TER · 12h",
+        "titulo": "Brasil x Tanzânia",
+        "detalhe": "Copa do Mundo Sub-17 · CazéTV, sportv",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 24/11 à 1h · Antenados na TV, Mantos do Futebol, Brasileirão.com.br",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de terça-feira, 24/11: jogo do dia Real Madrid x PSV às 17h, pela Champions, grátis no SBT e também na TNT e no HBO Max; Arsenal x Borussia Dortmund às 17h no HBO Max; Manchester City x Napoli às 17h no Space e no HBO Max; Chapecoense x Palmeiras às 18h, grátis na Record e na CazéTV e no Premiere; Galatasaray x Aston Villa às 14h45 na TNT e no HBO Max; Brasil x Tanzânia às 12h, pela Copa do Mundo Sub-17, grátis na CazéTV e no sportv"
+     }
+    ],
+    "legenda": "🦁 Vitória 5 x 2 no Inter, dentro do Beira-Rio! E hoje tem Champions com jogo grátis no SBT.\n\n🔴 Internacional 2 x 5 Vitória: o Vitória sobe para 44 pontos e o Inter fica na zona de rebaixamento\n⚪ Botafogo 1 x 1 São Paulo, no Nilton Santos\n🔵 Santos 0 x 2 Grêmio, e o Grêmio sai do Z-4\n\n★ Jogo do dia: Real Madrid x PSV, 17h · SBT 🆓, TNT e HBO Max\n⚽ Arsenal x Borussia Dortmund, 17h · HBO Max\n⚽ Manchester City x Napoli, 17h · Space e HBO Max\n⚽ Chapecoense x Palmeiras, 18h · Record 🆓, CazéTV 🆓 e Premiere\n⚽ Galatasaray x Aston Villa, 14h45 · TNT e HBO Max\n🇧🇷 Brasil x Tanzânia, Copa do Mundo Sub-17, 12h · CazéTV 🆓 e sportv\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: Portal Morada, 365Scores, FogãoNET, GPS Brasília, Antenados na TV, Mantos do Futebol e Brasileirão.com.br.\n\n#futebol #brasileirao #championsleague #realmadrid #vitoria #palmeiras #ondeassistir"
+   }
+  ]
+ }
+}
