@@ -1,4 +1,108 @@
 {
+ "ig:18132522022873322": {
+  "rede": "instagram",
+  "id": "18132522022873322",
+  "conta": "jogosnatela",
+  "pasta": "2026-11-23-jogosnatela-pergunta-enquete",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-23T23:00:39+00:00",
+  "dia_semana": "Mon",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-enquete",
+  "titulo": "🏆 Quem foi o melhor time do fim de semana?"
+ },
+ "fb:122137548693362772": {
+  "rede": "facebook",
+  "id": "122137548693362772",
+  "conta": "jogosnatela",
+  "pasta": "2026-11-23-jogosnatela-pergunta-enquete",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-23T23:00:39+00:00",
+  "dia_semana": "Mon",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-enquete",
+  "titulo": "🏆 Quem foi o melhor time do fim de semana?"
+ },
+ "ig:17990226621088086": {
+  "rede": "instagram",
+  "id": "17990226621088086",
+  "conta": "tudooqueestreia",
+  "pasta": "2026-11-23-tudooqueestreia-pergunta-o-que-achou",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-23T23:00:39+00:00",
+  "dia_semana": "Mon",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-o-que-achou",
+  "titulo": "⚡ Já viu a 3ª temporada de Percy Jackson e os Olimpianos? O que achou?"
+ },
+ "fb:122142967329378589": {
+  "rede": "facebook",
+  "id": "122142967329378589",
+  "conta": "tudooqueestreia",
+  "pasta": "2026-11-23-tudooqueestreia-pergunta-o-que-achou",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-23T23:00:39+00:00",
+  "dia_semana": "Mon",
+  "hora": 20,
+  "idioma": "pt",
+  "assunto": "pergunta-o-que-achou",
+  "titulo": "⚡ Já viu a 3ª temporada de Percy Jackson e os Olimpianos? O que achou?"
+ },
+ "ig:18110837714319440": {
+  "rede": "instagram",
+  "id": "18110837714319440",
+  "conta": "brasil2359",
+  "pasta": "2026-11-23-brasil2359-numero",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-23T22:01:04+00:00",
+  "dia_semana": "Mon",
+  "hora": 19,
+  "idioma": "pt",
+  "assunto": "numero",
+  "titulo": "Brasil em 1 número: 49 milhões."
+ },
+ "fb:122113229049521412": {
+  "rede": "facebook",
+  "id": "122113229049521412",
+  "conta": "brasil2359",
+  "pasta": "2026-11-23-brasil2359-numero",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-23T22:01:04+00:00",
+  "dia_semana": "Mon",
+  "hora": 19,
+  "idioma": "pt",
+  "assunto": "numero",
+  "titulo": "Brasil em 1 número: 49 milhões."
+ },
+ "ig:18117218890860922": {
+  "rede": "instagram",
+  "id": "18117218890860922",
+  "conta": "showsconfirmados",
+  "pasta": "2026-11-23-showsconfirmados-agenda-semana",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-23T22:01:04+00:00",
+  "dia_semana": "Mon",
+  "hora": 19,
+  "idioma": "pt",
+  "assunto": "agenda-semana",
+  "titulo": "🎤 Semana de Seal no estádio, BABYMETAL esgotado e mais 3 shows grandes:"
+ },
+ "fb:122128841397365966": {
+  "rede": "facebook",
+  "id": "122128841397365966",
+  "conta": "showsconfirmados",
+  "pasta": "2026-11-23-showsconfirmados-agenda-semana",
+  "tipo": "imagem",
+  "publicado_em": "2026-11-23T22:01:04+00:00",
+  "dia_semana": "Mon",
+  "hora": 19,
+  "idioma": "pt",
+  "assunto": "agenda-semana",
+  "titulo": "🎤 Semana de Seal no estádio, BABYMETAL esgotado e mais 3 shows grandes:"
+ },
  "ig:18143668633618359": {
   "rede": "instagram",
   "id": "18143668633618359",
@@ -10,7 +114,17 @@
   "hora": 18,
   "idioma": "pt",
   "assunto": "destaque",
-  "titulo": "🏆 É a semana da final da Libertadores!"
+  "titulo": "🏆 É a semana da final da Libertadores!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:09+00:00"
+  }
  },
  "fb:122137522551362772": {
   "rede": "facebook",
@@ -23,7 +137,12 @@
   "hora": 18,
   "idioma": "pt",
   "assunto": "destaque",
-  "titulo": "🏆 É a semana da final da Libertadores!"
+  "titulo": "🏆 É a semana da final da Libertadores!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-24T09:43:16+00:00"
+  }
  },
  "ig:17912328477568528": {
   "rede": "instagram",
@@ -36,7 +155,17 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏆 Enfim! Carlos Alcaraz é campeão do ATP Finals pela primeira vez."
+  "titulo": "🏆 Enfim! Carlos Alcaraz é campeão do ATP Finals pela primeira vez.",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:10+00:00"
+  }
  },
  "fb:122127343767372104": {
   "rede": "facebook",
@@ -49,7 +178,12 @@
   "hora": 13,
   "idioma": "pt",
   "assunto": "destaque-noticia",
-  "titulo": "🏆 Enfim! Carlos Alcaraz é campeão do ATP Finals pela primeira vez."
+  "titulo": "🏆 Enfim! Carlos Alcaraz é campeão do ATP Finals pela primeira vez.",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-24T09:43:17+00:00"
+  }
  },
  "ig:17991066482880703": {
   "rede": "instagram",
@@ -62,7 +196,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda-semana",
-  "titulo": "🏀 Seleção no Ibirapuera, F1 no Catar e 2 finais no domingo (horário de Brasília):"
+  "titulo": "🏀 Seleção no Ibirapuera, F1 no Catar e 2 finais no domingo (horário de Brasília):",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:10+00:00"
+  }
  },
  "fb:122127341523372104": {
   "rede": "facebook",
@@ -75,7 +219,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda-semana",
-  "titulo": "🏀 Seleção no Ibirapuera, F1 no Catar e 2 finais no domingo (horário de Brasília):"
+  "titulo": "🏀 Seleção no Ibirapuera, F1 no Catar e 2 finais no domingo (horário de Brasília):",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-24T09:43:17+00:00"
+  }
  },
  "ig:17996002805851721": {
   "rede": "instagram",
@@ -88,7 +237,17 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda-semana",
-  "titulo": "🏆 Semana de final da Libertadores e de reta final do Brasileirão (horário de Brasília):"
+  "titulo": "🏆 Semana de final da Libertadores e de reta final do Brasileirão (horário de Brasília):",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:10+00:00"
+  }
  },
  "fb:122137471155362772": {
   "rede": "facebook",
@@ -101,7 +260,12 @@
   "hora": 12,
   "idioma": "pt",
   "assunto": "agenda-semana",
-  "titulo": "🏆 Semana de final da Libertadores e de reta final do Brasileirão (horário de Brasília):"
+  "titulo": "🏆 Semana de final da Libertadores e de reta final do Brasileirão (horário de Brasília):",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-24T09:43:17+00:00"
+  }
  },
  "ig:17934525348166731": {
   "rede": "instagram",
@@ -114,7 +278,17 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏐🏈 Segunda tem Superliga em dose dupla e Monday Night na NFL!"
+  "titulo": "🏐🏈 Segunda tem Superliga em dose dupla e Monday Night na NFL!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:11+00:00"
+  }
  },
  "fb:122127334383372104": {
   "rede": "facebook",
@@ -127,7 +301,12 @@
   "hora": 11,
   "idioma": "pt",
   "assunto": "agenda-hoje",
-  "titulo": "🏐🏈 Segunda tem Superliga em dose dupla e Monday Night na NFL!"
+  "titulo": "🏐🏈 Segunda tem Superliga em dose dupla e Monday Night na NFL!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-24T09:43:18+00:00"
+  }
  },
  "ig:18322057705303723": {
   "rede": "instagram",
@@ -140,7 +319,17 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-anunciado",
-  "titulo": "💃 É oficial: Shakira volta ao Brasil com 4 shows entre o Réveillon e janeiro!"
+  "titulo": "💃 É oficial: Shakira volta ao Brasil com 4 shows entre o Réveillon e janeiro!",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:11+00:00"
+  }
  },
  "fb:122128798179365966": {
   "rede": "facebook",
@@ -153,7 +342,12 @@
   "hora": 10,
   "idioma": "pt",
   "assunto": "destaque-anunciado",
-  "titulo": "💃 É oficial: Shakira volta ao Brasil com 4 shows entre o Réveillon e janeiro!"
+  "titulo": "💃 É oficial: Shakira volta ao Brasil com 4 shows entre o Réveillon e janeiro!",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-24T09:43:19+00:00"
+  }
  },
  "ig:18122170247050091": {
   "rede": "instagram",
@@ -166,7 +360,17 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "agenda-semana",
-  "titulo": "🎮 Semana mais calma depois do GTA VI, mas tem jogo grátis no fim de semana! Os lançamentos:"
+  "titulo": "🎮 Semana mais calma depois do GTA VI, mas tem jogo grátis no fim de semana! Os lançamentos:",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:11+00:00"
+  }
  },
  "fb:122127013083368510": {
   "rede": "facebook",
@@ -179,7 +383,12 @@
   "hora": 9,
   "idioma": "pt",
   "assunto": "agenda-semana",
-  "titulo": "🎮 Semana mais calma depois do GTA VI, mas tem jogo grátis no fim de semana! Os lançamentos:"
+  "titulo": "🎮 Semana mais calma depois do GTA VI, mas tem jogo grátis no fim de semana! Os lançamentos:",
+  "ultimo": {
+   "curtidas": 0,
+   "comentarios": 0,
+   "em": "2026-11-24T09:43:20+00:00"
+  }
  },
  "yo:hW0q1gc7-3c": {
   "rede": "youtube",
@@ -195,7 +404,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   }
  },
  "ig:18123088585749264": {
@@ -209,7 +418,17 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-hoje",
-  "titulo": "🔴 Liverpool 4 x 0 no United! E hoje fecha a 36ª rodada do Brasileirão."
+  "titulo": "🔴 Liverpool 4 x 0 no United! E hoje fecha a 36ª rodada do Brasileirão.",
+  "ultimo": {
+   "alcance": 1,
+   "visualizacoes": 1,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:11+00:00"
+  }
  },
  "fb:1142393848963140_122137398033362772": {
   "rede": "facebook",
@@ -235,7 +454,17 @@
   "hora": 7,
   "idioma": "pt",
   "assunto": "carrossel-agenda-completa",
-  "titulo": "📺 Agenda esportiva de segunda-feira, 23/11 (horário de Brasília)"
+  "titulo": "📺 Agenda esportiva de segunda-feira, 23/11 (horário de Brasília)",
+  "ultimo": {
+   "alcance": 0,
+   "visualizacoes": 0,
+   "curtidas": 0,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "salvamentos": 0,
+   "interacoes": 0,
+   "em": "2026-11-24T09:43:12+00:00"
+  }
  },
  "fb:1208306652358113_122127309111372104": {
   "rede": "facebook",
@@ -270,7 +499,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-23T21:34:58+00:00"
+   "em": "2026-11-24T09:43:12+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-24T09:43:12+00:00"
+   }
   }
  },
  "fb:122126945205368510": {
@@ -288,7 +529,14 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:35:11+00:00"
+   "em": "2026-11-24T09:43:21+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-24T09:43:21+00:00"
+   }
   }
  },
  "ig:17982595352922134": {
@@ -311,7 +559,19 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-23T21:34:58+00:00"
+   "em": "2026-11-24T09:43:12+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-24T09:43:12+00:00"
+   }
   }
  },
  "fb:122142744051378589": {
@@ -329,7 +589,14 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:35:13+00:00"
+   "em": "2026-11-24T09:43:22+00:00"
+  },
+  "fotos": {
+   "d1": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-24T09:43:22+00:00"
+   }
   }
  },
  "ig:18129690857005024": {
@@ -1560,7 +1827,7 @@
    "visualizacoes": 8,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d1": {
@@ -1747,7 +2014,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-22T09:43:29+00:00"
+   "em": "2026-11-24T09:43:13+00:00"
   },
   "fotos": {
    "d1": {
@@ -1759,6 +2026,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-22T09:43:29+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-24T09:43:13+00:00"
    }
   }
  },
@@ -1795,7 +2072,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-22T09:43:30+00:00"
+   "em": "2026-11-24T09:43:13+00:00"
   },
   "fotos": {
    "d1": {
@@ -1807,6 +2084,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-22T09:43:30+00:00"
+   },
+   "d3": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-24T09:43:13+00:00"
    }
   }
  },
@@ -2972,7 +3259,7 @@
    "visualizacoes": 2,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d1": {
@@ -3000,10 +3287,10 @@
   "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
   "idioma": "en",
   "ultimo": {
-   "visualizacoes": 45,
+   "visualizacoes": 46,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d1": {
@@ -4019,7 +4306,7 @@
    "visualizacoes": 17,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d1": {
@@ -4629,7 +4916,7 @@
    "visualizacoes": 4,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d3": {
@@ -4654,7 +4941,7 @@
    "visualizacoes": 63,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d3": {
@@ -4733,7 +5020,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:19+00:00"
+   "em": "2026-11-24T09:43:14+00:00"
   },
   "fotos": {
    "d3": {
@@ -4745,6 +5032,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:19+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-24T09:43:14+00:00"
    }
   }
  },
@@ -4781,7 +5078,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:19+00:00"
+   "em": "2026-11-24T09:43:14+00:00"
   },
   "fotos": {
    "d3": {
@@ -4793,6 +5090,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:19+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-24T09:43:14+00:00"
    }
   }
  },
@@ -4811,13 +5118,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:54+00:00"
+   "em": "2026-11-24T09:43:33+00:00"
   },
   "fotos": {
    "d3": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:54+00:00"
+   },
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-24T09:43:33+00:00"
    }
   }
  },
@@ -4841,7 +5153,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:20+00:00"
+   "em": "2026-11-24T09:43:14+00:00"
   },
   "fotos": {
    "d3": {
@@ -4853,6 +5165,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:20+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-24T09:43:14+00:00"
    }
   }
  },
@@ -4871,13 +5193,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:55+00:00"
+   "em": "2026-11-24T09:43:33+00:00"
   },
   "fotos": {
    "d3": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:55+00:00"
+   },
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-24T09:43:33+00:00"
    }
   }
  },
@@ -4901,7 +5228,7 @@
    "compartilhamentos": 0,
    "salvamentos": 0,
    "interacoes": 0,
-   "em": "2026-11-20T20:45:21+00:00"
+   "em": "2026-11-24T09:43:14+00:00"
   },
   "fotos": {
    "d3": {
@@ -4913,6 +5240,16 @@
     "salvamentos": 0,
     "interacoes": 0,
     "em": "2026-11-20T20:45:21+00:00"
+   },
+   "d7": {
+    "alcance": 0,
+    "visualizacoes": 0,
+    "curtidas": 0,
+    "comentarios": 0,
+    "compartilhamentos": 0,
+    "salvamentos": 0,
+    "interacoes": 0,
+    "em": "2026-11-24T09:43:14+00:00"
    }
   }
  },
@@ -4931,13 +5268,18 @@
   "ultimo": {
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-20T20:46:56+00:00"
+   "em": "2026-11-24T09:43:33+00:00"
   },
   "fotos": {
    "d3": {
     "curtidas": 0,
     "comentarios": 0,
     "em": "2026-11-20T20:46:56+00:00"
+   },
+   "d7": {
+    "curtidas": 0,
+    "comentarios": 0,
+    "em": "2026-11-24T09:43:33+00:00"
    }
   }
  },
@@ -5541,7 +5883,7 @@
    "visualizacoes": 13,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d3": {
@@ -5572,7 +5914,7 @@
    "visualizacoes": 44,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d3": {
@@ -6094,7 +6436,7 @@
    "visualizacoes": 413,
    "curtidas": 7,
    "comentarios": 2,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d3": {
@@ -6827,7 +7169,7 @@
    "visualizacoes": 39,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d3": {
@@ -7528,7 +7870,7 @@
    "visualizacoes": 15,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -7925,7 +8267,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -7950,7 +8292,7 @@
    "visualizacoes": 3,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -8407,7 +8749,7 @@
    "visualizacoes": 74,
    "curtidas": 5,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -8432,7 +8774,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -9069,7 +9411,7 @@
    "visualizacoes": 6,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -9094,7 +9436,7 @@
    "visualizacoes": 43,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -9863,7 +10205,7 @@
    "visualizacoes": 5,
    "curtidas": 1,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -9888,7 +10230,7 @@
    "visualizacoes": 40,
    "curtidas": 1,
    "comentarios": 1,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -11583,7 +11925,7 @@
    "visualizacoes": 298,
    "curtidas": 10,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -12570,7 +12912,7 @@
    "visualizacoes": 9,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -13147,7 +13489,7 @@
    "visualizacoes": 0,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -13460,7 +13802,7 @@
    "visualizacoes": 10,
    "curtidas": 0,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
@@ -14049,7 +14391,7 @@
    "visualizacoes": 149,
    "curtidas": 4,
    "comentarios": 0,
-   "em": "2026-11-23T21:36:44+00:00"
+   "em": "2026-11-24T09:44:27+00:00"
   },
   "fotos": {
    "d7": {
