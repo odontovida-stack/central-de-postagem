@@ -98,3 +98,31 @@ Precisa parar de operar no escuro."
 Esses perfis já têm público. As nossas contas ainda têm alcance perto de zero (relatório de 20/11/2026). As táticas acima
 multiplicam o que já chega às pessoas. Por isso, junto com elas, é preciso dar o empurrão inicial (seguir e interagir no
 nicho, Stories, impulsionar 1 post) para os primeiros seguidores.
+
+## 12. Regras obrigatórias de gancho e roteiro (23/11/2026, aprovadas pelo Luiz)
+
+Valem para todo robô que monta post ou vídeo (LLShop, Brasil 23:59, Brazil on a Budget, TikTok extra, Achados, Frente a Frente, TAF/BHC).
+
+**Cirurgião de ganchos (antes de escrever a capa):**
+1. Escreva pelo menos 10 ganchos para a capa (ou 1ª frase do vídeo), usando mecanismos diferentes: curiosidade, medo de perda,
+   oportunidade, erro, resultado, contraste, segredo, urgência, especificidade, prova, comparação e quebra de crença.
+2. Dê nota de 0 a 10 em: clareza, curiosidade, relevância para o público da página, interrupção de padrão e força da promessa.
+   Elimine todo gancho abaixo de 38/50.
+3. Use o vencedor. Se o conteúdo não entrega o que o gancho promete, reescreva o gancho (proibido curiosidade vazia).
+4. No corpo do PR, por post: "Gancho: <texto> (nota X/50)" e os 2 finalistas que perderam.
+5. Para posts de agenda/placar de formato fixo, o gancho vai na 1ª linha da legenda e na chamada; o formato do card não muda.
+
+**Roteiro que segura até o final (carrossel, Reels e vídeo):**
+gancho → tensão → primeira entrega → nova curiosidade → prova → virada → recompensa → CTA.
+- Em cada slide/bloco: o que dizer ou mostrar, qual informação nova entra e qual pergunta continua aberta (o motivo de avançar).
+- Carrossel: headline curta por slide e gancho de continuidade para o próximo ("o mais barato está no slide 5").
+- Reels/vídeo: roteiro por tempo, com fala, texto na tela, ação visual e quebra de padrão a cada 20–30 s.
+- Revisão final: corte redundância, introdução, frase previsível e todo trecho que não aumente entendimento ou interesse.
+  Regra: cada parte precisa comprar a atenção para a próxima.
+
+**Função de cada post (central de 30 dias):** todo post tem UMA função declarada no PR: alcance, autoridade, relacionamento
+ou conversão. Se a única justificativa for "precisamos postar hoje", não faça o post.
+
+**Funil (Brazil on a Budget, Nobrasa, guias, e-commerce):** descoberta → interesse → confiança → desejo → ação.
+A venda aparece como continuação natural do conteúdo: o post entrega valor, o CTA de palavra-chave leva para a DM,
+a DM entrega algo útil + faz uma pergunta, e só depois oferece o produto.
