@@ -180,6 +180,7 @@ Para resultados, o card `placar` agrupa os jogos por competição e mostra o sel
 4. Legenda em 4 partes: 1ª linha com o gancho, depois a informação, depois "📌 Salve para não esquecer" e "📤 Mande para quem <torce/joga/vai ao show> com você", e por fim a pergunta para os comentários e as hashtags.
 5. Responder os comentários na primeira hora ajuda o alcance. Na legenda, faça uma pergunta fácil de responder com uma palavra ou letra (A, B, C).
 6. Séries com nome fixo ("O JOGO DA SEMANA", "O GRÁTIS DA SEMANA") criam hábito: mantenha sempre o mesmo nome e dia.
+7. **Obrigatório (23/11/2026):** antes de montar qualquer post, leia `docs/aprendizados-conteudo.md`, principalmente as seções 2, 4, 5 e 12 (cirurgião de ganchos com nota mínima 38/50, roteiro gancho → tensão → entrega → curiosidade → prova → virada → recompensa → CTA, e a função de cada post). No corpo do PR, mostre por post o gancho escolhido com a nota e a função (alcance, autoridade, relacionamento ou conversão).
 
 ## Robô de vídeo do YouTube (The American File e BHC)
 
@@ -276,6 +277,8 @@ Decidido pelo Luiz em 20/11/2026, porque a página ficou 15 dias sem post enquan
    Reels de ~8 s com `python gerador/relogio_video.py dados.json fila/AAAA-MM-DD-brasil2359-relogio-video/`
    (dados: `data`, `de` = hora antes, `itens` = [{texto, orgao, delta}], `fonte`). Ele vai no mesmo PR do
    post do dia, para o Luiz aprovar junto. Fontes locais: `npm i @fontsource-variable/archivo @fontsource/jetbrains-mono`.
+
+**Gancho e roteiro (23/11/2026):** os posts do Brasil 23:59 também seguem a seção 12 de `docs/aprendizados-conteudo.md` (gancho com nota mínima 38/50, roteiro que segura até o fim), sem nunca exagerar ou distorcer o dado oficial.
 
 ## Brazil on a Budget: 1 post por dia (20/11/2026)
 
