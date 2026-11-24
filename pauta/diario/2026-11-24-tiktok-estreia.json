@@ -1,0 +1,94 @@
+{
+  "dia": "24/11/2026",
+  "apurado_em": "2026-11-24",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-vale-a-pena",
+        "redes": ["tiktok"],
+        "quando": "2026-11-24T19:00:00-03:00",
+        "alt": "Vale a pena? Homem-Aranha: Um Novo Dia chega à HBO Max na sexta, 27/11, com 90% de aprovação da crítica no Rotten Tomatoes",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "grupo:estreia",
+            "pilula": "VALE A PENA?",
+            "chamada": "90% DA CRÍTICA APROVOU",
+            "titulo": "Homem-Aranha: Um Novo Dia",
+            "caixas": [
+              ["Chega à HBO Max", "Sexta, 27/11"],
+              ["Crítica no Rotten", "90%"]
+            ],
+            "nota": "Sem spoiler. No 3º slide, o que a crítica diz.",
+            "fonte": "Conferido em 24/11 às 11h · HBO Max (via O Tempo), Rolling Stone Brasil, Rotten Tomatoes",
+            "cta": "Arraste →",
+            "alt": "Capa: vale a pena? Homem-Aranha: Um Novo Dia chega à HBO Max na sexta, 27/11, com 90% da crítica no Rotten Tomatoes"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "DO QUE SE TRATA",
+            "chamada": "SEM SPOILER",
+            "titulo": "Um herói que ninguém lembra",
+            "texto": "Peter Parker combate o crime sozinho, num mundo que não se lembra dele. A pressão provoca uma mudança que ele pode não conseguir controlar.",
+            "topicos": [
+              "Tom Holland, Zendaya e Sadie Sink",
+              "Direção de Destin Daniel Cretton",
+              "Filme de 2h25"
+            ],
+            "fonte": "Conferido em 24/11 às 11h · Rotten Tomatoes, O Tempo",
+            "cta": "Arraste →",
+            "alt": "Do que se trata, sem spoiler: Peter Parker combate o crime sozinho num mundo que não se lembra dele. Com Tom Holland, Zendaya e Sadie Sink, direção de Destin Daniel Cretton"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "O QUE A CRÍTICA DIZ",
+            "chamada": "ROTTEN TOMATOES",
+            "titulo": "Aprovado pela crítica e pelo público",
+            "grande": "90%",
+            "texto": "De 440 resenhas de críticos, 90% são positivas. Entre o público verificado, a aprovação chega a 97%.",
+            "topicos": [
+              "Crítica: 90% de 440 resenhas",
+              "Público: 97% de mais de 25 mil notas"
+            ],
+            "fonte": "Conferido em 24/11 às 11h · Rotten Tomatoes",
+            "cta": "Arraste →",
+            "alt": "O que a crítica diz: 90% de aprovação entre 440 resenhas no Rotten Tomatoes e 97% entre o público verificado"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "PARA QUEM É",
+            "chamada": "HBO MAX · SEXTA, 27/11",
+            "titulo": "Vale a pena se você...",
+            "texto": "Entra no catálogo da HBO Max na sexta, sem custo extra para assinantes. A data foi informada pela plataforma e pode mudar.",
+            "topicos": [
+              "Acompanha o Homem-Aranha de Tom Holland",
+              "Gosta de ação com drama de herói",
+              "Perdeu no cinema e quer ver em casa",
+              "Dica: veja Sem Volta Para Casa antes"
+            ],
+            "fonte": "Conferido em 24/11 às 11h · O Tempo, Rolling Stone Brasil",
+            "cta": "Arraste →",
+            "alt": "Para quem é: para quem acompanha o Homem-Aranha de Tom Holland, gosta de ação e perdeu no cinema. Chega à HBO Max na sexta, 27/11"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "grupo:estreia",
+            "pilula": "VALE A PENA?",
+            "chamada": "RESPONDA",
+            "titulo": "Vai ver o novo Homem-Aranha?",
+            "opcoes": [
+              "Já vi no cinema",
+              "Sexta, na HBO Max",
+              "Vou esperar o fim de semana",
+              "Não é pra mim"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: vai ver o novo Homem-Aranha? A) Já vi no cinema, B) Sexta, na HBO Max, C) Vou esperar o fim de semana, D) Não é pra mim"
+          }
+        ],
+        "legenda": "🕷️ 90% da crítica aprovou: o novo Homem-Aranha chega à HBO Max nesta sexta 👇\n\n📺 Homem-Aranha: Um Novo Dia · HBO Max · sexta, 27/11\n🍅 90% da crítica e 97% do público no Rotten Tomatoes\n🎬 Tom Holland, Zendaya e Sadie Sink\n🤐 Tudo sem spoiler\n\nVai ver? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#filmes #homemaranha #hbomax #cinema #oquever"
+      }
+    ]
+  }
+}
