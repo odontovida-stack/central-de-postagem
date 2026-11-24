@@ -1,0 +1,131 @@
+{
+ "dia": "24/11/2026",
+ "apurado_em": "2026-11-24",
+ "contas": {
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "pre-venda",
+    "quando": "2026-11-24T08:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "TER 24/11",
+    "chamada": "VENDA ABRE HOJE",
+    "grande": "11h",
+    "titulo": "Architects",
+    "caixas": [
+     [
+      "🎟️ Pré-venda",
+      "Não anunciada"
+     ],
+     [
+      "🎟️ Venda geral",
+      "Hoje, ter 24/11, às 11h"
+     ],
+     [
+      "📍 Cidades",
+      "Curitiba (16/04) e São Paulo (18/04)"
+     ]
+    ],
+    "nota": "Só compre no site oficial: Fastix",
+    "fonte": "Conferido em 24/11 à 1h · Billboard Brasil",
+    "cta": "Mande para quem vai com você",
+    "alt": "Venda abre hoje: ingressos para os shows do Architects no Brasil em 2027 começam a ser vendidos hoje, terça, 24/11, às 11h, na Fastix. Shows em 16 de abril, no Tork n' Roll, em Curitiba, e 18 de abril, na Vibra, em São Paulo, com abertura do Novelists",
+    "legenda": "🤘 Architects volta ao Brasil em 2027, e os ingressos começam a ser vendidos HOJE às 11h!\n\n🎟️ Pré-venda: não anunciada\n🎟️ Venda geral: hoje, terça, 24/11, às 11h, na Fastix\n📍 Cidades: Curitiba (16/04, Tork n' Roll) e São Paulo (18/04, Vibra), com abertura do Novelists\n\n⚠️ Cuidado com golpe: só o link oficial (Fastix)\n📌 Salve para lembrar às 11h\n📤 Mande para quem vai com você\n\nVai em qual: Curitiba ou São Paulo? 👇\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\nFonte: Billboard Brasil (produção da Liberation Music Company).\n\n#architects #metalcore #shows #ingressos #saopaulo #curitiba #showsconfirmados"
+   },
+   {
+    "tipo": "duelo",
+    "sufixo": "duelo",
+    "quando": "2026-11-24T20:00:00-03:00",
+    "pilula": "DUELO",
+    "chamada": "VOCÊ ESCOLHE",
+    "pergunta": "Pista ou cadeira?",
+    "a": {
+     "nome": "Pista",
+     "detalhe": "De pé, perto do palco"
+    },
+    "b": {
+     "nome": "Cadeira",
+     "detalhe": "Sentado, com visão de tudo"
+    },
+    "fonte": "Responda nos comentários",
+    "cta": "Comente A ou B",
+    "alt": "Duelo: pista ou cadeira? A, pista, de pé e perto do palco. B, cadeira, sentado e com visão de tudo",
+    "legenda": "🎤 Pista ou cadeira: onde você curte mais um show?\n\n🅰️ Pista\n🅱️ Cadeira\n\n💬 Comente A ou B: amanhã sai o resultado\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\n#shows #showsconfirmados #musicaaovivo #ingressos"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-24T11:00:00-03:00",
+    "foto": "quadra-futsal",
+    "pilula": "TER 24/11",
+    "chamada": "HOJE TEM · SELEÇÃO",
+    "grande": "19h30",
+    "titulo": "Brasil x Portugal no futsal feminino",
+    "caixas": [
+     [
+      "📺 Onde assistir",
+      "Canal GOL BR (YouTube) e XSports"
+     ],
+     [
+      "📍 Onde",
+      "Arena Albertina Salmon, Paranaguá (PR)"
+     ]
+    ],
+    "nota": "Horário de Brasília · 2º amistoso entre a campeã mundial e a vice, Portugal.",
+    "fonte": "Conferido em 24/11 à 1h · CBF, Folha do Litoral, Antenados na TV",
+    "cta": "Salve e mande para quem torce com você",
+    "alt": "Hoje tem: seleção brasileira feminina de futsal contra Portugal, às 19h30 de Brasília, na Arena Albertina Salmon, em Paranaguá, no Paraná. Segundo amistoso entre as duas seleções, que fizeram a final da primeira Copa do Mundo feminina de futsal. Transmissão no Canal GOL BR, no YouTube, e na XSports",
+    "legenda": "🇧🇷 Hoje tem seleção! As campeãs do mundo de futsal enfrentam Portugal em Paranaguá.\n\n⚽ Brasil x Portugal · amistoso de futsal feminino\n⏰ Hoje, 19h30 (Brasília)\n📍 Arena Albertina Salmon, Paranaguá (PR)\n📺 Canal GOL BR (YouTube) 🆓 e XSports\n🏆 É a revanche da final da 1ª Copa do Mundo feminina, que o Brasil venceu por 3 x 0 em 2025\n\n🆓 = transmissão grátis\n📌 Salve para não perder o horário\n📤 Mande para quem torce com você\n\nQuem faz o primeiro gol? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\nFontes: CBF, Folha do Litoral e Antenados na TV.\n\n#futsal #futsalfeminino #selecaobrasileira #brasilxportugal #paranagua #esportes"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-24T12:00:00-03:00",
+    "foto": "cinema-poltronas",
+    "pilula": "TER 24/11",
+    "chamada": "ESTREIA HOJE",
+    "grande": "23h",
+    "titulo": "Blade Runner 2099",
+    "caixas": [
+     [
+      "📺 Onde",
+      "Prime Video"
+     ],
+     [
+      "👥 Elenco",
+      "Michelle Yeoh e Hunter Schafer"
+     ]
+    ],
+    "nota": "Horário de Brasília · série nova do universo de Blade Runner.",
+    "fonte": "Conferido em 24/11 à 1h · Rolling Stone Brasil",
+    "cta": "Mande para quem vai maratonar com você",
+    "alt": "Estreia hoje: a série Blade Runner 2099 chega ao Prime Video hoje, terça, 24/11, às 23h de Brasília, com Michelle Yeoh e Hunter Schafer",
+    "legenda": "🤖 Chegou o dia: Blade Runner 2099 estreia hoje no Prime Video!\n\n⏰ Hoje, 23h (horário de Brasília)\n📺 Prime Video\n👥 Michelle Yeoh e Hunter Schafer\n🎬 Série nova do universo de Blade Runner\n\n📌 Salve para não esquecer\n📤 Mande para quem vai maratonar com você\n\nVai ver hoje ou esperar o fim de semana? 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFonte: Rolling Stone Brasil.\n\n#bladerunner #bladerunner2099 #primevideo #series #estreia #michelleyeoh #tudooqueestreia"
+   },
+   {
+    "tipo": "duelo",
+    "sufixo": "duelo",
+    "quando": "2026-11-24T20:00:00-03:00",
+    "pilula": "DUELO",
+    "chamada": "VOCÊ ESCOLHE",
+    "pergunta": "Qual Blade Runner é melhor?",
+    "a": {
+     "nome": "O original",
+     "detalhe": "Blade Runner, de 1982"
+    },
+    "b": {
+     "nome": "Blade Runner 2049",
+     "detalhe": "A continuação, de 2017"
+    },
+    "fonte": "Responda nos comentários",
+    "cta": "Comente A ou B",
+    "alt": "Duelo: qual Blade Runner é melhor? A, o original, de 1982. B, Blade Runner 2049, a continuação, de 2017",
+    "legenda": "🤖 A série nova estreou: agora diz, qual Blade Runner é melhor?\n\n🅰️ O original\n🅱️ Blade Runner 2049\n\n💬 Comente A ou B: amanhã sai o resultado\nSiga @tudooqueestreia para saber tudo o que estreia.\n\n#bladerunner #filmes #cinema #ficcaocientifica #tudooqueestreia"
+   }
+  ]
+ }
+}
