@@ -6,12 +6,17 @@
     "facebook"
   ],
   "quando": "2026-11-24T20:00:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
   "textos_alternativos": [
     "Duelo: pista ou cadeira? A, pista, de pé e perto do palco. B, cadeira, sentado e com visão de tudo"
   ],
-  "legenda": "🎤 Pista ou cadeira: onde você curte mais um show?\n\n🅰️ Pista\n🅱️ Cadeira\n\n💬 Comente A ou B: amanhã sai o resultado\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\n#shows #showsconfirmados #musicaaovivo #ingressos"
+  "legenda": "🎤 Pista ou cadeira: onde você curte mais um show?\n\n🅰️ Pista\n🅱️ Cadeira\n\n💬 Comente A ou B: amanhã sai o resultado\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\n#shows #showsconfirmados #musicaaovivo #ingressos",
+  "publicado_em": "2026-11-24T23:00:39+00:00",
+  "resultado": {
+    "instagram": "17887051686522734",
+    "facebook": "122128968795365966"
+  }
 }

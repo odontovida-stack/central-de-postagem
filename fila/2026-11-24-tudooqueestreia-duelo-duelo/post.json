@@ -7,12 +7,18 @@
     "tiktok"
   ],
   "quando": "2026-11-24T20:00:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg"
   ],
   "textos_alternativos": [
     "Duelo: qual Blade Runner é melhor? A, o original, de 1982. B, Blade Runner 2049, a continuação, de 2017"
   ],
-  "legenda": "🤖 A série nova estreou: agora diz, qual Blade Runner é melhor?\n\n🅰️ O original\n🅱️ Blade Runner 2049\n\n💬 Comente A ou B: amanhã sai o resultado\nSiga @tudooqueestreia para saber tudo o que estreia.\n\n#bladerunner #filmes #cinema #ficcaocientifica #tudooqueestreia"
+  "legenda": "🤖 A série nova estreou: agora diz, qual Blade Runner é melhor?\n\n🅰️ O original\n🅱️ Blade Runner 2049\n\n💬 Comente A ou B: amanhã sai o resultado\nSiga @tudooqueestreia para saber tudo o que estreia.\n\n#bladerunner #filmes #cinema #ficcaocientifica #tudooqueestreia",
+  "publicado_em": "2026-11-24T23:00:39+00:00",
+  "resultado": {
+    "instagram": "18214475392369182",
+    "facebook": "122143187721378589",
+    "tiktok": "RASCUNHO no TikTok (p_inbox_url~v2.7711876847084308487): abra o app, confira e toque em Publicar"
+  }
 }
