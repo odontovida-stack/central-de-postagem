@@ -1,0 +1,68 @@
+{
+ "dia": "25/11/2026",
+ "apurado_em": "2026-11-24",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "frente-a-frente-pedro-viveros",
+    "quando": "2026-11-25T19:30:00-03:00",
+    "cards": [
+     {
+      "tipo": "frente",
+      "pilula": "FRENTE A FRENTE",
+      "chamada": "BRASILEIRÃO 2026 · ARTILHARIA",
+      "titulo": "Pedro x Viveros",
+      "lados": [
+       {
+        "nome": "Pedro",
+        "periodo": "Flamengo",
+        "cor": "#FF5A5F",
+        "grande": "20",
+        "grande_rotulo": "gols em 36 jogos",
+        "chips_rotulo": "FALTAM PARA O TIME",
+        "chips": ["Coritiba", "Chapecoense"]
+       },
+       {
+        "nome": "Viveros",
+        "periodo": "Athletico-PR",
+        "cor": "#4C9AFF",
+        "grande": "21",
+        "grande_rotulo": "gols em 32 jogos",
+        "chips_rotulo": "FALTAM PARA O TIME",
+        "chips": ["Mirassol", "São Paulo"]
+       }
+      ],
+      "linhas": [
+       ["Gols", "20", "21", "b"],
+       ["Assistências", "6", "3", "a"],
+       ["Participações em gol", "26", "24", "a"],
+       ["Jogos", "36", "32", ""],
+       ["Gols por jogo", "0,56", "0,66", "b"]
+      ],
+      "fonte": "Até 24/11/2026 · FotMob, 365Scores, FutDados, CBF e Lance!",
+      "cta": "Arraste →",
+      "alt": "Frente a frente na artilharia do Brasileirão 2026: Pedro, do Flamengo, tem 20 gols em 36 jogos e 6 assistências; Kevin Viveros, do Athletico-PR, tem 21 gols em 32 jogos e 3 assistências. Faltam duas rodadas: Flamengo pega Coritiba e Chapecoense; Athletico pega Mirassol e São Paulo."
+     },
+     {
+      "tipo": "pergunta",
+      "pilula": "SUA VEZ",
+      "chamada": "FRENTE A FRENTE",
+      "titulo": "Quem termina artilheiro?",
+      "contexto": "1 gol de diferença e 2 rodadas para o fim: 29/11 e 2/12.",
+      "opcoes": [
+        "Viveros, sozinho",
+        "Pedro, sozinho",
+        "Os dois dividem",
+        "Nenhum marca mais"
+      ],
+      "fonte": "Até 24/11/2026",
+      "cta": "Responda A, B, C ou D",
+      "alt": "Pergunta: quem termina artilheiro do Brasileirão? A, Viveros, sozinho; B, Pedro, sozinho; C, os dois dividem; D, nenhum marca mais"
+     }
+    ],
+    "legenda": "⚖️ 1 gol separa Pedro e Viveros, e só faltam 2 rodadas do Brasileirão.\n\n🔴 Pedro (Flamengo)\n20 gols · 6 assistências · 36 jogos\n26 participações em gol (gols + assistências)\n\n🔵 Kevin Viveros (Athletico-PR)\n21 gols · 3 assistências · 32 jogos\n0,66 gol por jogo, contra 0,56 de Pedro\n\n🗓️ O que falta: Flamengo pega Coritiba (29/11) e Chapecoense (2/12). O Athletico pega Mirassol (29/11) e São Paulo (2/12).\n\n📌 Salve para conferir no fim do campeonato\n📤 Mande para quem torce com você\n\nQuem termina artilheiro? Responda A, B, C ou D 👇\n\nNúmeros até 24/11/2026, depois da 36ª rodada. Fontes: FotMob, 365Scores, FutDados, CBF, Lance! e Boa Informação.\n\nToda semana tem um novo Frente a Frente. Siga @esportesnatela.\n\n#brasileirao #artilharia #pedro #viveros #frenteafrente"
+   }
+  ]
+ }
+}
