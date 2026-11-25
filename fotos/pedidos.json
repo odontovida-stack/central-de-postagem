@@ -1,697 +1,697 @@
 [
- {
-  "nome": "rio-pao-de-acucar",
-  "busca": "Sugarloaf Mountain Rio de Janeiro"
- },
- {
-  "nome": "foz-cataratas",
-  "busca": "Iguazu Falls"
- },
- {
-  "nome": "floripa-praia",
-  "busca": "Florianopolis beach"
- },
- {
-  "nome": "salvador-pelourinho",
-  "busca": "Pelourinho Salvador Bahia"
- },
- {
-  "nome": "saopaulo-paulista",
-  "busca": "Sao Paulo skyline"
- },
- {
-  "nome": "paraty-centro",
-  "busca": "Paraty historic center"
- },
- {
-  "nome": "lencois-dunas",
-  "busca": "Lencois Maranhenses"
- },
- {
-  "nome": "brasil-praia",
-  "busca": "Brazil beach"
- },
- {
-  "nome": "rio-selaron",
-  "busca": "Escadaria Selarón Rio de Janeiro",
-  "opcao": 1
- },
- {
-  "nome": "rio-ipanema",
-  "busca": "Ipanema beach Rio de Janeiro",
-  "opcao": 1
- },
- {
-  "nome": "rio-copacabana",
-  "busca": "Copacabana beach promenade",
-  "opcao": 1
- },
- {
-  "nome": "rio-cristo",
-  "busca": "Christ the Redeemer Corcovado",
-  "opcao": 1
- },
- {
-  "nome": "brasil-chapada",
-  "busca": "Chapada Diamantina landscape",
-  "opcao": 1
- },
- {
-  "nome": "brasil-bonito",
-  "busca": "Bonito Mato Grosso do Sul river",
-  "opcao": 1
- },
- {
-  "nome": "paraty-ruas",
-  "busca": "Paraty historic center colonial street",
-  "opcao": 1
- },
- {
-  "nome": "estadio-maracana",
-  "busca": "Maracanã stadium interior",
-  "opcao": 1
- },
- {
-  "nome": "futebol-gramado",
-  "busca": "football ball grass stadium",
-  "opcao": 1
- },
- {
-  "nome": "show-plateia",
-  "busca": "concert crowd stage lights",
-  "opcao": 1
- },
- {
-  "nome": "cinema-sala",
-  "busca": "cinema auditorium seats screen",
-  "opcao": 1
- },
- {
-  "nome": "game-controle",
-  "busca": "video game controller",
-  "opcao": 1
- },
- {
-  "nome": "basquete-quadra",
-  "busca": "basketball court arena",
-  "opcao": 1
- },
- {
-  "nome": "formula1-pista",
-  "busca": "Interlagos circuit",
-  "opcao": 1
- },
- {
-  "nome": "streaming-sofa",
-  "busca": "television living room watching",
-  "opcao": 1
- },
- {
-  "nome": "pc-teclado",
-  "busca": "gaming keyboard RGB backlit",
-  "opcao": 1
- },
- {
-  "nome": "rio-carnaval-carro",
-  "busca": "carro alegórico escola de samba Sapucaí",
-  "opcao": 1
- },
- {
-  "nome": "quadra-volei",
-  "busca": "volleyball court indoor arena"
- },
- {
-  "nome": "pista-atletismo",
-  "busca": "athletics running track stadium"
- },
- {
-  "nome": "piscina-natacao",
-  "busca": "swimming pool lanes competition"
- },
- {
-  "nome": "tatame-lutas",
-  "busca": "judo tatami mat"
- },
- {
-  "nome": "quadra-basquete",
-  "busca": "basketball court arena"
- },
- {
-  "nome": "quadra-tenis",
-  "busca": "tennis court hard"
- },
- {
-  "nome": "yt-taf001-pentagon",
-  "busca": "Pentagon aerial view 2008 Arlington",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf001-capitol",
-  "busca": "United States Capitol building exterior",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf001-ww2-fleet",
-  "busca": "US Navy fleet at sea World War II 1944 warships",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf001-white-house",
-  "busca": "White House Washington DC north lawn",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf001-minuteman",
-  "busca": "Minuteman III missile test launch Vandenberg",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf001-f35",
-  "busca": "F-35A Lightning II in flight",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf001-ramstein",
-  "busca": "Ramstein Air Base aerial view",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf002-voting-booths",
-  "busca": "voting booths",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf002-capitol",
-  "busca": "United States Capitol dome dusk",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf002-butterfly-ballot",
-  "busca": "butterfly ballot",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf002-state-legislature",
-  "busca": "Texas House of Representatives chamber",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf002-ballots",
-  "busca": "paper ballots election United States",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf002-house-chamber",
-  "busca": "United States House of Representatives chamber",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf002-gerrymander",
-  "busca": "Gerry-Mander cartoon 1812 Boston Gazette",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf002-district-map",
-  "busca": "United States congressional districts map",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc001-peconic-bay",
-  "busca": "Peconic Bay",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc001-letter",
-  "busca": "Einstein letter Roosevelt",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc001-uranium-ore",
-  "busca": "uraninite",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc001-ias-princeton",
-  "busca": "Fuld Hall Institute for Advanced Study Princeton",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc001-white-house",
-  "busca": "White House south facade Washington",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc001-birmingham",
-  "busca": "University of Birmingham Chamberlain clock tower",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc001-hiroshima-cloud",
-  "busca": "atomic cloud over Hiroshima 1945",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc001-farm-hall",
-  "busca": "Godmanchester Great Ouse river",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc002-potomac",
-  "busca": "Potomac River Washington D.C. view",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc002-wright-flyer",
-  "busca": "1903 Wright Flyer National Air and Space Museum",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc002-smithsonian-castle",
-  "busca": "Smithsonian Institution Building castle National Mall",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc002-aerodrome-5",
-  "busca": "Langley Aerodrome No. 5 Smithsonian",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc002-houseboat",
-  "busca": "Langley Aerodrome houseboat Potomac 1903",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc002-aerodrome-wreck",
-  "busca": "Langley Aerodrome",
-  "formato": "paisagem",
-  "opcao": 2
- },
- {
-  "nome": "yt-bhc002-kill-devil-hills",
-  "busca": "Kill Devil Hills dunes Wright Brothers National Memorial",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc002-launch-rail",
-  "busca": "Wright Brothers National Memorial first flight boulder rail",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc002-keuka-lake",
-  "busca": "Keuka Lake Hammondsport New York",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-whitehall",
-  "busca": "Whitehall London street",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-channel-coast",
-  "busca": "Cap Gris-Nez English Channel French coast",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-westminster",
-  "busca": "Palace of Westminster Thames",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-war-rooms",
-  "busca": "Cabinet War Rooms Cabinet Room London",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-dover-cliffs",
-  "busca": "White Cliffs of Dover English Channel",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-dunkirk-harbour",
-  "busca": "Dunkirk evacuation 1940 ships",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-downing-street",
-  "busca": "Downing Street London",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-palazzo-venezia",
-  "busca": "Palazzo Venezia Rome facade",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-commons-chamber",
-  "busca": "House of Commons chamber Palace of Westminster",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-dunkirk-beach",
-  "busca": "Dunkirk beach 1940 evacuation",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc003-st-pauls",
-  "busca": "St Paul's Cathedral London Blitz 1940",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-white-house",
-  "busca": "White House north facade Washington",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-key-west",
-  "busca": "Key West Florida ocean sunset",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-capitol",
-  "busca": "United States Capitol dome Washington",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-jupiter-missile",
-  "busca": "PGM-19 Jupiter missile museum",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-sa2-missile",
-  "busca": "S-75 Dvina SA-2 surface-to-air missile museum",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-bering-strait",
-  "busca": "Bering Strait Chukotka coast",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-kotzebue",
-  "busca": "Kotzebue Alaska winter",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-destroyer",
-  "busca": "Fletcher class destroyer museum ship",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-justice-dept",
-  "busca": "Robert F. Kennedy Department of Justice Building Washington",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-bhc004-kremlin",
-  "busca": "Moscow Kremlin wall towers",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "judo-tatame",
-  "busca": "judo tatami mat competition"
- },
- {
-  "nome": "ringue-lutas",
-  "busca": "empty boxing ring"
- },
- {
-  "nome": "quadra-futsal",
-  "busca": "futsal court indoor"
- },
- {
-  "nome": "camboriu-praia",
-  "busca": "Balneário Camboriú beach skyline"
- },
- {
-  "nome": "rio-carnaval-sapucai-1",
-  "busca": "Sambódromo Marquês de Sapucaí desfile carnaval",
-  "opcao": 1
- },
- {
-  "nome": "rio-carnaval-sapucai-3",
-  "busca": "Rio carnival Sambadrome parade night",
-  "opcao": 1
- },
- {
-  "nome": "rio-carnaval-sapucai-4",
-  "busca": "Rio carnival Sambadrome parade night",
-  "opcao": 2
- },
- {
-  "nome": "cinema-poltronas",
-  "busca": "empty cinema seats red"
- },
- {
-  "nome": "tv-controle",
-  "busca": "television remote control"
- },
- {
-  "nome": "cinema-claquete",
-  "busca": "clapperboard film"
- },
- {
-  "nome": "cinema-rolo",
-  "busca": "35mm film reel"
- },
- {
-  "nome": "cinema-drive-in",
-  "busca": "drive-in movie theater"
- },
- {
-  "nome": "game-arcade",
-  "busca": "arcade machines"
- },
- {
-  "nome": "game-console",
-  "busca": "video game console"
- },
- {
-  "nome": "show-palco-luzes",
-  "busca": "concert stage lights"
- },
- {
-  "nome": "show-microfone",
-  "busca": "microphone stage spotlight"
- },
- {
-  "nome": "show-festival-noite",
-  "busca": "music festival night crowd"
- },
- {
-  "nome": "show-guitarra",
-  "busca": "electric guitar stage"
- },
- {
-  "nome": "yt-taf016-supreme-court",
-  "busca": "United States Supreme Court Building facade",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-san-quentin",
-  "busca": "San Quentin State Prison",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-ca-capitol",
-  "busca": "California State Capitol Sacramento",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-cell-block",
-  "busca": "Eastern State Penitentiary cell block",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-ca-supreme-court",
-  "busca": "Earl Warren Building San Francisco",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-law-library",
-  "busca": "law library books shelves",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-huntsville",
-  "busca": "Huntsville Unit prison Texas",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-ballot-box",
-  "busca": "ballot box election",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-courtroom",
-  "busca": "empty courtroom United States",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-fl-capitol",
-  "busca": "Florida State Capitol Tallahassee",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf016-sacramento-capitol",
-  "busca": "California State Capitol dome Sacramento",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "rio-reveillon-fogos",
-  "busca": "Copacabana New Year fireworks Rio de Janeiro",
-  "opcao": 1
- },
- {
-  "nome": "gramado-natal-luz",
-  "busca": "Natal Luz Gramado Christmas lights",
-  "opcao": 1
- },
- {
-  "nome": "gramado-lago-negro",
-  "busca": "Lago Negro Gramado",
-  "opcao": 1
- },
- {
-  "nome": "gramado-natal-arvore",
-  "busca": "Gramado Natal Luz arvore",
-  "opcao": 1
- },
- {
-  "nome": "gramado-rua-coberta",
-  "busca": "Rua Coberta Gramado",
-  "opcao": 1
- },
- {
-  "nome": "futebol-americano-campo",
-  "busca": "American football field stadium",
-  "opcao": 1
- },
- {
-  "nome": "rugby-campo",
-  "busca": "rugby pitch stadium",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-senate-chamber",
-  "busca": "United States Senate chamber empty",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-capitol-dome",
-  "busca": "United States Capitol dome night",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-archives",
-  "busca": "National Archives Building Washington",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-carrier",
-  "busca": "aircraft carrier at sea US Navy",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-b2",
-  "busca": "B-2 Spirit bomber flight",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-maddox",
-  "busca": "USS Maddox DD-731",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-hormuz",
-  "busca": "Strait of Hormuz satellite",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-nixon-library",
-  "busca": "Richard Nixon Presidential Library Yorba Linda",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-tomahawk",
-  "busca": "Tomahawk cruise missile launch ship",
-  "formato": "paisagem",
-  "opcao": 1
- },
- {
-  "nome": "yt-taf020-constitution",
-  "busca": "United States Constitution document parchment",
-  "formato": "paisagem",
-  "opcao": 1
- }
+  {
+    "nome": "rio-pao-de-acucar",
+    "busca": "Sugarloaf Mountain Rio de Janeiro"
+  },
+  {
+    "nome": "foz-cataratas",
+    "busca": "Iguazu Falls"
+  },
+  {
+    "nome": "floripa-praia",
+    "busca": "Florianopolis beach"
+  },
+  {
+    "nome": "salvador-pelourinho",
+    "busca": "Pelourinho Salvador Bahia"
+  },
+  {
+    "nome": "saopaulo-paulista",
+    "busca": "Sao Paulo skyline"
+  },
+  {
+    "nome": "paraty-centro",
+    "busca": "Paraty historic center"
+  },
+  {
+    "nome": "lencois-dunas",
+    "busca": "Lencois Maranhenses"
+  },
+  {
+    "nome": "brasil-praia",
+    "busca": "Brazil beach"
+  },
+  {
+    "nome": "rio-selaron",
+    "busca": "Escadaria Selarón Rio de Janeiro",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-ipanema",
+    "busca": "Ipanema beach Rio de Janeiro",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-copacabana",
+    "busca": "Copacabana beach promenade",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-cristo",
+    "busca": "Christ the Redeemer Corcovado",
+    "opcao": 1
+  },
+  {
+    "nome": "brasil-chapada",
+    "busca": "Chapada Diamantina landscape",
+    "opcao": 1
+  },
+  {
+    "nome": "brasil-bonito",
+    "busca": "Bonito Mato Grosso do Sul river",
+    "opcao": 1
+  },
+  {
+    "nome": "paraty-ruas",
+    "busca": "Paraty historic center colonial street",
+    "opcao": 1
+  },
+  {
+    "nome": "estadio-maracana",
+    "busca": "Maracanã stadium interior",
+    "opcao": 1
+  },
+  {
+    "nome": "futebol-gramado",
+    "busca": "football ball grass stadium",
+    "opcao": 1
+  },
+  {
+    "nome": "show-plateia",
+    "busca": "concert crowd stage lights",
+    "opcao": 1
+  },
+  {
+    "nome": "cinema-sala",
+    "busca": "cinema auditorium seats screen",
+    "opcao": 1
+  },
+  {
+    "nome": "game-controle",
+    "busca": "video game controller",
+    "opcao": 1
+  },
+  {
+    "nome": "basquete-quadra",
+    "busca": "basketball court arena",
+    "opcao": 1
+  },
+  {
+    "nome": "formula1-pista",
+    "busca": "Interlagos circuit",
+    "opcao": 1
+  },
+  {
+    "nome": "streaming-sofa",
+    "busca": "television living room watching",
+    "opcao": 1
+  },
+  {
+    "nome": "pc-teclado",
+    "busca": "gaming keyboard RGB backlit",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-carnaval-carro",
+    "busca": "carro alegórico escola de samba Sapucaí",
+    "opcao": 1
+  },
+  {
+    "nome": "quadra-volei",
+    "busca": "volleyball court indoor arena"
+  },
+  {
+    "nome": "pista-atletismo",
+    "busca": "athletics running track stadium"
+  },
+  {
+    "nome": "piscina-natacao",
+    "busca": "swimming pool lanes competition"
+  },
+  {
+    "nome": "tatame-lutas",
+    "busca": "judo tatami mat"
+  },
+  {
+    "nome": "quadra-basquete",
+    "busca": "basketball court arena"
+  },
+  {
+    "nome": "quadra-tenis",
+    "busca": "tennis court hard"
+  },
+  {
+    "nome": "yt-taf001-pentagon",
+    "busca": "Pentagon aerial view 2008 Arlington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-capitol",
+    "busca": "United States Capitol building exterior",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-ww2-fleet",
+    "busca": "US Navy fleet at sea World War II 1944 warships",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-white-house",
+    "busca": "White House Washington DC north lawn",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-minuteman",
+    "busca": "Minuteman III missile test launch Vandenberg",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-f35",
+    "busca": "F-35A Lightning II in flight",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf001-ramstein",
+    "busca": "Ramstein Air Base aerial view",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-voting-booths",
+    "busca": "voting booths",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-capitol",
+    "busca": "United States Capitol dome dusk",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-butterfly-ballot",
+    "busca": "butterfly ballot",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-state-legislature",
+    "busca": "Texas House of Representatives chamber",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-ballots",
+    "busca": "paper ballots election United States",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-house-chamber",
+    "busca": "United States House of Representatives chamber",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-gerrymander",
+    "busca": "Gerry-Mander cartoon 1812 Boston Gazette",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf002-district-map",
+    "busca": "United States congressional districts map",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-peconic-bay",
+    "busca": "Peconic Bay",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-letter",
+    "busca": "Einstein letter Roosevelt",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-uranium-ore",
+    "busca": "uraninite",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-ias-princeton",
+    "busca": "Fuld Hall Institute for Advanced Study Princeton",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-white-house",
+    "busca": "White House south facade Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-birmingham",
+    "busca": "University of Birmingham Chamberlain clock tower",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-hiroshima-cloud",
+    "busca": "atomic cloud over Hiroshima 1945",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc001-farm-hall",
+    "busca": "Godmanchester Great Ouse river",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-potomac",
+    "busca": "Potomac River Washington D.C. view",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-wright-flyer",
+    "busca": "1903 Wright Flyer National Air and Space Museum",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-smithsonian-castle",
+    "busca": "Smithsonian Institution Building castle National Mall",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-aerodrome-5",
+    "busca": "Langley Aerodrome No. 5 Smithsonian",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-houseboat",
+    "busca": "Langley Aerodrome houseboat Potomac 1903",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-aerodrome-wreck",
+    "busca": "Langley Aerodrome",
+    "formato": "paisagem",
+    "opcao": 2
+  },
+  {
+    "nome": "yt-bhc002-kill-devil-hills",
+    "busca": "Kill Devil Hills dunes Wright Brothers National Memorial",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-launch-rail",
+    "busca": "Wright Brothers National Memorial first flight boulder rail",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc002-keuka-lake",
+    "busca": "Keuka Lake Hammondsport New York",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-whitehall",
+    "busca": "Whitehall London street",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-channel-coast",
+    "busca": "Cap Gris-Nez English Channel French coast",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-westminster",
+    "busca": "Palace of Westminster Thames",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-war-rooms",
+    "busca": "Cabinet War Rooms Cabinet Room London",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-dover-cliffs",
+    "busca": "White Cliffs of Dover English Channel",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-dunkirk-harbour",
+    "busca": "Dunkirk evacuation 1940 ships",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-downing-street",
+    "busca": "Downing Street London",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-palazzo-venezia",
+    "busca": "Palazzo Venezia Rome facade",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-commons-chamber",
+    "busca": "House of Commons chamber Palace of Westminster",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-dunkirk-beach",
+    "busca": "Dunkirk beach 1940 evacuation",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc003-st-pauls",
+    "busca": "St Paul's Cathedral London Blitz 1940",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-white-house",
+    "busca": "White House north facade Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-key-west",
+    "busca": "Key West Florida ocean sunset",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-capitol",
+    "busca": "United States Capitol dome Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-jupiter-missile",
+    "busca": "PGM-19 Jupiter missile museum",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-sa2-missile",
+    "busca": "S-75 Dvina SA-2 surface-to-air missile museum",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-bering-strait",
+    "busca": "Bering Strait Chukotka coast",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-kotzebue",
+    "busca": "Kotzebue Alaska winter",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-destroyer",
+    "busca": "Fletcher class destroyer museum ship",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-justice-dept",
+    "busca": "Robert F. Kennedy Department of Justice Building Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-bhc004-kremlin",
+    "busca": "Moscow Kremlin wall towers",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "judo-tatame",
+    "busca": "judo tatami mat competition"
+  },
+  {
+    "nome": "ringue-lutas",
+    "busca": "empty boxing ring"
+  },
+  {
+    "nome": "quadra-futsal",
+    "busca": "futsal court indoor"
+  },
+  {
+    "nome": "camboriu-praia",
+    "busca": "Balneário Camboriú beach skyline"
+  },
+  {
+    "nome": "rio-carnaval-sapucai-1",
+    "busca": "Sambódromo Marquês de Sapucaí desfile carnaval",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-carnaval-sapucai-3",
+    "busca": "Rio carnival Sambadrome parade night",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-carnaval-sapucai-4",
+    "busca": "Rio carnival Sambadrome parade night",
+    "opcao": 2
+  },
+  {
+    "nome": "cinema-poltronas",
+    "busca": "empty cinema seats red"
+  },
+  {
+    "nome": "tv-controle",
+    "busca": "television remote control"
+  },
+  {
+    "nome": "cinema-claquete",
+    "busca": "clapperboard film"
+  },
+  {
+    "nome": "cinema-rolo",
+    "busca": "35mm film reel"
+  },
+  {
+    "nome": "cinema-drive-in",
+    "busca": "drive-in movie theater"
+  },
+  {
+    "nome": "game-arcade",
+    "busca": "arcade machines"
+  },
+  {
+    "nome": "game-console",
+    "busca": "video game console"
+  },
+  {
+    "nome": "show-palco-luzes",
+    "busca": "concert stage lights"
+  },
+  {
+    "nome": "show-microfone",
+    "busca": "microphone stage spotlight"
+  },
+  {
+    "nome": "show-festival-noite",
+    "busca": "music festival night crowd"
+  },
+  {
+    "nome": "show-guitarra",
+    "busca": "electric guitar stage"
+  },
+  {
+    "nome": "yt-taf016-supreme-court",
+    "busca": "United States Supreme Court Building facade",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-san-quentin",
+    "busca": "San Quentin State Prison",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-ca-capitol",
+    "busca": "California State Capitol Sacramento",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-cell-block",
+    "busca": "Eastern State Penitentiary cell block",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-ca-supreme-court",
+    "busca": "Earl Warren Building San Francisco",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-law-library",
+    "busca": "law library books shelves",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-huntsville",
+    "busca": "Huntsville Unit prison Texas",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-ballot-box",
+    "busca": "ballot box election",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-courtroom",
+    "busca": "empty courtroom United States",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-fl-capitol",
+    "busca": "Florida State Capitol Tallahassee",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf016-sacramento-capitol",
+    "busca": "California State Capitol dome Sacramento",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "rio-reveillon-fogos",
+    "busca": "Copacabana New Year fireworks Rio de Janeiro",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-natal-luz",
+    "busca": "Natal Luz Gramado Christmas lights",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-lago-negro",
+    "busca": "Lago Negro Gramado",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-natal-arvore",
+    "busca": "Gramado Natal Luz arvore",
+    "opcao": 1
+  },
+  {
+    "nome": "gramado-rua-coberta",
+    "busca": "Rua Coberta Gramado",
+    "opcao": 1
+  },
+  {
+    "nome": "futebol-americano-campo",
+    "busca": "American football field stadium",
+    "opcao": 1
+  },
+  {
+    "nome": "rugby-campo",
+    "busca": "rugby pitch stadium",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-senate-chamber",
+    "busca": "United States Senate chamber empty",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-capitol-dome",
+    "busca": "United States Capitol dome night",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-archives",
+    "busca": "National Archives Building Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-carrier",
+    "busca": "aircraft carrier at sea US Navy",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-b2",
+    "busca": "B-2 Spirit bomber flight",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-maddox",
+    "busca": "USS Maddox DD-731",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-hormuz",
+    "busca": "Strait of Hormuz satellite",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-nixon-library",
+    "busca": "Richard Nixon Presidential Library Yorba Linda",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-tomahawk",
+    "busca": "Tomahawk cruise missile launch ship",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-constitution",
+    "busca": "United States Constitution document parchment",
+    "formato": "paisagem",
+    "opcao": 1
+  }
 ]
