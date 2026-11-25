@@ -1,0 +1,119 @@
+{
+  "dia": "25/11/2026",
+  "apurado_em": "2026-11-25",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-chega-amanha",
+        "redes": [
+          "tiktok"
+        ],
+        "quando": "2026-11-25T19:00:00-03:00",
+        "alt": "Chega amanhã nos cinemas: 6 estreias de quinta, 26/11, com comédia, drama nacional, documentários e terror",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "grupo:estreia",
+            "pilula": "CHEGA AMANHÃ NOS CINEMAS",
+            "chamada": "QUINTA-FEIRA, 26/11",
+            "titulo": "6 estreias para ir ao cinema",
+            "caixas": [
+              [
+                "Estreia",
+                "Qui, 26/11"
+              ],
+              [
+                "Neste post",
+                "6 filmes"
+              ]
+            ],
+            "nota": "Tem comédia, drama nacional, documentários e terror. Sem spoiler.",
+            "fonte": "Conferido em 25/11 às 10h · Ingresso.com, Querofilme, Gazeta Culturismo, Ulti",
+            "cta": "Arraste →",
+            "alt": "Capa: chega amanhã nos cinemas, quinta-feira 26/11: 6 estreias para ir ao cinema, com comédia, drama nacional, documentários e terror"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "COMÉDIA",
+            "chamada": "NOS CINEMAS A PARTIR DE 26/11",
+            "titulo": "Entrando Numa Grande Fria",
+            "texto": "A família Focker volta: agora é Henry, o filho de Greg, quem decide se casar, e cada um da família reage do seu jeito.",
+            "topicos": [
+              "Direção de John Hamburg",
+              "Com Ben Stiller, Robert De Niro e Owen Wilson",
+              "Ariana Grande no elenco"
+            ],
+            "fonte": "Conferido em 25/11 às 10h · Ingresso.com, Querofilme, Gazeta Culturismo, Ulti",
+            "alt": "Entrando Numa Grande Fria, comédia de John Hamburg com Ben Stiller, Robert De Niro, Owen Wilson e Ariana Grande: Henry, filho de Greg, decide se casar"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "DRAMA NACIONAL",
+            "chamada": "NOS CINEMAS A PARTIR DE 26/11",
+            "titulo": "Pecadora",
+            "texto": "Isabel, jovem casada e criada com rigidez, começa a trabalhar com Enrico e sente um desejo que tentava reprimir.",
+            "topicos": [
+              "Direção de Dainara Toffoli",
+              "Com Rayssa Bratillieri, José Loreto e Marcos Pasquim",
+              "Duração: 1h53"
+            ],
+            "fonte": "Conferido em 25/11 às 10h · Ingresso.com, Querofilme, Gazeta Culturismo, Ulti",
+            "alt": "Pecadora, drama nacional de Dainara Toffoli com Rayssa Bratillieri, José Loreto e Marcos Pasquim; 1h53"
+          },
+          {
+            "tipo": "agenda",
+            "pilula": "QUI 26/11",
+            "chamada": "TAMBÉM ESTREIAM AMANHÃ",
+            "titulo": "Mais 4 estreias",
+            "itens": [
+              {
+                "data": "26/11",
+                "sub": "DOC",
+                "titulo": "Tudo Pode Ser Visto",
+                "detalhe": "Elizabeth Holmes antes da prisão · 2h54"
+              },
+              {
+                "data": "26/11",
+                "sub": "TERROR",
+                "titulo": "Leviticus: Ritual de Sangue",
+                "detalhe": "Com Mia Wasikowska · 1h28"
+              },
+              {
+                "data": "26/11",
+                "sub": "DOC",
+                "titulo": "Dona Onete",
+                "detalhe": "A cantora paraense e os sons da Amazônia"
+              },
+              {
+                "data": "26/11",
+                "sub": "DOC",
+                "titulo": "Kopenawa",
+                "detalhe": "O líder yanomami Davi Kopenawa · 1h22"
+              }
+            ],
+            "fonte": "Conferido em 25/11 às 10h · Ingresso.com, Querofilme, Gazeta Culturismo, Ulti",
+            "cta": "Salve para ver depois",
+            "alt": "Também estreiam em 26/11: Tudo Pode Ser Visto, documentário de Nathan Fielder e Lance Oppenheim sobre Elizabeth Holmes antes da prisão, 2h54; Leviticus: Ritual de Sangue, terror com Mia Wasikowska, 1h28; Dona Onete, documentário sobre a cantora paraense; e Kopenawa, documentário sobre o líder yanomami Davi Kopenawa, 1h22"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "grupo:estreia",
+            "pilula": "CHEGA AMANHÃ",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você vai ver no cinema?",
+            "opcoes": [
+              "Entrando Numa Grande Fria",
+              "Pecadora",
+              "Tudo Pode Ser Visto",
+              "Vou esperar chegar no streaming"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual você vai ver no cinema? A) Entrando Numa Grande Fria, B) Pecadora, C) Tudo Pode Ser Visto, D) Vou esperar chegar no streaming"
+          }
+        ],
+        "legenda": "🍿 Os Focker estão de volta: chega amanhã aos cinemas! 👇\n\n😬 Entrando Numa Grande Fria · Ben Stiller, Robert De Niro e Ariana Grande\n🇧🇷 Pecadora · drama nacional com Rayssa Bratillieri e José Loreto\n🎥 Tudo Pode Ser Visto · documentário sobre Elizabeth Holmes\n👻 E mais: Leviticus, Dona Onete e Kopenawa\n\nQual você vai ver? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#filmes #cinema #estreias #oquever #cinemabrasileiro"
+      }
+    ]
+  }
+}
