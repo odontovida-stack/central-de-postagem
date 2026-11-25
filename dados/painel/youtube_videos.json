@@ -46,7 +46,7 @@
    "publicado": "2026-11-17",
    "status": "public",
    "agendado": "",
-   "views": 5,
+   "views": 6,
    "likes": 0,
    "comentarios": 0
   },
@@ -86,7 +86,7 @@
    "publicado": "2026-11-15",
    "status": "public",
    "agendado": "",
-   "views": 413,
+   "views": 414,
    "likes": 7,
    "comentarios": 2
   },
@@ -203,6 +203,16 @@
  ],
  "Before History Changed": [
   {
+   "id": "1WfWS4TI30o",
+   "titulo": "The sentence Robert Kennedy crossed out #shorts",
+   "publicado": "2026-11-25",
+   "status": "public",
+   "agendado": "",
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
    "id": "w61PfYPxjM4",
    "titulo": "Churchill vs. Halifax: The 3 Days Britain Debated Asking for Hitler's Terms (May 1940)",
    "publicado": "2026-11-19",
@@ -258,16 +268,6 @@
    "publicado": "2026-11-04",
    "status": "public",
    "agendado": "",
-   "views": 0,
-   "likes": 0,
-   "comentarios": 0
-  },
-  {
-   "id": "1WfWS4TI30o",
-   "titulo": "The sentence Robert Kennedy crossed out #shorts",
-   "publicado": "2026-11-02",
-   "status": "private",
-   "agendado": "2026-11-25T19:00",
    "views": 0,
    "likes": 0,
    "comentarios": 0
