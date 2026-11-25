@@ -1,0 +1,348 @@
+{
+ "dia": "25/11/2026",
+ "apurado_em": "2026-11-25",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-25T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de quarta-feira, 25/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 25/11",
+      "linhas": [
+       {
+        "hora": "08h30",
+        "esporte": "natacao",
+        "competicao": "Brasileiro Interclubes de Verão",
+        "jogo": "Eliminatórias (finais às 17h)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h45",
+        "esporte": "surfe",
+        "competicao": "Surf Brasil Pro",
+        "jogo": "Etapa de Guarda do Embaú",
+        "canal": "XSports",
+        "gratis": true
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "Challenger de Florianópolis",
+        "jogo": "Brasileiros na 1ª rodada",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h30",
+        "esporte": "futebol",
+        "competicao": "Copa do Mundo Sub-17",
+        "jogo": "Uruguai x França",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "11h00",
+        "esporte": "futebol",
+        "competicao": "Copinha Feminina",
+        "jogo": "Bragantino x Atlético-MG",
+        "canal": "YouTube Paulistão",
+        "gratis": true
+       },
+       {
+        "hora": "12h00",
+        "esporte": "tenis",
+        "competicao": "Copa Davis · Quartas",
+        "jogo": "Itália x Coreia do Sul",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "12h30",
+        "esporte": "futebol",
+        "competicao": "Copa do Mundo Sub-17",
+        "jogo": "Dinamarca x Argentina",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "13h00",
+        "esporte": "basquete",
+        "competicao": "Euroliga",
+        "jogo": "Dubai x Partizan",
+        "canal": "XSports",
+        "gratis": true
+       },
+       {
+        "hora": "13h00",
+        "esporte": "volei",
+        "competicao": "Champions League Fem.",
+        "jogo": "Vakifbank x Beveren",
+        "canal": "EuroVolleyTV"
+       }
+      ],
+      "fonte": "Conferido em 25/11 à 1h · Antenados na TV, GF Esporte, WebVôlei, Mantos do Futebol, NFL",
+      "cta": "Arraste →",
+      "alt": "Agenda de quarta-feira, 25/11, parte 1 de 3: Eliminatórias (finais às 17h) às 08h30 (Brasileiro Interclubes de Verão, a confirmar); Etapa de Guarda do Embaú às 09h45 (Surf Brasil Pro, XSports, grátis); Brasileiros na 1ª rodada às 10h00 (Challenger de Florianópolis, a confirmar); Uruguai x França às 10h30 (Copa do Mundo Sub-17, CazéTV, grátis); Bragantino x Atlético-MG às 11h00 (Copinha Feminina, YouTube Paulistão, grátis); Itália x Coreia do Sul às 12h00 (Copa Davis · Quartas, CazéTV, grátis); Dinamarca x Argentina às 12h30 (Copa do Mundo Sub-17, CazéTV, grátis); Dubai x Partizan às 13h00 (Euroliga, XSports, grátis); Vakifbank x Beveren às 13h00 (Champions League Fem., EuroVolleyTV)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 25/11",
+      "linhas": [
+       {
+        "hora": "14h30",
+        "esporte": "volei",
+        "competicao": "Champions League Fem.",
+        "jogo": "Scandicci x Turan Tovuz",
+        "canal": "EuroVolleyTV"
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Champions League",
+        "jogo": "Sabah x Barcelona",
+        "canal": "TNT · HBO Max"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "volei",
+        "competicao": "Champions League Fem.",
+        "jogo": "Milano x Paris",
+        "canal": "XSports",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League",
+        "jogo": "PSG x Roma",
+        "canal": "TNT · HBO Max"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League",
+        "jogo": "Lille x Bayern de Munique",
+        "canal": "YouTube TNT Sports · Space",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Champions League",
+        "jogo": "Sporting x Manchester United",
+        "canal": "HBO Max"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "natacao",
+        "competicao": "Brasileiro Interclubes de Verão",
+        "jogo": "Finais do dia",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Barueri x Mackenzie",
+        "canal": "sportv2"
+       }
+      ],
+      "fonte": "Conferido em 25/11 à 1h · Antenados na TV, GF Esporte, WebVôlei, Mantos do Futebol, NFL",
+      "cta": "Arraste →",
+      "alt": "Agenda de quarta-feira, 25/11, parte 2 de 3: Scandicci x Turan Tovuz às 14h30 (Champions League Fem., EuroVolleyTV); Sabah x Barcelona às 14h45 (Champions League, TNT · HBO Max); Milano x Paris às 16h00 (Champions League Fem., XSports, grátis); PSG x Roma às 17h00 (Champions League, TNT · HBO Max); Lille x Bayern de Munique às 17h00 (Champions League, YouTube TNT Sports · Space, grátis); Sporting x Manchester United às 17h00 (Champions League, HBO Max); Finais do dia às 17h00 (Brasileiro Interclubes de Verão, a confirmar); Barueri x Mackenzie às 18h30 (Superliga Feminina, sportv2)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quarta-feira, 25/11",
+      "linhas": [
+       {
+        "hora": "19h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Montes Claros x Vôlei Renata",
+        "canal": "GETV",
+        "gratis": true
+       },
+       {
+        "hora": "19h00",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Heat x 76ers",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão",
+        "jogo": "Atlético-MG x Corinthians",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "futebol",
+        "competicao": "Copinha Feminina",
+        "jogo": "Botafogo x Internacional",
+        "canal": "TV Brasil · YouTube Paulistão",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "outros",
+        "competicao": "NHL",
+        "jogo": "Lightning x Hurricanes",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "21h30",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Timberwolves x Thunder",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "nfl",
+        "competicao": "NFL · Semana 12",
+        "jogo": "Packers x Rams",
+        "canal": "Netflix"
+       },
+       {
+        "hora": "00h00",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Mavericks x Nuggets (madrugada)",
+        "canal": "Prime Video"
+       }
+      ],
+      "fonte": "Conferido em 25/11 à 1h · Antenados na TV, GF Esporte, WebVôlei, Mantos do Futebol, NFL",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de quarta-feira, 25/11, parte 3 de 3: Montes Claros x Vôlei Renata às 19h00 (Superliga Masculina, GETV, grátis); Heat x 76ers às 19h00 (NBA Cup, ESPN 2); Atlético-MG x Corinthians às 20h00 (Brasileirão, Premiere); Botafogo x Internacional às 21h00 (Copinha Feminina, TV Brasil · YouTube Paulistão, grátis); Lightning x Hurricanes às 21h00 (NHL, ESPN 3); Timberwolves x Thunder às 21h30 (NBA Cup, ESPN 2); Packers x Rams às 22h00 (NFL · Semana 12, Netflix); Mavericks x Nuggets (madrugada) às 00h00 (NBA Cup, Prime Video)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de quarta-feira, 25/11 (horário de Brasília)\n\n🏈 NFL inédita na véspera do Dia de Ação de Graças: Packers x Rams, 22h, na Netflix\n🎾 Copa Davis: Itália x Coreia do Sul, 12h, na CazéTV 🆓\n🏐 Superliga Masculina: Montes Claros x Vôlei Renata, 19h, no GETV 🆓\n🏀 NBA Cup: Timberwolves x Thunder, 21h30, na ESPN 2\n⚽ Champions: PSG x Roma às 17h e Lille x Bayern grátis no YouTube da TNT Sports 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#agendaesportiva #ondeassistir #esportes #nfl #nba #copadavis #superliga #championsleague"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-25T07:30:00-03:00",
+    "alt": "Resultados de terça-feira e jogos de quarta-feira, 25/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "TER 24/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Champions League · 5ª rodada",
+        "jogos": [
+         {
+          "casa": "Real Madrid",
+          "gc": 5,
+          "fora": "PSV",
+          "gf": 1
+         },
+         {
+          "casa": "Arsenal",
+          "gc": 1,
+          "fora": "Borussia Dortmund",
+          "gf": 1
+         },
+         {
+          "casa": "Manchester City",
+          "gc": 2,
+          "fora": "Napoli",
+          "gf": 2
+         },
+         {
+          "casa": "Galatasaray",
+          "gc": 1,
+          "fora": "Aston Villa",
+          "gf": 0
+         }
+        ]
+       },
+       {
+        "competicao": "Brasileirão · 37ª rodada",
+        "jogos": [
+         {
+          "casa": "Chapecoense",
+          "gc": 3,
+          "fora": "Palmeiras",
+          "gf": 0
+         }
+        ]
+       }
+      ],
+      "destaque": "Real Madrid 5 × 1 PSV, com 2 gols de Mbappé",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 25/11 à 1h · A Rede, Gazeta Esportiva, Imirante, FIFA",
+      "cta": "Arraste →",
+      "alt": "Resultados de terça-feira, 24/11. Champions League: Real Madrid 5 x 1 PSV, Arsenal 1 x 1 Borussia Dortmund, Manchester City 2 x 2 Napoli e Galatasaray 1 x 0 Aston Villa. Brasileirão: Chapecoense 3 x 0 Palmeiras. Destaque: Real Madrid 5 x 1 PSV, com 2 gols de Mbappé"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUA 25/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "25/11",
+        "sub": "QUA · 17h",
+        "titulo": "PSG x Roma",
+        "detalhe": "Champions League · TNT, HBO Max",
+        "destaque": true
+       },
+       {
+        "data": "25/11",
+        "sub": "QUA · 17h",
+        "titulo": "Lille x Bayern de Munique",
+        "detalhe": "Champions League · YouTube TNT Sports, Space, HBO Max",
+        "gratis": true
+       },
+       {
+        "data": "25/11",
+        "sub": "QUA · 17h",
+        "titulo": "Sporting x Manchester United",
+        "detalhe": "Champions League · HBO Max"
+       },
+       {
+        "data": "25/11",
+        "sub": "QUA · 17h",
+        "titulo": "Club Brugge x Liverpool",
+        "detalhe": "Champions League · HBO Max"
+       },
+       {
+        "data": "25/11",
+        "sub": "QUA · 14h45",
+        "titulo": "Sabah x Barcelona",
+        "detalhe": "Champions League · TNT, HBO Max"
+       },
+       {
+        "data": "25/11",
+        "sub": "QUA · 20h",
+        "titulo": "Atlético-MG x Corinthians",
+        "detalhe": "Brasileirão · Premiere"
+       }
+      ],
+      "fonte": "Conferido em 25/11 à 1h · Antenados na TV, O Tempo, Mantos do Futebol",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de quarta-feira, 25/11: jogo do dia PSG x Roma às 17h, pela Champions, na TNT e no HBO Max; Lille x Bayern de Munique às 17h, grátis no YouTube da TNT Sports e também no Space e no HBO Max; Sporting x Manchester United às 17h no HBO Max; Club Brugge x Liverpool às 17h no HBO Max; Sabah x Barcelona às 14h45 na TNT e no HBO Max; Atlético-MG x Corinthians às 20h, pelo Brasileirão, no Premiere"
+     }
+    ],
+    "legenda": "⚪ Real Madrid 5 x 1 PSV, com 2 de Mbappé e gol de Vini Jr.! E hoje tem Champions com jogo grátis no YouTube.\n\n⚽ Real Madrid 5 x 1 PSV: 5 vitórias em 5 jogos e liderança provisória da Champions\n⚽ Galatasaray 1 x 0 Aston Villa, gol de Deniz Gül após escanteio de Gabriel Sara\n🟢 Chapecoense 3 x 0 Palmeiras: o Verdão foi de reservas, de olho na final da Libertadores\n🇧🇷 Brasil 1 x 0 Tanzânia no Mundial Sub-17 e vaga garantida no mata-mata\n\n★ Jogo do dia: PSG x Roma, 17h · TNT e HBO Max\n⚽ Lille x Bayern, 17h · YouTube TNT Sports 🆓, Space e HBO Max\n⚽ Sporting x Manchester United, 17h · HBO Max\n⚽ Club Brugge x Liverpool, 17h · HBO Max\n⚽ Sabah x Barcelona, 14h45 · TNT e HBO Max\n⚽ Atlético-MG x Corinthians, 20h · Premiere\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: A Rede, Gazeta Esportiva, Imirante, FIFA, Antenados na TV, O Tempo e Mantos do Futebol.\n\n#futebol #championsleague #realmadrid #psg #palmeiras #brasileirao #ondeassistir"
+   }
+  ]
+ }
+}

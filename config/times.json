@@ -983,5 +983,13 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "PSV": {
+  "sigla": "PSV",
+  "cores": [
+   "#ED1C24",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
