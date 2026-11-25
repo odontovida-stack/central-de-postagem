@@ -1,0 +1,147 @@
+{
+ "dia": "25/11/2026",
+ "apurado_em": "2026-11-25",
+ "contas": {
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "pre-venda",
+    "quando": "2026-11-25T08:00:00-03:00",
+    "foto": "show-palco-luzes",
+    "pilula": "QUA 25/11",
+    "chamada": "PRÉ-VENDA HOJE",
+    "grande": "12h",
+    "titulo": "Xuxa",
+    "caixas": [
+     [
+      "🎟️ Pré-venda",
+      "Hoje às 12h · clientes Itaú Private e Personnalité"
+     ],
+     [
+      "🎟️ Venda geral",
+      "Sex 27/11 · horário a confirmar"
+     ],
+     [
+      "📍 Cidades",
+      "Fortaleza (08/08), Recife (21/08) e Rio (13/11/2027)"
+     ]
+    ],
+    "nota": "Só compre no site oficial: Eventim",
+    "fonte": "Conferido em 25/11 à 1h · Billboard Brasil, Folha de Caruaru, O Povo",
+    "cta": "Mande para quem vai com você",
+    "alt": "Pré-venda hoje: ingressos para as novas datas da turnê O Último Voo da Nave, da Xuxa, em 2027: 8 de agosto na Arena Castelão, em Fortaleza, 21 de agosto na Arena de Pernambuco, em Recife, e 13 de novembro no Maracanã, no Rio. Pré-venda hoje, quarta, 25/11, às 12h, para clientes Itaú Private e Personnalité; amanhã, às 12h, para os demais clientes Itaú; venda geral na sexta, 27/11, na Eventim",
+    "legenda": "🚀 Xuxa ganhou datas novas da turnê O Último Voo da Nave, e a pré-venda abre HOJE às 12h!\n\n🎟️ Pré-venda: hoje, quarta, 25/11, às 12h, para clientes Itaú Private e Personnalité · amanhã, 26/11, às 12h, para os demais clientes Itaú\n🎟️ Venda geral: sexta, 27/11 (horário a confirmar)\n📍 Cidades: Fortaleza (08/08/2027, Arena Castelão, data extra depois que o 1º show esgotou) · Recife (21/08/2027, Arena de Pernambuco) · Rio (13/11/2027, Maracanã)\n\n⚠️ Cuidado com golpe: só o link oficial (Eventim)\n📌 Salve para lembrar às 12h\n📤 Mande para quem cresceu vendo a Xuxa com você\n\nVai em qual cidade? 👇\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\nFontes: Billboard Brasil, Folha de Caruaru e O Povo.\n\n#xuxa #ultimovoodanave #shows #ingressos #fortaleza #recife #riodejaneiro #showsconfirmados"
+   },
+   {
+    "tipo": "destaque",
+    "sufixo": "anunciado",
+    "quando": "2026-11-25T10:00:00-03:00",
+    "foto": "show-plateia",
+    "pilula": "SHOW ANUNCIADO",
+    "chamada": "SHOW ANUNCIADO",
+    "grande": "6 shows",
+    "titulo": "Sandy e Junior",
+    "caixas": [
+     [
+      "📅 Datas",
+      "Julho de 2027: 1º, 3, 9, 11, 23 e 25/07"
+     ],
+     [
+      "📍 Cidades",
+      "São Paulo · Nubank Parque"
+     ],
+     [
+      "🎟️ Vendas",
+      "Pré Elo 1º e 2/12, 10h · geral 3/12, 10h"
+     ]
+    ],
+    "nota": "Fonte oficial: Ticketmaster",
+    "fonte": "Conferido em 25/11 à 1h · Escutai, Billboard Brasil",
+    "cta": "Salve e mande",
+    "alt": "Show anunciado: Sandy e Junior farão uma residência de 6 shows no Nubank Parque, em São Paulo, em julho de 2027, nos dias 1º, 3, 9, 11, 23 e 25. Pré-venda para cartões Elo em 1º e 2 de dezembro, às 10h, e venda geral em 3 de dezembro, às 10h, na Ticketmaster",
+    "legenda": "🎤 É oficial: Sandy e Junior anunciaram 6 shows no Nubank Parque, em São Paulo!\n\n📅 Datas: 1º, 3, 9, 11, 23 e 25 de julho de 2027\n📍 Cidades: São Paulo, no Nubank Parque (residência só em SP)\n🎟️ Vendas: pré-venda para cartões Elo em 1º e 2/12, às 10h · venda geral em 3/12, às 10h · na Ticketmaster · a partir de R$ 175 (meia, cadeira superior)\n\n🔔 Siga e ative as notificações: a gente avisa na véspera e no dia da venda\n⚠️ Cuidado com golpe: só o link oficial (Ticketmaster)\n📤 Mande para quem cantava Sandy e Junior com você\n\nVai? Qual data? 👇\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\nFontes: Escutai e Billboard Brasil.\n\n#sandyejunior #sandy #junior #shows #ingressos #saopaulo #nubankparque #showsconfirmados"
+   },
+   {
+    "tipo": "agenda",
+    "sufixo": "venda-amanha",
+    "quando": "2026-11-25T19:00:00-03:00",
+    "pilula": "QUI 26/11",
+    "chamada": "VENDA ABRE AMANHÃ",
+    "titulo": "Vendas de amanhã",
+    "itens": [
+     {
+      "data": "26/11",
+      "sub": "QUI · 10h",
+      "titulo": "Shakira",
+      "detalhe": "Pré-venda (lista Fever) 10h · geral 12h · Fever"
+     },
+     {
+      "data": "26/11",
+      "sub": "QUI · 12h",
+      "titulo": "Dave Matthews Band",
+      "detalhe": "Venda geral · 12h · Ticketmaster"
+     },
+     {
+      "data": "26/11",
+      "sub": "QUI · 12h",
+      "titulo": "Xuxa",
+      "detalhe": "Pré-venda demais clientes Itaú · 12h · Eventim"
+     }
+    ],
+    "fonte": "Conferido em 25/11 à 1h · IstoÉ, A Gazeta, Almanaque da Cultura, Billboard Brasil",
+    "cta": "Salve e deixe o login pronto",
+    "alt": "Vendas que abrem amanhã, quinta, 26/11: Shakira, pré-venda para cadastrados na lista da Fever às 10h e venda geral às 12h, na Fever; Dave Matthews Band, venda geral às 12h na Ticketmaster; Xuxa, pré-venda para os demais clientes Itaú às 12h, na Eventim",
+    "legenda": "⏰ Amanhã às 10h: abre a pré-venda de Shakira, e ao meio-dia tem mais 2 vendas\n\n💃 Shakira · pré-venda às 10h para quem está na lista da Fever · venda geral às 12h · Fever\n📍 Balneário Camboriú (31/12), Cariacica (03/01), Salvador (06/01) e Fortaleza (09/01)\n\n🎸 Dave Matthews Band · venda geral às 12h · Ticketmaster\n📍 São Paulo (1º e 2/05, Best of Blues and Rock), Rio (05/05) e Curitiba (07/05)\n\n🚀 Xuxa · pré-venda para os demais clientes Itaú às 12h · Eventim\n📍 Fortaleza (08/08), Recife (21/08) e Rio (13/11/2027)\n\n🔔 Salve este post e deixe a conta da tiqueteira pronta (login e cartão cadastrados)\n⚠️ Cuidado com golpe: só o link oficial\n📤 Mande para quem vai com você\n\nQual dessas você vai tentar? 👇\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\nFontes: IstoÉ, A Gazeta, Almanaque da Cultura e Billboard Brasil.\n\n#shakira #davematthewsband #xuxa #ingressos #shows #showsconfirmados"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "destaque",
+    "sufixo": "hoje",
+    "quando": "2026-11-25T12:00:00-03:00",
+    "foto": "cinema-poltronas",
+    "pilula": "QUA 25/11",
+    "chamada": "ESTREIA HOJE",
+    "grande": "HOJE",
+    "titulo": "The Mosquito Bowl",
+    "caixas": [
+     [
+      "📺 Onde",
+      "Netflix"
+     ],
+     [
+      "🎬 Direção",
+      "Peter Berg"
+     ]
+    ],
+    "nota": "Drama de guerra com Nicholas Galitzine e Bill Skarsgård.",
+    "fonte": "Conferido em 25/11 à 1h · Omelete, The Playlist",
+    "cta": "Mande para quem vai assistir com você",
+    "alt": "Estreia hoje: o filme The Mosquito Bowl, drama de guerra dirigido por Peter Berg, com Nicholas Galitzine e Bill Skarsgård, chega hoje, quarta, 25/11, à Netflix",
+    "legenda": "🎬 Estreia hoje na Netflix: The Mosquito Bowl, o drama de guerra de Peter Berg!\n\n📺 Netflix · hoje, quarta, 25/11\n🎬 Direção: Peter Berg\n👥 Nicholas Galitzine e Bill Skarsgård\n🏈 A história real de fuzileiros americanos que jogaram futebol americano antes da batalha de Okinawa, na Segunda Guerra\n\n📌 Salve para não esquecer\n📤 Mande para quem curte filme de guerra com você\n\nVai ver hoje? 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFontes: Omelete e The Playlist.\n\n#themosquitobowl #netflix #filmes #estreia #nicholasgalitzine #billskarsgard #tudooqueestreia"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "duelo",
+    "sufixo": "duelo",
+    "quando": "2026-11-25T20:00:00-03:00",
+    "pilula": "DUELO",
+    "chamada": "VOCÊ ESCOLHE",
+    "pergunta": "Libertadores ou Copa do Brasil?",
+    "a": {
+     "nome": "Libertadores",
+     "detalhe": "A Glória Eterna"
+    },
+    "b": {
+     "nome": "Copa do Brasil",
+     "detalhe": "O mata-mata nacional"
+    },
+    "fonte": "Responda nos comentários",
+    "cta": "Comente A ou B",
+    "alt": "Duelo: Libertadores ou Copa do Brasil, qual título vale mais? A, Libertadores, a Glória Eterna. B, Copa do Brasil, o mata-mata nacional",
+    "legenda": "🏆 Final da Libertadores no sábado e da Copa do Brasil dia 6: qual título vale mais?\n\n🅰️ Libertadores\n🅱️ Copa do Brasil\n\n💬 Comente A ou B: amanhã sai o resultado\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#libertadores #copadobrasil #futebol #jogosnatela"
+   }
+  ]
+ }
+}
