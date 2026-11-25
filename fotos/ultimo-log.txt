@@ -3,3 +3,16 @@ NADA para judo-tatame (judo tatami mat competition)
 NADA para ringue-lutas (empty boxing ring)
 NADA para gramado-natal-luz (Natal Luz Gramado Christmas lights)
 NADA para gramado-natal-arvore (Gramado Natal Luz arvore)
+OK yt-taf020-senate-chamber: Foto: Harris &amp; Ewing · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Collier%27s_1921_United_States_of_America_-_Senate_Chamber.jpg)
+OK yt-taf020-capitol-dome: Foto: Diliff · CC BY 2.5 (https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg)
+OK yt-taf020-archives: Foto: U.S. National Archives · CC0 (https://www.rawpixel.com/image/8770571/photo-image-vintage-building-environmental-protection-agency)
+OK yt-taf020-carrier: Foto: U.S. Forest Service (source) · CC0 (https://www.rawpixel.com/image/8728160/photo-image-public-domain-ocean-person)
+OK yt-taf020-b2: Foto: U.S. Air Force photo/Staff Sgt. Bennie J. Davis III · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:B-2_Spirit_original.jpg)
+OK yt-taf020-maddox: Foto: Unknown authorUnknown author · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:USS_Maddox_(DD-731)_underway_at_sea,_circa_the_early_1960s_(NH_97900).jpg)
+OK yt-taf020-hormuz: Foto: MODIS Land Rapid Response Team, NASA GSFC · PUBLIC DOMAIN (https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg)
+Wikimedia falhou para yt-taf020-nixon-library: HTTP Error 429: Too Many Requests
+NADA para yt-taf020-nixon-library (Richard Nixon Presidential Library Yorba Linda)
+Wikimedia falhou para yt-taf020-tomahawk: HTTP Error 429: Too Many Requests
+NADA para yt-taf020-tomahawk (Tomahawk cruise missile launch ship)
+Wikimedia falhou para yt-taf020-constitution: HTTP Error 429: Too Many Requests
+NADA para yt-taf020-constitution (United States Constitution document parchment)
