@@ -1,0 +1,456 @@
+{
+ "dia": "26/11/2026",
+ "apurado_em": "2026-11-26",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-26T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de quinta-feira, 26/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 26/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "volei",
+        "competicao": "Liga sul-coreana masc.",
+        "jogo": "Woori Card x Samsung",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Florianópolis",
+        "jogo": "Eduardo Ribeiro x Alcalá Gurri",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "ITF W75 Florianópolis",
+        "jogo": "Julia Konishi x Semenistaja",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "surfe",
+        "competicao": "Surf Brasil Pro",
+        "jogo": "Etapa de Guarda do Embaú",
+        "canal": "XSports",
+        "gratis": true
+       },
+       {
+        "hora": "11h00",
+        "esporte": "outros",
+        "competicao": "Tiro esportivo · Pan-Americano",
+        "jogo": "Pistola 25 m fem. (final 14h30)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "tenis",
+        "competicao": "Challenger Florianópolis",
+        "jogo": "Felipe Meligeni x Zárate",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "12h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Mundo Sub-17",
+        "jogo": "Marrocos x Espanha",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "13h00",
+        "esporte": "tenis",
+        "competicao": "Copa Davis · Quartas",
+        "jogo": "Áustria x Espanha",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "13h00",
+        "esporte": "tenis",
+        "competicao": "ITF W75 Florianópolis",
+        "jogo": "Laura Pigossi x Demi Tran",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "13h45",
+        "esporte": "outros",
+        "competicao": "Hipismo · CSI4* Wellington",
+        "jogo": "Brasileiros no 1,45 m",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "outros",
+        "competicao": "Ginástica rítmica",
+        "jogo": "Brasileiro de Conjunto",
+        "canal": "a confirmar"
+       }
+      ],
+      "fonte": "Conferido em 26/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Lance, WebVôlei, Mantos do Futebol",
+      "cta": "Arraste →",
+      "alt": "Agenda de quinta-feira, 26/11, parte 1 de 3: Woori Card x Samsung às 07h00 (Liga sul-coreana masc., a confirmar); Eduardo Ribeiro x Alcalá Gurri às 10h00 (Challenger Florianópolis, a confirmar); Julia Konishi x Semenistaja às 10h00 (ITF W75 Florianópolis, a confirmar); Etapa de Guarda do Embaú às 11h00 (Surf Brasil Pro, XSports, grátis); Pistola 25 m fem. (final 14h30) às 11h00 (Tiro esportivo · Pan-Americano, a confirmar); Felipe Meligeni x Zárate às 11h30 (Challenger Florianópolis, a confirmar); Marrocos x Espanha às 12h00 (Copa do Mundo Sub-17, CazéTV, grátis); Áustria x Espanha às 13h00 (Copa Davis · Quartas, CazéTV, grátis); Laura Pigossi x Demi Tran às 13h00 (ITF W75 Florianópolis, a confirmar); Brasileiros no 1,45 m às 13h45 (Hipismo · CSI4* Wellington, a confirmar); Brasileiro de Conjunto às 14h00 (Ginástica rítmica, a confirmar)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 26/11",
+      "linhas": [
+       {
+        "hora": "14h00",
+        "esporte": "volei",
+        "competicao": "Champions League Fem.",
+        "jogo": "Uni Opole x Mulhouse",
+        "canal": "EuroVolleyTV"
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Europa League",
+        "jogo": "Olympiacos x Milan",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Europa League",
+        "jogo": "Viktoria Plzen x Benfica",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "14h45",
+        "esporte": "futebol",
+        "competicao": "Conference League",
+        "jogo": "Ajax x Thun",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "14h45",
+        "esporte": "outros",
+        "competicao": "Handebol · Champions EHF",
+        "jogo": "Veszprém x Aalborg",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "15h00",
+        "esporte": "nfl",
+        "competicao": "NFL · Ação de Graças",
+        "jogo": "Bears x Lions",
+        "canal": "SporTV 2"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "volei",
+        "competicao": "Liga Francesa masc.",
+        "jogo": "Tours x Montpellier",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h30",
+        "esporte": "volei",
+        "competicao": "Champions League Fem.",
+        "jogo": "Conegliano x Novara",
+        "canal": "XSports",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "basquete",
+        "competicao": "EuroCup Fem.",
+        "jogo": "Namur x Ružomberok",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Europa League",
+        "jogo": "Juventus x Omonia",
+        "canal": "CazéTV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 26/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Lance, WebVôlei, Mantos do Futebol",
+      "cta": "Arraste →",
+      "alt": "Agenda de quinta-feira, 26/11, parte 2 de 3: Uni Opole x Mulhouse às 14h00 (Champions League Fem., EuroVolleyTV); Olympiacos x Milan às 14h45 (Europa League, CazéTV, grátis); Viktoria Plzen x Benfica às 14h45 (Europa League, CazéTV, grátis); Ajax x Thun às 14h45 (Conference League, CazéTV, grátis); Veszprém x Aalborg às 14h45 (Handebol · Champions EHF, a confirmar); Bears x Lions às 15h00 (NFL · Ação de Graças, SporTV 2); Tours x Montpellier às 16h00 (Liga Francesa masc., a confirmar); Conegliano x Novara às 16h30 (Champions League Fem., XSports, grátis); Namur x Ružomberok às 16h30 (EuroCup Fem., a confirmar); Juventus x Omonia às 17h00 (Europa League, CazéTV, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/3",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Quinta-feira, 26/11",
+      "linhas": [
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Europa League",
+        "jogo": "Crystal Palace x Real Sociedad",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Conference League",
+        "jogo": "Freiburg x Twente",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "18h00",
+        "esporte": "tenis",
+        "competicao": "ITF W75 Florianópolis",
+        "jogo": "Carolina Alves x Roura",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "nfl",
+        "competicao": "NFL · Ação de Graças",
+        "jogo": "Eagles x Cowboys",
+        "canal": "SporTV 2"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "outros",
+        "competicao": "Futsal · Talentos LNF Sub-20",
+        "jogo": "Final: Corinthians x Minas",
+        "canal": "XSports · LNF TV",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 37ª rodada",
+        "jogo": "São Paulo x Remo",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "outros",
+        "competicao": "Handebol · Super Paulistão Fem.",
+        "jogo": "3º lugar: Praia Grande x São Carlos",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "21h50",
+        "esporte": "outros",
+        "competicao": "BMX Freestyle · Copa do Mundo",
+        "jogo": "Park masc. · classificatória",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "nfl",
+        "competicao": "Futebol americano · NCAA",
+        "jogo": "Texas Tech x TCU",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "22h20",
+        "esporte": "nfl",
+        "competicao": "NFL · Ação de Graças",
+        "jogo": "Chiefs x Bills",
+        "canal": "SporTV 2 · ge tv",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 26/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Lance, WebVôlei, Mantos do Futebol",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de quinta-feira, 26/11, parte 3 de 3: Crystal Palace x Real Sociedad às 17h00 (Europa League, CazéTV, grátis); Freiburg x Twente às 17h00 (Conference League, CazéTV, grátis); Carolina Alves x Roura às 18h00 (ITF W75 Florianópolis, a confirmar); Eagles x Cowboys às 18h30 (NFL · Ação de Graças, SporTV 2); Final: Corinthians x Minas às 20h00 (Futsal · Talentos LNF Sub-20, XSports · LNF TV, grátis); São Paulo x Remo às 20h00 (Brasileirão · 37ª rodada, Premiere); 3º lugar: Praia Grande x São Carlos às 21h00 (Handebol · Super Paulistão Fem., a confirmar); Park masc. · classificatória às 21h50 (BMX Freestyle · Copa do Mundo, a confirmar); Texas Tech x TCU às 22h00 (Futebol americano · NCAA, ESPN 2); Chiefs x Bills às 22h20 (NFL · Ação de Graças, SporTV 2 · ge tv, grátis)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de quinta-feira, 26/11 (horário de Brasília)\n\n🏈 Rodada tripla da NFL no Dia de Ação de Graças: Bears x Lions (15h), Eagles x Cowboys (18h30) e Chiefs x Bills (22h20, grátis na ge tv 🆓)\n🎾 Copa Davis: Áustria x Espanha, 13h, na CazéTV 🆓\n🏐 Champions de vôlei: Conegliano, de Gabi, x Novara, de Júlia Kudiess, 16h30, na XSports 🆓\n🎾 Brasileiros em casa no Challenger e no ITF de Florianópolis, o dia todo\n⚽ Europa League: Olympiacos x Milan, 14h45, na CazéTV 🆓\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#agendaesportiva #ondeassistir #esportes #nfl #thanksgiving #copadavis #volei #europaleague"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-26T07:30:00-03:00",
+    "alt": "Resultados de quarta-feira e jogos de quinta-feira, 26/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "QUA 25/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Champions League · 5ª rodada",
+        "jogos": [
+         {
+          "casa": "PSG",
+          "gc": 2,
+          "fora": "Roma",
+          "gf": 2
+         },
+         {
+          "casa": "Club Brugge",
+          "gc": 0,
+          "fora": "Liverpool",
+          "gf": 3
+         },
+         {
+          "casa": "Lille",
+          "gc": 2,
+          "fora": "Bayern",
+          "gf": 1
+         },
+         {
+          "casa": "Sabah",
+          "gc": 1,
+          "fora": "Barcelona",
+          "gf": 4
+         },
+         {
+          "casa": "Sporting",
+          "gc": 2,
+          "fora": "Man. United",
+          "gf": 2
+         },
+         {
+          "casa": "Inter",
+          "gc": 2,
+          "fora": "Stuttgart",
+          "gf": 0
+         }
+        ]
+       },
+       {
+        "competicao": "Brasileirão · jogo atrasado",
+        "jogos": [
+         {
+          "casa": "Atlético-MG",
+          "gc": 1,
+          "fora": "Corinthians",
+          "gf": 1
+         }
+        ]
+       }
+      ],
+      "destaque": "Roma acaba com os 100% do PSG em Paris",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 26/11 à 1h · UEFA, Playmaker Brasil, Jovem Pan",
+      "cta": "Arraste →",
+      "alt": "Resultados de quarta-feira, 25/11. Champions League: PSG 2 x 2 Roma, Club Brugge 0 x 3 Liverpool, Lille 2 x 1 Bayern, Sabah 1 x 4 Barcelona, Sporting 2 x 2 Manchester United e Inter 2 x 0 Stuttgart. Brasileirão: Atlético-MG 1 x 1 Corinthians. Destaque: a Roma empatou 2 x 2 em Paris e acabou com a campanha perfeita do PSG"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUI 26/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "26/11",
+        "sub": "QUI · 14h45",
+        "titulo": "Olympiacos x Milan",
+        "detalhe": "Europa League · CazéTV",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI · 14h45",
+        "titulo": "Viktoria Plzen x Benfica",
+        "detalhe": "Europa League · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI · 14h45",
+        "titulo": "Ajax x Thun",
+        "detalhe": "Conference League · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI · 17h",
+        "titulo": "Juventus x Omonia",
+        "detalhe": "Europa League · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI · 17h",
+        "titulo": "Crystal Palace x Real Sociedad",
+        "detalhe": "Europa League · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "26/11",
+        "sub": "QUI · 20h",
+        "titulo": "São Paulo x Remo",
+        "detalhe": "Brasileirão · Premiere"
+       }
+      ],
+      "fonte": "Conferido em 26/11 à 1h · Mantos do Futebol, Antenados na TV, Lance",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de quinta-feira, 26/11: jogo do dia Olympiacos x Milan às 14h45, pela Europa League, grátis na CazéTV; Viktoria Plzen x Benfica às 14h45, grátis na CazéTV; Ajax x Thun às 14h45, pela Conference League, grátis na CazéTV; Juventus x Omonia às 17h, grátis na CazéTV; Crystal Palace x Real Sociedad às 17h, grátis na CazéTV; São Paulo x Remo às 20h, pelo Brasileirão, no Premiere"
+     }
+    ],
+    "legenda": "🟡 A Roma arrancou um 2 x 2 em Paris e acabou com a campanha perfeita do PSG! E hoje tem Europa League grátis o dia todo.\n\n⚽ PSG 2 x 2 Roma: Malen empatou de pênalti\n🔴 Club Brugge 0 x 3 Liverpool, com 2 de Isak e 1 de Wirtz\n🔵 Sabah 1 x 4 Barcelona, com gol de Gabriel Jesus\n⚽ Lille 2 x 1 Bayern\n⚫ Atlético-MG 1 x 1 Corinthians: Cuello empatou aos 47 do 2º tempo\n\n★ Jogo do dia: Olympiacos x Milan, 14h45 · CazéTV 🆓\n⚽ Viktoria Plzen x Benfica, 14h45 · CazéTV 🆓\n⚽ Ajax x Thun, 14h45 · CazéTV 🆓\n⚽ Juventus x Omonia, 17h · CazéTV 🆓\n⚽ Crystal Palace x Real Sociedad, 17h · CazéTV 🆓\n⚽ São Paulo x Remo, 20h · Premiere\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual jogo você vai ver hoje? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#futebol #ondeassistir #europaleague #championsleague #brasileirao #milan #juventus"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "gratis",
+    "quando": "2026-11-26T14:00:00-03:00",
+    "alt": "Tudo grátis agora #8 na Epic Games Store",
+    "cards": [
+     {
+      "tipo": "agenda",
+      "pilula": "QUI 26/11",
+      "chamada": "TUDO GRÁTIS AGORA #8",
+      "titulo": "Resgate antes que acabe",
+      "itens": [
+       {
+        "data": "03/12",
+        "sub": "QUI · 13h",
+        "titulo": "Bread & Fred",
+        "detalhe": "Epic · acaba em 167h · qui 03/12, 13h"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI · 13h",
+        "titulo": "Pacote do Firestone (itens no jogo)",
+        "detalhe": "Epic · acaba em 167h · qui 03/12, 13h"
+       }
+      ],
+      "fonte": "Conferido em 26/11 à 1h · Worthplaying, Epic Games Store",
+      "cta": "Arraste →",
+      "alt": "Tudo grátis agora #8: Bread & Fred e um pacote de itens do Firestone: Idle Clicker Online RPG grátis na Epic Games Store até quinta, 03/12, às 13h de Brasília"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "PASSO A PASSO",
+      "chamada": "COMO RESGATAR",
+      "titulo": "Leva 1 minuto",
+      "topicos": [
+       "Entre na Epic Games Store com a sua conta",
+       "Abra a página do jogo e toque em \"Obter\"",
+       "Pronto: o jogo fica na sua biblioteca para sempre"
+      ],
+      "fonte": "Conferido em 26/11 à 1h · Epic Games Store",
+      "cta": "Salve e mande",
+      "alt": "Como resgatar: entre na Epic Games Store com a sua conta, toque em Obter na página do jogo e ele fica na sua biblioteca para sempre."
+     }
+    ],
+    "legenda": "⏰ Você tem 167h para pegar o novo grátis da Epic (até quinta, 03/12, às 13h)!\n\n🎁 TUDO GRÁTIS AGORA #8\n🐧 Bread & Fred · plataforma cooperativo com dois pinguins presos por uma corda · grátis na Epic\n⚔️ Pacote do Firestone: Idle Clicker Online RPG · itens dentro do jogo · grátis na Epic (precisa entrar no jogo pela Epic)\n\n📌 Salve para não perder o prazo\n📤 Mande para quem vai jogar Bread & Fred com você (é cooperativo!)\n\nVai chamar quem para jogar? 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\nFontes: Worthplaying e Epic Games Store.\n\n#jogosgratis #epicgames #breadandfred #pcgamer #games #gamer #coop"
+   }
+  ]
+ }
+}

@@ -991,5 +991,29 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Club Brugge": {
+  "sigla": "BRU",
+  "cores": [
+   "#0067CE",
+   "#000000"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Stuttgart": {
+  "sigla": "VFB",
+  "cores": [
+   "#E32219",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Benfica": {
+  "sigla": "SLB",
+  "cores": [
+   "#E2001A",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }
