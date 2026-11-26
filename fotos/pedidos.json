@@ -633,5 +633,29 @@
     "nome": "rugby-campo",
     "busca": "rugby pitch stadium",
     "opcao": 1
+  },
+  {
+    "nome": "futsal-ginasio",
+    "busca": "indoor futsal court arena empty"
+  },
+  {
+    "nome": "ufc-octogono",
+    "busca": "empty MMA octagon cage arena"
+  },
+  {
+    "nome": "game-headset",
+    "busca": "gaming headset on desk"
+  },
+  {
+    "nome": "game-handheld",
+    "busca": "handheld game console"
+  },
+  {
+    "nome": "game-setup-rgb",
+    "busca": "gaming setup RGB lights desk"
+  },
+  {
+    "nome": "show-estadio-noite",
+    "busca": "stadium concert crowd night lights"
   }
 ]

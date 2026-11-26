@@ -1,0 +1,1698 @@
+{
+ "semana": "30/11 a 06/12/2026 (estreias: 27/11 a 03/12)",
+ "apurado_em": "2026-11-26",
+ "contas": {
+  "tudooqueestreia": [
+   {
+    "tipo": "carrossel",
+    "quando": "2026-11-27T09:00:00-03:00",
+    "sufixo": "estreias-da-semana",
+    "alt": "Estreias da semana de 27 de novembro a 3 de dezembro: 32 estreias, 25 filmes e 7 séries, por plataforma",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:estreia",
+      "pilula": "27/11–03/12",
+      "chamada": "ESTREIAS DA SEMANA · 27/11 a 03/12",
+      "grande": "32",
+      "titulo": "estreias esta semana",
+      "caixas": [
+       [
+        "Filmes",
+        "25"
+       ],
+       [
+        "Séries",
+        "7"
+       ]
+      ],
+      "nota": "Netflix, Prime Video, Disney+, HBO Max, Globoplay, Apple TV, Paramount+ e cinema",
+      "fonte": "Fontes: Omelete · Showmetech · AdoroCinema · Ingresso.com",
+      "cta": "Arraste →",
+      "alt": "Capa: 32 estreias esta semana, de 27 de novembro a 3 de dezembro: 25 filmes e 7 séries"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "27/11–03/12",
+      "chamada": "OS 4 DESTAQUES",
+      "titulo": "De Austen a Schwarzenegger",
+      "itens": [
+       {
+        "data": "01/12",
+        "sub": "TER",
+        "titulo": "Trinity",
+        "detalhe": "Netflix · thriller com Richard Madden"
+       },
+       {
+        "data": "02/12",
+        "sub": "QUA",
+        "titulo": "Missão Resgate de Natal",
+        "detalhe": "Prime Video · Schwarzenegger é o Papai Noel"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Orgulho e Preconceito",
+        "detalhe": "Netflix · Jane Austen em 6 episódios"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Behemoth!",
+        "detalhe": "Cinema · Pedro Pascal, de Tony Gilroy"
+       }
+      ],
+      "fonte": "Fontes: What's on Netflix · Amazon · Omelete · AdoroCinema",
+      "cta": "Arraste →",
+      "alt": "Os 4 destaques: Trinity (Netflix, 01/12), Missão Resgate de Natal (Prime Video, 02/12), Orgulho e Preconceito (Netflix, 03/12) e Behemoth! (cinema, 03/12)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "27/11–03/12",
+      "chamada": "NETFLIX",
+      "titulo": "Na Netflix",
+      "itens": [
+       {
+        "data": "27/11",
+        "sub": "SEX",
+        "titulo": "Quasímodo: A Alma de Paris",
+        "detalhe": "filme"
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX",
+        "titulo": "Tyson Fury",
+        "detalhe": "doc · sobre o boxeador"
+       },
+       {
+        "data": "01/12",
+        "sub": "TER",
+        "titulo": "Trinity",
+        "detalhe": "série · thriller político"
+       },
+       {
+        "data": "01/12",
+        "sub": "TER",
+        "titulo": "Ainda Estou Aqui",
+        "detalhe": "filme · chega ao catálogo"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Orgulho e Preconceito",
+        "detalhe": "série · 6 episódios"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Jão: Memórias Póstumas",
+        "detalhe": "doc · brasileiro"
+       }
+      ],
+      "fonte": "Fontes: Omelete · Showmetech · What's on Netflix",
+      "cta": "Arraste →",
+      "alt": "Netflix: Quasímodo: A Alma de Paris e o documentário Tyson Fury (27/11), Trinity e Ainda Estou Aqui (01/12), Orgulho e Preconceito e o documentário Jão: Memórias Póstumas (03/12)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "27/11–03/12",
+      "cta": "Arraste →",
+      "chamada": "PRIME VIDEO · DISNEY+",
+      "titulo": "No Prime e no Disney+",
+      "itens": [
+       {
+        "data": "27/11",
+        "sub": "SEX",
+        "titulo": "Mickey: Esqueceram de Mim",
+        "detalhe": "Disney+ · filme · especial"
+       },
+       {
+        "data": "02/12",
+        "sub": "QUA",
+        "titulo": "Missão Resgate de Natal",
+        "detalhe": "Prime Video · filme"
+       }
+      ],
+      "fonte": "Fontes: Omelete · Amazon",
+      "alt": "Prime Video e Disney+: Mickey: Esqueceram de Mim (Disney+, 27/11) e Missão Resgate de Natal (Prime Video, 02/12)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "27/11–03/12",
+      "chamada": "HBO MAX",
+      "titulo": "Na HBO Max",
+      "itens": [
+       {
+        "data": "27/11",
+        "sub": "SEX",
+        "titulo": "Pai em Tempo Integral",
+        "detalhe": "filme"
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX",
+        "titulo": "Os Segelström: A Arte da Enganação",
+        "detalhe": "série · doc"
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX",
+        "titulo": "O Zoológico Amaldiçoado",
+        "detalhe": "série · doc"
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX",
+        "titulo": "O Caso Linares",
+        "detalhe": "doc"
+       },
+       {
+        "data": "28/11",
+        "sub": "SÁB",
+        "titulo": "The Buffalo Miracle",
+        "detalhe": "doc"
+       },
+       {
+        "data": "30/11",
+        "sub": "SEG",
+        "titulo": "Leyla",
+        "detalhe": "série · novela"
+       }
+      ],
+      "fonte": "Fonte: Showmetech",
+      "cta": "Arraste →",
+      "alt": "HBO Max: Pai em Tempo Integral, Os Segelström: A Arte da Enganação, O Zoológico Amaldiçoado e O Caso Linares (27/11), The Buffalo Miracle (28/11) e a novela Leyla (30/11)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "27/11–03/12",
+      "cta": "Arraste →",
+      "chamada": "GLOBOPLAY · APPLE TV · PARAMOUNT+",
+      "titulo": "Mais streaming",
+      "itens": [
+       {
+        "data": "28/11",
+        "sub": "SÁB",
+        "titulo": "Mãe Fora da Caixa",
+        "detalhe": "Globoplay · filme · brasileiro"
+       },
+       {
+        "data": "30/11",
+        "sub": "SEG",
+        "titulo": "Sétimo Sentido",
+        "detalhe": "Globoplay · série · novela clássica"
+       },
+       {
+        "data": "02/12",
+        "sub": "QUA",
+        "titulo": "Bad Monkey · T2",
+        "detalhe": "Apple TV · série · 1 ep. por quarta"
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX",
+        "titulo": "Feliz Natal, Sr. Plankton",
+        "detalhe": "Paramount+ · filme · especial"
+       }
+      ],
+      "fonte": "Fontes: Showmetech · Apple · Omelete",
+      "alt": "Globoplay: Mãe Fora da Caixa (28/11) e a novela Sétimo Sentido (30/11); Apple TV: Bad Monkey 2ª temporada (02/12); Paramount+: Feliz Natal, Sr. Plankton (27/11)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "QUI 03/12",
+      "chamada": "CINEMA",
+      "titulo": "Nos cinemas",
+      "itens": [
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Behemoth!",
+        "detalhe": "filme · Pedro Pascal, de Tony Gilroy"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Noite Ainda Mais Infeliz",
+        "detalhe": "filme · David Harbour volta como Noel"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "O Nascimento de Cristo: ZERO D.C.",
+        "detalhe": "filme · com Ben Mendelsohn"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Psicopata Vitoriana",
+        "detalhe": "filme · terror com Maika Monroe"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Ciclo",
+        "detalhe": "filme · brasileiro, de Ian SBF"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "ONE PIECE: O Reino de Chopper",
+        "detalhe": "filme · anime"
+       }
+      ],
+      "fonte": "Fontes: AdoroCinema · Ingresso.com · Omelete",
+      "cta": "Salve a lista",
+      "alt": "Cinema, quinta 03/12: Behemoth!, Noite Ainda Mais Infeliz, O Nascimento de Cristo: ZERO D.C., Psicopata Vitoriana, Ciclo e ONE PIECE: O Reino de Chopper, entre 13 estreias"
+     }
+    ],
+    "legenda": "🎬 32 estreias esta semana (27/11 a 03/12): 25 filmes e 7 séries, de Jane Austen ao Papai Noel de Schwarzenegger\n\nOs 4 destaques:\n🕵️ Ter 01/12 · Trinity · Netflix (thriller com Richard Madden)\n🎅 Qua 02/12 · Missão Resgate de Natal · Prime Video (Schwarzenegger é o Papai Noel)\n💌 Qui 03/12 · Orgulho e Preconceito · Netflix (6 episódios)\n🎻 Qui 03/12 · Behemoth! · cinema (Pedro Pascal, de Tony Gilroy)\n\n📺 Netflix: Quasímodo: A Alma de Paris e o doc Tyson Fury (27), Trinity e Ainda Estou Aqui, que chega ao catálogo (1º), Orgulho e Preconceito, Jão: Memórias Póstumas e Minha Namorada Feminista e Doida (3)\n📦 Prime Video: Missão Resgate de Natal (2)\n🏰 Disney+: Mickey: Esqueceram de Mim (27)\n🎞️ HBO Max: Pai em Tempo Integral, Os Segelström, O Zoológico Amaldiçoado e O Caso Linares (27), The Buffalo Miracle (28) e a novela Leyla (30)\n🟠 Globoplay: Mãe Fora da Caixa (28) e a novela Sétimo Sentido (30)\n🍎 Apple TV: Bad Monkey T2 (2, um episódio por quarta)\n⛰️ Paramount+: Feliz Natal, Sr. Plankton (27)\n🍿 Cinema, qui 03/12: Behemoth!, Noite Ainda Mais Infeliz, O Nascimento de Cristo: ZERO D.C., Psicopata Vitoriana, Ciclo e ONE PIECE (os destaques entre 13 estreias)\n\n📌 Salve para escolher o que ver no fim de semana\n📤 Mande para quem divide o sofá com você\n\nQual vai ser o primeiro? Comenta aí 👇\nSiga @tudooqueestreia para saber tudo o que estreia, toda sexta.\n\nFontes: Omelete, Showmetech, AdoroCinema, Ingresso.com, About Amazon, Apple TV (via MacTech) e What's on Netflix.\n\n#estreias #netflix #orgulhoepreconceito #pedropascal #primevideo #hbomax #cinema #series"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-12-02T20:00:00-03:00",
+    "sufixo": "estreias-mais-esperadas",
+    "alt": "As estreias mais esperadas: Orgulho e Preconceito, na Netflix, e Behemoth!, nos cinemas, as duas na quinta 03/12",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:estreia",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "NETFLIX + CINEMA · QUI 03/12",
+      "titulo": "Sofá ou cinema? As 2 estreias de quinta",
+      "caixas": [
+       [
+        "Netflix · qui 03",
+        "Orgulho e Preconceito"
+       ],
+       [
+        "Cinema · qui 03",
+        "Behemoth!"
+       ]
+      ],
+      "nota": "Sem spoiler. Arraste.",
+      "fonte": "Fontes: AdoroCinema · Omelete",
+      "cta": "Arraste →",
+      "alt": "Capa: sofá ou cinema? As 2 estreias de quinta 03/12: Orgulho e Preconceito na Netflix e Behemoth! nos cinemas"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "ORGULHO E PRECONCEITO · NETFLIX",
+      "titulo": "Do que se trata",
+      "texto": "Nova minissérie de 6 episódios baseada no romance de Jane Austen. A Sra. Bennet quer casar bem as cinco filhas. E Elizabeth não se impressiona nada com o rico e orgulhoso Sr. Darcy.",
+      "fonte": "Fontes: AdoroCinema · Omelete",
+      "alt": "Orgulho e Preconceito: nova minissérie de 6 episódios da Netflix baseada em Jane Austen; a Sra. Bennet quer casar as cinco filhas e Elizabeth não se impressiona com o Sr. Darcy"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "ORGULHO E PRECONCEITO · POR QUE VER",
+      "titulo": "Elenco de peso",
+      "topicos": [
+       "Emma Corrin é Elizabeth e Jack Lowden é Darcy",
+       "Olivia Colman vive a Sra. Bennet",
+       "Roteiro de Dolly Alderton e direção de Euros Lyn",
+       "Na nossa visão: 6 episódios cabem num fim de semana"
+      ],
+      "fonte": "Fontes: Omelete · AdoroCinema · opinião da página",
+      "alt": "Por que ver Orgulho e Preconceito: Emma Corrin como Elizabeth, Jack Lowden como Darcy e Olivia Colman como Sra. Bennet; roteiro de Dolly Alderton e direção de Euros Lyn"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "BEHEMOTH! · CINEMA",
+      "titulo": "Do que se trata",
+      "texto": "Alex, um violoncelista perto dos 50 anos, volta a Los Angeles para gravar a trilha de um blockbuster de Hollywood. A história vai e volta no tempo pelas memórias dele, entre a carreira interrompida e a relação difícil com o irmão.",
+      "fonte": "Fontes: Omelete · O Vício",
+      "alt": "Behemoth!: Alex, um violoncelista perto dos 50 anos, volta a Los Angeles para gravar a trilha de um filme de Hollywood; a história vai e volta no tempo"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "BEHEMOTH! · POR QUE VER",
+      "titulo": "Pedro Pascal no violoncelo",
+      "topicos": [
+       "Escrito e dirigido por Tony Gilroy, de Andor",
+       "Com Olivia Wilde, Will Arnett e Eva Victor",
+       "Chega ao Brasil no mesmo fim de semana dos EUA",
+       "Na nossa visão: drama de música para a tela grande"
+      ],
+      "fonte": "Fontes: Omelete · O Vício · opinião da página",
+      "alt": "Por que ver Behemoth!: Pedro Pascal no papel de um violoncelista, filme escrito e dirigido por Tony Gilroy, de Andor, com Olivia Wilde, Will Arnett e Eva Victor"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "ONDE E QUANDO",
+      "titulo": "Anote",
+      "topicos": [
+       "Orgulho e Preconceito: Netflix, qui 03/12",
+       "Behemoth!: nos cinemas a partir de qui 03/12",
+       "Classificação indicativa no Brasil: a confirmar"
+      ],
+      "texto": "Na nossa visão: Austen no sofá, Pedro Pascal na tela grande.",
+      "fonte": "Fontes: AdoroCinema · O Vício",
+      "alt": "Onde e quando: Orgulho e Preconceito na Netflix e Behemoth! nos cinemas, os dois a partir de quinta 03/12; classificação indicativa no Brasil a confirmar"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "grupo:estreia",
+      "pilula": "AS MAIS ESPERADAS",
+      "chamada": "RESPONDA",
+      "titulo": "Qual você vai ver primeiro?",
+      "opcoes": [
+       "Orgulho e Preconceito",
+       "Behemoth!",
+       "As duas",
+       "Nenhuma"
+      ],
+      "fonte": "",
+      "cta": "Responda A, B, C ou D",
+      "alt": "Qual você vai ver primeiro? A: Orgulho e Preconceito, B: Behemoth!, C: as duas, D: nenhuma"
+     }
+    ],
+    "legenda": "🍿 Sofá ou cinema? As 2 estreias mais esperadas chegam amanhã, quinta (03/12).\n\n💌 Orgulho e Preconceito · Netflix · quinta, 03/12 · minissérie de 6 episódios\n👥 Emma Corrin, Jack Lowden e Olivia Colman · roteiro de Dolly Alderton\n\n🎻 Behemoth! · cinemas · a partir de quinta, 03/12\n🎬 Pedro Pascal é um violoncelista em filme escrito e dirigido por Tony Gilroy, de Andor\n\n🔞 Classificação indicativa no Brasil: a confirmar\nA análise nos slides é a visão da página. Sem spoiler.\n\n📌 Salve para não esquecer\n📤 Mande para quem vai ver com você\n\nQual você vai ver primeiro: A, B, C ou D? 👇\nSiga @tudooqueestreia para saber tudo o que estreia.\n\nFontes: AdoroCinema, Omelete e O Vício.\n\n#orgulhoepreconceito #behemoth #pedropascal #netflix #janeausten #estreias #cinema"
+   }
+  ],
+  "lancamentosdegames": [
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-30T09:00:00-03:00",
+    "sufixo": "semana",
+    "pilula": "30 NOV–6 DEZ",
+    "chamada": "LANÇAMENTOS DA SEMANA · PREÇO EM 26/11",
+    "titulo": "4 estreias na quinta",
+    "itens": [
+     {
+      "data": "01/12",
+      "sub": "TER",
+      "titulo": "Hela: of Mice & Magic",
+      "detalhe": "PS5 · Xbox Series · Switch 2 · PC · preço a confirmar"
+     },
+     {
+      "data": "03/12",
+      "sub": "QUI",
+      "titulo": "Dragon Quest Monsters: The Withered World",
+      "detalhe": "PS5 · Xbox · Switch 2 · Switch · PC · R$ 339,90 no PS5"
+     },
+     {
+      "data": "03/12",
+      "sub": "QUI",
+      "titulo": "Rayman Legends Retold",
+      "detalhe": "PS5 · Xbox · Switch 2 · PC · R$ 199,90 no PS5"
+     },
+     {
+      "data": "03/12",
+      "sub": "QUI",
+      "titulo": "Thief: The Dark Project Remastered",
+      "detalhe": "Consoles e PC · preço a confirmar"
+     },
+     {
+      "data": "03/12",
+      "sub": "QUI",
+      "titulo": "Warhammer 40,000: Dawn of War IV",
+      "detalhe": "Só PC · preço a confirmar"
+     },
+     {
+      "data": "04/12",
+      "sub": "SEX",
+      "titulo": "Monster Hunter Wilds no Switch 2",
+      "detalhe": "Switch 2 · com todas as atualizações · preço a confirmar"
+     }
+    ],
+    "fonte": "Fontes: PS Store · Steam · Gematsu · Gaming Trend · Deep Silver",
+    "cta": "Qual você vai jogar?",
+    "alt": "Lançamentos de games de 30 de novembro a 6 de dezembro: Hela: of Mice & Magic (01/12); Dragon Quest Monsters: The Withered World, por R$ 339,90 no PS5, Rayman Legends Retold, por R$ 199,90 no PS5, Thief: The Dark Project Remastered e Warhammer 40,000: Dawn of War IV (03/12); e Monster Hunter Wilds no Switch 2 (04/12)",
+    "legenda": "🎮 6 lançamentos na semana, e 4 deles caem no mesmo dia: quinta, 03/12! Os jogos, com preço em real (conferido em 26/11):\n\n🐭 Ter 01/12 · Hela: of Mice & Magic · aventura de um ratinho que ajuda uma bruxa · PS5, Xbox Series, Switch 2 e PC · preço a confirmar\n🐉 Qui 03/12 · Dragon Quest Monsters: The Withered World · PS5, Xbox Series, Switch 2, Switch e PC · R$ 339,90 na PS Store\n🎵 Qui 03/12 · Rayman Legends Retold · PS5, Xbox Series, Switch 2 e PC · R$ 199,90 na PS Store e R$ 199,99 na Steam · vem com Rayman Origins\n🕯️ Qui 03/12 · Thief: The Dark Project Remastered · consoles e PC · preço a confirmar\n⚔️ Qui 03/12 · Warhammer 40,000: Dawn of War IV · só PC · preço a confirmar\n🦖 Sex 04/12 · Monster Hunter Wilds chega ao Switch 2, com todas as atualizações grátis · preço a confirmar\n\n📌 Salve para não perder as datas\n📤 Mande para quem joga com você\n\nQual você vai jogar primeiro? 👇\nSiga @lancamentosdegames para os lançamentos e preços toda semana.\n\nFontes: PlayStation Store, Steam, Gematsu, Gaming Trend, Deep Silver e Antihype.\n\n#games #lancamentos #dragonquest #rayman #monsterhunter #ps5 #nintendoswitch2"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-12-01T10:00:00-03:00",
+    "sufixo": "calendario-dezembro",
+    "alt": "Calendário de dezembro de 2026: 10 lançamentos de destaque, de Hela (01/12) a Silver Palace (14/12), mais 5 DLCs e versões novas",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:games",
+      "pilula": "CALENDÁRIO DE DEZEMBRO",
+      "chamada": "OS DESTAQUES DO MÊS · DATAS EM 26/11",
+      "grande": "10",
+      "titulo": "Jogos para fechar o ano",
+      "caixas": [
+       [
+        "Dia mais cheio",
+        "Qui 03/12"
+       ],
+       [
+        "Grátis para jogar",
+        "2 jogos"
+       ]
+      ],
+      "nota": "E mais 5 DLCs e versões novas no slide 5. Arraste.",
+      "fonte": "Fontes: editoras · Gematsu · RPG Site",
+      "cta": "Arraste →",
+      "alt": "Capa: 10 jogos de destaque para fechar o ano em dezembro; o dia mais cheio é quinta, 03/12, e 2 jogos são grátis para jogar"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "CALENDÁRIO DE DEZEMBRO",
+      "chamada": "DEZEMBRO · 1ª PARTE",
+      "titulo": "De 1 a 3 de dezembro",
+      "itens": [
+       {
+        "data": "01/12",
+        "sub": "TER",
+        "titulo": "Hela: of Mice & Magic",
+        "detalhe": "PS5 · Xbox Series · Switch 2 · PC"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Dragon Quest Monsters: The Withered World",
+        "detalhe": "PS5 · Xbox · Switch 2 · Switch · PC · R$ 339,90 no PS5"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Rayman Legends Retold",
+        "detalhe": "PS5 · Xbox · Switch 2 · PC · R$ 199,90 no PS5"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Thief: The Dark Project Remastered",
+        "detalhe": "Consoles e PC · preço a confirmar"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Warhammer 40,000: Dawn of War IV",
+        "detalhe": "Só PC · preço a confirmar"
+       }
+      ],
+      "fonte": "Fontes: PS Store · Gematsu · Gaming Trend · Deep Silver",
+      "cta": "Arraste →",
+      "alt": "Dezembro, 1ª parte: Hela: of Mice & Magic (01/12); Dragon Quest Monsters: The Withered World, Rayman Legends Retold, Thief: The Dark Project Remastered e Warhammer 40,000: Dawn of War IV (03/12)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "CALENDÁRIO DE DEZEMBRO",
+      "chamada": "DEZEMBRO · 2ª PARTE",
+      "titulo": "De 8 a 14 de dezembro",
+      "itens": [
+       {
+        "data": "08/12",
+        "sub": "TER",
+        "titulo": "Guns of Eschaton",
+        "detalhe": "PS5 · Xbox Series · PC"
+       },
+       {
+        "data": "10/12",
+        "sub": "QUI",
+        "titulo": "Professor Layton and the New World of Steam",
+        "detalhe": "PS5 · Switch 2 · Switch · PC"
+       },
+       {
+        "data": "10/12",
+        "sub": "QUI",
+        "titulo": "Attack on Titan 3",
+        "detalhe": "PS5 · Xbox Series · Switch 2 · PC"
+       },
+       {
+        "data": "11/12",
+        "sub": "SEX",
+        "titulo": "Path of Exile 2 (versão 1.0)",
+        "detalhe": "PS5 · Xbox Series · PC · sai do acesso antecipado",
+        "gratis": true
+       },
+       {
+        "data": "14/12",
+        "sub": "SEG",
+        "titulo": "Silver Palace",
+        "detalhe": "PS5 · PC · celular",
+        "gratis": true
+       }
+      ],
+      "fonte": "Fontes: Gematsu · Koei Tecmo · RPG Site · Push Square · Siliconera",
+      "cta": "Arraste →",
+      "alt": "Dezembro, 2ª parte: Guns of Eschaton (08/12), Professor Layton and the New World of Steam e Attack on Titan 3 (10/12), Path of Exile 2 versão 1.0, grátis para jogar (11/12), e Silver Palace, grátis para jogar (14/12)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "CALENDÁRIO DE DEZEMBRO",
+      "chamada": "DEZEMBRO · TEM MAIS",
+      "titulo": "DLCs e ports",
+      "itens": [
+       {
+        "data": "02/12",
+        "sub": "QUA",
+        "titulo": "The Outer Worlds 2: Side Effects Guaranteed",
+        "detalhe": "1ª expansão paga · PS5 · Xbox Series · PC"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Cronos: Lazarus",
+        "detalhe": "DLC de Cronos: The New Dawn · PS5 · Xbox · PC"
+       },
+       {
+        "data": "03/12",
+        "sub": "QUI",
+        "titulo": "Xenoblade Chronicles 3 no Switch 2",
+        "detalhe": "Edição de Switch 2 com modo novo e heroína nova"
+       },
+       {
+        "data": "04/12",
+        "sub": "SEX",
+        "titulo": "Monster Hunter Wilds no Switch 2",
+        "detalhe": "Com todas as atualizações e jogo entre plataformas"
+       },
+       {
+        "data": "14/12",
+        "sub": "SEG",
+        "titulo": "Frostpunk 2: The Surge",
+        "detalhe": "Última expansão · PC · PS5 · Xbox Series"
+       }
+      ],
+      "fonte": "Fontes: Gematsu · Bloody Disgusting · Worthplaying",
+      "cta": "Arraste →",
+      "alt": "DLCs e ports de dezembro: The Outer Worlds 2: Side Effects Guaranteed (02/12), Cronos: Lazarus e Xenoblade Chronicles 3 no Switch 2 (03/12), Monster Hunter Wilds no Switch 2 (04/12) e Frostpunk 2: The Surge (14/12)"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "grupo:games",
+      "pilula": "CALENDÁRIO DE DEZEMBRO",
+      "chamada": "RESPONDA",
+      "titulo": "Qual você mais espera?",
+      "opcoes": [
+       "Dragon Quest Monsters",
+       "Professor Layton",
+       "Attack on Titan 3",
+       "Path of Exile 2"
+      ],
+      "cta": "Responda A, B, C ou D",
+      "alt": "Pergunta: qual lançamento de dezembro você mais espera? A) Dragon Quest Monsters, B) Professor Layton, C) Attack on Titan 3, D) Path of Exile 2"
+     }
+    ],
+    "legenda": "📅 10 lançamentos de destaque e mais 5 DLCs: o dezembro dos games inteiro em 1 post!\n\n🐭 01/12 · Hela: of Mice & Magic\n🐉 03/12 · Dragon Quest Monsters: The Withered World (R$ 339,90 no PS5)\n🎵 03/12 · Rayman Legends Retold (R$ 199,90 no PS5)\n🕯️ 03/12 · Thief: The Dark Project Remastered\n⚔️ 03/12 · Warhammer 40,000: Dawn of War IV (só PC)\n🤠 08/12 · Guns of Eschaton\n🎩 10/12 · Professor Layton and the New World of Steam (no PC, 09/12)\n🧱 10/12 · Attack on Titan 3\n🆓 11/12 · Path of Exile 2 sai do acesso antecipado e fica grátis para jogar\n🆓 14/12 · Silver Palace, grátis para jogar\n➕ DLCs e ports: The Outer Worlds 2 (02/12), Cronos: Lazarus (03/12), Xenoblade Chronicles 3 no Switch 2 (03/12), Monster Hunter Wilds no Switch 2 (04/12) e Frostpunk 2: The Surge (14/12)\n\n📌 Salve para consultar o mês inteiro\n📤 Mande para quem vai pedir jogo de Natal\n\nQual você mais espera? Responda A, B, C ou D 👇\nSiga @lancamentosdegames para os lançamentos e preços toda semana.\n\nFontes: PlayStation Store, Gematsu, Koei Tecmo, RPG Site, Push Square, Siliconera, Gaming Trend, Deep Silver, Bloody Disgusting e Worthplaying (datas conferidas em 26/11).\n\n#games #lancamentos #dezembro #dragonquest #professorlayton #attackontitan #pathofexile2 #ps5"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-12-01T19:00:00-03:00",
+    "sufixo": "game-da-semana",
+    "alt": "O game da semana: Dragon Quest Monsters: The Withered World sai na quinta, 03/12, no PS5, Xbox Series, Switch 2, Switch e PC, por R$ 339,90 na PS Store, sem textos em português",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:games",
+      "pilula": "O GAME DA SEMANA",
+      "chamada": "PS5 · XBOX · SWITCH 2 · PC · QUINTA, 03/12",
+      "titulo": "Novo Dragon Quest: 5 coisas antes de pagar",
+      "caixas": [
+       [
+        "Preço no PS5",
+        "R$ 339,90"
+       ],
+       [
+        "Sai em",
+        "Qui 03/12"
+       ]
+      ],
+      "nota": "Preço da edição padrão na PS Store em 26/11. Arraste.",
+      "fonte": "Fontes: PS Store · Square Enix (Steam)",
+      "cta": "Arraste →",
+      "alt": "Capa: novo Dragon Quest, 5 coisas para saber antes de pagar; R$ 339,90 no PS5 e lançamento na quinta, 03/12"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GAME DA SEMANA",
+      "chamada": "1 · O ESSENCIAL",
+      "titulo": "O que é e quando sai",
+      "topicos": [
+       "Dragon Quest Monsters: The Withered World, da Square Enix",
+       "Você recruta, treina e funde monstros para batalhar",
+       "Sai 03/12 no PS5, Xbox Series, Switch 2, Switch e PC",
+       "Quem compra a Deluxe joga 48h antes, desde 01/12"
+      ],
+      "fonte": "Fontes: Steam · PS Store",
+      "alt": "Dragon Quest Monsters: The Withered World é da Square Enix: você recruta, treina e funde monstros. Sai em 03/12 no PS5, Xbox Series, Switch 2, Switch e PC; a edição Deluxe libera 48 horas antes"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GAME DA SEMANA",
+      "chamada": "2 · O QUE TEM DE NOVO",
+      "titulo": "Mais de 500 monstros",
+      "topicos": [
+       "Bianca e Nera, de Dragon Quest V, são as heroínas",
+       "Mais de 500 monstros, divididos em 8 famílias",
+       "Batalha em grupo: até 4 pessoas contra um chefe gigante",
+       "No PS5, jogar online exige PS Plus"
+      ],
+      "fonte": "Fontes: Square Enix · PS Store · Antihype",
+      "alt": "Novidades: Bianca e Nera, de Dragon Quest V, são as protagonistas; mais de 500 monstros em 8 famílias; batalha em grupo de até 4 jogadores contra um chefe gigante; no PS5, o online exige PS Plus"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GAME DA SEMANA",
+      "chamada": "3 · QUANTO CUSTA",
+      "titulo": "As edições",
+      "topicos": [
+       "Padrão: R$ 339,90 na PS Store",
+       "Digital Deluxe: R$ 541,90, com 4 DLCs e 48h antes",
+       "Demo grátis: leva até 8 monstros para o jogo completo",
+       "Xbox, eShop e Steam: preço em real a confirmar"
+      ],
+      "fonte": "Fontes: PS Store · Steam · preços em 26/11",
+      "alt": "Edições: padrão por R$ 339,90 e Digital Deluxe por R$ 541,90 na PS Store, com 4 DLCs e 48 horas de acesso antecipado; a demo grátis leva até 8 monstros para o jogo completo"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GAME DA SEMANA",
+      "chamada": "4 · ATENÇÃO",
+      "titulo": "Sem português",
+      "grande": "9 idiomas",
+      "texto": "Menus e legendas saem em 9 idiomas, mas o português não é um deles. As vozes são só em inglês e japonês.",
+      "fonte": "Fonte: Steam (lista de idiomas)",
+      "alt": "Atenção: Dragon Quest Monsters: The Withered World não tem textos em português; menus e legendas saem em 9 idiomas, e as vozes são em inglês e japonês"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GAME DA SEMANA",
+      "chamada": "5 · A VISÃO DA PÁGINA",
+      "titulo": "E as notas?",
+      "texto": "Até 26/11, nenhuma análise tinha saído no OpenCritic nem no Metacritic. Na nossa visão, jogue a demo grátis antes: se o inglês não atrapalhar, a edição padrão basta.",
+      "fonte": "Fontes: OpenCritic · Metacritic · opinião da página",
+      "alt": "Até 26/11 não havia notas no OpenCritic nem no Metacritic. Na visão da página, vale jogar a demo grátis antes e, se o inglês não atrapalhar, ficar com a edição padrão"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "grupo:games",
+      "pilula": "O GAME DA SEMANA",
+      "chamada": "RESPONDA",
+      "titulo": "Vai comprar?",
+      "opcoes": [
+       "Vou de Deluxe e jogo dia 01/12",
+       "Vou comprar a padrão",
+       "Vou testar a demo antes",
+       "Não vou jogar"
+      ],
+      "cta": "Responda A, B, C ou D",
+      "alt": "Pergunta: vai comprar Dragon Quest Monsters: The Withered World? A) Deluxe, jogando em 01/12, B) edição padrão, C) testar a demo antes, D) não vai jogar"
+     }
+    ],
+    "legenda": "🐉 R$ 339,90 e sem português: o que saber antes de comprar o novo Dragon Quest, que sai na quinta (03/12)\n\n🎮 Dragon Quest Monsters: The Withered World · PS5, Xbox Series, Switch 2, Switch e PC\n👧 Bianca e Nera, de Dragon Quest V, são as heroínas · mais de 500 monstros para recrutar e fundir\n🤝 Batalha em grupo: até 4 pessoas contra um chefe gigante (no PS5, precisa de PS Plus)\n💰 Padrão: R$ 339,90 · Digital Deluxe: R$ 541,90, com 48h de acesso antecipado (PS Store, preços em 26/11)\n🔤 Sem textos em português: menus e legendas em 9 idiomas, vozes em inglês e japonês\n🆓 Tem demo grátis, que leva até 8 monstros para o jogo completo\n⭐ Até 26/11, ainda sem notas no OpenCritic e no Metacritic. Na nossa visão, jogue a demo antes de decidir.\n\n📌 Salve para lembrar de testar a demo\n📤 Mande para quem jogava Dragon Quest com você\n\nVai comprar? Responda A, B, C ou D 👇\nSiga @lancamentosdegames para os lançamentos e preços toda semana.\n\nFontes: PlayStation Store, Steam, Square Enix, OpenCritic, Metacritic e Antihype.\n\n#dragonquest #dragonquestmonsters #squareenix #ps5 #nintendoswitch2 #games #gamedasemana"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-12-03T16:00:00-03:00",
+    "sufixo": "gratis-da-semana",
+    "alt": "O grátis da semana: Strange Antiquities, que custa R$ 54,99 na Steam e tem nota 84 no OpenCritic, está grátis na Epic Games Store de 03/12 a 10/12, às 13h de Brasília",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:games",
+      "pilula": "O GRÁTIS DA SEMANA",
+      "chamada": "EPIC GAMES · GRÁTIS ATÉ 10/12",
+      "titulo": "R$ 54,99 por R$ 0: vale resgatar?",
+      "caixas": [
+       [
+        "Nota no OpenCritic",
+        "84"
+       ],
+       [
+        "Você tem",
+        "168h"
+       ]
+      ],
+      "nota": "Strange Antiquities. Preço normal na Steam em 26/11. Arraste.",
+      "fonte": "Fontes: Epic Games Store · OpenCritic · Steam",
+      "cta": "Arraste →",
+      "alt": "Capa: Strange Antiquities, que custa R$ 54,99 na Steam, sai por R$ 0 na Epic Games até 10/12; nota 84 no OpenCritic e 168 horas para resgatar"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GRÁTIS DA SEMANA",
+      "chamada": "O QUE É",
+      "titulo": "Mistério numa loja de magia",
+      "texto": "Você atende numa loja de antiguidades ocultas na cidade de Undermere. Cada cliente chega com um problema estranho, e você usa pistas para achar o objeto certo.",
+      "fonte": "Fontes: Epic Games Store · Wikipedia",
+      "alt": "Strange Antiquities: você atende numa loja de antiguidades ocultas na cidade de Undermere e usa pistas para achar o objeto certo para cada cliente"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GRÁTIS DA SEMANA",
+      "chamada": "AS NOTAS",
+      "titulo": "Crítica e público gostaram",
+      "topicos": [
+       "84 no OpenCritic, com 86% de recomendação",
+       "84 no Metacritic (5 análises, versão de Switch)",
+       "95% de análises positivas na Steam",
+       "Da mesma equipe de Strange Horticulture"
+      ],
+      "fonte": "Fontes: OpenCritic · Metacritic · Steam (26/11)",
+      "alt": "Notas: 84 no OpenCritic, com 86% de recomendação; 84 no Metacritic; 95% de análises positivas na Steam; feito pela mesma equipe de Strange Horticulture"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GRÁTIS DA SEMANA",
+      "chamada": "O PRAZO",
+      "titulo": "Até quinta, 10/12",
+      "grande": "168h",
+      "texto": "Libera quinta, 03/12, às 13h de Brasília, e fica grátis até quinta, 10/12, às 13h. Resgatou, é seu para sempre.",
+      "fonte": "Fonte: Epic Games Store",
+      "alt": "Prazo: grátis de quinta, 03/12, às 13h de Brasília, até quinta, 10/12, às 13h; quem resgata fica com o jogo para sempre"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GRÁTIS DA SEMANA",
+      "chamada": "PASSO A PASSO",
+      "titulo": "Como resgatar",
+      "topicos": [
+       "Abra store.epicgames.com/free-games",
+       "Entre na sua conta Epic (criar é grátis)",
+       "Clique no jogo e depois em Obter",
+       "Finalize o pedido de R$ 0,00: o jogo é seu"
+      ],
+      "fonte": "Fonte: Epic Games Store",
+      "alt": "Como resgatar: abra store.epicgames.com/free-games, entre na conta Epic, clique no jogo e em Obter e finalize o pedido de R$ 0,00"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O GRÁTIS DA SEMANA",
+      "chamada": "A VISÃO DA PÁGINA",
+      "titulo": "Vale o resgate?",
+      "texto": "Tem menus e legendas em português do Brasil e custa R$ 54,99 na Steam. Na nossa visão, vale resgatar mesmo que você só vá jogar nas férias.",
+      "fonte": "Fontes: Steam · opinião da página",
+      "alt": "Na visão da página, vale resgatar: Strange Antiquities tem menus e legendas em português do Brasil e custa R$ 54,99 na Steam"
+     },
+     {
+      "tipo": "pergunta",
+      "pilula": "O GRÁTIS DA SEMANA",
+      "chamada": "RESPONDA",
+      "titulo": "Vai resgatar?",
+      "opcoes": [
+       "Já resgatei",
+       "Vou resgatar agora",
+       "Não curto quebra-cabeça"
+      ],
+      "cta": "Responda A, B ou C",
+      "alt": "Pergunta: vai resgatar Strange Antiquities? A) Já resgatei, B) Vou resgatar agora, C) Não curto quebra-cabeça"
+     }
+    ],
+    "legenda": "🎁 Um jogo de R$ 54,99, com nota 84, por R$ 0 até 10/12. Vale o resgate?\n\n🔮 Strange Antiquities · mistério e quebra-cabeça numa loja de antiguidades ocultas\n⭐ 84 no OpenCritic (86% recomendam) · 84 no Metacritic · 95% positivas na Steam\n🇧🇷 Menus e legendas em português do Brasil\n💰 Custa R$ 54,99 na Steam (preço em 26/11)\n⏰ Você tem 168h: grátis na Epic de quinta, 03/12, às 13h, até quinta, 10/12, às 13h (horário de Brasília)\n✅ Para resgatar: store.epicgames.com/free-games › Obter › pedido de R$ 0,00\n\n📌 Salve para não perder o prazo\n📤 Mande para aquele amigo que adora jogo de mistério\n\nVai resgatar? Responda A, B ou C 👇\nSiga @lancamentosdegames para não perder os próximos grátis.\n\nFontes: Epic Games Store, OpenCritic, Metacritic, Steam, Mydealz e OzBargain.\n\n#jogosgratis #epicgames #epicgamesstore #strangeantiquities #pcgamer #games #gamer"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-30T12:00:00-03:00",
+    "sufixo": "semana",
+    "pilula": "30 NOV–6 DEZ",
+    "chamada": "1 TAÇA E 2 VAGAS NA SÉRIE B EM JOGO",
+    "titulo": "Última rodada e final",
+    "itens": [
+     {
+      "data": "02/12",
+      "sub": "QUA · 21h30",
+      "titulo": "Flamengo x Chapecoense",
+      "detalhe": "Brasileirão · TV a confirmar"
+     },
+     {
+      "data": "02/12",
+      "sub": "QUA · 21h30",
+      "titulo": "Remo x Corinthians",
+      "detalhe": "Brasileirão · TV a confirmar"
+     },
+     {
+      "data": "02/12",
+      "sub": "QUA · 21h30",
+      "titulo": "Grêmio x Mirassol",
+      "detalhe": "Brasileirão · TV a confirmar"
+     },
+     {
+      "data": "02/12",
+      "sub": "QUA · 21h30",
+      "titulo": "Cruzeiro x Internacional",
+      "detalhe": "Brasileirão · TV a confirmar"
+     },
+     {
+      "data": "02/12",
+      "sub": "QUA · 21h30",
+      "titulo": "Palmeiras x Coritiba",
+      "detalhe": "Brasileirão · TV a confirmar"
+     },
+     {
+      "data": "06/12",
+      "sub": "DOM · 16h",
+      "titulo": "Grêmio x Palmeiras",
+      "detalhe": "Final da Copa do Brasil · Globo · GETV · Prime",
+      "gratis": true,
+      "destaque": true
+     }
+    ],
+    "fonte": "Horário de Brasília · Fontes: CBF · Tribuna de Jundiaí · Portal Mídia Esporte",
+    "cta": "Salve a agenda",
+    "alt": "Jogos de 30 de novembro a 6 de dezembro, horário de Brasília: na quarta 02/12, às 21h30, a última rodada do Brasileirão com Flamengo x Chapecoense, Remo x Corinthians, Grêmio x Mirassol, Cruzeiro x Internacional e Palmeiras x Coritiba, transmissão a confirmar; no domingo 06/12, às 16h, a final da Copa do Brasil, Grêmio x Palmeiras, na Globo, GETV e Prime Video",
+    "legenda": "🏆 6 jogos, 2 vagas na Série B e 1 taça: a semana que fecha o futebol brasileiro em 2026 (horário de Brasília).\n\n⏱️ Qua 02/12, 21h30 · 38ª e última rodada do Brasileirão, os 10 jogos ao mesmo tempo\n🔴 Flamengo x Chapecoense · o campeão se despede em casa, no Maracanã\n⚫ Remo x Corinthians · no Mangueirão\n🔵 Grêmio x Mirassol · na Arena do Grêmio\n🦊 Cruzeiro x Internacional · no Mineirão\n🟢 Palmeiras x Coritiba · no Nubank Parque\n➕ E mais: Vasco x Vitória, Santos x Botafogo, Bahia x Atlético-MG, Bragantino x Fluminense e Athletico-PR x São Paulo\n📺 A CBF ainda não divulgou os canais da última rodada. A gente avisa nos stories.\n🏆 Dom 06/12, 16h · Grêmio x Palmeiras · FINAL DA COPA DO BRASIL em jogo único · Mané Garrincha, Brasília · Globo e GETV (grátis), SporTV, Premiere e Prime Video\n\n📌 Salve para não perder o horário\n📤 Mande para quem torce com você\n\nQual jogo você não perde: A) a última rodada ou B) a final? 👇\nSiga @jogosnatela para a agenda de futebol toda semana.\n\nFontes: CBF (tabela detalhada da 37ª e 38ª rodadas e página oficial da final), Tribuna de Jundiaí e Portal Mídia Esporte.\n\n#brasileirao #copadobrasil #gremio #palmeiras #corinthians #flamengo #futebol #ondeassistir"
+   },
+   {
+    "tipo": "destaque",
+    "quando": "2026-12-01T18:00:00-03:00",
+    "sufixo": "ultima-rodada",
+    "foto": "futebol-gramado",
+    "pilula": "BRASILEIRÃO · 38ª RODADA",
+    "chamada": "10 JOGOS AO MESMO TEMPO",
+    "grande": "21h30",
+    "titulo": "Quem cai? Decide amanhã",
+    "caixas": [
+     [
+      "Já caíram",
+      "Chape e Remo"
+     ],
+     [
+      "Ainda em jogo",
+      "2 vagas no Z-4"
+     ]
+    ],
+    "nota": "Quarta, 02/12, horário de Brasília. Canais a confirmar pela CBF.",
+    "fonte": "Fontes: CBF · TVT News · Jornal Grande Bahia",
+    "cta": "Ative o lembrete",
+    "alt": "Última rodada do Brasileirão: 10 jogos ao mesmo tempo, quarta 02/12 às 21h30 de Brasília. Chapecoense e Remo já foram rebaixados; ainda há 2 vagas no Z-4 em disputa. Canais a confirmar",
+    "legenda": "🚨 10 jogos ao mesmo tempo e 2 vagas na Série B: o Brasileirão acaba amanhã, às 21h30!\n\n🔻 Chapecoense e Remo já estão rebaixados\n⚠️ Faltam 2 rebaixados, e eles saem na mesma noite\n📊 Antes da penúltima rodada (29/11), a briga ia do Internacional (38 pontos) ao Vitória (44), com Mirassol, Grêmio, Corinthians e Botafogo no meio\n⚽ Jogos da briga: Remo x Corinthians, Grêmio x Mirassol, Cruzeiro x Internacional, Santos x Botafogo e Vasco x Vitória\n🏆 O Flamengo, campeão desde 21/11, recebe a Chapecoense no Maracanã\n🗓️ E o Grêmio joga amanhã e, no domingo, decide a Copa do Brasil contra o Palmeiras\n📺 A CBF ainda não divulgou os canais\n\n📌 Salve para não esquecer o horário\n📤 Mande para quem vai sofrer com você amanhã\n\nSeu time escapa? Responde sim ou não 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFontes: CBF (tabela detalhada da 38ª rodada), TVT News, Jornal Grande Bahia e Valor Final (classificação).\n\n#brasileirao #rebaixamento #ultimarodada #corinthians #gremio #internacional #futebol"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-12-04T19:00:00-03:00",
+    "sufixo": "jogo-da-semana",
+    "alt": "O jogo da semana: Grêmio x Palmeiras, final da Copa do Brasil em jogo único, domingo 06/12 às 16h de Brasília, no Mané Garrincha, em Brasília, com Globo, GETV, SporTV, Premiere e Prime Video",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "estadio-maracana",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "FINAL DA COPA DO BRASIL · DOMINGO, 06/12",
+      "titulo": "Grêmio x Palmeiras: 5 coisas da final de R$ 78 mi",
+      "caixas": [
+       [
+        "Quando",
+        "Dom 06/12 · 16h"
+       ],
+       [
+        "Onde assistir",
+        "Globo (grátis) · Prime"
+       ]
+      ],
+      "nota": "1ª final em jogo único da história, no Mané Garrincha. Horário de Brasília.",
+      "fonte": "Fontes: CBF · Lance",
+      "cta": "Arraste →",
+      "alt": "Capa: Grêmio x Palmeiras, final da Copa do Brasil em jogo único, domingo 06/12, 16h, no Mané Garrincha; Globo e Prime Video; o campeão leva 78 milhões de reais"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "O QUE ESTÁ EM JOGO",
+      "titulo": "Hexa ou penta",
+      "topicos": [
+       "Grêmio busca o 6º título e iguala o Cruzeiro, o maior campeão",
+       "Palmeiras busca o 5º (1998, 2012, 2015 e 2020)",
+       "Campeão leva R$ 78 milhões; o vice, R$ 34 milhões",
+       "E vaga direta na fase de grupos da Libertadores 2027"
+      ],
+      "fonte": "Fontes: Gazeta Esportiva · Lance · Tribuna de Jundiaí",
+      "alt": "O que está em jogo: o 6º título do Grêmio, que igualaria o Cruzeiro, ou o 5º do Palmeiras; o campeão leva 78 milhões de reais e o vice, 34 milhões, além da vaga na fase de grupos da Libertadores 2027"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "A CAMPANHA",
+      "titulo": "Como chegaram",
+      "topicos": [
+       "Grêmio: invicto, com 5 vitórias e 3 empates",
+       "Passou Confiança, Mirassol, Inter e Atlético-MG",
+       "Palmeiras: 5 vitórias, 1 empate e 2 derrotas",
+       "Passou Jacuipense, Fortaleza, Santos e Vasco, nos pênaltis"
+      ],
+      "fonte": "Fontes: Imortais do Futebol · A Crítica · Revista Oeste",
+      "alt": "Campanhas: o Grêmio chegou invicto, com 5 vitórias e 3 empates, eliminando Confiança, Mirassol, Internacional e Atlético-MG; o Palmeiras teve 5 vitórias, 1 empate e 2 derrotas e eliminou Jacuipense, Fortaleza, Santos e Vasco, nos pênaltis"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "TÉCNICOS E MOMENTO",
+      "titulo": "Quem comanda",
+      "topicos": [
+       "Grêmio: Renato Gaúcho, que voltou em setembro com o time no Z-4",
+       "Palmeiras: Abel Ferreira, no 6º ano no clube",
+       "Palmeiras garantiu o vice do Brasileirão",
+       "O Grêmio brigou contra o rebaixamento até a reta final"
+      ],
+      "fonte": "Fontes: Gazeta Esportiva · Imirante · Valor Final",
+      "alt": "Técnicos: Renato Gaúcho, que voltou ao Grêmio em setembro com o time na zona de rebaixamento, e Abel Ferreira, no 6º ano no Palmeiras, que garantiu o vice do Brasileirão"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "FIQUE DE OLHO",
+      "titulo": "Os nomes da final",
+      "topicos": [
+       "Carlos Vinícius: 5 gols, artilheiro do Grêmio na Copa",
+       "Flaco López: 4 gols na Copa, artilheiro do Palmeiras no ano",
+       "Carlos Miguel: pegou 2 pênaltis na semi contra o Vasco",
+       "Weverton, ex-Palmeiras: segurou o 0 x 0 de setembro"
+      ],
+      "fonte": "Fontes: Revista Oeste · Tribuna do Sertão · A Crítica · Imirante",
+      "alt": "Fique de olho: Carlos Vinícius, com 5 gols na Copa do Brasil; Flaco López, com 4 gols e artilheiro do Palmeiras no ano; o goleiro Carlos Miguel, que pegou 2 pênaltis na semifinal; e o goleiro Weverton, ex-Palmeiras, que segurou o 0 x 0 de setembro"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "RETROSPECTO",
+      "titulo": "Revanche de 2020",
+      "texto": "Na final de 2020, o Palmeiras ganhou os 2 jogos: 1 x 0 e 2 x 0. No Brasileirão de 2026, deu Palmeiras 2 x 1 no 1º turno e 0 x 0 no 2º, na estreia de Renato. Na nossa visão, o Palmeiras chega favorito, mas em jogo único qualquer detalhe decide.",
+      "fonte": "Fontes: Gazeta Esportiva · Portal do Palestra · Imirante · opinião da página",
+      "alt": "Retrospecto: o Palmeiras venceu os dois jogos da final de 2020 (1 a 0 e 2 a 0); no Brasileirão de 2026, Palmeiras 2 x 1 no 1º turno e 0 x 0 no 2º. Na visão da página, o Palmeiras é favorito, mas o jogo único equilibra"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "estadio-maracana",
+      "pilula": "O JOGO DA SEMANA",
+      "chamada": "SEU PALPITE",
+      "titulo": "Quem leva a Copa do Brasil?",
+      "opcoes": [
+       "Grêmio, no tempo normal",
+       "Grêmio, nos pênaltis",
+       "Palmeiras, no tempo normal",
+       "Palmeiras, nos pênaltis"
+      ],
+      "fonte": "",
+      "cta": "Responda A, B, C ou D",
+      "alt": "Seu palpite: quem leva a Copa do Brasil? A) Grêmio no tempo normal, B) Grêmio nos pênaltis, C) Palmeiras no tempo normal, D) Palmeiras nos pênaltis"
+     }
+    ],
+    "legenda": "🏆 R$ 78 milhões em 1 jogo: domingo tem a primeira final em jogo único da Copa do Brasil!\n\n⚽ Grêmio x Palmeiras · final em jogo único\n📅 Domingo, 06/12, às 16h (Brasília)\n📍 Arena Mané Garrincha, Brasília\n📺 Globo (TV aberta, grátis), GETV no YouTube (grátis), SporTV, Premiere e Prime Video\n🏅 Grêmio quer o 6º título; o Palmeiras, o 5º\n💰 Campeão leva R$ 78 milhões e vaga na fase de grupos da Libertadores 2027\n👀 Fique de olho: Carlos Vinícius e Weverton de um lado, Flaco López e Carlos Miguel do outro\n🔙 Revanche da final de 2020, vencida pelo Palmeiras nos 2 jogos\n\nA análise nos slides é a visão da página.\n\n📌 Salve para não perder o horário\n📤 Mande para o gremista ou o palmeirense da sua vida\n\nO palpite é seu: A, B, C ou D? 👇\nSiga @jogosnatela para não perder nenhum jogo grande.\n\nFontes: CBF (página oficial do jogo), Gazeta Esportiva, Lance, A Crítica, Imortais do Futebol, Revista Oeste, Tribuna do Sertão, Tribuna de Jundiaí, Imirante, Portal do Palestra e Valor Final.\n\n#copadobrasil #gremio #palmeiras #finaldacopadobrasil #futebol #ondeassistir"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-30T12:30:00-03:00",
+    "sufixo": "semana",
+    "pilula": "30 NOV–6 DEZ",
+    "chamada": "ESPORTES DA SEMANA · HORÁRIO DE BRASÍLIA",
+    "titulo": "6 esportes, 3 de graça",
+    "itens": [
+     {
+      "data": "30/11",
+      "sub": "SEG · 20h10",
+      "titulo": "Brasil x México",
+      "detalhe": "Basquete · Eliminatórias da Copa · CazéTV",
+      "gratis": true
+     },
+     {
+      "data": "01/12",
+      "sub": "TER · 21h",
+      "titulo": "Sada Cruzeiro x Sesi Bauru",
+      "detalhe": "Vôlei · Superliga Masculina · canal a confirmar"
+     },
+     {
+      "data": "05/12",
+      "sub": "SÁB · 15h",
+      "titulo": "UFC Arábia Saudita",
+      "detalhe": "Lutas · 7 brasileiros no card · Paramount+"
+     },
+     {
+      "data": "05/12",
+      "sub": "SÁB · 19h",
+      "titulo": "Magnus x Joinville",
+      "detalhe": "Futsal · final da LNF, jogo 1 · Xsports · LNFTV",
+      "gratis": true
+     },
+     {
+      "data": "05–06",
+      "sub": "DEZ",
+      "titulo": "SVNS na Cidade do Cabo",
+      "detalhe": "Rúgbi · circuito mundial de sevens · canal a confirmar"
+     },
+     {
+      "data": "06/12",
+      "sub": "DOM · 10h",
+      "titulo": "GP de Abu Dhabi",
+      "detalhe": "F1 · Bortoleto e Câmara · Globo · SporTV",
+      "gratis": true
+     }
+    ],
+    "fonte": "Fontes: Pista e Campo · O Tempo · UFC · LNF · World Rugby · Formula 1 · Terra",
+    "cta": "Salve a agenda",
+    "alt": "Esportes de 30 de novembro a 6 de dezembro: Brasil x México no basquete (30/11, CazéTV), Sada Cruzeiro x Sesi Bauru na Superliga (01/12), UFC Arábia Saudita com 7 brasileiros (05/12, Paramount+), Magnus x Joinville no 1º jogo da final da LNF de futsal (05/12, Xsports e LNFTV), etapa da Cidade do Cabo do circuito mundial de rúgbi sevens (5 e 6/12) e GP de Abu Dhabi de F1 com Bortoleto e Câmara (06/12, Globo e SporTV)",
+    "legenda": "🏆 6 esportes e 3 de graça: a semana tem seleção no Ibirapuera, final de futsal e o último GP do ano (horário de Brasília):\n\n🏀 Seg 30/11, 20h10 · Brasil x México · Eliminatórias da Copa de basquete, no Ibirapuera · CazéTV (grátis)\n🏐 Ter 01/12, 21h · Sada Cruzeiro x Sesi Bauru · Superliga Masculina · canal a confirmar\n🥊 Sáb 05/12, 15h · UFC Arábia Saudita, em Riad · Adesanya x Magomedov na luta principal e 7 brasileiros no card · Paramount+\n⚽ Sáb 05/12, 19h · Magnus x Joinville · 1º jogo da final da Liga Nacional de Futsal, em Sorocaba · Xsports e LNFTV no YouTube (grátis)\n🏉 Sáb 05 e dom 06/12 · Etapa da Cidade do Cabo do circuito mundial de rúgbi sevens · canal a confirmar\n🏎️ Dom 06/12, 10h · GP de Abu Dhabi, a última corrida da F1 em 2026 · Gabriel Bortoleto e Rafael Câmara no grid · Globo (grátis) e SporTV\n\n📌 Salve para não perder nada\n📤 Mande para quem torce com você\n\nQual você não perde? Comenta aí 👇\nSiga @esportesnatela para a agenda de todos os esportes, toda semana.\n\nFontes: Pista e Campo, O Tempo, UFC, LNF, World Rugby, Formula 1, Atleta Pro, Terra e Gazeta Esportiva.\n\n#esportes #basquete #superliga #ufc #futsal #rugby #f1 #agendaesportiva"
+   },
+   {
+    "tipo": "destaque",
+    "quando": "2026-12-03T18:00:00-03:00",
+    "sufixo": "ufc-riad",
+    "pilula": "UFC · ARÁBIA SAUDITA",
+    "chamada": "SÁBADO, 05/12 · EM RIAD",
+    "grande": "7",
+    "titulo": "Brasileiros num só card",
+    "caixas": [
+     [
+      "Card principal",
+      "Sáb 05/12 · 15h"
+     ],
+     [
+      "Onde assistir",
+      "Paramount+"
+     ]
+    ],
+    "nota": "E um duelo 100% brasileiro: Bruno Silva x Jafel Filho, no peso-mosca.",
+    "fonte": "Fonte: UFC · horário de Brasília",
+    "cta": "Em quem você aposta?",
+    "alt": "UFC Arábia Saudita no sábado 5/12, em Riad: 7 brasileiros no card, com duelo entre Bruno Silva e Jafel Filho no peso-mosca; card principal às 15h de Brasília, no Paramount+",
+    "legenda": "🇧🇷 7 brasileiros num card só, e 2 deles se enfrentam: sábado tem UFC em Riad (horário de Brasília).\n\n🥊 Luta principal: Israel Adesanya x Shara Magomedov, peso-médio\n🇧🇷 Mairon Santos x Akbar Abdullaev, peso-leve, no card principal\n🇧🇷🇧🇷 Bruno Silva x Jafel Filho, peso-mosca: brasileiro contra brasileiro\n🇧🇷 Gabriel Santos x Luke Riley, peso-pena\n🇧🇷 Marco Túlio x Jun Yong Park e Modestino Rodrigues x Matthieu Duclos, peso-médio\n🇧🇷 Elves Brener x Mateusz Rębecki, peso-leve\n⏰ Preliminares ao meio-dia · card principal às 15h\n📺 Paramount+\n\n📌 Salve para não perder\n📤 Mande para quem assiste UFC com você\n\nQuantos brasileiros vencem no sábado? Chuta um número 👇\nSiga @esportesnatela para todos os esportes.\n\nFonte: UFC (card sujeito a mudanças).\n\n#ufc #mma #ufcriad #adesanya #mmabrasil #lutas"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-12-05T10:00:00-03:00",
+    "sufixo": "evento-da-semana",
+    "alt": "O evento da semana: a final da Liga Nacional de Futsal entre Magnus e Joinville; jogo 1 no sábado 5/12, às 19h, em Sorocaba, na Xsports e na LNFTV; jogo 2 no sábado 12/12, em Joinville",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "quadra-futsal",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "FUTSAL · FINAL DA LNF · JOGO 1",
+      "titulo": "Tri ou bi? A final começa hoje",
+      "caixas": [
+       [
+        "Magnus x Joinville",
+        "Sáb 05/12 · 19h"
+       ],
+       [
+        "Onde assistir",
+        "Xsports · LNFTV"
+       ]
+      ],
+      "nota": "De graça, na TV aberta e no YouTube. Jogo 2: sábado, 12/12, em Joinville.",
+      "fonte": "Fonte: LNF",
+      "cta": "Arraste →",
+      "alt": "Capa: Magnus x Joinville, jogo 1 da final da Liga Nacional de Futsal, sábado 5/12 às 19h, grátis na Xsports e na LNFTV"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "O ESSENCIAL",
+      "titulo": "2 jogos, 1 campeão",
+      "topicos": [
+       "Jogo 1: hoje, 19h, na Arena Sorocaba (SP)",
+       "Jogo 2: sáb 12/12, 18h30, no Centreventos Cau Hansen, em Joinville (SC)",
+       "O Joinville decide em casa porque liderou a 1ª fase",
+       "É a 1ª final entre os dois na história da Liga"
+      ],
+      "fonte": "Fonte: LNF",
+      "alt": "O essencial: jogo 1 hoje às 19h na Arena Sorocaba; jogo 2 no sábado 12/12 às 18h30 em Joinville, que decide em casa por ter liderado a 1ª fase; é a 1ª final entre os dois na Liga"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "OS TÍTULOS",
+      "titulo": "Tri contra bi",
+      "grande": "2 x 1",
+      "topicos": [
+       "Magnus: campeão em 2014 e 2020, este sem perder",
+       "Joinville: campeão em 2017",
+       "Os dois já perderam 3 finais da Liga"
+      ],
+      "fonte": "Fonte: LNF",
+      "alt": "Os títulos: o Magnus foi campeão em 2014 e 2020, invicto; o Joinville, em 2017; os dois já foram vice 3 vezes"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "O CAMINHO ATÉ AQUI",
+      "titulo": "Semis com o mesmo placar",
+      "topicos": [
+       "Magnus x Atlântico: 3 a 2 e 2 a 1",
+       "Joinville x Jaraguá: 3 a 2 e 2 a 1",
+       "O Jaraguá era o bicampeão (2024 e 2025)",
+       "Em 2026, a taça muda de mãos"
+      ],
+      "fonte": "Fontes: LNF · Catve",
+      "alt": "O caminho: o Magnus venceu o Atlântico por 3 a 2 e 2 a 1; o Joinville bateu o Jaraguá, bicampeão de 2024 e 2025, pelos mesmos placares"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "O RETROSPECTO",
+      "titulo": "3 finais, nenhuma na Liga",
+      "topicos": [
+       "Taça Brasil de 2021",
+       "Taça Brasil de 2022",
+       "Supercopa do Brasil de 2023",
+       "Agora, a 1ª decisão entre eles na LNF"
+      ],
+      "fonte": "Fonte: LNF",
+      "alt": "O retrospecto: Magnus e Joinville já se enfrentaram nas finais da Taça Brasil de 2021 e 2022 e da Supercopa do Brasil de 2023; esta é a 1ª decisão entre eles na Liga"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "A VISÃO DA PÁGINA",
+      "titulo": "Hoje vale ouro",
+      "texto": "O Joinville teve a melhor campanha e fecha a série em casa. Na nossa visão, o Magnus precisa vencer hoje em Sorocaba para não chegar a Joinville sob pressão.",
+      "fonte": "Fontes: LNF · Catve · opinião da página",
+      "alt": "Na visão da página, o Joinville teve a melhor campanha e fecha em casa, então o Magnus precisa vencer o jogo 1 em Sorocaba"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "quadra-futsal",
+      "pilula": "O EVENTO DA SEMANA",
+      "chamada": "SEU PALPITE",
+      "titulo": "Quem é campeão da LNF 2026?",
+      "opcoes": [
+       "Magnus, o tri",
+       "Joinville, o bi"
+      ],
+      "fonte": "",
+      "cta": "Responda A ou B"
+     }
+    ],
+    "legenda": "🏆 Tri ou bi? A final da Liga Nacional de Futsal começa hoje, e é de graça.\n\n⚽ Magnus x Joinville · jogo 1 da final da LNF\n📅 Hoje, sábado 05/12, às 19h (Brasília)\n📍 Arena Sorocaba (SP)\n📺 Xsports (TV aberta) e LNFTV, no YouTube: grátis\n🔁 Jogo 2: sábado 12/12, 18h30, em Joinville (SC)\n🏅 Magnus busca o 3º título (2014 e 2020); Joinville, o 2º (2017)\n👑 O Jaraguá, bicampeão, caiu na semi: em 2026, a taça muda de mãos\n\nA análise nos slides é a visão da página.\n\n📌 Salve para não perder o horário\n📤 Mande para quem joga futsal com você\n\nQuem leva? Responda A ou B 👇\nSiga @esportesnatela para todos os esportes.\n\nFontes: LNF e Catve.\n\n#futsal #lnf #liganacionaldefutsal #magnus #joinville #sorocaba #esportes"
+   }
+  ],
+  "showsconfirmados": [
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-30T12:00:00-03:00",
+    "sufixo": "vendas-semana",
+    "pilula": "30/11–06/12",
+    "chamada": "VENDAS DA SEMANA · 30/11 a 06/12",
+    "titulo": "Anote: abre a venda",
+    "itens": [
+     {
+      "data": "01/12",
+      "sub": "TER · 10h",
+      "titulo": "Sandy e Junior",
+      "detalhe": "Pré-venda · cartão Elo (até 02/12) · Ticketmaster"
+     },
+     {
+      "data": "03/12",
+      "sub": "QUI · 10h",
+      "titulo": "Sandy e Junior",
+      "detalhe": "Venda geral · aberta a todos · Ticketmaster"
+     },
+     {
+      "data": "03/12",
+      "sub": "QUI · 12h",
+      "titulo": "Entretempos",
+      "detalhe": "Pré-venda · cartão Sicoob (até 05/12) · Q2 Ingressos"
+     }
+    ],
+    "fonte": "Fontes: Billboard Brasil · CNN Brasil · site oficial da turnê Entretempos",
+    "cta": "Salve e deixe o login pronto",
+    "alt": "Vendas da semana, de 30/11 a 06/12: Sandy e Junior, pré-venda para cartão Elo na terça, 01/12, às 10h, até 02/12, e venda geral na quinta, 03/12, às 10h, na Ticketmaster; turnê Entretempos, de Jorge & Mateus e Chitãozinho & Xororó, pré-venda para cartão Sicoob na quinta, 03/12, às 12h, até 05/12, na Q2 Ingressos",
+    "legenda": "🎟️ 3 vendas de ingresso abrem nesta semana (30/11 a 06/12)\n\n💛 Ter 01/12 · 10h · Sandy e Junior · pré-venda para cartão Elo (vai até 02/12) · Ticketmaster\n💛 Qui 03/12 · 10h · Sandy e Junior · venda geral · Ticketmaster\n📍 6 shows no Nubank Parque, SP: 1º, 3, 9, 11, 23 e 25/07/2027 · a partir de R$ 175 (meia, cadeira superior)\n\n🤠 Qui 03/12 · 12h · Entretempos (Jorge & Mateus e Chitãozinho & Xororó) · pré-venda para cartão Sicoob, na função crédito (até 05/12, 12h) · Q2 Ingressos\n📍 20 cidades em 2027 · a venda geral sai por grupo de cidades, de 07 a 10/12, sempre às 12h\n\n🔔 A gente avisa de novo na véspera e no dia\n⚠️ Cuidado com golpe: só compre no site oficial\n\n📌 Salve para não perder a hora\n📤 Mande para quem vai com você\n\nQual dessas você vai tentar: A (Sandy e Junior) ou B (Entretempos)? 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Billboard Brasil, CNN Brasil, Cadê Brasília e site oficial da turnê Entretempos (Q2 Ingressos).\n\n#ingressos #sandyejunior #jorgeemateus #chitaozinhoexororo #shows #showsconfirmados"
+   },
+   {
+    "tipo": "agenda",
+    "quando": "2026-11-30T19:00:00-03:00",
+    "sufixo": "semana",
+    "pilula": "30/11–06/12",
+    "chamada": "SHOWS DA SEMANA",
+    "titulo": "Onde tem show",
+    "itens": [
+     {
+      "data": "01–02",
+      "sub": "DEZ",
+      "titulo": "Seal",
+      "detalhe": "Curitiba (01) · Porto Alegre (02) · Eventim"
+     },
+     {
+      "data": "02/12",
+      "sub": "QUA",
+      "titulo": "Daniel Caesar",
+      "detalhe": "Suhai Music Hall, São Paulo · Ticketmaster"
+     },
+     {
+      "data": "05/12",
+      "sub": "SÁB",
+      "titulo": "Djavan",
+      "detalhe": "Arena Celebration, Maceió · Ticketmaster"
+     },
+     {
+      "data": "05–06",
+      "sub": "DEZ",
+      "titulo": "Ed Sheeran",
+      "detalhe": "Nubank Parque, SP · 05 esgotado · 06 Eventim"
+     },
+     {
+      "data": "05–06",
+      "sub": "DEZ",
+      "titulo": "Primavera Sound",
+      "detalhe": "Interlagos, SP · Strokes e Gorillaz · Ingresse"
+     }
+    ],
+    "fonte": "Fontes: Eventim · Billboard Brasil · Omelete · CNN Brasil · Jornal do Comércio",
+    "cta": "Marque quem vai",
+    "alt": "Shows de 30 de novembro a 6 de dezembro: Seal em Curitiba (01/12) e Porto Alegre (02/12); Daniel Caesar no Suhai Music Hall, em São Paulo (02/12); Djavan na Arena Celebration, em Maceió (05/12); Ed Sheeran no Nubank Parque, em São Paulo (05/12 esgotado e 06/12 na Eventim); e Primavera Sound em Interlagos, São Paulo (05 e 06/12), com The Strokes e Gorillaz, na Ingresse",
+    "legenda": "🎤 Semana de Ed Sheeran no estádio, Primavera Sound e mais 3 shows grandes:\n\n🌹 Seal · Igloo Super Hall, Curitiba (ter 01/12) · Araújo Vianna, Porto Alegre (qua 02/12) · Eventim\n🎙️ Daniel Caesar · qua 02/12 · Son of Spergy Tour · Suhai Music Hall, SP · Ticketmaster\n🌊 Djavan · sáb 05/12 · último show da turnê de 50 anos, na terra natal · Arena Celebration, Maceió (mudou de local; ingresso comprado continua valendo) · Ticketmaster\n🎸 Ed Sheeran · Loop Tour · Nubank Parque, SP · sáb 05/12 esgotado · dom 06/12 na Eventim\n🌸 Primavera Sound · sáb 05 e dom 06/12 · Autódromo de Interlagos, SP · The Strokes (sáb) e Gorillaz (dom) · Ingresse\n\n⚠️ Compre só na vendedora oficial. Desconfie de revenda e de Pix para desconhecidos.\n\n📌 Salve para não esquecer\n📤 Mande para quem vai com você\n\nVai em qual? Comenta aí 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Eventim, Billboard Brasil, Omelete, CNN Brasil, Diário Penedense e Jornal do Comércio.\n\n#shows #showsnobrasil #edsheeran #primaverasound #djavan #danielcaesar #agendadeshows"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-12-01T10:00:00-03:00",
+    "sufixo": "proximos-meses",
+    "alt": "Próximos meses: 30 shows e festivais grandes confirmados no Brasil de dezembro de 2026 a maio de 2027, mês a mês, com cidade e situação da venda",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "show-plateia",
+      "pilula": "DEZ A MAIO",
+      "chamada": "PRÓXIMOS MESES",
+      "grande": "30",
+      "titulo": "shows e festivais confirmados até maio",
+      "nota": "Mês a mês, com a cidade e se ainda tem ingresso.",
+      "fonte": "Fontes: Eventim · Ticketmaster · Billboard Brasil · Rolling Stone Brasil",
+      "cta": "Arraste →",
+      "alt": "Capa: 30 shows e festivais grandes confirmados no Brasil até maio de 2027, mês a mês, com a cidade e a situação da venda"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "DEZEMBRO",
+      "chamada": "PRÓXIMOS MESES",
+      "titulo": "Dezembro",
+      "itens": [
+       {
+        "data": "05/12",
+        "sub": "SÁB",
+        "titulo": "Djavan",
+        "detalhe": "Maceió · venda aberta"
+       },
+       {
+        "data": "05–06",
+        "sub": "DEZ",
+        "titulo": "Ed Sheeran",
+        "detalhe": "São Paulo · 05 esgotado · 06 venda aberta"
+       },
+       {
+        "data": "05–06",
+        "sub": "DEZ",
+        "titulo": "Primavera Sound",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "17/12",
+        "sub": "QUI",
+        "titulo": "Slayer",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "19/12",
+        "sub": "SÁB",
+        "titulo": "Lionel Richie",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "31/12",
+        "sub": "QUI",
+        "titulo": "Shakira",
+        "detalhe": "Balneário Camboriú · venda aberta"
+       }
+      ],
+      "fonte": "Fontes: Eventim · Billboard Brasil · Rolling Stone Brasil · Fever",
+      "cta": "Arraste →",
+      "alt": "Dezembro: Djavan em Maceió (05/12), Ed Sheeran em São Paulo (05/12 esgotado, 06/12 com venda aberta), Primavera Sound em São Paulo (05 e 06/12), Slayer em São Paulo (17/12), Lionel Richie em São Paulo (19/12) e Shakira no réveillon de Balneário Camboriú (31/12), todos com venda aberta"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "JANEIRO",
+      "chamada": "PRÓXIMOS MESES",
+      "titulo": "Janeiro",
+      "itens": [
+       {
+        "data": "03–09",
+        "sub": "JAN",
+        "titulo": "Shakira",
+        "detalhe": "Cariacica, Salvador e Fortaleza · venda aberta"
+       },
+       {
+        "data": "15/01",
+        "sub": "SEX",
+        "titulo": "System of a Down",
+        "detalhe": "Rio, com Faith No More · venda aberta"
+       },
+       {
+        "data": "22/01",
+        "sub": "A 04/02",
+        "titulo": "Rush",
+        "detalhe": "5 cidades · SP 24/01 esgotado · demais abertas"
+       },
+       {
+        "data": "23–24",
+        "sub": "JAN",
+        "titulo": "Festival de Verão",
+        "detalhe": "Salvador · venda aberta"
+       },
+       {
+        "data": "31/01",
+        "sub": "DOM",
+        "titulo": "Pitbull",
+        "detalhe": "São Paulo · venda aberta"
+       }
+      ],
+      "fonte": "Fontes: Fever · Rolling Stone Brasil · CNN Brasil · Billboard Brasil",
+      "cta": "Arraste →",
+      "alt": "Janeiro: Shakira em Cariacica, Salvador e Fortaleza (03 a 09/01), System of a Down com Faith No More no Rio (15/01), Rush em 5 cidades de 22/01 a 04/02 (São Paulo em 24/01 esgotado), Festival de Verão Salvador (23 e 24/01) e Pitbull em São Paulo (31/01)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "FEVEREIRO",
+      "chamada": "PRÓXIMOS MESES",
+      "titulo": "Fevereiro",
+      "itens": [
+       {
+        "data": "06–09",
+        "sub": "FEV",
+        "titulo": "Carvalheira na Ladeira",
+        "detalhe": "Olinda · venda aberta"
+       },
+       {
+        "data": "12/02",
+        "sub": "SEX",
+        "titulo": "Karol G",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "16–20",
+        "sub": "FEV",
+        "titulo": "Jack Johnson",
+        "detalhe": "Rio, Floripa e SP · venda aberta"
+       },
+       {
+        "data": "18–20",
+        "sub": "FEV",
+        "titulo": "Foo Fighters",
+        "detalhe": "BH e São Paulo · venda aberta"
+       },
+       {
+        "data": "20–28",
+        "sub": "FEV",
+        "titulo": "Placebo",
+        "detalhe": "SP, Brasília, Curitiba e POA · venda aberta"
+       },
+       {
+        "data": "27/02",
+        "sub": "SÁB",
+        "titulo": "Laura Pausini",
+        "detalhe": "São Paulo · venda aberta"
+       }
+      ],
+      "fonte": "Fontes: Folha de Pernambuco · Billboard Brasil · Omelete · POPline",
+      "cta": "Arraste →",
+      "alt": "Fevereiro: Carvalheira na Ladeira em Olinda (06 a 09/02), Karol G em São Paulo (12/02), Jack Johnson no Rio, em Florianópolis e em São Paulo (16 a 20/02), Foo Fighters em BH e São Paulo (18 e 20/02), Placebo em 4 cidades (20 a 28/02) e Laura Pausini em São Paulo (27/02)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "MARÇO",
+      "chamada": "PRÓXIMOS MESES",
+      "titulo": "Março",
+      "itens": [
+       {
+        "data": "05/03",
+        "sub": "SEX",
+        "titulo": "Motionless In White",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "10–16",
+        "sub": "MAR",
+        "titulo": "U2",
+        "detalhe": "São Paulo · 10, 12 e 14 esgotados · 16 aberta"
+       },
+       {
+        "data": "19–21",
+        "sub": "MAR",
+        "titulo": "Lollapalooza",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "20/03",
+        "sub": "SÁB",
+        "titulo": "Entretempos",
+        "detalhe": "São Paulo · venda em 07/12"
+       }
+      ],
+      "fonte": "Fontes: Billboard Brasil · Rolling Stone Brasil · POPline · CNN Brasil",
+      "cta": "Arraste →",
+      "alt": "Março: Motionless In White em São Paulo (05/03), U2 no MorumBIS (10, 12 e 14/03 esgotados, 16/03 com venda aberta), Lollapalooza Brasil em Interlagos (19 a 21/03) e a turnê Entretempos, de Jorge & Mateus e Chitãozinho & Xororó, em São Paulo (20/03, venda geral em 07/12)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "ABRIL",
+      "chamada": "PRÓXIMOS MESES",
+      "titulo": "Abril",
+      "itens": [
+       {
+        "data": "06–07",
+        "sub": "ABR",
+        "titulo": "Louis Tomlinson",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "10–13",
+        "sub": "ABR",
+        "titulo": "Europe",
+        "detalhe": "SP, Curitiba e Porto Alegre · venda aberta"
+       },
+       {
+        "data": "16–18",
+        "sub": "ABR",
+        "titulo": "Architects",
+        "detalhe": "Curitiba e São Paulo · venda aberta"
+       },
+       {
+        "data": "18/04",
+        "sub": "DOM",
+        "titulo": "JET",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "30/04",
+        "sub": "A 02/05",
+        "titulo": "Tomorrowland",
+        "detalhe": "Itu (SP) · venda aberta"
+       }
+      ],
+      "fonte": "Fontes: Billboard Brasil · Rolling Stone Brasil",
+      "cta": "Arraste →",
+      "alt": "Abril: Louis Tomlinson em São Paulo (06 e 07/04), Europe em São Paulo, Curitiba e Porto Alegre (10 a 13/04), Architects em Curitiba e São Paulo (16 e 18/04), JET em São Paulo (18/04) e Tomorrowland Brasil em Itu (30/04 a 02/05)"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "MAIO",
+      "chamada": "PRÓXIMOS MESES",
+      "titulo": "Maio",
+      "itens": [
+       {
+        "data": "01/05",
+        "sub": "SÁB",
+        "titulo": "Entretempos",
+        "detalhe": "Brasília · venda em 07/12"
+       },
+       {
+        "data": "01–07",
+        "sub": "MAI",
+        "titulo": "Dave Matthews Band",
+        "detalhe": "SP, Rio e Curitiba · venda aberta"
+       },
+       {
+        "data": "03/05",
+        "sub": "SEG",
+        "titulo": "Damien Rice",
+        "detalhe": "São Paulo · venda aberta"
+       },
+       {
+        "data": "13–16",
+        "sub": "MAI",
+        "titulo": "Simple Plan",
+        "detalhe": "Rio, Curitiba e SP · venda aberta"
+       }
+      ],
+      "fonte": "Fontes: CNN Brasil · Billboard Brasil · Rolling Stone Brasil",
+      "cta": "Arraste →",
+      "alt": "Maio: turnê Entretempos em Brasília (01/05, venda geral em 07/12), Dave Matthews Band em São Paulo, no Rio e em Curitiba (01 a 07/05), Damien Rice em São Paulo (03/05) e Simple Plan com All Time Low no Rio, em Curitiba e em São Paulo (13 a 16/05)"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "grupo:shows",
+      "pilula": "PRÓXIMOS MESES",
+      "chamada": "RESPONDA",
+      "titulo": "Qual você não perde?",
+      "opcoes": [
+       "Shakira",
+       "U2",
+       "Lollapalooza",
+       "Foo Fighters"
+      ],
+      "fonte": "",
+      "cta": "Responda A, B, C ou D",
+      "alt": "Pergunta: qual você não perde? A: Shakira. B: U2. C: Lollapalooza. D: Foo Fighters"
+     }
+    ],
+    "legenda": "🗓️ 30 shows e festivais grandes já confirmados até maio. Salve o mapa do seu verão:\n\n🎄 Dez · Ed Sheeran e Primavera Sound (SP, 05–06), Djavan (Maceió, 05), Slayer (17), Lionel Richie (19) e Shakira no réveillon de Balneário Camboriú (31)\n☀️ Jan · Shakira em Cariacica, Salvador e Fortaleza, System of a Down + Faith No More no Maracanã (15), Rush em 5 cidades, Festival de Verão Salvador e Pitbull (31)\n🎸 Fev · Carvalheira na Ladeira, Karol G, Jack Johnson, Foo Fighters, Placebo e Laura Pausini\n🎡 Mar · Motionless In White, U2 (3 datas esgotadas, 16/03 aberta), Lollapalooza (19–21) e Entretempos em SP (venda em 07/12)\n🎧 Abr · Louis Tomlinson, Europe, Architects, JET e Tomorrowland\n🎶 Mai · Entretempos em Brasília, Dave Matthews Band, Damien Rice e Simple Plan + All Time Low\n\n⚠️ Cuidado com golpe: só compre na vendedora oficial de cada show\n\n📌 Salve para planejar o ano\n📤 Mande para quem vai com você\n\nQual você não perde? Responda A, B, C ou D 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Eventim, Ticketmaster, Fever, Billboard Brasil, Rolling Stone Brasil, CNN Brasil, Omelete, POPline e Folha de Pernambuco.\n\n#shows #showsnobrasil #agendadeshows #shakira #u2 #lollapalooza #foofighters #showsconfirmados"
+   },
+   {
+    "tipo": "destaque",
+    "quando": "2026-12-02T18:00:00-03:00",
+    "sufixo": "nordeste",
+    "foto": "grupo:shows",
+    "pilula": "NORDESTE",
+    "chamada": "SHOWS CONFIRMADOS NO NORDESTE",
+    "titulo": "Grandes shows no Nordeste",
+    "linhas": [
+     [
+      "05/12",
+      "Djavan",
+      "Arena Celebration, Maceió · Ticketmaster"
+     ],
+     [
+      "06/01",
+      "Shakira",
+      "Arena Fonte Nova, Salvador · Fever"
+     ],
+     [
+      "09/01",
+      "Shakira",
+      "Arena Castelão, Fortaleza · Fever"
+     ],
+     [
+      "23/01",
+      "Festival de Verão",
+      "Arena Festival, Salvador · 23 e 24/01"
+     ]
+    ],
+    "fonte": "Fontes: CNN Brasil · Fever · Rolling Stone Brasil · Diário Penedense",
+    "cta": "Marque quem vai",
+    "alt": "Shows no Nordeste: Djavan na Arena Celebration, em Maceió (05/12); Shakira na Arena Fonte Nova, em Salvador (06/01), e na Arena Castelão, em Fortaleza (09/01), na Fever; e Festival de Verão Salvador na Arena Festival (23 e 24/01)",
+    "legenda": "📍 O Nordeste tem 4 shows grandes confirmados até janeiro, e 2 são da Shakira!\n\n🌊 Sáb 05/12 · Djavan · último show da turnê de 50 anos, em Maceió, a terra dele · Arena Celebration, Praia de Jacarecica (mudou de local; ingresso comprado continua valendo) · Ticketmaster\n💃 Qua 06/01 · Shakira · Arena Fonte Nova, Salvador · Fever\n💃 Sáb 09/01 · Shakira · Arena Castelão, Fortaleza · Fever\n☀️ Sáb 23 e dom 24/01 · Festival de Verão Salvador · Arena Festival · Maria Bethânia, Jão, BaianaSystem com IZA, Marina Sena, João Gomes e mais\n➕ E mais: Carvalheira na Ladeira, de 06 a 09/02, em Olinda, com Anitta, Armin van Buuren e Fisher (Sympla) · Xuxa em Fortaleza (08/08/2027, Castelão) e Recife (21/08/2027, Arena de Pernambuco), na Eventim\n\n⚠️ Compre só na vendedora oficial. Desconfie de perfil vendendo ingresso por Pix.\n\n📌 Salve para não esquecer\n📤 Mande para quem é do Nordeste\n\nVai em qual? Comenta aí 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: CNN Brasil, Fever, Rolling Stone Brasil, Folha de Pernambuco, Billboard Brasil e Diário Penedense.\n\n#shows #nordeste #salvador #fortaleza #maceio #shakira #djavan #agendadeshows"
+   },
+   {
+    "tipo": "carrossel",
+    "quando": "2026-12-03T19:00:00-03:00",
+    "sufixo": "show-da-semana",
+    "alt": "O show da semana: Ed Sheeran e a Loop Tour no Nubank Parque, em São Paulo, no sábado 05/12 (esgotado) e no domingo 06/12, com abertura de Isaac Slade",
+    "cards": [
+     {
+      "tipo": "destaque",
+      "foto": "grupo:shows",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "ED SHEERAN · LOOP TOUR",
+      "titulo": "Sábado esgotou, domingo ainda tem: 5 coisas antes de ir",
+      "caixas": [
+       [
+        "Quando",
+        "Sáb 05 e dom 06/12"
+       ],
+       [
+        "Onde",
+        "Nubank Parque, SP"
+       ]
+      ],
+      "nota": "Turnê, setlist, horários, preços e golpe. Venda oficial: só na Eventim.",
+      "fonte": "Fontes: Eventim · Caderno Pop · La Tercera",
+      "cta": "Arraste →",
+      "alt": "Capa: Ed Sheeran, Loop Tour, no Nubank Parque, em São Paulo: sábado 05/12 esgotou, domingo 06/12 ainda tem ingresso; 5 coisas antes de ir: turnê, setlist, horários, preços e golpe; venda oficial só na Eventim"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "O ESSENCIAL",
+      "titulo": "A turnê",
+      "topicos": [
+       "Loop Tour, do disco Play (2025)",
+       "Sábado 05/12 esgotou no 1º dia; domingo 06/12 é a data extra",
+       "Abertura: Isaac Slade, ex-vocalista do The Fray",
+       "Única cidade no Brasil: São Paulo"
+      ],
+      "fonte": "Fontes: Eventim · CNN Brasil · Caderno Pop · Wikipedia (Loop Tour)",
+      "alt": "A turnê: Loop Tour, do disco Play, de 2025; o sábado 05/12 esgotou no primeiro dia e o domingo 06/12 é a data extra; abertura de Isaac Slade, ex-vocalista do The Fray; São Paulo é a única cidade no Brasil"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "O QUE ESPERAR",
+      "titulo": "29 músicas, um violão",
+      "texto": "Em Santiago, em 21 e 22/11, o show passou de 2h30, com boa parte só com violão e pedal de loop.",
+      "topicos": [
+       "Abre com Castle on the Hill",
+       "Shivers · Galway Girl · Photograph · Sapphire",
+       "Thinking Out Loud e Perfect num palco menor",
+       "Fecha com Shape of You, Azizam e Bad Habits"
+      ],
+      "fonte": "Fontes: La Tercera · Rock&Pop (Chile)",
+      "alt": "O que esperar: em Santiago, em 21 e 22 de novembro, o show passou de duas horas e meia, com 29 músicas; abriu com Castle on the Hill, teve Shivers, Galway Girl, Photograph, Sapphire, Thinking Out Loud e Perfect, e fechou com Shape of You, Azizam e Bad Habits"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "ONDE E QUANDO",
+      "titulo": "Horários",
+      "topicos": [
+       "Nubank Parque, Rua Palestra Itália, 200, Água Branca",
+       "Portões às 16h",
+       "Domingo: Isaac Slade 19h15 · Ed Sheeran 20h45",
+       "16+ entra sozinho; menor, só com responsável"
+      ],
+      "fonte": "Fontes: Eventim · Caderno Pop",
+      "alt": "Onde e quando: Nubank Parque, na Rua Palestra Itália, 200, Água Branca, São Paulo; portões às 16h; no domingo, Isaac Slade às 19h15 e Ed Sheeran às 20h45; a partir de 16 anos entra sozinho, menores só com responsável"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "INGRESSOS · DOM 06/12",
+      "titulo": "Quanto custa",
+      "topicos": [
+       "Cadeira Superior: R$ 440 (meia R$ 220)",
+       "Pista: R$ 490 (meia R$ 245)",
+       "Cadeira Nível 1: R$ 730 a R$ 760",
+       "Pista Premium: R$ 880 (meia R$ 440)"
+      ],
+      "texto": "Preços sem taxa. Sábado esgotado; para domingo, confira na Eventim.",
+      "fonte": "Fonte: Eventim",
+      "alt": "Ingressos para domingo, 06/12: Cadeira Superior R$ 440 (meia R$ 220), Pista R$ 490 (meia R$ 245), Cadeira Nível 1 de R$ 730 a R$ 760 e Pista Premium R$ 880 (meia R$ 440), sem taxa; sábado esgotado"
+     },
+     {
+      "tipo": "texto",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "ALERTA DE GOLPE",
+      "titulo": "Só no link oficial",
+      "topicos": [
+       "Compre só na Eventim ou na bilheteria do estádio",
+       "Limite: 6 ingressos por CPF, até 2 meias",
+       "Ingresso de sábado “sobrando” por Pix é risco",
+       "A Eventim não responde por compra fora dela"
+      ],
+      "fonte": "Fonte: Eventim",
+      "alt": "Alerta de golpe: compre só na Eventim ou na bilheteria do Nubank Parque; limite de 6 ingressos por CPF, até 2 meias; ingresso de sábado sobrando por Pix é risco; a Eventim não responde por compra fora do canal oficial"
+     },
+     {
+      "tipo": "pergunta",
+      "foto": "grupo:shows",
+      "pilula": "O SHOW DA SEMANA",
+      "chamada": "RESPONDA",
+      "titulo": "Você vai?",
+      "opcoes": [
+       "Vou no sábado",
+       "Vou no domingo",
+       "Vou no Primavera Sound",
+       "Desta vez não"
+      ],
+      "fonte": "",
+      "cta": "Responda A, B, C ou D",
+      "alt": "Você vai? A: vou no sábado. B: vou no domingo. C: vou no Primavera Sound. D: desta vez não"
+     }
+    ],
+    "legenda": "🎸 Ed Sheeran esgotou o sábado em São Paulo. O domingo ainda tem ingresso.\n\n🎤 Ed Sheeran · Loop Tour, do disco Play (2025)\n📅 Sábado, 05/12 (esgotado) e domingo, 06/12 · portões às 16h · no domingo, Ed Sheeran às 20h45\n📍 Nubank Parque, São Paulo · abertura de Isaac Slade, ex-The Fray\n🎶 Em Santiago foram 29 músicas: Castle on the Hill, Shivers, Perfect, Thinking Out Loud e, no fim, Shape of You e Bad Habits\n🎟️ Domingo: Cadeira Superior R$ 440 (meia R$ 220) · Pista R$ 490 (meia R$ 245) · Pista Premium R$ 880 · só na Eventim\n\n⚠️ Cuidado com golpe: só compre na Eventim ou na bilheteria oficial. Ingresso de sábado por Pix em rede social é risco.\n\n📌 Salve para não esquecer\n📤 Mande para quem canta Perfect com você\n\nVocê vai? Responda A, B, C ou D 👇\nSiga @showsconfirmados para saber de todo show confirmado.\n\nFontes: Eventim, CNN Brasil, Caderno Pop, La Tercera e Rock&Pop.\n\n#edsheeran #looptour #shows #showsnobrasil #nubankparque #saopaulo #agendadeshows"
+   }
+  ]
+ }
+}
