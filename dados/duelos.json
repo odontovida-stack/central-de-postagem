@@ -5,7 +5,7 @@
   "total": 0,
   "nome_a": "Pista",
   "nome_b": "Cadeira",
-  "contado_em": "2026-11-25T12:47:37+00:00"
+  "contado_em": "2026-11-26T12:24:05+00:00"
  },
  "2026-11-24-tudooqueestreia-duelo-duelo": {
   "a": 0,
@@ -13,6 +13,14 @@
   "total": 0,
   "nome_a": "O original",
   "nome_b": "Blade Runner 2049",
-  "contado_em": "2026-11-25T12:47:37+00:00"
+  "contado_em": "2026-11-26T12:24:05+00:00"
+ },
+ "2026-11-25-jogosnatela-duelo-duelo": {
+  "a": 0,
+  "b": 0,
+  "total": 0,
+  "nome_a": "Libertadores",
+  "nome_b": "Copa do Brasil",
+  "contado_em": "2026-11-26T12:24:05+00:00"
  }
 }
