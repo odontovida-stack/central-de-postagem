@@ -1,0 +1,101 @@
+{
+  "dia": "27/11/2026",
+  "apurado_em": "2026-11-27",
+  "contas": {
+    "tudooqueestreia": [
+      {
+        "tipo": "carrossel",
+        "sufixo": "tiktok-maratona",
+        "redes": [
+          "tiktok"
+        ],
+        "quando": "2026-11-27T19:00:00-03:00",
+        "alt": "Maratona do fim de semana: 3 séries para maratonar no fim de semana, no Prime Video, no Disney+ e na Netflix",
+        "cards": [
+          {
+            "tipo": "destaque",
+            "foto": "tv-controle",
+            "pilula": "MARATONA DO FIM DE SEMANA",
+            "chamada": "SEXTA A DOMINGO, 27 A 29/11",
+            "titulo": "3 séries para maratonar no fim de semana",
+            "caixas": [
+              [
+                "Neste post",
+                "3 séries"
+              ],
+              [
+                "Plataformas",
+                "Prime, Disney+, Netflix"
+              ]
+            ],
+            "nota": "Duas já com o episódio final no ar desde quarta. Sem spoiler.",
+            "fonte": "Conferido em 27/11 às 10h · Omelete, Critical Hits, Imirante, Overdrive, Showmetech",
+            "cta": "Arraste →",
+            "alt": "Capa: maratona do fim de semana, 27 a 29 de novembro: 3 séries para maratonar no fim de semana, no Prime Video, no Disney+ e na Netflix"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "1/3 · PRIME VIDEO",
+            "chamada": "FANTASIA · 8 EPISÓDIOS",
+            "titulo": "Os Anéis de Poder: 3ª temporada",
+            "texto": "A guerra entre os elfos e Sauron chega ao auge enquanto ele tenta forjar o Um Anel. O episódio final saiu na quarta, 25/11.",
+            "topicos": [
+              "Os 8 episódios já estão no ar",
+              "Com Morfydd Clark e Charlie Vickers",
+              "Para quem ama O Senhor dos Anéis"
+            ],
+            "fonte": "Conferido em 27/11 às 10h · Omelete, BNews, Overdrive",
+            "cta": "Arraste →",
+            "alt": "1 de 3: Os Anéis de Poder, 3ª temporada, no Prime Video. Fantasia, 8 episódios, todos no ar desde 25/11. Com Morfydd Clark e Charlie Vickers"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "2/3 · DISNEY+",
+            "chamada": "DORAMA · 10 EPISÓDIOS",
+            "titulo": "A Imperatriz se Casou Novamente",
+            "texto": "A imperatriz Navier aceita o divórcio, mas com uma condição: se casar com o príncipe de um reino rival. O final saiu em 25/11.",
+            "topicos": [
+              "Os 10 episódios já estão no ar",
+              "Com Shin Min-a e Lee Jong-suk",
+              "Baseado no webtoon de Alphatart"
+            ],
+            "fonte": "Conferido em 27/11 às 10h · Critical Hits, Imirante, Overdrive",
+            "cta": "Arraste →",
+            "alt": "2 de 3: A Imperatriz se Casou Novamente, dorama do Disney+ com 10 episódios, todos no ar desde 25/11. Com Shin Min-a e Lee Jong-suk, baseado no webtoon de Alphatart"
+          },
+          {
+            "tipo": "texto",
+            "pilula": "3/3 · NETFLIX",
+            "chamada": "ESPIONAGEM · 2ª TEMPORADA",
+            "titulo": "Black Doves",
+            "texto": "O marido de Helen se prepara para virar primeiro-ministro, e uma disputa dentro dos Black Doves põe ela e Sam diante de novas ameaças.",
+            "topicos": [
+              "Na Netflix desde 05/11",
+              "Com Keira Knightley e Ben Whishaw",
+              "Para quem gosta de suspense de espião"
+            ],
+            "fonte": "Conferido em 27/11 às 10h · Overdrive, Showmetech",
+            "cta": "Arraste →",
+            "alt": "3 de 3: Black Doves, 2ª temporada, suspense de espionagem na Netflix desde 5 de novembro, com Keira Knightley e Ben Whishaw"
+          },
+          {
+            "tipo": "pergunta",
+            "foto": "grupo:estreia",
+            "pilula": "MARATONA DO FIM DE SEMANA",
+            "chamada": "RESPONDA",
+            "titulo": "Qual você vai maratonar primeiro?",
+            "opcoes": [
+              "Os Anéis de Poder",
+              "A Imperatriz se Casou Novamente",
+              "Black Doves",
+              "Outra: conta nos comentários"
+            ],
+            "cta": "Responda A, B, C ou D",
+            "alt": "Responda: qual você vai maratonar primeiro? A) Os Anéis de Poder, B) A Imperatriz se Casou Novamente, C) Black Doves, D) Outra: conta nos comentários"
+          }
+        ],
+        "legenda": "🍿 Fim de semana chegou: 3 séries para maratonar sem parar 👇\n\n💍 Os Anéis de Poder T3 · Prime Video · os 8 episódios no ar\n👑 A Imperatriz se Casou Novamente · Disney+ · dorama completo, 10 episódios\n🕵️ Black Doves T2 · Netflix · espionagem com Keira Knightley\n🤐 Tudo sem spoiler\n\nQual vai ser a primeira? Responda A, B, C ou D 👇\nSiga @tudooqueestreia para não perder nenhuma estreia\n\n#series #oquever #primevideo #disneyplus #netflix"
+      }
+    ]
+  }
+}
