@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "New international students in the U.S. are falling again. The last time was after 9/11. #shorts",
   "quando": "2026-11-27T12:00:00-03:00",
   "tags": [
@@ -24,5 +24,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso semanal (notícia da semana + paralelo histórico), montado pelo Craudio em 22/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso semanal (notícia da semana + paralelo histórico), montado pelo Craudio em 22/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "WzUDBAzTyIs",
+  "short_id": "WzUDBAzTyIs",
+  "meta_hash": "73c6ed9b9ea8c2f3"
 }
