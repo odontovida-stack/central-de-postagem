@@ -1,0 +1,45 @@
+{
+  "conta": "tudooqueestreia",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook",
+    "tiktok"
+  ],
+  "quando": "2026-11-24T12:25:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para Blade Runner e Percy. Links na bio ou comente LINK",
+    "Os achados: Fire TV Stick 4K: Prime Video e Disney+ na TV; O livro de Philip K. Dick que deu origem a Blade Runner; A Maldição do Titã, o livro da 3ª temporada de Percy; Manta de microfibra para o sofá na maratona",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @tudooqueestreia e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🍿 Blade Runner 2099 chega inteira na quarta: 4 achados para a maratona em casa.\n\n📺 Fire TV Stick 4K\n📖 Androides Sonham com Ovelhas Elétricas?\n⚡ Percy Jackson: A Maldição do Titã\n🛋️ Manta de microfibra\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @tudooqueestreia para os achados toda semana.\n\n#bladerunner #percyjackson #primevideo #maratona #achadosamazon\n\n📷 Foto: Cindy Funk · CC BY 2.0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Fire TV Stick 4K",
+      "url": "https://www.amazon.com.br/s?k=fire+tv+stick+4k&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Androides Sonham com Ovelhas Elétricas?",
+      "url": "https://www.amazon.com.br/s?k=androides+sonham+com+ovelhas+eletricas+philip+k+dick+aleph&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Percy Jackson: A Maldição do Titã",
+      "url": "https://www.amazon.com.br/s?k=percy+jackson+a+maldicao+do+tita+intrinseca&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Manta de microfibra",
+      "url": "https://www.amazon.com.br/s?k=manta+cobertor+microfibra+casal&tag=llshop0d-20"
+    }
+  ],
+  "fotos": [
+    "cinema-drive-in"
+  ]
+}

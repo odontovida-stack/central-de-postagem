@@ -1,0 +1,45 @@
+{
+  "conta": "jogosnatela",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook",
+    "tiktok"
+  ],
+  "quando": "2026-11-24T12:15:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para a semana da final. Links na bio ou comente LINK",
+    "Os achados: Camisa oficial do Palmeiras, para a final de sábado; Bola de society Penalty, para a pelada da semana; Chuteira society Nike: firmeza na grama sintética; Suporte articulado: TV na altura certa da sala",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @jogosnatela e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🏆 Semana de final da Libertadores: 4 achados para viver o jogo de sábado.\n\n👕 Camisa do Palmeiras\n⚽ Bola de society Penalty\n👟 Chuteira society Nike\n📺 Suporte articulado de TV\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @jogosnatela para os achados toda semana.\n\n#libertadores #palmeiras #futebol #achadosamazon #achados\n\n📷 Foto: Hayden Schiff from Cincinnati, USA · CC BY 2.0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Camisa do Palmeiras",
+      "url": "https://www.amazon.com.br/s?k=camisa+palmeiras+puma+2026+torcedor&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Bola de society Penalty",
+      "url": "https://www.amazon.com.br/s?k=bola+society+penalty&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Chuteira society Nike",
+      "url": "https://www.amazon.com.br/s?k=chuteira+society+nike+phantom&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Suporte articulado de TV",
+      "url": "https://www.amazon.com.br/s?k=suporte+articulado+tv+32+a+75&tag=llshop0d-20"
+    }
+  ],
+  "fotos": [
+    "futebol-gramado"
+  ]
+}

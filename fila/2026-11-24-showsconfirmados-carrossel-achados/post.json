@@ -1,0 +1,44 @@
+{
+  "conta": "showsconfirmados",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook"
+  ],
+  "quando": "2026-11-24T12:35:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para curtir o show. Links na bio ou comente LINK",
+    "Os achados: Vinil do Seal, para esquentar para Kiss From a Rose; Protetor auricular Loop: abaixa o volume, não a música; Power bank Anker: celular com bateria até o bis; Capa de chuva poncho: chuva de verão no estádio",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @showsconfirmados e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🌹 Semana de Seal no estádio: 4 achados para curtir o show do começo ao bis.\n\n💿 Vinil do Seal\n👂 Protetor auricular Loop\n🔋 Power bank Anker\n🌧️ Capa de chuva poncho\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @showsconfirmados para os achados toda semana.\n\n#shows #seal #festival #showsnobrasil #achadosamazon\n\n📷 Foto: Freestocks.org · CC0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Vinil do Seal",
+      "url": "https://www.amazon.com.br/s?k=vinil+seal+disco&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Protetor auricular Loop",
+      "url": "https://www.amazon.com.br/s?k=protetor+auricular+loop+experience&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Power bank Anker",
+      "url": "https://www.amazon.com.br/s?k=power+bank+anker+10000mah&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Capa de chuva poncho",
+      "url": "https://www.amazon.com.br/s?k=capa+de+chuva+poncho+impermeavel+adulto&tag=llshop0d-20"
+    }
+  ],
+  "fotos": [
+    "show-microfone"
+  ]
+}

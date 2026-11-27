@@ -1,0 +1,44 @@
+{
+  "conta": "esportesnatela",
+  "tipo": "carrossel",
+  "redes": [
+    "instagram",
+    "facebook"
+  ],
+  "quando": "2026-11-24T12:20:00-03:00",
+  "status": "aprovado",
+  "midias": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "textos_alternativos": [
+    "Capa: 4 achados para quem joga basquete. Links na bio ou comente LINK",
+    "Os achados: Bola Spalding tamanho 7, para a quadra e a rua; Fone JBL Endurance: firme na orelha e resiste a suor; Bomba de ar com agulha: bola sempre na pressão certa; Mochila esportiva Nike: tênis, roupa e garrafa juntos",
+    "Como pegar o link: comente LINK que a gente manda no direct, ou toque no link da bio. Como Associado da Amazon, ganho com compras qualificadas.",
+    "Siga @esportesnatela e ative as notificações para não perder os próximos posts"
+  ],
+  "legenda": "🏀 Seleção de basquete no Ibirapuera: 4 achados para quem também joga.\n\n🏀 Bola de basquete Spalding\n🎧 Fone esportivo JBL Endurance\n💨 Bomba de ar com agulha\n🎒 Mochila esportiva Nike\n\n🔗 Comente LINK que a gente te manda no direct (ou toque no link da bio)\nComo Associado da Amazon, ganho com compras qualificadas.\n\nSiga @esportesnatela para os achados toda semana.\n\n#basquete #selecaobrasileira #esportes #achadosamazon #achados\n\n📷 Foto: Bob Mical · CC BY 2.0, Wikimedia Commons",
+  "links": [
+    {
+      "titulo": "Bola de basquete Spalding",
+      "url": "https://www.amazon.com.br/s?k=bola+basquete+spalding+tamanho+7&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Fone esportivo JBL Endurance",
+      "url": "https://www.amazon.com.br/s?k=fone+jbl+endurance+peak+3&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Bomba de ar com agulha",
+      "url": "https://www.amazon.com.br/s?k=bomba+de+ar+bola+com+agulha+penalty&tag=llshop0d-20"
+    },
+    {
+      "titulo": "Mochila esportiva Nike",
+      "url": "https://www.amazon.com.br/s?k=mochila+nike+brasilia&tag=llshop0d-20"
+    }
+  ],
+  "fotos": [
+    "quadra-basquete"
+  ]
+}
