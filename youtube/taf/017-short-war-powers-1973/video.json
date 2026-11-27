@@ -1,7 +1,7 @@
 {
   "canal": "taf",
   "formato": "short",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "The Senate just voted on Iran war powers. The law behind it is from 1973. #shorts",
   "quando": "2026-11-23T12:00:00-03:00",
   "tags": [
@@ -25,5 +25,8 @@
     "similarity_boost": 0.8,
     "style": 0.2
   },
-  "_como_aprovar": "Short avulso semanal (notícia da semana + paralelo histórico), montado pelo Craudio em 22/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+  "_como_aprovar": "Short avulso semanal (notícia da semana + paralelo histórico), montado pelo Craudio em 22/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'.",
+  "video_id": "Xkcu7DwgyQw",
+  "short_id": "Xkcu7DwgyQw",
+  "meta_hash": "332aea557c688825"
 }
