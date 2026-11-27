@@ -1,0 +1,426 @@
+{
+ "posts": [
+  {
+   "sufixo": "bondinho",
+   "quando": "2026-11-29T18:30:00-03:00",
+   "idioma": "en",
+   "cards": [
+    {
+     "tipo": "capa",
+     "pilula": "ONE THING, ONE PRICE",
+     "selo": "Prices checked Nov 2026",
+     "titulo": "Sugarloaf cable car: one price, all day",
+     "sub": "What the ride up Rio's most famous rock really costs, and when to go",
+     "foto": "rio-pao-de-acucar"
+    },
+    {
+     "tipo": "preco",
+     "pilula": "ONE THING, ONE PRICE",
+     "chamada": "SUGARLOAF CABLE CAR · RIO",
+     "grande": "R$ 205",
+     "texto": "About US$ 37 for the full adult ticket: both cable car legs and the whole park, for the whole day.",
+     "dica_titulo": "Our tip",
+     "dica": "Open 8:30 am to 9 pm (weekends from 7:30). Go up in the late afternoon and stay for sunset. Last boarding 7:30 pm.",
+     "rodape": "US$ 1 ≈ R$ 5.54 (PTAX Nov 27)"
+    }
+   ],
+   "alt": [
+    "Cover: Sugarloaf cable car in Rio, one price for the whole day. A cable car over Botafogo bay",
+    "Sugarloaf cable car full adult ticket R$ 205, about US$ 37, both legs and the whole park all day; open 8:30 am to 9 pm, weekends from 7:30 am, last boarding 7:30 pm",
+    "Comment GUIDE and we'll DM you the full plan"
+   ],
+   "legenda": "One ticket, one price: the Sugarloaf cable car costs R$ 205 (≈ US$ 37) 🚡\n🎟️ Full adult ticket: both cable car legs + the whole park, all day\n🕗 Open 8:30 am–9 pm, weekends from 7:30 am\n🌅 Last boarding 7:30 pm: go late and stay for sunset\n👧 Half price for ages 3–12, 60+ and students with ID; under 2 free\n🥾 Fit? Hike the 30-min trail up Morro da Urca and ride from there with a special ticket\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 El teleférico del Pan de Azúcar cuesta R$ 205 (≈ US$ 37) por todo el día. Comenta GUÍA y te mandamos el plan por DM.\n\nUS$ 1 ≈ R$ 5.54 (PTAX Nov 27, 2026). Source: bondinho.com.br.\n📷 Cover photo: Wilfredor (CC0), Wikimedia Commons\n\n#brazil #braziltravel #budgettravel #riodejaneiro #sugarloaf #traveltips"
+  },
+  {
+   "sufixo": "bonito",
+   "quando": "2026-11-30T18:30:00-03:00",
+   "idioma": "en",
+   "cards": [
+    {
+     "tipo": "capa",
+     "pilula": "WHAT IT REALLY COSTS",
+     "selo": "Prices checked Nov 2026",
+     "titulo": "What Bonito really costs",
+     "sub": "Crystal-clear rivers in Mato Grosso do Sul: the cheap day costs US$ 13, the famous snorkel US$ 85+",
+     "foto": "brasil-bonito"
+    },
+    {
+     "tipo": "lista",
+     "pilula": "GETTING THERE",
+     "chamada": "STEP 1",
+     "titulo": "Bus + eco tax",
+     "linhas": [
+      [
+       "Bus from Campo Grande",
+       "R$ 120–129"
+      ],
+      [
+       "In dollars, 4–5 h",
+       "US$ 22–23"
+      ],
+      [
+       "Eco tax (TCA), per day",
+       "R$ 15 · US$ 3"
+      ]
+     ],
+     "nota": "The TCA is paid online only, at turistapornatureza.com.br, before you arrive. Kids up to 7 are exempt. The cheapest swim is on the next slide.",
+     "rodape": "US$ 1 ≈ R$ 5.54 (PTAX Nov 27)"
+    },
+    {
+     "tipo": "lista",
+     "pilula": "THE TOURS",
+     "chamada": "LOW – HIGH SEASON, ADULT",
+     "titulo": "From US$ 13 to 103",
+     "linhas": [
+      [
+       "Balneário Municipal",
+       "US$ 13–18"
+      ],
+      [
+       "Gruta do Lago Azul cave",
+       "US$ 22–32"
+      ],
+      [
+       "Buraco das Araras",
+       "US$ 33"
+      ],
+      [
+       "Rio Sucuri snorkel",
+       "US$ 63–79"
+      ],
+      [
+       "Rio da Prata snorkel",
+       "US$ 85–103"
+      ]
+     ],
+     "nota": "In reais: R$ 70–98, R$ 120–180, R$ 185, R$ 349–438 and R$ 470–570. 2026 reference prices: confirm with your agency.",
+     "rodape": "US$ 1 ≈ R$ 5.54 (PTAX Nov 27)"
+    },
+    {
+     "tipo": "lista",
+     "pilula": "DAILY COSTS",
+     "chamada": "FOOD AND RIDES",
+     "titulo": "Lunch is the cheap part",
+     "linhas": [
+      [
+       "Self-service lunch",
+       "US$ 5–6"
+      ],
+      [
+       "Taxi in town",
+       "about US$ 4"
+      ],
+      [
+       "Shared transfer, short trip",
+       "about US$ 5"
+      ],
+      [
+       "Taxi to the cave and back",
+       "about US$ 27"
+      ],
+      [
+       "Praça da Liberdade",
+       "free"
+      ]
+     ],
+     "nota": "Almost no attraction is in town and there's no public bus to them: budget for transfers.",
+     "rodape": "US$ 1 ≈ R$ 5.54 (PTAX Nov 27)"
+    },
+    {
+     "tipo": "passos",
+     "pilula": "HOW IT WORKS",
+     "chamada": "BEFORE YOU BOOK",
+     "titulo": "4 rules in Bonito",
+     "itens": [
+      [
+       "Vouchers only",
+       "You can't buy at the gate: book through a local agency."
+      ],
+      [
+       "Same price everywhere",
+       "Prices are fixed in town, so every agency charges the same."
+      ],
+      [
+       "Book early",
+       "Each site takes a fixed number of visitors a day."
+      ],
+      [
+       "No sunscreen",
+       "It's banned at some springs. Check your tour's rules."
+      ]
+     ],
+     "rodape": "US$ 1 ≈ R$ 5.54 (PTAX Nov 27)"
+    }
+   ],
+   "alt": [
+    "Cover: What Bonito really costs. Fish in a crystal-clear river in Bonito, Mato Grosso do Sul",
+    "Getting there: bus from Campo Grande R$ 120 to 129, about US$ 22 to 23, 4 to 5 hours; eco tax TCA R$ 15 per person per day, paid online",
+    "Tours, low to high season: Balneário Municipal US$ 13 to 18, Gruta do Lago Azul US$ 22 to 32, Buraco das Araras US$ 33, Rio Sucuri US$ 63 to 79, Rio da Prata US$ 85 to 103",
+    "Daily costs: self-service lunch US$ 5 to 6, taxi in town about US$ 4, shared transfer about US$ 5, taxi to the cave and back about US$ 27, Praça da Liberdade free",
+    "Four rules: vouchers only through local agencies, same price at every agency, book early, no sunscreen at some springs",
+    "Comment GUIDE and we'll DM you the full plan"
+   ],
+   "legenda": "Bonito, Brazil: the cheapest river day costs US$ 13, the famous snorkel US$ 85+ 🐠\n🚌 Bus from Campo Grande: R$ 120–129 (≈ US$ 22–23), 4–5 h\n🌿 Eco tax: R$ 15 (≈ US$ 3) per person per day, paid online\n🏊 Balneário Municipal: R$ 70–98 (≈ US$ 13–18)\n💙 Gruta do Lago Azul cave: R$ 120–180 (≈ US$ 22–32)\n🤿 Rio da Prata snorkel: R$ 470–570 (≈ US$ 85–103)\n🍛 Self-service lunch: R$ 25–35 (≈ US$ 5–6)\n🎟️ Tours only with a voucher from a local agency: book early\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 Bonito (Mato Grosso do Sul): bus desde Campo Grande R$ 120–129, tasa ambiental R$ 15 por día, Gruta do Lago Azul R$ 120–180, flotación en Rio da Prata R$ 470–570. Comenta GUÍA y te mandamos el plan por DM.\n\nUS$ 1 ≈ R$ 5.54 (PTAX Nov 27, 2026). Low–high season adult prices for 2026; confirm with your agency.\n📷 Cover photo: Ateliesandraromano (CC BY-SA 4.0), Wikimedia Commons\n\n#brazil #braziltravel #budgettravel #bonito #matogrossodosul #snorkeling #ecotourism"
+  },
+  {
+   "sufixo": "foz-es",
+   "quando": "2026-12-02T18:30:00-03:00",
+   "idioma": "es",
+   "cards": [
+    {
+     "tipo": "capa",
+     "pilula": "¿CUÁNTO CUESTA?",
+     "selo": "Precios revisados nov 2026",
+     "titulo": "¿Cuánto cuesta Foz do Iguaçu?",
+     "sub": "Las Cataratas desde el lado brasileño: entrada desde US$ 22 y el bus al parque, por US$ 1",
+     "foto": "foz-cataratas"
+    },
+    {
+     "tipo": "lista",
+     "pilula": "LAS CATARATAS",
+     "chamada": "PARQUE NACIONAL DO IGUAÇU",
+     "titulo": "La entrada",
+     "linhas": [
+      [
+       "Mercosur",
+       "R$ 121 · US$ 22"
+      ],
+      [
+       "Otros extranjeros",
+       "R$ 134 · US$ 24"
+      ],
+      [
+       "Niños hasta 6 años",
+       "gratis"
+      ]
+     ],
+     "nota": "Abre todos los días. El paseo en bote Macuco Safari cuesta R$ 384 (US$ 69) aparte y no incluye la entrada al parque.",
+     "rodape": "US$ 1 ≈ R$ 5,54 (PTAX 27/11)"
+    },
+    {
+     "tipo": "lista",
+     "pilula": "EL RESTO",
+     "chamada": "PRECIO ADULTO",
+     "titulo": "Lo que suma",
+     "linhas": [
+      [
+       "Bus 120 al parque",
+       "R$ 5 · US$ 1"
+      ],
+      [
+       "Itaipu, visita panorámica",
+       "R$ 63 · US$ 11"
+      ],
+      [
+       "Parque das Aves",
+       "R$ 110 · US$ 20"
+      ],
+      [
+       "Lado argentino",
+       "ARS 60.000"
+      ]
+     ],
+     "nota": "El bus sube a R$ 6 desde el 4/12. Parque das Aves: precio válido hasta el 30/11, puede cambiar. Argentina: el 2º día en 72 h, 50% menos.",
+     "rodape": "US$ 1 ≈ R$ 5,54 (PTAX 27/11)"
+    },
+    {
+     "tipo": "passos",
+     "pilula": "CONSEJOS",
+     "chamada": "PARA GASTAR MENOS",
+     "titulo": "3 trucos en Foz",
+     "itens": [
+      [
+       "Toma el bus 120",
+       "Sale del terminal urbano y te deja en la entrada del parque."
+      ],
+      [
+       "Lleva tu documento",
+       "Para pagar el precio Mercosur, ten a mano tu documento."
+      ],
+      [
+       "Dos días en Argentina",
+       "Si vuelves en 72 horas, el segundo día cuesta la mitad."
+      ]
+     ],
+     "rodape": "US$ 1 ≈ R$ 5,54 (PTAX 27/11)"
+    }
+   ],
+   "alt": [
+    "Portada: ¿Cuánto cuesta Foz do Iguaçu? Las Cataratas del Iguazú desde el lado brasileño",
+    "Entrada al Parque Nacional do Iguaçu: Mercosur R$ 121, unos US$ 22; otros extranjeros R$ 134, unos US$ 24; niños hasta 6 años gratis; Macuco Safari R$ 384 aparte",
+    "Bus 120 al parque R$ 5, sube a R$ 6 el 4 de diciembre; Itaipu panorámica R$ 63; Parque das Aves R$ 110; lado argentino ARS 60.000",
+    "Tres trucos: bus 120 desde el terminal, documento para el precio Mercosur, segundo día en Argentina a mitad de precio",
+    "Comenta GUÍA y te mandamos el plan completo"
+   ],
+   "legenda": "Cataratas del Iguazú por US$ 22: lo que cuesta Foz do Iguaçu en 2026 🇧🇷\n🌊 Entrada al parque (lado brasileño): R$ 121 Mercosur (≈ US$ 22), R$ 134 otros extranjeros (≈ US$ 24)\n🚌 Bus 120 al parque: R$ 5 (≈ US$ 1); R$ 6 desde el 4/12\n🚤 Macuco Safari: R$ 384 (≈ US$ 69), sin la entrada\n⚡ Itaipu panorámica: R$ 63 (≈ US$ 11)\n🦜 Parque das Aves: R$ 110 (≈ US$ 20)\n🇦🇷 Lado argentino: ARS 60.000; el 2º día en 72 h, a mitad de precio\n\n💬 Comenta GUÍA y te mandamos el plan completo por DM\n📌 Guárdalo para tu viaje\nSigue a @brazil.onabudget\n\nUS$ 1 ≈ R$ 5,54 (PTAX 27/11/2026). Fuentes: H2FOZ, Macuco Safari, Itaipu Turismo, Parque das Aves, Parques Nacionales de Argentina.\n📷 Foto: W. Bulach (CC BY-SA 4.0), Wikimedia Commons\n\n#viajaramérica #brasil #fozdoiguacu #cataratasdeliguazu #viajarbarato #mochileros #brazil"
+  },
+  {
+   "sufixo": "chip-esim",
+   "quando": "2026-12-03T18:30:00-03:00",
+   "idioma": "en",
+   "cards": [
+    {
+     "tipo": "capa",
+     "pilula": "PRACTICAL TIPS",
+     "selo": "Prices checked Nov 2026",
+     "titulo": "Data in Brazil: US$ 6 a month or US$ 25 a week?",
+     "sub": "Local SIM vs travel eSIM: what each costs and how to get one with just your passport",
+     "foto": "saopaulo-paulista"
+    },
+    {
+     "tipo": "lista",
+     "pilula": "THE PRICES",
+     "chamada": "YOUR OPTIONS",
+     "titulo": "What staying online costs",
+     "linhas": [
+      [
+       "Claro prepaid, 30 days",
+       "R$ 35 · US$ 6"
+      ],
+      [
+       "TIM prepaid, 45 GB",
+       "R$ 64.99 · US$ 12"
+      ],
+      [
+       "Travel eSIM, 7 days",
+       "US$ 25–28.50"
+      ]
+     ],
+     "nota": "Carrier plans include unlimited WhatsApp. Travel eSIM: Airalo and Holafly unlimited-data plans, bought before you fly. How to get the local SIM is next.",
+     "rodape": "US$ 1 ≈ R$ 5.54 (PTAX Nov 27)"
+    },
+    {
+     "tipo": "passos",
+     "pilula": "LOCAL SIM",
+     "chamada": "NO BRAZILIAN ID? NO PROBLEM",
+     "titulo": "Get a local SIM",
+     "itens": [
+      [
+       "Go to a Claro store",
+       "Without a CPF, prepaid activation is in physical stores only."
+      ],
+      [
+       "Bring your passport",
+       "Claro accepts it as ID for the chip and for eSIM."
+      ],
+      [
+       "Pick a monthly plan",
+       "Prezão from R$ 35 with WhatsApp included."
+      ],
+      [
+       "Or buy a tourist eSIM",
+       "Claro and Vivo sell plans for visitors with a passport."
+      ]
+     ],
+     "rodape": "US$ 1 ≈ R$ 5.54 (PTAX Nov 27)"
+    },
+    {
+     "tipo": "passos",
+     "pilula": "GOOD TO KNOW",
+     "chamada": "BEFORE YOU LAND",
+     "titulo": "3 things locals know",
+     "itens": [
+      [
+       "WhatsApp is everything",
+       "Tours, hosts and restaurants book and reply there."
+      ],
+      [
+       "Not all WhatsApp is free",
+       "TIM's unlimited WhatsApp skips video calls and links."
+      ],
+      [
+       "Free Wi-Fi exists",
+       "São Paulo has 7,800+ free city Wi-Fi points, slow but free."
+      ]
+     ],
+     "rodape": "US$ 1 ≈ R$ 5.54 (PTAX Nov 27)"
+    }
+   ],
+   "alt": [
+    "Cover: Data in Brazil, US$ 6 a month or US$ 25 a week? São Paulo skyline with a cable-stayed bridge",
+    "Prices: Claro prepaid 30 days R$ 35, about US$ 6; TIM prepaid 45 GB R$ 64.99, about US$ 12; travel eSIM unlimited 7 days US$ 25 to 28.50",
+    "Get a local SIM: go to a Claro store, bring your passport, pick a monthly Prezão plan from R$ 35, or buy a tourist eSIM from Claro or Vivo",
+    "Three things locals know: WhatsApp is everything, TIM's unlimited WhatsApp skips video calls, São Paulo has over 7,800 free Wi-Fi points",
+    "Comment GUIDE and we'll DM you the full plan"
+   ],
+   "legenda": "Staying online in Brazil costs US$ 6 a month, or US$ 25 a week 📱\n📶 Claro prepaid: R$ 35 (≈ US$ 6) for 30 days, unlimited WhatsApp\n📶 TIM prepaid: R$ 64.99 (≈ US$ 12) for 45 GB a month\n🌐 Travel eSIM, unlimited, 7 days: US$ 25 (Airalo) to US$ 28.50 (Holafly)\n🛂 No CPF? Activate prepaid at a Claro store with your passport\n💬 WhatsApp is how Brazil books tours, rooms and tables\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 Internet en Brasil: chip Claro prepago R$ 35 (≈ US$ 6) por 30 días; eSIM de viaje ilimitada desde US$ 25 por 7 días. Sin CPF, activa en una tienda Claro con tu pasaporte. Comenta GUÍA y te mandamos el plan por DM.\n\nUS$ 1 ≈ R$ 5.54 (PTAX Nov 27, 2026). Sources: claro.com.br, tim.com.br, airalo.com, holafly.com, São Paulo city hall. Promo prices can change.\n📷 Cover photo: Marcosleal (CC BY-SA 3.0), Wikimedia Commons\n\n#brazil #braziltravel #budgettravel #traveltips #esim #brasil #digitalnomad"
+  },
+  {
+   "sufixo": "reveillon-brasil",
+   "quando": "2026-12-05T18:30:00-03:00",
+   "idioma": "en",
+   "cards": [
+    {
+     "tipo": "capa",
+     "pilula": "NEW YEAR'S EVE",
+     "selo": "Dates checked Nov 2026",
+     "titulo": "Beyond Copacabana: 4 cities for New Year's Eve",
+     "sub": "3 confirmed free parties and 1 five-day festival, with dates and what to book now",
+     "foto": "show-festival-noite",
+     "credito": "Photo: rawpixel · CC0"
+    },
+    {
+     "tipo": "lista",
+     "pilula": "THE CALENDAR",
+     "chamada": "FREE ENTRY, CONFIRMED",
+     "titulo": "Where and when",
+     "linhas": [
+      [
+       "Recife · Praia do Pina",
+       "Dec 26, 27, 31"
+      ],
+      [
+       "Fortaleza · Praia de Iracema",
+       "Dec 30–31"
+      ],
+      [
+       "São Paulo · Av. Paulista",
+       "Dec 31"
+      ]
+     ],
+     "nota": "Fortaleza runs 3 stages with 26 acts. Recife puts QR-code wristbands on kids. The biggest party of all is on the next slide.",
+     "rodape": "Sources: city halls and local press"
+    },
+    {
+     "tipo": "preco",
+     "pilula": "SALVADOR",
+     "chamada": "FESTIVAL VIRADA SALVADOR",
+     "grande": "5 days",
+     "texto": "Dec 30 to Jan 3 at the Boca do Rio arena: 100+ hours of music, about 1 million people expected.",
+     "dica_titulo": "Entry",
+     "dica": "Last year it was free, with special buses. This year's entry rules aren't out yet: check before you go.",
+     "rodape": "Source: Correio, Nov 4, 2026"
+    },
+    {
+     "tipo": "passos",
+     "pilula": "HOW TO DO IT",
+     "chamada": "BUDGET TIPS",
+     "titulo": "Book now, pay less",
+     "itens": [
+      [
+       "Book your bed early",
+       "Dec 31 is peak season for rooms near the beach."
+      ],
+      [
+       "Go by bus or metro",
+       "Streets near the stages usually close that night."
+      ],
+      [
+       "Carry little",
+       "Phone in a front pocket, a little cash, no bag on the sand."
+      ]
+     ],
+     "rodape": "Prices and line-ups can change: check the city sites"
+    }
+   ],
+   "alt": [
+    "Cover: Beyond Copacabana, 4 cities for New Year's Eve. A concert crowd seen from behind under stage lights",
+    "Free entry, confirmed: Recife, Praia do Pina, December 26, 27 and 31; Fortaleza, Praia de Iracema, December 30 and 31; São Paulo, Avenida Paulista, December 31",
+    "Salvador: Festival Virada Salvador, 5 days from December 30 to January 3 at the Boca do Rio arena; last year free, this year's entry rules not out yet",
+    "Budget tips: book your bed early, go by bus or metro, carry little",
+    "Comment GUIDE and we'll DM you the full plan"
+   ],
+   "legenda": "4 cities to ring in 2027 beyond Copacabana, 3 of them free 🎆\n🎶 Recife, Praia do Pina: free, Dec 26, 27 and 31\n🌊 Fortaleza, Praia de Iracema: free, Dec 30–31, 26 acts on 3 stages\n🏙️ São Paulo, Avenida Paulista: free party on Dec 31\n🥁 Salvador, Festival Virada: 5 days, Dec 30–Jan 3 (last year free; 2027 entry rules not out yet)\n🛏️ Dec 31 is peak season: book your bed early\n\n💬 Comment GUIDE and we'll DM you the full day-by-day plan\n📌 Save this for your trip\nFollow @brazil.onabudget\n\n🇪🇸 Año Nuevo gratis en Brasil fuera de Copacabana: Recife (Praia do Pina), Fortaleza (Praia de Iracema), São Paulo (Av. Paulista) y el Festival Virada en Salvador del 30/12 al 3/1. Comenta GUÍA y te mandamos el plan por DM.\n\nSources: Folha de Pernambuco, Diário do Nordeste, SBT News, Correio (Oct–Nov 2026).\n📷 Cover photo: rawpixel (CC0)\n\n#brazil #braziltravel #budgettravel #newyearseve #reveillon #salvador #fortaleza"
+  }
+ ]
+}
