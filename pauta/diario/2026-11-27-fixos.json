@@ -1,0 +1,426 @@
+{
+ "dia": "27/11/2026",
+ "apurado_em": "2026-11-27",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-27T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de sexta-feira, 27/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/4",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 27/11",
+      "linhas": [
+       {
+        "hora": "08h00",
+        "esporte": "automobilismo",
+        "competicao": "Fórmula 2 · GP do Catar",
+        "jogo": "Treino livre",
+        "canal": "sportv3"
+       },
+       {
+        "hora": "08h30",
+        "esporte": "natacao",
+        "competicao": "Brasileiro Interclubes",
+        "jogo": "Finais (manhã)",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Florianópolis",
+        "jogo": "Igor Marcondes x G. Justo",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h00",
+        "esporte": "surfe",
+        "competicao": "Mundial Júnior de Surfe",
+        "jogo": "Oitavas com Laura Raupp",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "10h30",
+        "esporte": "f1",
+        "competicao": "GP do Catar",
+        "jogo": "Treino livre 1",
+        "canal": "sportv3 · Globoplay"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Valência",
+        "jogo": "Treino (practice)",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "futebol",
+        "competicao": "Copa do Mundo Sub-17",
+        "jogo": "Costa Rica x Brasil",
+        "canal": "CazéTV · sportv2",
+        "gratis": true
+       },
+       {
+        "hora": "11h15",
+        "esporte": "surfe",
+        "competicao": "Surf Brasil Pro",
+        "jogo": "Etapa Guarda do Embaú",
+        "canal": "XSports",
+        "gratis": true
+       },
+       {
+        "hora": "12h00",
+        "esporte": "tenis",
+        "competicao": "Copa Davis · Semifinal",
+        "jogo": "Itália x Tchéquia",
+        "canal": "CazéTV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 27/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Terra, WebVôlei",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta-feira, 27/11, parte 1 de 4: Treino livre às 08h00 (Fórmula 2 · GP do Catar, sportv3); Finais (manhã) às 08h30 (Brasileiro Interclubes, a confirmar); Igor Marcondes x G. Justo às 10h00 (Challenger Florianópolis, a confirmar); Oitavas com Laura Raupp às 10h00 (Mundial Júnior de Surfe, a confirmar); Treino livre 1 às 10h30 (GP do Catar, sportv3 · Globoplay); Treino (practice) às 11h00 (MotoGP · GP de Valência, ESPN 4 · Disney+); Costa Rica x Brasil às 11h00 (Copa do Mundo Sub-17, CazéTV · sportv2, grátis); Etapa Guarda do Embaú às 11h15 (Surf Brasil Pro, XSports, grátis); Itália x Tchéquia às 12h00 (Copa Davis · Semifinal, CazéTV, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/4",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 27/11",
+      "linhas": [
+       {
+        "hora": "12h00",
+        "esporte": "automobilismo",
+        "competicao": "Fórmula 2 · GP do Catar",
+        "jogo": "Corrida sprint",
+        "canal": "sportv3"
+       },
+       {
+        "hora": "13h00",
+        "esporte": "tenis",
+        "competicao": "ITF W75 Florianópolis",
+        "jogo": "Laura Pigossi x L. Pérez",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "f1",
+        "competicao": "GP do Catar",
+        "jogo": "Treino livre 2",
+        "canal": "sportv3 · Globoplay"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "tenis",
+        "competicao": "Challenger Florianópolis",
+        "jogo": "Eduardo Ribeiro x Roncadelli",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h30",
+        "esporte": "futebol",
+        "competicao": "Campeonato Saudita",
+        "jogo": "Al Ittihad x Neom",
+        "canal": "GOAT · Band (YouTube)",
+        "gratis": true
+       },
+       {
+        "hora": "16h30",
+        "esporte": "futebol",
+        "competicao": "Bundesliga",
+        "jogo": "Werder Bremen x Gladbach",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Ligue 1",
+        "jogo": "Brest x Paris FC",
+        "canal": "CazéTV · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Premier League",
+        "jogo": "Nottingham Forest x Chelsea",
+        "canal": "ESPN"
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "LaLiga",
+        "jogo": "Levante x Racing",
+        "canal": "CazéTV",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 27/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Terra, WebVôlei",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta-feira, 27/11, parte 2 de 4: Corrida sprint às 12h00 (Fórmula 2 · GP do Catar, sportv3); Laura Pigossi x L. Pérez às 13h00 (ITF W75 Florianópolis, a confirmar); Treino livre 2 às 14h00 (GP do Catar, sportv3 · Globoplay); Eduardo Ribeiro x Roncadelli às 14h30 (Challenger Florianópolis, a confirmar); Al Ittihad x Neom às 14h30 (Campeonato Saudita, GOAT · Band (YouTube), grátis); Werder Bremen x Gladbach às 16h30 (Bundesliga, CazéTV, grátis); Brest x Paris FC às 16h45 (Ligue 1, CazéTV · XSports, grátis); Nottingham Forest x Chelsea às 17h00 (Premier League, ESPN); Levante x Racing às 17h00 (LaLiga, CazéTV, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/4",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 27/11",
+      "linhas": [
+       {
+        "hora": "17h00",
+        "esporte": "nfl",
+        "competicao": "Jogo de Black Friday",
+        "jogo": "Broncos x Steelers",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "17h40",
+        "esporte": "nfl",
+        "competicao": "Futebol americano · NCAA",
+        "jogo": "Florida State x Florida",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Sesi Bauru x São José",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Norde x Goiás",
+        "canal": "ge tv",
+        "gratis": true
+       },
+       {
+        "hora": "19h00",
+        "esporte": "outros",
+        "competicao": "Handebol · Paulistão (final)",
+        "jogo": "Taubaté x Pinheiros",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "19h30",
+        "esporte": "tenis",
+        "competicao": "Challenger San Salvador",
+        "jogo": "Guto Miguel x B. Bicknell",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 37ª rodada",
+        "jogo": "Fluminense x Cruzeiro",
+        "canal": "sportv · Premiere"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Série B · playoff (volta)",
+        "jogo": "Vila Nova x Atlético-GO",
+        "canal": "GOAT · XSports · ESPN",
+        "gratis": true
+       }
+      ],
+      "fonte": "Conferido em 27/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Terra, WebVôlei",
+      "cta": "Arraste →",
+      "alt": "Agenda de sexta-feira, 27/11, parte 3 de 4: Broncos x Steelers às 17h00 (Jogo de Black Friday, Prime Video); Florida State x Florida às 17h40 (Futebol americano · NCAA, ESPN 3); Sesi Bauru x São José às 18h30 (Superliga Masculina, sportv2); Norde x Goiás às 18h30 (Superliga Masculina, ge tv, grátis); Taubaté x Pinheiros às 19h00 (Handebol · Paulistão (final), a confirmar); Guto Miguel x B. Bicknell às 19h30 (Challenger San Salvador, a confirmar); Fluminense x Cruzeiro às 20h00 (Brasileirão · 37ª rodada, sportv · Premiere); Vila Nova x Atlético-GO às 20h00 (Série B · playoff (volta), GOAT · XSports · ESPN, grátis)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "4/4",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sexta-feira, 27/11",
+      "linhas": [
+       {
+        "hora": "20h10",
+        "esporte": "basquete",
+        "competicao": "Eliminatórias da Copa",
+        "jogo": "Brasil x Estados Unidos",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Knicks x Heat",
+        "canal": "Prime Video"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Sada Cruzeiro x Minas",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Feminina",
+        "jogo": "Praia Clube x Osasco",
+        "canal": "ge tv",
+        "gratis": true
+       },
+       {
+        "hora": "21h30",
+        "esporte": "nfl",
+        "competicao": "Futebol americano · NCAA",
+        "jogo": "Texas A&M x Texas",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "lutas",
+        "competicao": "Boxe",
+        "jogo": "Mafauad x Ayala",
+        "canal": "ESPN 3"
+       },
+       {
+        "hora": "23h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Suns x Mavericks",
+        "canal": "NBA League Pass"
+       },
+       {
+        "hora": "23h30",
+        "esporte": "basquete",
+        "competicao": "NBA Cup",
+        "jogo": "Spurs x Lakers",
+        "canal": "Prime Video"
+       }
+      ],
+      "fonte": "Conferido em 27/11 à 1h · Antenados na TV, Olimpíada Todo Dia, Terra, WebVôlei",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de sexta-feira, 27/11, parte 4 de 4: Brasil x Estados Unidos às 20h10 (Eliminatórias da Copa, CazéTV, grátis); Knicks x Heat às 21h00 (NBA Cup, Prime Video); Sada Cruzeiro x Minas às 21h00 (Superliga Masculina, sportv2); Praia Clube x Osasco às 21h00 (Superliga Feminina, ge tv, grátis); Texas A&M x Texas às 21h30 (Futebol americano · NCAA, ESPN 2); Mafauad x Ayala às 22h00 (Boxe, ESPN 3); Suns x Mavericks às 23h00 (NBA, NBA League Pass); Spurs x Lakers às 23h30 (NBA Cup, Prime Video)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de sexta-feira, 27/11 (horário de Brasília)\n\n🏀 Brasil x Estados Unidos no Ibirapuera lotado · Eliminatórias da Copa · 20h10 · CazéTV 🆓\n🎾 Itália x Tchéquia · semifinal da Copa Davis · 12h · CazéTV 🆓\n🏎️ F1 no Catar: treinos livres às 10h30 e 14h · sportv3\n🏈 Broncos x Steelers no jogo de Black Friday da NFL · 17h · Prime Video\n🏐 Praia Clube x Osasco · Superliga Feminina · 21h · ge tv 🆓\n\n🆓 = transmissão grátis (11 eventos hoje)\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa de todos os esportes, todo dia.\n\n#agendaesportiva #ondeassistir #basquete #copadavis #f1 #nfl #volei #esportesnatela"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-27T07:30:00-03:00",
+    "alt": "Resultados de quinta-feira e jogos de sexta-feira, 27/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "QUI 26/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão · 37ª rodada",
+        "jogos": [
+         {
+          "casa": "São Paulo",
+          "gc": 3,
+          "fora": "Remo",
+          "gf": 1
+         }
+        ]
+       },
+       {
+        "competicao": "Europa League · 5ª rodada",
+        "jogos": [
+         {
+          "casa": "Olympiacos",
+          "gc": 2,
+          "fora": "Milan",
+          "gf": 4
+         },
+         {
+          "casa": "Viktoria Plzen",
+          "gc": 4,
+          "fora": "Benfica",
+          "gf": 0
+         },
+         {
+          "casa": "Juventus",
+          "gc": 4,
+          "fora": "Omonia",
+          "gf": 1
+         },
+         {
+          "casa": "Crystal Palace",
+          "gc": 2,
+          "fora": "Real Sociedad",
+          "gf": 1
+         }
+        ]
+       }
+      ],
+      "destaque": "Milan perdia por 2 × 0 e virou para 4 × 2 no Pireu",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 27/11 à 1h · AC Milan, SL Benfica, Terra, Placar de Futebol",
+      "cta": "Arraste →",
+      "alt": "Resultados de quinta-feira, 26/11. Brasileirão: São Paulo 3 x 1 Remo. Europa League: Olympiacos 2 x 4 Milan, Viktoria Plzen 4 x 0 Benfica, Juventus 4 x 1 Omonia e Crystal Palace 2 x 1 Real Sociedad. Destaque: o Milan perdia por 2 x 0 e virou para 4 x 2 sobre o Olympiacos"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SEX 27/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "27/11",
+        "sub": "SEX · 20h",
+        "titulo": "Vila Nova x Atlético-GO",
+        "detalhe": "Série B, volta do acesso · GOAT, XSports, ESPN",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX · 11h",
+        "titulo": "Costa Rica x Brasil",
+        "detalhe": "Mundial Sub-17 · CazéTV, sportv2",
+        "gratis": true
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX · 16h30",
+        "titulo": "Werder Bremen x Gladbach",
+        "detalhe": "Bundesliga · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX · 17h",
+        "titulo": "Nottingham Forest x Chelsea",
+        "detalhe": "Premier League · ESPN"
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX · 17h",
+        "titulo": "Levante x Racing",
+        "detalhe": "LaLiga · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "27/11",
+        "sub": "SEX · 20h",
+        "titulo": "Fluminense x Cruzeiro",
+        "detalhe": "Brasileirão · sportv, Premiere"
+       }
+      ],
+      "fonte": "Conferido em 27/11 à 1h · Antenados na TV, Lance, Gazeta Esportiva, ABCdoABC",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de sexta-feira, 27/11: jogo do dia Vila Nova x Atlético-GO às 20h, volta do playoff de acesso da Série B, grátis no GOAT e também no XSports e na ESPN; Costa Rica x Brasil às 11h, pela Copa do Mundo Sub-17, grátis na CazéTV e no sportv2; Werder Bremen x Gladbach às 16h30, pela Bundesliga, grátis na CazéTV; Nottingham Forest x Chelsea às 17h, pela Premier League, na ESPN; Levante x Racing às 17h, por LaLiga, grátis na CazéTV; Fluminense x Cruzeiro às 20h, pelo Brasileirão, no sportv e no Premiere"
+     }
+    ],
+    "legenda": "🔥 O Milan perdia por 2 x 0 na Grécia e virou para 4 x 2! E hoje à noite tem vaga na Série A em jogo, de graça.\n\n⚽ Olympiacos 2 x 4 Milan: Pulisic e Moreira, nos acréscimos, fecharam a virada\n😮 Viktoria Plzen 4 x 0 Benfica\n⚽ São Paulo 3 x 1 Remo, com 2 gols de Calleri\n🇧🇷 Ajax 4 x 0 Thun, com gol de Marcos Leonardo\n\n★ Jogo do dia: Vila Nova x Atlético-GO, 20h · volta do playoff de acesso da Série B · GOAT 🆓\n🇧🇷 Costa Rica x Brasil, 11h · Mundial Sub-17 · CazéTV 🆓\n⚽ Werder Bremen x Gladbach, 16h30 · CazéTV 🆓\n⚽ Nottingham Forest x Chelsea, 17h · ESPN\n⚽ Levante x Racing, 17h · CazéTV 🆓\n⚽ Fluminense x Cruzeiro, 20h · sportv e Premiere\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQual você vai ver hoje? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#futebol #ondeassistir #serieb #brasileirao #europaleague #milan #jogosnatela"
+   }
+  ]
+ }
+}
