@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-11-24T12:30:00-03:00",
-  "status": "aprovado",
+  "status": "erro",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -40,5 +40,6 @@
   ],
   "fotos": [
     "game-arcade"
-  ]
+  ],
+  "erro": "passou mais de 6 horas do horário marcado; remarque o 'quando' e aprove de novo"
 }
