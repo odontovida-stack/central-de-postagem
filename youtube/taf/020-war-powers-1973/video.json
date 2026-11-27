@@ -1,6 +1,6 @@
 {
   "canal": "taf",
-  "status": "aprovado",
+  "status": "agendado",
   "titulo": "Congress Hasn't Declared War Since 1942. This 1973 Law Was Supposed to Fix That.",
   "quando": "2026-12-01T16:00:00-03:00",
   "short_antes_horas": 24,
@@ -75,5 +75,9 @@
     34,
     35,
     36
-  ]
+  ],
+  "video_id": "f2Yo0ExkdvU",
+  "thumbnail": true,
+  "short_id": "V9YJ_C9SNHc",
+  "meta_hash": "abb6df91127768de"
 }
