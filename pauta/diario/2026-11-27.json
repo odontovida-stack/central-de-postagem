@@ -1,0 +1,157 @@
+{
+ "dia": "27/11/2026",
+ "apurado_em": "2026-11-27",
+ "contas": {
+  "showsconfirmados": [
+   {
+    "tipo": "destaque",
+    "sufixo": "pre-venda",
+    "quando": "2026-11-27T08:00:00-03:00",
+    "foto": "grupo:shows",
+    "pilula": "SEX 27/11",
+    "chamada": "PRÉ-VENDA HOJE",
+    "grande": "14h",
+    "titulo": "Xuxa em Recife",
+    "caixas": [
+     [
+      "🎟️ Pré-venda",
+      "Clientes Itaú · até hoje às 12h"
+     ],
+     [
+      "🎟️ Venda geral",
+      "Hoje às 14h · Eventim"
+     ],
+     [
+      "📍 Cidades",
+      "Recife · Arena de Pernambuco"
+     ],
+     [
+      "📅 Show",
+      "Sábado, 21/08/2027"
+     ]
+    ],
+    "nota": "Só compre no site oficial: Eventim (ou na bilheteria do Classic Hall)",
+    "fonte": "Conferido em 27/11 à 1h · Terra",
+    "cta": "Mande para quem vai com você",
+    "alt": "Pré-venda hoje: Xuxa em Recife, turnê O Último Voo da Nave. Pré-venda para clientes Itaú até hoje, sexta, 27/11, às 12h, e venda geral hoje às 14h, na Eventim e na bilheteria do Classic Hall. Show no sábado, 21/08/2027, na Arena de Pernambuco, em São Lourenço da Mata. Ingressos de R$ 82,50 a R$ 1.700",
+    "legenda": "🚀 Xuxa em Recife: a venda geral do Último Voo da Nave abre HOJE às 14h!\n\n🎟️ Pré-venda: clientes Itaú, até hoje, sexta, 27/11, às 12h\n🎟️ Venda geral: hoje às 14h, na Eventim e na bilheteria do Classic Hall (sem taxa)\n📍 Cidades: Recife · Arena de Pernambuco, em São Lourenço da Mata · sábado, 21/08/2027\n\n💰 De R$ 82,50 (meia, cadeira superior) a R$ 1.700 (VIP Super Fã Itaú, inteira)\n⚠️ Cuidado com golpe: só o link oficial (Eventim)\n📌 Salve para lembrar às 14h\n📤 Mande para quem cresceu vendo a Xuxa com você\n\nVai? 👇\nSiga @showsconfirmados para as vendas de ingresso antes de todo mundo.\n\nFonte: Terra.\n\n#xuxa #ultimovoodanave #shows #recife #ingressos #showsconfirmados"
+   }
+  ],
+  "esportesnatela": [
+   {
+    "tipo": "agenda",
+    "sufixo": "hoje",
+    "quando": "2026-11-27T11:00:00-03:00",
+    "pilula": "SEX 27/11",
+    "chamada": "HOJE TEM · HORÁRIO DE BRASÍLIA",
+    "titulo": "Hoje tem",
+    "itens": [
+     {
+      "data": "27/11",
+      "sub": "SEX · 12h",
+      "titulo": "Itália x Tchéquia",
+      "detalhe": "Tênis · semifinal da Copa Davis · CazéTV",
+      "gratis": true
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX · 17h",
+      "titulo": "Broncos x Steelers",
+      "detalhe": "NFL · jogo de Black Friday · Prime Video"
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX · 20h10",
+      "titulo": "Brasil x Estados Unidos",
+      "detalhe": "Basquete · Eliminatórias da Copa · CazéTV",
+      "gratis": true
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX · 21h",
+      "titulo": "Praia Clube x Osasco",
+      "detalhe": "Vôlei · Superliga Feminina · ge tv",
+      "gratis": true
+     },
+     {
+      "data": "27/11",
+      "sub": "SEX · 23h30",
+      "titulo": "Spurs x Lakers",
+      "detalhe": "Basquete · NBA Cup · Prime Video"
+     }
+    ],
+    "fonte": "Conferido em 27/11 à 1h · Antenados na TV, Portal R3, Surto Olímpico",
+    "cta": "Salve e compartilhe",
+    "alt": "Hoje tem, sexta-feira, 27/11: Itália x Tchéquia pela semifinal da Copa Davis às 12h, grátis na CazéTV; Broncos x Steelers no jogo de Black Friday da NFL às 17h, no Prime Video; Brasil x Estados Unidos pelas Eliminatórias da Copa do Mundo de basquete às 20h10, grátis na CazéTV; Praia Clube x Osasco pela Superliga Feminina às 21h, grátis no ge tv; Spurs x Lakers pela NBA Cup às 23h30, no Prime Video",
+    "legenda": "🏀 Hoje a Seleção de basquete pega os Estados Unidos com o Ibirapuera esgotado, e ainda tem semifinal da Copa Davis de graça!\n\n🎾 Itália x Tchéquia · semifinal da Copa Davis · 12h · CazéTV 🆓\n🏈 Broncos x Steelers · NFL na Black Friday · 17h · Prime Video\n🇧🇷 Brasil x Estados Unidos · Eliminatórias da Copa de basquete · 20h10 · CazéTV 🆓\n🏐 Praia Clube x Osasco · Superliga Feminina · 21h · ge tv 🆓\n🏀 Spurs x Lakers · NBA Cup · 23h30 · Prime Video\n\n🆓 = transmissão grátis\n📌 Salve para não perder o horário\n📤 Mande para quem vai ver o Brasil com você\n\nQual você não perde? 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#basquete #selecaobrasileira #copadavis #nfl #nba #volei #esportesnatela"
+   },
+   {
+    "tipo": "pergunta",
+    "sufixo": "palpite",
+    "quando": "2026-11-27T18:10:00-03:00",
+    "foto": "quadra-basquete",
+    "pilula": "PALPITE",
+    "chamada": "HOJE, 20H10 · CAZÉTV",
+    "titulo": "Brasil x EUA: quem leva?",
+    "contexto": "Eliminatórias da Copa de basquete, com o Ibirapuera esgotado",
+    "opcoes": [
+     "Brasil",
+     "Estados Unidos"
+    ],
+    "fonte": "Conferido em 27/11 à 1h · Portal R3, Antenados na TV",
+    "cta": "Responda A ou B",
+    "alt": "Palpite: Brasil x Estados Unidos, quem leva? Jogo pelas Eliminatórias da Copa do Mundo de basquete, hoje às 20h10, no Ginásio do Ibirapuera esgotado, grátis na CazéTV. A: Brasil. B: Estados Unidos",
+    "legenda": "🏀 Brasil x Estados Unidos hoje no Ibirapuera esgotado: quem leva?\n\n🅰️ Brasil\n🅱️ Estados Unidos\n\n🏆 Eliminatórias da Copa do Mundo de basquete de 2027\n🕗 20h10 (de Brasília) · grátis na CazéTV 🆓\n🏟️ Ginásio do Ibirapuera, em São Paulo, com 11 mil lugares esgotados\n➡️ Na segunda, 30/11, o Brasil pega o México\n\n📤 Mande para quem vai torcer com você\n\nResponda A ou B nos comentários 👇\nSiga @esportesnatela para todos os esportes, todo dia.\n\n#basquete #selecaobrasileira #brasilxeua #eliminatorias #esportesnatela"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "destaque",
+    "sufixo": "jogo-do-dia",
+    "quando": "2026-11-27T17:00:00-03:00",
+    "foto": "futebol-gramado",
+    "pilula": "SEX 27/11",
+    "chamada": "JOGO DO DIA",
+    "grande": "20h",
+    "titulo": "Vila Nova x Atlético-GO",
+    "caixas": [
+     [
+      "📺 Onde assistir",
+      "GOAT (grátis), XSports e ESPN"
+     ],
+     [
+      "🏆 Competição",
+      "Série B · volta do playoff de acesso"
+     ]
+    ],
+    "nota": "Vale vaga na Série A de 2027 · no jogo de ida deu 1 × 1",
+    "fonte": "Conferido em 27/11 à 1h · Antenados na TV, ABCdoABC, ESPN",
+    "cta": "Comente seu palpite",
+    "alt": "Jogo do dia: Vila Nova x Atlético-GO, hoje, sexta, 27/11, às 20h, no jogo de volta do playoff de acesso da Série B, que vale vaga na Série A de 2027. O jogo de ida terminou 1 x 1. Transmissão grátis no GOAT e também no XSports e na ESPN",
+    "legenda": "🔥 Clássico goiano valendo a Série A: hoje às 20h tem Vila Nova x Atlético-GO, de graça!\n\n🏆 Série B · volta do playoff de acesso: quem passar está na Série A de 2027\n⚖️ Na ida deu 1 x 1\n📺 GOAT (grátis), XSports e ESPN 🆓\n⚽ No mesmo horário: Fluminense x Cruzeiro, pelo Brasileirão (sportv e Premiere)\n\n📌 Salve para lembrar às 20h\n📤 Mande para quem torce pelo Vila ou pelo Dragão\n\nQuem sobe? Vila ou Atlético? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\nFontes: Antenados na TV, ABCdoABC e ESPN.\n\n#serieb #vilanova #atleticogo #acesso #futebol #ondeassistir #jogosnatela"
+   }
+  ],
+  "tudooqueestreia": [
+   {
+    "tipo": "duelo",
+    "sufixo": "duelo",
+    "quando": "2026-11-27T20:00:00-03:00",
+    "pilula": "DUELO",
+    "chamada": "VOCÊ ESCOLHE",
+    "pergunta": "Cinema ou streaming?",
+    "a": {
+     "nome": "Cinema",
+     "detalhe": "Tela grande, som alto e pipoca"
+    },
+    "b": {
+     "nome": "Streaming",
+     "detalhe": "No sofá, na hora que quiser"
+    },
+    "fonte": "Responda nos comentários",
+    "cta": "Comente A ou B",
+    "alt": "Duelo: cinema ou streaming? A: cinema, com tela grande, som alto e pipoca. B: streaming, no sofá, na hora que quiser. Responda A ou B nos comentários",
+    "legenda": "🍿 Sexta à noite, filme novo: você vai ao cinema ou fica no streaming?\n\n🅰️ Cinema\n🅱️ Streaming\n\n💬 Comente A ou B: amanhã sai o resultado\nSiga @tudooqueestreia para saber tudo o que estreia, toda semana.\n\n#cinema #streaming #filmes #estreias #tudooqueestreia"
+   }
+  ]
+ }
+}
