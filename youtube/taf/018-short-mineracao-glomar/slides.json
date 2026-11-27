@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "America's first deep-sea mining auction",
+  "sub": "Nov. 19, 2026 · off American Samoa",
+  "px": 116,
+  "stamp": "FILE #018",
+  "stamp_top": 150,
+  "file": "018"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "LEASE SALE PACM-1 · AMERICAN SAMOA",
+  "valor": "31.5M acres",
+  "px": 200,
+  "texto": "of seabed offered in the first U.S. deep-sea mining lease sale",
+  "fonte": "U.S. Interior Dept., via WorkBoat and gCaptain, Nov. 19, 2026",
+  "file": "018"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "WATER DEPTH · LEASE AREAS",
+  "valor": "Up to 20,100 ft",
+  "px": 170,
+  "texto": "Nearly four miles down. Nodules hold nickel, cobalt, copper and manganese",
+  "fonte": "WorkBoat; gCaptain; Nature World News",
+  "file": "018"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "The legal fight",
+  "itens": [
+   "Nov. 16: judge rules a wildlife review violated the Endangered Species Act",
+   "Nov. 19: the auction goes ahead",
+   "More lawsuits are pending"
+  ],
+  "fonte": "Honolulu Star-Advertiser; AP, Nov. 2026",
+  "file": "018"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE LAST 'DEEP-SEA MINER'",
+  "titulo": "1974: a mining ship that never mined.",
+  "file": "018"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "HUGHES GLOMAR EXPLORER · THE COVER STORY",
+  "valor": "\"Mining manganese nodules\"",
+  "px": 110,
+  "texto": "on the Pacific floor",
+  "fonte": "CIA Museum, Project AZORIAN",
+  "file": "018"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "The real mission: Project AZORIAN",
+  "itens": [
+   [
+    "TARGET",
+    "K-129",
+    "Soviet missile sub, lost in 1968"
+   ],
+   [
+    "DEPTH",
+    "16,500 ft",
+    "more than three miles down"
+   ]
+  ],
+  "fonte": "CIA Museum, Project AZORIAN",
+  "file": "018"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "Project AZORIAN",
+  "marcos": [
+   [
+    "1968",
+    "Soviet sub K-129 sinks"
+   ],
+   [
+    "JULY 1974",
+    "Glomar Explorer reaches the site"
+   ],
+   [
+    "1974",
+    "Only part of the sub recovered"
+   ],
+   [
+    "1975",
+    "Press exposes the story"
+   ]
+  ],
+  "fonte": "CIA, The Exposing of Project AZORIAN",
+  "file": "018"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "We can neither confirm nor deny",
+  "autor": "The \"Glomar response,\" born in 1975",
+  "px": 76,
+  "file": "018"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "The first deep-sea miner was a spy ship.",
+  "file": "018"
+ }
+]

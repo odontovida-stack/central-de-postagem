@@ -1015,5 +1015,37 @@
    "#FFFFFF"
   ],
   "texto": "#FFFFFF"
+ },
+ "Ajax": {
+  "sigla": "AJA",
+  "cores": [
+   "#D2122E",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Olympiacos": {
+  "sigla": "OLY",
+  "cores": [
+   "#E2001A",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Real Sociedad": {
+  "sigla": "RSO",
+  "cores": [
+   "#0067B1",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Freiburg": {
+  "sigla": "SCF",
+  "cores": [
+   "#E2001A",
+   "#000000"
+  ],
+  "texto": "#FFFFFF"
  }
 }

@@ -635,6 +635,66 @@
     "opcao": 1
   },
   {
+    "nome": "yt-taf020-senate-chamber",
+    "busca": "United States Senate chamber empty",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-capitol-dome",
+    "busca": "United States Capitol dome night",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-archives",
+    "busca": "National Archives Building Washington",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-carrier",
+    "busca": "aircraft carrier at sea US Navy",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-b2",
+    "busca": "B-2 Spirit bomber flight",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-maddox",
+    "busca": "USS Maddox DD-731",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-hormuz",
+    "busca": "Strait of Hormuz satellite",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-nixon-library",
+    "busca": "Richard Nixon Presidential Library Yorba Linda",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-tomahawk",
+    "busca": "Tomahawk cruise missile launch ship",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
+    "nome": "yt-taf020-constitution",
+    "busca": "United States Constitution document parchment",
+    "formato": "paisagem",
+    "opcao": 1
+  },
+  {
     "nome": "futsal-ginasio",
     "busca": "indoor futsal court arena empty"
   },

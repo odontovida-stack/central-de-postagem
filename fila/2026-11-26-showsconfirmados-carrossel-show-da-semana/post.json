@@ -6,7 +6,7 @@
     "facebook"
   ],
   "quando": "2026-11-26T19:00:00-03:00",
-  "status": "aprovado",
+  "status": "publicado",
   "midias": [
     "01.jpg",
     "02.jpg",
@@ -31,5 +31,10 @@
   "fotos": [
     "show-plateia",
     "show-palco-luzes"
-  ]
+  ],
+  "publicado_em": "2026-11-26T22:03:51+00:00",
+  "resultado": {
+    "instagram": "18342754876258208",
+    "facebook": "1198133490049538_122129204517365966"
+  }
 }

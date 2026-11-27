@@ -1,0 +1,119 @@
+[
+ {
+  "tipo": "capa",
+  "titulo": "The Senate just voted on war powers",
+  "sub": "The law behind the vote dates to 1973",
+  "px": 116,
+  "stamp": "FILE #017",
+  "stamp_top": 150,
+  "file": "017"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "U.S. SENATE · IRAN WAR POWERS RESOLUTION",
+  "valor": "48 – 51",
+  "px": 230,
+  "texto": "Failed. Senators crossed party lines in both directions",
+  "fonte": "AP, via Anchorage Daily News; Stars and Stripes, Nov. 19, 2026",
+  "file": "017"
+ },
+ {
+  "tipo": "lista",
+  "titulo": "What it would have done",
+  "itens": [
+   "Direct the president to withdraw U.S. forces",
+   "From military operations against Iran",
+   "Passed the House in September"
+  ],
+  "fonte": "Stars and Stripes, Nov. 19, 2026",
+  "file": "017"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "WHERE THIS COMES FROM",
+  "titulo": "A law passed as America left Vietnam.",
+  "file": "017"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "War Powers Resolution of 1973",
+  "itens": [
+   [
+    "NOTIFY CONGRESS",
+    "48 hours",
+    "after troops enter hostilities"
+   ],
+   [
+    "TIME LIMIT",
+    "60 days",
+    "unless Congress approves"
+   ]
+  ],
+  "fonte": "U.S. Dept. of State, Office of the Historian",
+  "file": "017"
+ },
+ {
+  "tipo": "citacao",
+  "texto": "Both unconstitutional and dangerous to the best interests of our Nation",
+  "autor": "President Nixon, veto message, Oct. 24, 1973",
+  "px": 60,
+  "file": "017"
+ },
+ {
+  "tipo": "duplo",
+  "titulo": "Nov. 7, 1973 · Congress overrides the veto",
+  "itens": [
+   [
+    "HOUSE",
+    "284–135",
+    "four votes over two-thirds"
+   ],
+   [
+    "SENATE",
+    "75–18",
+    "well over two-thirds"
+   ]
+  ],
+  "fonte": "U.S. Dept. of State, Office of the Historian",
+  "file": "017"
+ },
+ {
+  "tipo": "linha",
+  "titulo": "War powers, then and now",
+  "marcos": [
+   [
+    "1973",
+    "Nixon vetoes, Congress overrides"
+   ],
+   [
+    "2026",
+    "War with Iran begins in February"
+   ],
+   [
+    "SEPT.",
+    "House passes resolution"
+   ],
+   [
+    "NOV. 19",
+    "Senate rejects it, 48–51"
+   ]
+  ],
+  "fonte": "Office of the Historian; Stars and Stripes",
+  "file": "017"
+ },
+ {
+  "tipo": "numero",
+  "rotulo": "AGE OF THE LAW",
+  "valor": "50+ years",
+  "px": 230,
+  "texto": "and Congress is still using it",
+  "fonte": "Public Law 93-148",
+  "file": "017"
+ },
+ {
+  "tipo": "capitulo",
+  "numero": "THE AMERICAN FILE",
+  "titulo": "Who decides on war? Congress is still voting on it.",
+  "file": "017"
+ }
+]

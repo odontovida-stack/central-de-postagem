@@ -1,0 +1,484 @@
+[
+  {
+    "tipo": "capa",
+    "foto": "yt-taf020-capitol-dome",
+    "titulo": "Congress Hasn't Declared War Since 1942",
+    "sub": "The 1973 law that was supposed to fix that.",
+    "linha_riscada": "War Powers Resolution · 60 days",
+    "px": 118,
+    "stamp": "FILE #020",
+    "file": "020"
+  },
+  {
+    "tipo": "numero",
+    "foto": "yt-taf020-b2",
+    "rotulo": "FEBRUARY 28, 2026",
+    "valor": "DAY 1",
+    "px": 260,
+    "texto": "U.S. and Israeli strikes on Iran begin",
+    "fonte": "AP via Stars and Stripes, May 1, 2026",
+    "file": "020"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "MAY 1, 2026",
+    "valor": "DAY 60",
+    "px": 260,
+    "texto": "the deadline set by the War Powers Resolution of 1973",
+    "fonte": "AP via Stars and Stripes, May 1, 2026",
+    "file": "020"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "The hostilities that began on February 28, 2026, have terminated.",
+    "autor": "Letter from the President to Congress, May 1, 2026",
+    "px": 72,
+    "file": "020"
+  },
+  {
+    "tipo": "xs",
+    "titulo": "Congress formally declared war 11 times",
+    "itens": [
+      "1812",
+      "1846",
+      "1898",
+      "1917",
+      "1941–42"
+    ],
+    "texto": "The last time: June 1942. Every war since has been fought without one.",
+    "fonte": "U.S. Senate, Declarations of War",
+    "file": "020"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "PART 1",
+    "titulo": "Two clauses",
+    "foto": "yt-taf016-law-library",
+    "file": "020",
+    "parte": "PART 1"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The Constitution splits the power",
+    "itens": [
+      [
+        "ARTICLE I · CONGRESS",
+        "“To declare War”",
+        "Section 8"
+      ],
+      [
+        "ARTICLE II · PRESIDENT",
+        "“Commander in Chief”",
+        "Section 2"
+      ]
+    ],
+    "px": 84,
+    "fonte": "U.S. Constitution, National Archives",
+    "file": "020",
+    "parte": "PART 1"
+  },
+  {
+    "tipo": "numero",
+    "foto": "yt-taf020-maddox",
+    "rotulo": "GULF OF TONKIN · AUGUST 1964",
+    "valor": "USS MADDOX",
+    "px": 190,
+    "texto": "reports attacks by North Vietnamese boats on August 2 and August 4",
+    "fonte": "Office of the Historian, U.S. Department of State",
+    "file": "020",
+    "parte": "PART 1"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Gulf of Tonkin Resolution · August 7, 1964",
+    "itens": [
+      [
+        "HOUSE",
+        "416–0",
+        "no one voted no"
+      ],
+      [
+        "SENATE",
+        "88–2",
+        "Morse and Gruening voted no"
+      ]
+    ],
+    "px": 150,
+    "fonte": "Office of the Historian; Voteview",
+    "file": "020",
+    "parte": "PART 1"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "AUGUST 4, 1964 · THE SECOND ATTACK",
+    "valor": "LIKELY NEVER",
+    "px": 200,
+    "texto": "happened, concluded a study by the NSA's historian, released in 2005",
+    "fonte": "National Security Agency, Gulf of Tonkin declassified documents",
+    "file": "020",
+    "parte": "PART 1"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "Congress takes the power back",
+    "marcos": [
+      [
+        "AUG 1964",
+        "Tonkin Resolution"
+      ],
+      [
+        "JAN 1971",
+        "Repealed"
+      ],
+      [
+        "JUL 1973",
+        "Combat funds cut off after Aug. 15"
+      ],
+      [
+        "NOV 1973",
+        "War Powers Resolution"
+      ]
+    ],
+    "fonte": "National Archives; CRS RL33803",
+    "file": "020",
+    "parte": "PART 1"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "PART 2",
+    "titulo": "Writing the clock",
+    "foto": "yt-taf020-senate-chamber",
+    "file": "020",
+    "parte": "PART 2"
+  },
+  {
+    "tipo": "lista",
+    "titulo": "The War Powers Resolution, 1973",
+    "itens": [
+      "Consult Congress “in every possible instance”",
+      "Report in writing within 48 hours",
+      "60 days, then withdraw (+30 to leave safely)",
+      "Congress can order troops out at any time"
+    ],
+    "fonte": "Public Law 93-148, 50 U.S.C. 1541–1548",
+    "file": "020",
+    "parte": "PART 2"
+  },
+  {
+    "tipo": "numero",
+    "rotulo": "SECTION 5(c)",
+    "valor": "THE BRAKE",
+    "px": 230,
+    "texto": "Congress can order troops out by “concurrent resolution”: no signature from the president needed",
+    "fonte": "Public Law 93-148, Sec. 5(c)",
+    "file": "020",
+    "parte": "PART 2"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "…both unconstitutional and dangerous to the best interests of our Nation.",
+    "autor": "President Richard Nixon, veto message, Oct. 24, 1973",
+    "px": 70,
+    "file": "020",
+    "parte": "PART 2"
+  },
+  {
+    "tipo": "numero",
+    "foto": "yt-taf001-white-house",
+    "rotulo": "OCTOBER 20, 1973",
+    "valor": "4 DAYS EARLIER",
+    "px": 200,
+    "texto": "the “Saturday Night Massacre” of the Watergate scandal",
+    "fonte": "Richard Nixon Presidential Library",
+    "file": "020",
+    "parte": "PART 2"
+  },
+  {
+    "tipo": "duplo",
+    "foto": "yt-taf020-capitol-dome",
+    "titulo": "The override · November 7, 1973",
+    "itens": [
+      [
+        "HOUSE",
+        "284–135",
+        "veto overridden"
+      ],
+      [
+        "SENATE",
+        "75–18",
+        "veto overridden"
+      ]
+    ],
+    "px": 150,
+    "fonte": "U.S. Senate, Vetoes by President Nixon",
+    "file": "020",
+    "parte": "PART 2"
+  },
+  {
+    "tipo": "numero",
+    "foto": "yt-taf016-law-library",
+    "rotulo": "REPORTS SENT TO CONGRESS UNDER THE LAW · 1975–2017",
+    "valor": "168",
+    "px": 260,
+    "texto": "How many started the 60-day clock?",
+    "fonte": "Congressional Research Service, R42699 (2019)",
+    "file": "020",
+    "parte": "PART 2"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "PART 3",
+    "titulo": "How the clock gets stopped",
+    "foto": "yt-taf001-pentagon",
+    "file": "020",
+    "parte": "PART 3"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "…every President has taken the position that it is an unconstitutional infringement by the Congress on the President's authority as Commander in Chief.",
+    "autor": "Congressional Research Service, RL33532, 2011",
+    "px": 58,
+    "file": "020",
+    "parte": "PART 3"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The wording that matters",
+    "itens": [
+      [
+        "WHAT REPORTS SAY",
+        "“Consistent with”",
+        "the War Powers Resolution"
+      ],
+      [
+        "WHAT THEY AVOID",
+        "“Pursuant to”",
+        "Section 4(a)(1): the clock"
+      ]
+    ],
+    "px": 84,
+    "fonte": "Congressional Research Service, R42699",
+    "file": "020",
+    "parte": "PART 3"
+  },
+  {
+    "tipo": "numero",
+    "foto": "yt-taf020-carrier",
+    "rotulo": "THE ANSWER",
+    "valor": "1 OF 168",
+    "px": 240,
+    "texto": "President Ford, May 1975, the Mayaguez rescue: the only report that cited the clock section",
+    "fonte": "Congressional Research Service, R42699",
+    "file": "020",
+    "parte": "PART 3"
+  },
+  {
+    "tipo": "numero",
+    "foto": "yt-taf016-supreme-court",
+    "rotulo": "INS v. CHADHA · JUNE 23, 1983",
+    "valor": "THE BRAKE?",
+    "px": 220,
+    "texto": "CRS: the concurrent-resolution brake is now “constitutionally suspect”",
+    "fonte": "INS v. Chadha, 462 U.S. 919; CRS R42699",
+    "file": "020",
+    "parte": "PART 3"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "The clock, tested",
+    "marcos": [
+      [
+        "1975",
+        "Mayaguez: clock cited"
+      ],
+      [
+        "1983",
+        "Lebanon: 18 months authorized"
+      ],
+      [
+        "1999",
+        "Kosovo: House ties 213–213"
+      ],
+      [
+        "2000",
+        "Court: no standing"
+      ],
+      [
+        "2011",
+        "Libya: not “hostilities”"
+      ]
+    ],
+    "fonte": "CRS R42699; Clerk of the House; Campbell v. Clinton",
+    "file": "020",
+    "parte": "PART 3"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "…U.S. military operations are distinct from the kind of ‘hostilities’ contemplated by the Resolution's 60 day termination provision.",
+    "autor": "White House report to Congress on Libya, June 15, 2011",
+    "px": 58,
+    "file": "020",
+    "parte": "PART 3"
+  },
+  {
+    "tipo": "broll",
+    "commons": "File:USS Nimitz Suez Canal Transit II.webm",
+    "inicio": 42,
+    "duracao": 8,
+    "legenda": "Fifty years, one word: “hostilities”",
+    "file": "020",
+    "parte": "PART 3"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "PART 4",
+    "titulo": "When Congress did vote",
+    "foto": "yt-taf002-house-chamber",
+    "file": "020",
+    "parte": "PART 4"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "The 2001 war authorization (AUMF)",
+    "itens": [
+      [
+        "SENATE",
+        "98–0",
+        "Sept. 14, 2001"
+      ],
+      [
+        "HOUSE",
+        "420–1",
+        "Sept. 14, 2001"
+      ],
+      [
+        "KEY SENTENCE",
+        "60 words",
+        "cited in 22 countries"
+      ]
+    ],
+    "px": 110,
+    "fonte": "CRS RS22357; CFR; Brown University Costs of War (2021)",
+    "file": "020",
+    "parte": "PART 4"
+  },
+  {
+    "tipo": "duplo",
+    "titulo": "Congress said stop. The veto said no.",
+    "itens": [
+      [
+        "YEMEN · 2019",
+        "Vetoed",
+        "Senate override fails 53–45"
+      ],
+      [
+        "IRAN · 2020",
+        "Vetoed",
+        "Senate override fails 49–44"
+      ]
+    ],
+    "px": 110,
+    "fonte": "U.S. Senate roll call votes; Roll Call",
+    "file": "020",
+    "parte": "PART 4"
+  },
+  {
+    "tipo": "numero",
+    "foto": "yt-taf001-capitol",
+    "rotulo": "DECEMBER 18, 2025",
+    "valor": "REPEALED",
+    "px": 230,
+    "texto": "the 1991 and 2002 authorizations for war in Iraq",
+    "fonte": "Office of Sen. Tim Kaine, Dec. 18, 2025",
+    "file": "020",
+    "parte": "PART 4"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "PART 5",
+    "titulo": "The 2026 file",
+    "foto": "yt-taf020-hormuz",
+    "file": "020",
+    "parte": "PART 5"
+  },
+  {
+    "tipo": "linha",
+    "titulo": "Iran and the 1973 law",
+    "marcos": [
+      [
+        "JUN 2025",
+        "Strikes on 3 sites; Senate 47–53"
+      ],
+      [
+        "FEB 28, 2026",
+        "Strikes begin"
+      ],
+      [
+        "MAR 2",
+        "48-hour report"
+      ],
+      [
+        "APR",
+        "Ceasefire"
+      ],
+      [
+        "MAY 1",
+        "Day 60: “terminated”"
+      ]
+    ],
+    "fonte": "CRS IN12577; AP; Lawfare",
+    "file": "020",
+    "parte": "PART 5"
+  },
+  {
+    "tipo": "duplo",
+    "foto": "yt-taf020-senate-chamber",
+    "titulo": "November 19, 2026 · concurrent resolution",
+    "itens": [
+      [
+        "THE VOTE",
+        "48–51",
+        "resolution fails"
+      ],
+      [
+        "REPUBLICANS · YES",
+        "3",
+        "Collins, Murkowski, Paul"
+      ],
+      [
+        "DEMOCRATS · NO",
+        "1",
+        "Fetterman"
+      ]
+    ],
+    "px": 110,
+    "fonte": "AP; CBS News; Roll Call, Nov. 19, 2026",
+    "file": "020",
+    "parte": "PART 5"
+  },
+  {
+    "tipo": "citacao",
+    "texto": "This one doesn't go to the president, so it's just a statement from Congress.",
+    "autor": "Sen. Thom Tillis, Nov. 19, 2026, via CBS News",
+    "px": 68,
+    "file": "020",
+    "parte": "PART 5"
+  },
+  {
+    "tipo": "broll",
+    "commons": "File:Washington Monument flags 2022-03-28 18-48-12 1.webm",
+    "inicio": 0,
+    "duracao": 8,
+    "legenda": "The 1973 law, 53 years later",
+    "file": "020",
+    "parte": "PART 5"
+  },
+  {
+    "tipo": "capitulo",
+    "numero": "THE AMERICAN FILE",
+    "titulo": "Who decides? The file is still open.",
+    "foto": "yt-taf020-capitol-dome",
+    "file": "020",
+    "parte": "PART 5"
+  }
+]
