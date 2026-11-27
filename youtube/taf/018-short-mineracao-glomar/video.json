@@ -1,0 +1,29 @@
+{
+  "canal": "taf",
+  "formato": "short",
+  "status": "aprovado",
+  "titulo": "America's first deep-sea mining auction just happened. In 1974, it was a CIA cover. #shorts",
+  "quando": "2026-11-25T12:00:00-03:00",
+  "tags": [
+    "deep sea mining",
+    "american samoa",
+    "seabed mining",
+    "glomar explorer",
+    "project azorian",
+    "cia",
+    "cold war",
+    "glomar response",
+    "the american file",
+    "shorts"
+  ],
+  "categoria": "27",
+  "idioma": "en",
+  "voz": "cCYjmrGZaI86GUJ7F2Nn",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes_voz": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "_como_aprovar": "Short avulso semanal (notícia da semana + paralelo histórico), montado pelo Craudio em 22/11/2026. Ao fazer merge, o robô narra, monta e agenda para 'quando'."
+}
