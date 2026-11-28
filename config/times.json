@@ -1047,5 +1047,29 @@
    "#000000"
   ],
   "texto": "#FFFFFF"
+ },
+ "Inter Miami": {
+  "sigla": "MIA",
+  "cores": [
+   "#F7B5CD",
+   "#231F20"
+  ],
+  "texto": "#231F20"
+ },
+ "Werder Bremen": {
+  "sigla": "SVW",
+  "cores": [
+   "#1D9053",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
+ },
+ "Gladbach": {
+  "sigla": "BMG",
+  "cores": [
+   "#111111",
+   "#FFFFFF"
+  ],
+  "texto": "#FFFFFF"
  }
 }

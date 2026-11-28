@@ -1,0 +1,440 @@
+{
+ "dia": "28/11/2026",
+ "apurado_em": "2026-11-28",
+ "contas": {
+  "esportesnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "agenda-completa",
+    "quando": "2026-11-28T07:00:00-03:00",
+    "alt": "Agenda esportiva completa de sábado, 28/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "grade",
+      "pilula": "1/4",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 28/11",
+      "linhas": [
+       {
+        "hora": "07h00",
+        "esporte": "outros",
+        "competicao": "Taekwondo · Grand Prix Final",
+        "jogo": "Semifinais com brasileiros",
+        "canal": "CazéTV · sportv2",
+        "gratis": true
+       },
+       {
+        "hora": "07h00",
+        "esporte": "outros",
+        "competicao": "Vela · SailGP Abu Dhabi",
+        "jogo": "Grande Final da temporada",
+        "canal": "YouTube Band · sportv3",
+        "gratis": true
+       },
+       {
+        "hora": "07h15",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Valência",
+        "jogo": "Classificação",
+        "canal": "ESPN 4 · Disney+"
+       },
+       {
+        "hora": "08h00",
+        "esporte": "tenis",
+        "competicao": "Copa Davis · Semifinal",
+        "jogo": "Espanha x Grã-Bretanha",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "08h30",
+        "esporte": "natacao",
+        "competicao": "Brasileiro Interclubes",
+        "jogo": "Finais diretas",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h00",
+        "esporte": "rugby",
+        "competicao": "Dubai Sevens · Feminino",
+        "jogo": "Brasil x Bélgica",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "09h15",
+        "esporte": "futebol",
+        "competicao": "Campeonato Saudita",
+        "jogo": "Al Hazem x Al Nassr",
+        "canal": "GOAT · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "10h10",
+        "esporte": "rugby",
+        "competicao": "Nations Championship",
+        "jogo": "País de Gales x Japão",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h00",
+        "esporte": "automobilismo",
+        "competicao": "MotoGP · GP de Valência",
+        "jogo": "Corrida sprint",
+        "canal": "ESPN 4 · Disney+"
+       }
+      ],
+      "fonte": "Conferido em 28/11 à 1h · Antenados na TV, Olimpíada Todo Dia, WebVôlei, Grande Prêmio",
+      "cta": "Arraste →",
+      "alt": "Agenda de sábado, 28/11, parte 1 de 4: Semifinais com brasileiros às 07h00 (Taekwondo · Grand Prix Final, CazéTV · sportv2, grátis); Grande Final da temporada às 07h00 (Vela · SailGP Abu Dhabi, YouTube Band · sportv3, grátis); Classificação às 07h15 (MotoGP · GP de Valência, ESPN 4 · Disney+); Espanha x Grã-Bretanha às 08h00 (Copa Davis · Semifinal, CazéTV, grátis); Finais diretas às 08h30 (Brasileiro Interclubes, a confirmar); Brasil x Bélgica às 09h00 (Dubai Sevens · Feminino, a confirmar); Al Hazem x Al Nassr às 09h15 (Campeonato Saudita, GOAT · XSports, grátis); País de Gales x Japão às 10h10 (Nations Championship, a confirmar); Corrida sprint às 11h00 (MotoGP · GP de Valência, ESPN 4 · Disney+)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "2/4",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 28/11",
+      "linhas": [
+       {
+        "hora": "11h00",
+        "esporte": "tenis",
+        "competicao": "Challenger Florianópolis",
+        "jogo": "Igor Marcondes x F. Meligeni",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "f1",
+        "competicao": "GP do Catar",
+        "jogo": "Treino livre 3",
+        "canal": "sportv3 · Globoplay"
+       },
+       {
+        "hora": "11h30",
+        "esporte": "futebol",
+        "competicao": "Bundesliga",
+        "jogo": "Hamburgo x Bayern",
+        "canal": "SportyNet (YouTube)",
+        "gratis": true
+       },
+       {
+        "hora": "12h30",
+        "esporte": "surfe",
+        "competicao": "Surf Brasil Pro",
+        "jogo": "Etapa Guarda do Embaú",
+        "canal": "XSports",
+        "gratis": true
+       },
+       {
+        "hora": "13h15",
+        "esporte": "automobilismo",
+        "competicao": "Fórmula 2 · GP do Catar",
+        "jogo": "Corrida sprint",
+        "canal": "sportv3"
+       },
+       {
+        "hora": "13h40",
+        "esporte": "rugby",
+        "competicao": "Nations Championship",
+        "jogo": "Inglaterra x Nova Zelândia",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "automobilismo",
+        "competicao": "Porsche Cup Brasil",
+        "jogo": "Etapa de Interlagos",
+        "canal": "BandSports"
+       },
+       {
+        "hora": "14h00",
+        "esporte": "automobilismo",
+        "competicao": "NASCAR Brasil",
+        "jogo": "Etapa de Brasília",
+        "canal": "YouTube NASCAR Brasil",
+        "gratis": true
+       },
+       {
+        "hora": "14h00",
+        "esporte": "nfl",
+        "competicao": "Futebol americano universitário",
+        "jogo": "Michigan x Ohio State",
+        "canal": "a confirmar"
+       }
+      ],
+      "fonte": "Conferido em 28/11 à 1h · Antenados na TV, Olimpíada Todo Dia, WebVôlei, Grande Prêmio",
+      "cta": "Arraste →",
+      "alt": "Agenda de sábado, 28/11, parte 2 de 4: Igor Marcondes x F. Meligeni às 11h00 (Challenger Florianópolis, a confirmar); Treino livre 3 às 11h30 (GP do Catar, sportv3 · Globoplay); Hamburgo x Bayern às 11h30 (Bundesliga, SportyNet (YouTube), grátis); Etapa Guarda do Embaú às 12h30 (Surf Brasil Pro, XSports, grátis); Corrida sprint às 13h15 (Fórmula 2 · GP do Catar, sportv3); Inglaterra x Nova Zelândia às 13h40 (Nations Championship, a confirmar); Etapa de Interlagos às 14h00 (Porsche Cup Brasil, BandSports); Etapa de Brasília às 14h00 (NASCAR Brasil, YouTube NASCAR Brasil, grátis); Michigan x Ohio State às 14h00 (Futebol americano universitário, a confirmar)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "3/4",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 28/11",
+      "linhas": [
+       {
+        "hora": "14h30",
+        "esporte": "futebol",
+        "competicao": "LaLiga",
+        "jogo": "Elche x Atlético de Madrid",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "15h00",
+        "esporte": "f1",
+        "competicao": "GP do Catar",
+        "jogo": "Classificação",
+        "canal": "sportv3 · Globoplay"
+       },
+       {
+        "hora": "15h45",
+        "esporte": "outros",
+        "competicao": "Esqui alpino · Copa do Mundo",
+        "jogo": "Super-G com Lucas Pinheiro",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "16h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Montes Claros x Monte Carmelo",
+        "canal": "sportv2"
+       },
+       {
+        "hora": "16h45",
+        "esporte": "futebol",
+        "competicao": "Ligue 1",
+        "jogo": "PSG x Lorient",
+        "canal": "CazéTV · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "Libertadores · Final",
+        "jogo": "Palmeiras x Estudiantes",
+        "canal": "Globo · ge tv · ESPN · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "futebol",
+        "competicao": "LaLiga",
+        "jogo": "Real Madrid x Alavés",
+        "canal": "CazéTV",
+        "gratis": true
+       },
+       {
+        "hora": "17h00",
+        "esporte": "tenis",
+        "competicao": "Challenger San Salvador",
+        "jogo": "Semifinal com Lucas Andrade",
+        "canal": "a confirmar"
+       },
+       {
+        "hora": "18h30",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Guarulhos x Vôlei Renata",
+        "canal": "sportv2"
+       }
+      ],
+      "fonte": "Conferido em 28/11 à 1h · Antenados na TV, Olimpíada Todo Dia, WebVôlei, Grande Prêmio",
+      "cta": "Arraste →",
+      "alt": "Agenda de sábado, 28/11, parte 3 de 4: Elche x Atlético de Madrid às 14h30 (LaLiga, CazéTV, grátis); Classificação às 15h00 (GP do Catar, sportv3 · Globoplay); Super-G com Lucas Pinheiro às 15h45 (Esqui alpino · Copa do Mundo, a confirmar); Montes Claros x Monte Carmelo às 16h00 (Superliga Masculina, sportv2); PSG x Lorient às 16h45 (Ligue 1, CazéTV · XSports, grátis); Palmeiras x Estudiantes às 17h00 (Libertadores · Final, Globo · ge tv · ESPN · Disney+, grátis); Real Madrid x Alavés às 17h00 (LaLiga, CazéTV, grátis); Semifinal com Lucas Andrade às 17h00 (Challenger San Salvador, a confirmar); Guarulhos x Vôlei Renata às 18h30 (Superliga Masculina, sportv2)"
+     },
+     {
+      "tipo": "grade",
+      "pilula": "4/4",
+      "chamada": "AGENDA ESPORTIVA · HORÁRIO DE BRASÍLIA",
+      "titulo": "Sábado, 28/11",
+      "linhas": [
+       {
+        "hora": "19h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Wizards x Magic",
+        "canal": "ESPN 2"
+       },
+       {
+        "hora": "19h00",
+        "esporte": "outros",
+        "competicao": "Futsal · LNF Silver · Final",
+        "jogo": "ACEL x Vasco (ida)",
+        "canal": "YouTube LNF TV · XSports",
+        "gratis": true
+       },
+       {
+        "hora": "20h00",
+        "esporte": "lutas",
+        "competicao": "MMA · Jungle Fight 157",
+        "jogo": "Marcelo Medeiros x Agy Sardari",
+        "canal": "sportv3 · Combate"
+       },
+       {
+        "hora": "20h00",
+        "esporte": "futebol",
+        "competicao": "Série B · Playoff de acesso",
+        "jogo": "Fortaleza x Criciúma",
+        "canal": "RedeTV! · ESPN · Disney+",
+        "gratis": true
+       },
+       {
+        "hora": "20h30",
+        "esporte": "outros",
+        "competicao": "Liga Feminina de Futsal · Final",
+        "jogo": "Taboão x Cascavel (ida)",
+        "canal": "YouTube LFF TV · BandSports",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "volei",
+        "competicao": "Superliga Masculina",
+        "jogo": "Suzano x Praia Clube",
+        "canal": "ge tv",
+        "gratis": true
+       },
+       {
+        "hora": "21h00",
+        "esporte": "futebol",
+        "competicao": "Brasileirão · 37ª rodada",
+        "jogo": "Botafogo x Bahia",
+        "canal": "Premiere"
+       },
+       {
+        "hora": "22h00",
+        "esporte": "basquete",
+        "competicao": "NBA",
+        "jogo": "Bucks x Thunder",
+        "canal": "ESPN 2"
+       }
+      ],
+      "fonte": "Conferido em 28/11 à 1h · Antenados na TV, Olimpíada Todo Dia, WebVôlei, Grande Prêmio",
+      "cta": "Salve e compartilhe",
+      "alt": "Agenda de sábado, 28/11, parte 4 de 4: Wizards x Magic às 19h00 (NBA, ESPN 2); ACEL x Vasco (ida) às 19h00 (Futsal · LNF Silver · Final, YouTube LNF TV · XSports, grátis); Marcelo Medeiros x Agy Sardari às 20h00 (MMA · Jungle Fight 157, sportv3 · Combate); Fortaleza x Criciúma às 20h00 (Série B · Playoff de acesso, RedeTV! · ESPN · Disney+, grátis); Taboão x Cascavel (ida) às 20h30 (Liga Feminina de Futsal · Final, YouTube LFF TV · BandSports, grátis); Suzano x Praia Clube às 21h00 (Superliga Masculina, ge tv, grátis); Botafogo x Bahia às 21h00 (Brasileirão · 37ª rodada, Premiere); Bucks x Thunder às 22h00 (NBA, ESPN 2)"
+     }
+    ],
+    "legenda": "📺 Agenda esportiva de sábado, 28/11 (horário de Brasília)\n\n🏆 Palmeiras x Estudiantes · final da Libertadores · 17h · Globo e ge tv 🆓\n🏎️ F1 no Catar: classificação às 15h · sportv3 e Globoplay\n🎾 Espanha x Grã-Bretanha · semifinal da Copa Davis · 8h · CazéTV 🆓\n🏉 Inglaterra x Nova Zelândia · Nations Championship · 13h40\n🏐 Suzano x Praia Clube · Superliga Masculina · 21h · ge tv 🆓\n\n🆓 = transmissão grátis (15 eventos hoje)\n📌 Salve para consultar durante o dia\n📤 Mande para quem vê esporte com você\n\nQual você vai assistir? 👇\nSiga @esportesnatela para a agenda completa de todos os esportes, todo dia.\n\n#agendaesportiva #ondeassistir #libertadores #f1 #copadavis #rugby #volei #esportesnatela"
+   }
+  ],
+  "jogosnatela": [
+   {
+    "tipo": "carrossel",
+    "sufixo": "hoje",
+    "quando": "2026-11-28T07:30:00-03:00",
+    "alt": "Resultados de sexta-feira e jogos de sábado, 28/11, com horários de Brasília e onde assistir",
+    "cards": [
+     {
+      "tipo": "placar",
+      "pilula": "SEX 27/11",
+      "chamada": "RESULTADOS DE ONTEM",
+      "titulo": "Placar final",
+      "grupos": [
+       {
+        "competicao": "Brasileirão · Série A e playoff da B",
+        "jogos": [
+         {
+          "casa": "Fluminense",
+          "gc": 0,
+          "fora": "Cruzeiro",
+          "gf": 1
+         },
+         {
+          "casa": "Vila Nova",
+          "gc": 2,
+          "fora": "Atlético-GO",
+          "gf": 0,
+          "avanca": "casa",
+          "avanca_txt": "Vila Nova sobe no agregado (3 × 1)"
+         }
+        ]
+       },
+       {
+        "competicao": "Europa",
+        "jogos": [
+         {
+          "casa": "Nottingham Forest",
+          "gc": 3,
+          "fora": "Chelsea",
+          "gf": 2
+         },
+         {
+          "casa": "Werder Bremen",
+          "gc": 3,
+          "fora": "Gladbach",
+          "gf": 3
+         },
+         {
+          "casa": "Levante",
+          "gc": 1,
+          "fora": "Racing Santander",
+          "gf": 3
+         }
+        ]
+       }
+      ],
+      "destaque": "Vila Nova bate o Atlético-GO e sobe à Série A",
+      "destaque_rotulo": "DESTAQUE",
+      "fonte": "Conferido em 28/11 à 1h · Terra, ESPN, Sky Sport",
+      "cta": "Arraste →",
+      "alt": "Resultados de sexta-feira, 27/11. Brasileirão: Fluminense 0 x 1 Cruzeiro. Série B, volta do playoff de acesso: Vila Nova 2 x 0 Atlético-GO, Vila Nova sobe no agregado (3 x 1). Europa: Nottingham Forest 3 x 2 Chelsea, Werder Bremen 3 x 3 Gladbach e Levante 1 x 3 Racing Santander. Destaque: o Vila Nova venceu o Atlético-GO e está na Série A de 2027"
+     },
+     {
+      "tipo": "agenda",
+      "pilula": "SÁB 28/11",
+      "chamada": "JOGOS DE HOJE · HORÁRIO DE BRASÍLIA",
+      "titulo": "Onde assistir",
+      "itens": [
+       {
+        "data": "28/11",
+        "sub": "SÁB · 17h",
+        "titulo": "Palmeiras x Estudiantes",
+        "detalhe": "Final da Libertadores · Globo, ge tv, ESPN",
+        "destaque": true,
+        "gratis": true
+       },
+       {
+        "data": "28/11",
+        "sub": "SÁB · 11h30",
+        "titulo": "Hamburgo x Bayern",
+        "detalhe": "Bundesliga · SportyNet (YouTube)",
+        "gratis": true
+       },
+       {
+        "data": "28/11",
+        "sub": "SÁB · 16h45",
+        "titulo": "PSG x Lorient",
+        "detalhe": "Ligue 1 · CazéTV, XSports",
+        "gratis": true
+       },
+       {
+        "data": "28/11",
+        "sub": "SÁB · 17h",
+        "titulo": "Real Madrid x Alavés",
+        "detalhe": "LaLiga · CazéTV",
+        "gratis": true
+       },
+       {
+        "data": "28/11",
+        "sub": "SÁB · 20h",
+        "titulo": "Fortaleza x Criciúma",
+        "detalhe": "Série B, vaga na Série A · RedeTV!, ESPN",
+        "gratis": true
+       },
+       {
+        "data": "28/11",
+        "sub": "SÁB · 21h",
+        "titulo": "Botafogo x Bahia",
+        "detalhe": "Brasileirão · Premiere"
+       }
+      ],
+      "fonte": "Conferido em 28/11 à 1h · Antenados na TV, O Povo, Gazeta Esportiva, ESPN",
+      "cta": "Salve e compartilhe",
+      "alt": "Jogos de sábado, 28/11: jogo do dia Palmeiras x Estudiantes às 17h, final da Libertadores, grátis na Globo e no ge tv e também na ESPN; Hamburgo x Bayern às 11h30, pela Bundesliga, grátis no YouTube da SportyNet; PSG x Lorient às 16h45, pela Ligue 1, grátis na CazéTV e no XSports; Real Madrid x Alavés às 17h, por LaLiga, grátis na CazéTV; Fortaleza x Criciúma às 20h, volta do playoff da Série B que vale vaga na Série A, grátis na RedeTV! e também na ESPN; Botafogo x Bahia às 21h, pelo Brasileirão, no Premiere"
+     }
+    ],
+    "legenda": "🏆 Hoje é dia de final da Libertadores, e ontem o Vila Nova garantiu vaga na Série A!\n\n⚽ Vila Nova 2 x 0 Atlético-GO: sobe no agregado (3 x 1)\n⚽ Fluminense 0 x 1 Cruzeiro, gol de Kaio Jorge no início\n🇧🇷 Brasil 3 x 0 Costa Rica: 100% na fase de grupos do Mundial Sub-17\n😮 Nottingham Forest 3 x 2 Chelsea\n⚽ Werder Bremen 3 x 3 Gladbach, com empate nos acréscimos\n\n★ Jogo do dia: Palmeiras x Estudiantes, 17h · final da Libertadores · Globo e ge tv 🆓\n⚽ Hamburgo x Bayern, 11h30 · YouTube SportyNet 🆓\n⚽ PSG x Lorient, 16h45 · CazéTV 🆓\n⚽ Real Madrid x Alavés, 17h · CazéTV 🆓\n⚽ Fortaleza x Criciúma, 20h · última vaga na Série A · RedeTV! 🆓\n⚽ Botafogo x Bahia, 21h · Premiere\n\n🆓 = transmissão grátis\n📌 Salve para consultar durante o dia\n📤 Mande para quem assiste futebol com você\n\nQuem é campeão hoje? 👇\nSiga @jogosnatela para os jogos do dia, todo dia.\n\n#futebol #ondeassistir #libertadores #palmeiras #serieb #brasileirao #jogosnatela"
+   }
+  ]
+ }
+}
